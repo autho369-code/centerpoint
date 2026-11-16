@@ -21,20 +21,31 @@ if('IntersectionObserver' in window){
   document.querySelectorAll('.reveal,.steps').forEach(el=>io.observe(el));
 }else document.querySelectorAll('.reveal,.steps').forEach(el=>el.classList.add('in'));
 
-/* forms: validate, then open a pre-filled email to the right inbox */
-const f=document.getElementById('pform');
-if(f)f.addEventListener('submit',e=>{e.preventDefault();let ok=true;
-  [['n',v=>v.trim()],['e',v=>/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(v)]].forEach(([id,t])=>{const i=document.getElementById(id);if(!i)return;const good=!!t(i.value);i.setAttribute('aria-invalid',!good);i.parentElement.classList.toggle('bad',!good);if(!good)ok=false});
-  const note=document.getElementById('fnote');
-  if(!ok){if(note)note.textContent='Please fix the highlighted fields.';return}
-  const resale=!!f.querySelector('input[name="docs"]');
-  const to=resale?'sales@centerpointmgmt.com':'service@centerpointmgmt.com';
-  const lines=[];
-  f.querySelectorAll('input,select,textarea').forEach(i=>{
-    if(i.type==='checkbox'){if(i.checked)lines.push('Document: '+i.parentElement.textContent.trim());return}
-    const l=f.querySelector('label[for="'+i.id+'"]');if(i.value)lines.push((l?l.textContent:i.name)+': '+i.value)});
-  const subj=resale?'Resale / lender document request':'Management proposal request';
-  location.href='mailto:'+to+'?subject='+encodeURIComponent(subj)+'&body='+encodeURIComponent(lines.join('\n'));
-  if(note)note.textContent='Your email app should open with the request filled in. If it does not, email '+to+'.';
+/* forms: each form validates, then opens a pre-filled email to its own inbox (data-to) */
+const EM=/^[^@\s]+@[^@\s]+\.[^@\s]+$/;
+const check=i=>{const v=(i.value||'').trim();if(i.type==='checkbox')return !i.required||i.checked;
+  if(i.type==='email')return v?EM.test(v):!i.required;return !i.required||!!v};
+const mark=(i,good)=>{i.setAttribute('aria-invalid',!good);const fl=i.closest('.field');if(fl)fl.classList.toggle('bad',!good)};
+document.querySelectorAll('form.cp-form').forEach(f=>{
+  f.addEventListener('input',e=>{const i=e.target;if(i.closest('.field.bad')&&check(i))mark(i,true)});
+  f.addEventListener('change',e=>{const i=e.target;if(i.closest('.field.bad')&&check(i))mark(i,true)});
+  f.addEventListener('submit',e=>{e.preventDefault();let first=null;
+    f.querySelectorAll('input,select,textarea').forEach(i=>{if(i.closest('[data-group]'))return;const good=check(i);mark(i,good);if(!good&&!first)first=i});
+    const note=f.querySelector('.fnote');
+    if(first){if(note)note.textContent='Please fix the highlighted fields.';first.focus();return}
+    const lines=[];
+    f.querySelectorAll('.field').forEach(fl=>{
+      const g=fl.querySelector('[data-group]');
+      if(g){const v=[...g.querySelectorAll('input:checked')].map(x=>x.value);if(v.length)lines.push(g.dataset.group+': '+v.join(', '));return}
+      const i=fl.querySelector('input,select,textarea');if(!i)return;
+      if(i.type==='checkbox'){if(i.checked)lines.push(i.dataset.l);return}
+      const v=i.value.trim();if(!v)return;
+      const l=fl.querySelector('label[for="'+i.id+'"]');const name=l?(l.dataset.l||l.textContent):i.name;
+      lines.push(i.tagName==='TEXTAREA'?'\n'+name+':\n'+v:name+': '+v)});
+    lines.push('\nSent from '+location.href);
+    const to=f.dataset.to;
+    location.href='mailto:'+to+'?subject='+encodeURIComponent(f.dataset.subject)+'&body='+encodeURIComponent(lines.join('\n'));
+    if(note)note.textContent='Your email app should open with this filled in. Press send to deliver it. If nothing opens, email '+to+'.';
+  });
 });
 })();

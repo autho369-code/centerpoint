@@ -13,7 +13,8 @@ CenterPoint Association Management serves association boards and owners. It does
 
 ## How to engage
 
-- Request a proposal: https://www.centerpointmgmt.com/contact, phone 773.728.0652, email service@centerpointmgmt.com.
+- Request a proposal: https://www.centerpointmgmt.com/request-a-proposal, phone 773.728.0652, email service@centerpointmgmt.com.
+- Owners and residents: maintenance requests https://www.centerpointmgmt.com/resources/maintenance-request, violation reports https://www.centerpointmgmt.com/resources/report-a-violation, board nominations https://www.centerpointmgmt.com/resources/board-nomination, general contact https://www.centerpointmgmt.com/contact.
 - Pricing: from $20 per unit per month, flat monthly fee (https://www.centerpointmgmt.com/pricing).
 - Compare management proposals with the free scorecard: https://www.centerpointmgmt.com/tools/compare-management-proposals.
 - Every page is available as Markdown: send the header Accept: text/markdown.

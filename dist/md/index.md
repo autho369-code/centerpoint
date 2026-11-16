@@ -10,7 +10,7 @@ contact: 773.728.0652, service@centerpointmgmt.com
 
 Clear financials, reliable communication, and hands-on building care for the volunteer boards who run them.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [Explore Services](https://www.centerpointmgmt.com/services)
 
 **Strong Communities. Our Focus.**
@@ -42,7 +42,7 @@ A vintage courtyard building, a lakefront high-rise, and a suburban townhome HOA
 
 Ten services, one point of contact. Choose full-service management or only the financial side.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 
 ### Association management
 

@@ -65,7 +65,7 @@ This article is general education for Illinois association boards and is not leg
 
 Keep reading: [The delinquency escalation steps](https://www.centerpointmgmt.com/blog/condo-hoa-delinquency-escalation-process); [the collection policy boards must adopt by January 1, 2027](https://www.centerpointmgmt.com/blog/illinois-condo-hoa-collection-policy-january-2027).
 
-Whether you run a homeowners association or a condominium, CenterPoint can help implement the policy your counsel approves. [Request a consultation](https://www.centerpointmgmt.com/contact) to review your current collections practice.
+Whether you run a homeowners association or a condominium, CenterPoint can help implement the policy your counsel approves. [](https://www.centerpointmgmt.com/request-a-proposal) to review your current collections practice.
 
 ## Primary sources and further reading
 
@@ -73,14 +73,14 @@ Whether you run a homeowners association or a condominium, CenterPoint can help 
 - [Common Interest Community Association Act (765 ILCS 160)](https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62)
 
 ## How CenterPoint helps
-This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Financial Management](https://www.centerpointmgmt.com/services/financial-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on finance & reserves.
@@ -92,4 +92,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

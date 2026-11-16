@@ -13,7 +13,7 @@ Morton Grove
 
 ZIP codes served **60053**
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## Our services in Morton Grove.
@@ -44,7 +44,7 @@ Yes. CenterPoint Association Management provides condominium, HOA, and townhome 
 Management starts at $20 per unit per month, quoted as a flat monthly fee based on your association's size, building systems, financial complexity, and service scope. It is never a percentage of your budget. See [pricing](https://www.centerpointmgmt.com/pricing) for what drives the fee.
 
 ### How does a Morton Grove association switch to CenterPoint?
-Plan on a managed 30 to 60 day transition after your board gives notice under its current contract. We retrieve records from the outgoing manager, set up banking and vendor relationships, notify owners, and open board and resident access. Call [773.728.0652](tel:+17737280652) or [request a proposal](https://www.centerpointmgmt.com/contact).
+Plan on a managed 30 to 60 day transition after your board gives notice under its current contract. We retrieve records from the outgoing manager, set up banking and vendor relationships, notify owners, and open board and resident access. Call [773.728.0652](tel:+17737280652) or [](https://www.centerpointmgmt.com/request-a-proposal).
 
 ### How should a Morton Grove board compare management companies?
 Compare at least three firms on the same terms: an active Illinois community association management firm license, a licensed manager, a flat monthly fee in writing, after-hours emergency coverage, and a written transition plan. Our free [proposal scorecard](https://www.centerpointmgmt.com/tools/compare-management-proposals) helps boards score proposals side by side.
@@ -60,4 +60,4 @@ Part of our [North Shore & Suburbs](https://www.centerpointmgmt.com/property-man
 ## Management for your Morton Grove association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

@@ -37,14 +37,14 @@ Keep reading: [How to adopt rules that hold up](https://www.centerpointmgmt.com/
 Effective enforcement is calm, consistent, and documented. That means a clearly written set of rules that every owner has received, a defined reporting channel, objective documentation of each violation, and a graduated process, notice, opportunity to be heard, then fines, applied identically to everyone. CenterPoint Association Management's [violation management](https://www.centerpointmgmt.com/services/violation-management) gives boards that structure, and residents can file a formal report through the form on our [owner resources](https://www.centerpointmgmt.com/resources) page. To set up a fair, defensible process, [contact our team](https://www.centerpointmgmt.com/contact).
 
 ## How CenterPoint helps
-This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Board Support & Governance](https://www.centerpointmgmt.com/services/board-support)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on governance & illinois law.
@@ -56,4 +56,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

@@ -61,7 +61,7 @@ If your board is also reviewing its management company, the free [board toolkit]
 Related reading: [Board elections, proxies and secret ballots](https://www.centerpointmgmt.com/blog/illinois-condo-board-elections-proxies-ballots); [annual meeting notice, quorum and minutes](https://www.centerpointmgmt.com/blog/illinois-association-annual-meeting-guide).
 
 ## Onboarding Support for New Boards
-CenterPoint Association Management provides orientation packets and ongoing [board support](https://www.centerpointmgmt.com/services/board-support) for condominium and HOA boards in [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore. [Schedule a consultation](https://www.centerpointmgmt.com/contact) to get your new directors up to speed.
+CenterPoint Association Management provides orientation packets and ongoing [board support](https://www.centerpointmgmt.com/services/board-support) for condominium and HOA boards in [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore. [](https://www.centerpointmgmt.com/request-a-proposal) to get your new directors up to speed.
 
 ## Primary sources and further reading
 
@@ -70,14 +70,14 @@ CenterPoint Association Management provides orientation packets and ongoing [boa
 - [IDFPR Community Association Manager Licensing](https://idfpr.illinois.gov/profs/cam.html)
 
 ## How CenterPoint helps
-This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Board Support & Governance](https://www.centerpointmgmt.com/services/board-support)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on governance & illinois law.
@@ -89,4 +89,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

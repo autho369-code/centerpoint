@@ -9,6 +9,11 @@ contact: 773.728.0652, service@centerpointmgmt.com
 # Owner & Resident Resources.
 Everything you need to manage your account, submit forms, and stay connected with your community, all in one place.
 
+## Submit a form.
+Pick the form for your request. Each one goes straight to the CenterPoint team that handles it.
+
+[Request a proposal Boards comparing management for their association](https://www.centerpointmgmt.com/request-a-proposal)[Maintenance request Report a repair or building issue](https://www.centerpointmgmt.com/resources/maintenance-request)[Report a violation Tell management about a rule issue](https://www.centerpointmgmt.com/resources/report-a-violation)[Board nomination Nominate yourself or a neighbor](https://www.centerpointmgmt.com/resources/board-nomination)[Share feedback Tell us how we are doing](https://www.centerpointmgmt.com/resources/share-feedback)[Resale and lender documents 22.1 packets, paid letters, questionnaires](https://www.centerpointmgmt.com/services/resale-disclosures)
+
 ## Paying your assessments
 Owners can pay through their bank's online bill pay, which is usually free. Make the payment to your association's name and include your building address and unit number in the memo. Mail checks to CenterPoint Association Management, 5107 N Western Ave, Suite 1S, Chicago, IL 60625. For online payment options or your account balance, email [service@centerpointmgmt.com](mailto:service@centerpointmgmt.com) or call [773.728.0652](tel:+17737280652).
 
@@ -41,11 +46,6 @@ Your bank will mail the payment directly to CenterPoint Association Management. 
 
 Credit card or online payment processing fees, if any, are charged directly by the payment processor and are not retained by CenterPoint Association Management.
 
-## Submit a form.
-Select a form below to get started. All submissions are sent directly to our management team.
-
-Select a form above to get started, or use the quick links to access the owner portal.
-
 ## Frequently asked questions.
 Answers to common owner and resident questions.
 
@@ -70,4 +70,4 @@ Our management team is here to help. Reach out and we’ll get you the answers o
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

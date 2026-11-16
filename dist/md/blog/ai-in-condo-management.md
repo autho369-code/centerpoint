@@ -36,14 +36,14 @@ Related reading: [The technology behind our management](https://www.centerpointm
 Treat AI as a capable assistant under firm human oversight. Use it to speed routine work, but keep legal, financial, and enforcement decisions with people and counsel. Vet any vendor on data privacy and security before adopting their tools. A professional management partner that adopts technology thoughtfully, and stays accountable for the results, gives boards the best of both worlds. To talk about modern, well-supported management for your association, [contact CenterPoint Association Management](https://www.centerpointmgmt.com/contact).
 
 ## How CenterPoint helps
-This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Condominium Management](https://www.centerpointmgmt.com/services/condominium-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on choosing management.
@@ -55,4 +55,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

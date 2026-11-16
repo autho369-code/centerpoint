@@ -64,7 +64,7 @@ The governing framework drives meeting notice practices, records response proced
 This article is educational information for Illinois association boards and is not legal advice. Your association's counsel should interpret your specific declaration, bylaws, and the current statutes before you act.
 
 ## Talk Through Your Documents With Us
-CenterPoint Association Management supports boards across [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore with condominium management, [HOA management](https://www.centerpointmgmt.com/services/hoa-management), and day-to-day board support. If your board is unsure which framework applies or wants a second set of eyes on its documents, [schedule a consultation](https://www.centerpointmgmt.com/contact).
+CenterPoint Association Management supports boards across [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore with condominium management, [HOA management](https://www.centerpointmgmt.com/services/hoa-management), and day-to-day board support. If your board is unsure which framework applies or wants a second set of eyes on its documents, [](https://www.centerpointmgmt.com/request-a-proposal).
 
 ## Primary sources and further reading
 
@@ -73,14 +73,14 @@ CenterPoint Association Management supports boards across [Chicago](https://www.
 - [Illinois General Not For Profit Corporation Act of 1986 (805 ILCS 105)](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&ChapterID=65)
 
 ## How CenterPoint helps
-This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Board Support & Governance](https://www.centerpointmgmt.com/services/board-support)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on governance & illinois law.
@@ -92,4 +92,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

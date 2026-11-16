@@ -32,14 +32,14 @@ Also useful: [Who pays for a condo water leak](https://www.centerpointmgmt.com/b
 Boards avoid most entry disputes by being disciplined: adopt a written access policy, always give notice in writing, document every entry and its purpose, accompany any contractors, and communicate clearly with the owner before and after. Because access rules are governed by your specific declaration and the Act, boards should have the association attorney confirm the procedure. For coordinated, well-documented building access and repairs, CenterPoint Association Management's [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) team can help, [contact us](https://www.centerpointmgmt.com/contact) to learn more.
 
 ## How CenterPoint helps
-This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Board Support & Governance](https://www.centerpointmgmt.com/services/board-support)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on governance & illinois law.
@@ -51,4 +51,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

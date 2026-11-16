@@ -91,7 +91,7 @@ Owning a condominium in Illinois comes with a genuine bill of rights. You elect 
 
 Rights come paired with quieter obligations: pay assessments on time (the association’s ability to keep the lights on depends on it), follow the rules you co-authored through your elected board, and keep your contact information current so legal notices reach you.
 
-The strongest voice in any association is a seat at the table. Boards are made entirely of owners who volunteered. If you have ever left a meeting thinking I could do this better , [stand for election](https://www.centerpointmgmt.com/resources). Buildings are run by the people who show up.
+The strongest voice in any association is a seat at the table. Boards are made entirely of owners who volunteered. If you have ever left a meeting thinking I could do this better , [stand for election](https://www.centerpointmgmt.com/resources/board-nomination). Buildings are run by the people who show up.
 
 Attend board meetings
 
@@ -191,7 +191,7 @@ Portal request
 
 Everything else, dripping faucets, burnt-out hallway lights, amenity issues. Photos help; they cut diagnosis time in half.
 
-Residents of CenterPoint buildings can also [report a violation](https://www.centerpointmgmt.com/resources) or reach their manager through the [resource center](https://www.centerpointmgmt.com/resources).
+Residents of CenterPoint buildings can also [report a violation](https://www.centerpointmgmt.com/resources/report-a-violation) or reach their manager through the [resource center](https://www.centerpointmgmt.com/resources).
 
 ## What owners ask us first.
 
@@ -231,4 +231,4 @@ Everything in this guide describes how a CenterPoint-managed building already ru
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

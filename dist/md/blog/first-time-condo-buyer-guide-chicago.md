@@ -33,7 +33,7 @@ Three questions belong in email, where the answers are durable: Are any special 
 ## After the Closing
 Set up the resident portal and autopay in week one, match your HO-6 policy to the master policy's boundary and deductible, download the governing documents while they're fresh, and attend one board meeting in your first quarter. Then read [The Owner's Companion](https://www.centerpointmgmt.com/condo-living), our eight-chapter guide to the ownership life you just began: what your assessment funds, [who fixes what](https://www.centerpointmgmt.com/blog/condo-repairs-owner-vs-association-illinois), your rights under Illinois law, and the neighborly arts that make a shared building feel like home.
 
-And if the building you fell in love with turns out to have a board that deserves better management, that conversation is what we do. [Request a proposal](https://www.centerpointmgmt.com/contact) for your new association.
+And if the building you fell in love with turns out to have a board that deserves better management, that conversation is what we do. [](https://www.centerpointmgmt.com/request-a-proposal) for your new association.
 
 To see what good association management looks like, visit our [Chicago condominium association management](https://www.centerpointmgmt.com/property-management-chicago) page.
 
@@ -45,14 +45,14 @@ Related reading: [The Illinois 22.1 disclosure guide](https://www.centerpointmgm
 - [Community Associations Institute, Homeowner Resources](https://www.caionline.org/)
 
 ## How CenterPoint helps
-This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Financial Management](https://www.centerpointmgmt.com/services/financial-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on finance & reserves.
@@ -64,4 +64,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

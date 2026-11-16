@@ -55,7 +55,7 @@ This article is educational information for association boards, not legal, engin
 
 Read next: [Vendor scope, insurance and controls](https://www.centerpointmgmt.com/blog/condo-hoa-vendor-rfp-checklist); [association emergency planning](https://www.centerpointmgmt.com/blog/condo-hoa-emergency-planning-checklist).
 
-[Request a consultation](https://www.centerpointmgmt.com/contact) to review your association's capital plan.
+[](https://www.centerpointmgmt.com/request-a-proposal) to review your association's capital plan.
 
 ## Primary sources and further reading
 
@@ -63,14 +63,14 @@ Read next: [Vendor scope, insurance and controls](https://www.centerpointmgmt.co
 - [Common Interest Community Association Act (765 ILCS 160)](https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62)
 
 ## How CenterPoint helps
-This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Maintenance Coordination](https://www.centerpointmgmt.com/services/maintenance-coordination)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on building operations.
@@ -82,4 +82,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

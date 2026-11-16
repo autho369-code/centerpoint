@@ -96,19 +96,19 @@ The objective is not a flawless first week. It is a controlled transition that p
 Related reading: [Comparing management proposals](https://www.centerpointmgmt.com/blog/score-condo-hoa-management-proposals); [verifying a manager’s Illinois license](https://www.centerpointmgmt.com/blog/verify-illinois-community-association-manager-license).
 
 ## Considering a Management Change in Chicago?
-CenterPoint Association Management provides condominium, HOA, and townhome association management across Chicago and the North Shore. We use a managed 30-60 day handoff to retrieve records, coordinate banking and vendors, brief stakeholders, and bring board and resident systems live. [Request a private proposal consultation](https://www.centerpointmgmt.com/contact) to compare your current operating model with a transition plan built for your association.
+CenterPoint Association Management provides condominium, HOA, and townhome association management across Chicago and the North Shore. We use a managed 30-60 day handoff to retrieve records, coordinate banking and vendors, brief stakeholders, and bring board and resident systems live. [](https://www.centerpointmgmt.com/request-a-proposal) to compare your current operating model with a transition plan built for your association.
 
 For how we work across the city, see [Chicago condo association management](https://www.centerpointmgmt.com/property-management-chicago).
 
 ## How CenterPoint helps
-This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Condominium Management](https://www.centerpointmgmt.com/services/condominium-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on choosing management.
@@ -120,4 +120,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

@@ -78,14 +78,14 @@ For buildings in the city, see our [Chicago condo management](https://www.center
 - [Illinois Condominium Property Act, Section 18.4, Powers and Duties of the Board (765 ILCS 605/18.4)](https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.4.html)
 
 ## How CenterPoint helps
-This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Maintenance Coordination](https://www.centerpointmgmt.com/services/maintenance-coordination)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on building operations.
@@ -97,4 +97,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

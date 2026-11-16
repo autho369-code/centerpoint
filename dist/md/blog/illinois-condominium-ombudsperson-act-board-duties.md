@@ -82,14 +82,14 @@ If your board is unsure what applies to your community today, that uncertainty i
 - [IDFPR Community Association Manager Licensing](https://idfpr.illinois.gov/profs/cam.html)
 
 ## How CenterPoint helps
-This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law) series. See how we handle it day to day through our [board support & governance](https://www.centerpointmgmt.com/services/board-support) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Board Support & Governance](https://www.centerpointmgmt.com/services/board-support)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on governance & illinois law.
@@ -101,4 +101,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

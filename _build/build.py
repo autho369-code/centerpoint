@@ -48,7 +48,7 @@ BANNED = [
 BANNED_RE = re.compile('|'.join(BANNED))
 
 LINK_MAP = {
-    '/about/mirsad-cerimovic': '/about', '/reviews': '/contact', '/rss.xml': '/rss.xml',
+    '/about/mirsad-cerimovic': '/about', '/reviews': '/resources/share-feedback', '/rss.xml': '/rss.xml',
 }
 
 def fix_href(h):
@@ -63,7 +63,8 @@ def fix_href(h):
     if h.startswith('/contact'):
         return '/contact'
     if h.startswith('/resources?'):
-        return '/resources'
+        m = re.search(r'form=(violation|nomination|maintenance|feedback)', h)
+        return {'violation': '/resources/report-a-violation', 'nomination': '/resources/board-nomination', 'maintenance': '/resources/maintenance-request', 'feedback': '/resources/share-feedback'}[m.group(1)] if m else '/resources'
     if h == '':
         return '/'
     return LINK_MAP.get(h, h)
@@ -177,9 +178,10 @@ MENUS = [
         ('Make a Payment', 'How to pay your assessments', '/resources#payments'),
         ("The Owner's Companion", 'A practical guide to association living', '/condo-living'),
         ('Resource Center', 'Forms, documents, and answers', '/resources'),
-        ('Report a Violation', 'Tell management about a rule issue', '/contact'),
-        ('Board Nomination', 'Nominate yourself or a neighbor', '/contact'),
-        ('Share Feedback', 'Tell us how we are doing', '/contact'),
+        ('Maintenance Request', 'Report a repair or building issue', '/resources/maintenance-request'),
+        ('Report a Violation', 'Tell management about a rule issue', '/resources/report-a-violation'),
+        ('Board Nomination', 'Nominate yourself or a neighbor', '/resources/board-nomination'),
+        ('Share Feedback', 'Tell us how we are doing', '/resources/share-feedback'),
     ]),
     ('Agents & Lenders', None, '/services/resale-disclosures'),
     ('Service Areas', False, [
@@ -211,13 +213,13 @@ def nav_html():
     <a class="brand" href="/" aria-label="{NAME} home"><img src="/assets/logo-wordmark.png" alt="{NAME}" width="145" height="30"></a>
     <div class="links">{''.join(d)}</div>
     <a class="tel" href="tel:{TEL}"><i class="ph-light ph-phone"></i><span>{PHONE}</span></a>
-    <a class="btn btn-navy" href="/contact">Request a Proposal {knob}</a>
+    <a class="btn btn-navy" href="/request-a-proposal">Request a Proposal {knob}</a>
     <button class="burger" aria-label="Open menu" aria-expanded="false" aria-controls="overlay"><span></span><span></span></button>
   </nav>
 </div>
 <div class="overlay" id="overlay">
   <div class="m-list">{''.join(m)}</div>
-  <a class="btn btn-navy" href="/contact">Request a Proposal {knob}</a>
+  <a class="btn btn-navy" href="/request-a-proposal">Request a Proposal {knob}</a>
 </div>'''
 
 def footer_html():
@@ -285,6 +287,7 @@ PAGES = {}
 
 def page(path, title, desc, body, crumbs=None, ld=None, og_image='/assets/hero-tower.webp', og_type='website', extra_head=''):
     crumbs = crumbs or [('Home', '/')]
+    body = re.sub(r'<a ([^>]*?)href="/contact"([^>]*)>((?:(?!</a>).)*?(?:[Pp]roposal|[Cc]onsultation|switch)(?:(?!</a>).)*?)</a>', r'<a href="/request-a-proposal"></a>', body, flags=re.S)
     graph = [ORG, WEBSITE, {'@type': 'WebPage', '@id': SITE + path + '#webpage', 'url': SITE + path, 'name': title, 'description': desc,
                             'isPartOf': {'@id': SITE + '/#website'}, 'about': {'@id': SITE + '/#organization'}, 'inLanguage': 'en-US', 'dateModified': TODAY}]
     if len(crumbs) > 1:
@@ -347,7 +350,7 @@ KNOB = '<span class="knob"><i class="ph-light ph-arrow-up-right"></i></span>'
 def cta_band(title='Tell us about your association.', text_='Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.'):
     return f'''<section class="cta-band"><div class="wrap cta-grid">
   <div><h2>{title}</h2><p>{text_}</p></div>
-  <div class="cta-actions"><a class="btn btn-gold" href="/contact">Request a Proposal {KNOB}</a><a class="cta-tel" href="tel:{TEL}"><i class="ph-light ph-phone"></i>{PHONE}</a></div>
+  <div class="cta-actions"><a class="btn btn-gold" href="/request-a-proposal">Request a Proposal {KNOB}</a><a class="cta-tel" href="tel:{TEL}"><i class="ph-light ph-phone"></i>{PHONE}</a></div>
 </div></section>'''
 
 def page_hero(h1, lead='', crumbs=None, side=''):
@@ -571,7 +574,7 @@ for a in ARTICLES:
       <p class="aside-k">This guide supports</p>
       <a class="aside-link" href="{T[3]}">{esc(T[4])} <i class="ph-light ph-arrow-up-right"></i></a>
       <p>Questions about your building? Our team answers board questions every week.</p>
-      <a class="btn btn-navy" href="/contact">Request a Proposal {KNOB}</a>
+      <a class="btn btn-navy" href="/request-a-proposal">Request a Proposal {KNOB}</a>
       <p class="aside-tel"><a href="tel:{TEL}">{PHONE}</a></p>
     </div></div></aside>'''
     body = f'''<article class="art">
@@ -670,6 +673,20 @@ for s in SERVICES:
 # resale disclosures (agents & lenders) uses the designed page body
 resale = open(os.path.join(HERE, 'resale_main.html'), encoding='utf-8').read()
 resale = resale.replace('href="index.html#', 'href="/#').replace('<section class="al-hero">', '<section class="al-hero"><div class="wrap">' + crumbs_html([('Home', '/'), ('Services', '/services'), ('Resale Disclosures', '/services/resale-disclosures')]) + '</div>', 1)
+from forms import field as _f, form as _form
+_fid = 'resale-form'
+resale = re.sub(r'<form class="bezel reveal" novalidate id="pform">.*?</form>', lambda m: _form(_fid, SALES, 'Resale / lender document request', [
+    _f(_fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+    _f(_fid, 'select', 'role', 'Your role', opts=['Listing agent', "Buyer's agent", 'Attorney', 'Lender', 'Title company', 'Selling owner']),
+    _f(_fid, 'email', 'email', 'Email', True, auto='email'),
+    _f(_fid, 'tel', 'phone', 'Phone', auto='tel'),
+    _f(_fid, 'text', 'address', 'Property address and unit', True, full=True, err='Please enter the property address and unit.'),
+    _f(_fid, 'text', 'association', 'Association name', full=True),
+    _f(_fid, 'date', 'closing', 'Closing or underwriting date'),
+    _f(_fid, 'text', 'deliver', 'Deliver package to', ph='Name or email'),
+    _f(_fid, 'checks', 'docs', 'Documents needed', opts=['22.1 packet', 'Paid assessment letter', 'Lender questionnaire', 'Insurance certificate', 'Governing documents', 'Fannie Mae / Freddie Mac']),
+    _f(_fid, 'textarea', 'message', 'Notes'),
+], 'Send Request', 'Your email app opens with this request addressed to ' + SALES + '.'), resale, count=1, flags=re.S)
 rfaq = [(text(q), a) for q, a in re.findall(r'<summary>(.*?)<span class="knob">.*?</summary><p>(.*?)</p>', resale, re.S)]
 page('/services/resale-disclosures', 'Resale Disclosures, 22.1 Packets & Lender Requests in Chicago',
      'Section 22.1 packets, paid assessment letters, lender questionnaires, and insurance certificates for CenterPoint associations. Email ' + SALES + '.',
@@ -772,7 +789,7 @@ def hood_page(h):
     side = f'''<div class="hero-side bezel"><div class="core">
       <p class="aside-k">{esc(full)}</p>
       {f'<p class="zips">ZIP codes served<br><strong>{", ".join(zips)}</strong></p>' if zips else ''}
-      <a class="btn btn-navy" href="/contact">Request a Proposal {KNOB}</a>
+      <a class="btn btn-navy" href="/request-a-proposal">Request a Proposal {KNOB}</a>
       <p class="aside-tel"><a href="tel:{TEL}">{PHONE}</a></p>
     </div></div>'''
     faq_html = ''.join(f'<details><summary>{q}<span class="knob"><i class="ph-light ph-plus"></i></span></summary><div class="ans">{a}</div></details>' for q, a in faqs)
@@ -849,9 +866,6 @@ generic('board-toolkit', '/board-toolkit', 'Board Toolkit', title='Board Toolkit
         desc='A free, printable toolkit for Illinois condo and HOA boards: a management RFP outline, interview questions, and a transition checklist.')
 generic('condo-living', '/condo-living', "Owner's Companion", title="The Owner's Companion: A Guide to Condo & HOA Living",
         desc='A practical guide for Chicago-area condo, HOA, and townhome owners: governing documents, assessments, repairs, insurance, and your rights.')
-generic('resources', '/resources', 'Resource Center', title='Resource Center for Owners & Boards',
-        desc='Forms, answers, and how-to information for owners and boards in associations managed by CenterPoint: payments, requests, documents, and contacts.',
-        extra=f'''<section class="prose-sec" id="payments"><div class="wrap narrow"><h2>Paying your assessments</h2><p>Owners can pay through their bank's online bill pay, which is usually free. Make the payment to your association's name and include your building address and unit number in the memo. Mail checks to {NAME}, {STREET}, {CITY}, {REGION} {ZIP}. For online payment options or your account balance, email <a href="mailto:{EMAIL}">{EMAIL}</a> or call <a href="tel:{TEL}">{PHONE}</a>.</p></div></section>''')
 crumbs = [('Home', '/'), ('Privacy Policy', '/privacy-policy')]
 page('/privacy-policy', 'Privacy Policy', f'How {NAME} handles information you share through centerpointmgmt.com, by email, or by phone.',
      page_hero('Privacy <span class="serif">policy.</span>', f'Effective {fmt_date(TODAY)}.', crumbs) + f"""<section class="prose-sec"><div class="wrap narrow">
@@ -893,21 +907,201 @@ page('/about', 'About CenterPoint Association Management',
 <p>{STREET}, {CITY}, {REGION} {ZIP}<br><a href="tel:{TEL}">{PHONE}</a> &nbsp; <a href="mailto:{EMAIL}">{EMAIL}</a><br>Monday to Friday, 9:00 AM to 5:00 PM</p>
 </div></section>''' + cta_band(), crumbs, [{'@type': 'AboutPage', 'name': 'About ' + NAME, 'url': SITE + '/about', 'mainEntity': {'@id': SITE + '/#organization'}}])
 
-# contact
-crumbs = [('Home', '/'), ('Contact', '/contact')]
-home_main = open(os.path.join(HERE, 'home_main.html'), encoding='utf-8').read()
-proposal = re.search(r'<section class="block proposal" id="proposal">.*?</section>', home_main, re.S).group(0)
-proposal = proposal.replace('<form class="bezel reveal" novalidate id="pform">', '<form class="bezel reveal" novalidate id="pform" action="/api/contact" method="post">')
-page('/contact', 'Contact CenterPoint: Request a Management Proposal',
-     f'Request a condo or HOA management proposal from CenterPoint. Call {PHONE}, email {EMAIL}, or visit our office on N Western Ave, Chicago.',
-     page_hero('Request a <span class="serif">proposal.</span>', 'Tell us about your association. We reply within one business day.', crumbs) + proposal.replace('class="block proposal"', 'class="block proposal" style="margin-top:0"')
+# ---------------------------------------------------------------- forms: one purpose per form
+from forms import field, form, form_section
+
+CONTACT_LI = [('ph-phone', f'<a href="tel:{TEL}">{PHONE}</a>', 'Monday to Friday, 9:00 AM to 5:00 PM'),
+              ('ph-envelope-simple', f'<a href="mailto:{EMAIL}">{EMAIL}</a>', 'Replies within one business day'),
+              ('ph-map-pin-line', STREET, f'{CITY}, {REGION} {ZIP}')]
+EMERGENCY = f'<div class="notice"><i class="ph-light ph-warning-circle"></i><p><strong>Emergency?</strong> Do not use this form. For flooding, fire, a gas smell, or an elevator entrapment, call <a href="tel:{TEL}">{PHONE}</a>. If anyone is in danger, call 911 first.</p></div>'
+ASSOC_TYPES = ['Condominium', 'HOA', 'Townhome association', 'Not sure']
+
+def proposal_form(fid):
+    return form(fid, EMAIL, 'Management proposal request', [
+        field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+        field(fid, 'select', 'role', 'Board role', opts=['Board president', 'Treasurer', 'Secretary', 'Board member', 'Owner', 'Developer or declarant']),
+        field(fid, 'email', 'email', 'Email', True, auto='email'),
+        field(fid, 'tel', 'phone', 'Phone', auto='tel'),
+        field(fid, 'text', 'association', 'Association name', True, err='Please enter the association name.'),
+        field(fid, 'text', 'units', 'Number of units', inputmode='numeric'),
+        field(fid, 'select', 'type', 'Association type', opts=ASSOC_TYPES),
+        field(fid, 'select', 'current', 'Current management', opts=['Another management company', 'Self-managed', 'Newly formed association']),
+        field(fid, 'text', 'location', 'Building address or neighborhood', full=True),
+        field(fid, 'textarea', 'message', 'What would you like help with?'),
+    ], 'Request a Proposal', 'Your email app opens with these details. We reply within one business day.')
+
+PROPOSAL_SECTION = form_section('Tell us about your association.', 'Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.', CONTACT_LI, proposal_form('proposal-form'), 'proposal')
+
+# request a proposal
+crumbs = [('Home', '/'), ('Request a Proposal', '/request-a-proposal')]
+page('/request-a-proposal', 'Request a Condo or HOA Management Proposal in Chicago',
+     f'Request a condo, HOA, or townhome management proposal from CenterPoint. A flat monthly fee, a written scope, and a reply within one business day.',
+     page_hero('Request a <span class="serif">proposal.</span>', 'For boards and developers comparing management for a Chicago-area condominium, HOA, or townhome association. Tell us about your community and we reply within one business day.', crumbs)
+     + PROPOSAL_SECTION.replace('class="block proposal"', 'class="block proposal" style="margin-top:0"')
      + '<section class="block"><div class="wrap"><h2>What happens next.</h2><div class="steps in"><div class="line"><i></i></div>'
      + '<div class="step"><div class="dot"><i class="ph-light ph-envelope-simple"></i></div><h3>We reply</h3><p>Within one business day, to confirm details and set a time to talk.</p></div>'
      + '<div class="step"><div class="dot"><i class="ph-light ph-magnifying-glass"></i></div><h3>We review</h3><p>We meet your board and review the declaration, budget, and current contracts.</p></div>'
      + '<div class="step"><div class="dot"><i class="ph-light ph-file-text"></i></div><h3>We propose</h3><p>You receive a written scope and a flat monthly fee for your property.</p></div>'
      + '<div class="step"><div class="dot"><i class="ph-light ph-check-circle"></i></div><h3>You decide</h3><p>No obligation. Compare us with our free <a href="/tools/compare-management-proposals">proposal scorecard</a>.</p></div>'
-     + '</div></div></section>',
+     + '</div></div></section>'
+     + faq_block('Before you request a proposal.', [
+         ('What should we have ready?', '<p>The number of units, your current budget, the declaration and bylaws, and your current management agreement if you have one. None of it is required to start the conversation; it helps us quote accurately.</p>'),
+         ('How is the fee set?', '<p>A flat monthly fee based on the size of the association and the scope of service, starting at $20 per unit per month. It is never a percentage of your budget. See <a href="/pricing">pricing</a>.</p>'),
+         ('How long does a switch take?', '<p>Most transitions run 30 to 60 days after notice to your current manager. See <a href="/blog/switch-condo-management-companies-chicago">how to switch management companies</a>.</p>'),
+     ]),
+     crumbs, [{'@type': 'ContactPage', 'name': 'Request a management proposal', 'url': SITE + '/request-a-proposal'}])
+
+# general contact
+CHOOSER = [
+    ('/request-a-proposal', 'ph-buildings', 'Request a proposal', 'Boards comparing management for their association'),
+    ('/resources/maintenance-request', 'ph-wrench', 'Maintenance request', 'Report a repair or building issue'),
+    ('/resources/report-a-violation', 'ph-flag', 'Report a violation', 'Tell management about a rule issue'),
+    ('/resources/board-nomination', 'ph-user-plus', 'Board nomination', 'Nominate yourself or a neighbor'),
+    ('/resources/share-feedback', 'ph-chat-circle-text', 'Share feedback', 'Tell us how we are doing'),
+    ('/services/resale-disclosures', 'ph-file-text', 'Resale and lender documents', '22.1 packets, paid letters, questionnaires'),
+    ('/resources#payments', 'ph-credit-card', 'Pay assessments', 'How to pay your association'),
+]
+def chooser(skip=''):
+    return '<div class="chooser">' + ''.join(f'<a class="choice" href="{h}"><i class="ph-light {ic}"></i><span><strong>{t}</strong><small>{s}</small></span><i class="ph-light ph-arrow-up-right go"></i></a>' for h, ic, t, s in CHOOSER if h != skip) + '</div>'
+
+fid = 'contact-form'
+contact_form = form(fid, EMAIL, 'Website message', [
+    field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+    field(fid, 'email', 'email', 'Email', True, auto='email'),
+    field(fid, 'tel', 'phone', 'Phone', auto='tel'),
+    field(fid, 'select', 'who', 'I am a', opts=['Board member', 'Owner', 'Resident or tenant', 'Real estate agent, attorney, or lender', 'Vendor or contractor', 'Other']),
+    field(fid, 'text', 'association', 'Association or building address', full=True),
+    field(fid, 'text', 'topic', 'Subject', True, full=True, err='Please add a short subject.'),
+    field(fid, 'textarea', 'message', 'Message', True, err='Please write your message.'),
+], 'Send Message', 'Your email app opens with this message addressed to our office.')
+crumbs = [('Home', '/'), ('Contact', '/contact')]
+page('/contact', 'Contact CenterPoint Association Management',
+     f'Contact CenterPoint Association Management in Chicago. Call {PHONE}, email {EMAIL}, or choose the right form for proposals, repairs, violations, and more.',
+     page_hero('Contact <span class="serif">CenterPoint.</span>', f'Call <a href="tel:{TEL}">{PHONE}</a>, email <a href="mailto:{EMAIL}">{EMAIL}</a>, or visit {STREET}, {CITY}. Office hours are Monday to Friday, 9:00 AM to 5:00 PM.', crumbs)
+     + f'<section class="block" style="padding-top:8px"><div class="wrap"><h2>Choose the right form.</h2><p class="sub">Each request goes to the people who handle it. If none of these fit, send a general message below.</p>{chooser()}</div></section>'
+     + form_section('Send a general message.', 'Questions, records, account help, or anything that does not fit a form above. We reply within one business day.', CONTACT_LI, contact_form, 'message')
+     + f'<section class="block"><div class="wrap narrow">{EMERGENCY}</div></section>',
      crumbs, [{'@type': 'ContactPage', 'name': 'Contact ' + NAME, 'url': SITE + '/contact'}])
+
+# resident forms
+def resident_page(slug, crumb, title, desc, h1, lead, about_html, sec_h2, sec_intro, frm, faqs, emergency=True):
+    path = '/resources/' + slug
+    cr = [('Home', '/'), ('Resource Center', '/resources'), (crumb, path)]
+    page(path, title, desc,
+         page_hero(h1, lead, cr)
+         + (f'<section class="block" style="padding:0 0 40px"><div class="wrap narrow">{EMERGENCY}</div></section>' if emergency else '')
+         + form_section(sec_h2, sec_intro, CONTACT_LI, frm).replace('class="block proposal"', 'class="block proposal" style="margin-top:0"')
+         + f'<section class="prose-sec"><div class="wrap narrow">{about_html}</div></section>'
+         + faq_block('Common questions.', faqs)
+         + f'<section class="block"><div class="wrap"><h2>Other resident forms.</h2>{chooser(path)}</div></section>',
+         cr, [faq_ld(faqs, path)])
+
+fid = 'violation-form'
+resident_page('report-a-violation', 'Report a Violation', 'Report a Rule Violation to Your Association',
+    'Report a condo or HOA rule violation to CenterPoint: noise, pets, parking, common-area damage, unauthorized alterations, and more. Reviewed under your rules.',
+    'Report a <span class="serif">violation.</span>',
+    'Tell management about a rule issue in your building or community. We log every report and review it against your association\'s declaration and rules.',
+    '<h2>What happens after you report.</h2>'
+    '<p>Your report is logged with the date, the location, and the rule involved. Management reviews it against the declaration, bylaws, and rules your board has adopted, and may ask you for more detail or photos. If the issue is a repair problem rather than a conduct problem, we route it to maintenance instead, because a work order usually resolves it faster than a notice.</p>'
+    '<p>Enforcement decisions belong to your board, following the procedure in your governing documents. Under Illinois law an owner must receive notice and an opportunity to be heard before the board imposes a fine. Because of that process, we cannot always share the outcome of a specific report with the person who filed it.</p>'
+    '<p>Read more about <a href="/services/violation-management">how we manage violations</a> and the <a href="/blog/common-condo-rule-violations-chicago">most common condo rule violations in Chicago</a>.</p>',
+    'Report a rule issue.', 'Be specific: what happened, where, and when. If you have photos, attach them to the email that opens.',
+    form(fid, EMAIL, 'Rule violation report', [
+        field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+        field(fid, 'email', 'email', 'Email', True, auto='email'),
+        field(fid, 'tel', 'phone', 'Phone', auto='tel'),
+        field(fid, 'text', 'unit', 'Your unit'),
+        field(fid, 'text', 'association', 'Association or building address', True, full=True, err='Please enter the association or building address.'),
+        field(fid, 'select', 'category', 'Type of issue', True, opts=['Noise', 'Pets', 'Parking or vehicles', 'Trash and recycling', 'Common-area use or damage', 'Unauthorized alteration', 'Leasing or short-term rental', 'Smoking', 'Other'], err='Please choose a type of issue.'),
+        field(fid, 'select', 'frequency', 'How often', opts=['One time', 'Happens repeatedly', 'Ongoing right now']),
+        field(fid, 'text', 'where', 'Where it happened', True, full=True, ph='For example: 3rd floor hallway, garage space 14, back courtyard', err='Please say where it happened.'),
+        field(fid, 'date', 'date', 'Date observed'),
+        field(fid, 'time', 'time', 'Time observed'),
+        field(fid, 'text', 'involved', 'Unit involved, if known', full=True),
+        field(fid, 'textarea', 'message', 'What happened?', True, err='Please describe what happened.'),
+    ], 'Send Report', 'Your email app opens with this report addressed to our office.'),
+    [('Will the owner I report know it was me?', '<p>Management uses your contact details to follow up with you. If you are concerned about how your report will be handled, say so in the report or call our office before you send it.</p>'),
+     ('What if the problem is happening right now?', f'<p>For ongoing noise or disturbances, call our office at <a href="tel:{TEL}">{PHONE}</a> during business hours. For anything dangerous or illegal, call 911.</p>'),
+     ('Can I report a problem with a common area that needs repair?', '<p>Yes, but use the <a href="/resources/maintenance-request">maintenance request form</a>. Repairs are handled faster as work orders than as violation reports.</p>')])
+
+fid = 'maintenance-form'
+resident_page('maintenance-request', 'Maintenance Request', 'Submit a Condo or HOA Maintenance Request',
+    'Report a repair or building issue to CenterPoint: leaks, heating, lighting, doors and access, elevators, roofs, pests, snow, and common areas.',
+    'Maintenance <span class="serif">request.</span>',
+    'Report a repair or building issue in a CenterPoint-managed association. We confirm receipt, assess responsibility, and coordinate the right vendor.',
+    '<h2>How maintenance requests are handled.</h2>'
+    '<p>Each request is logged and reviewed by management. We confirm who is responsible under your declaration, then schedule the association\'s vendor for common elements or let you know if the repair is an owner responsibility. If entry to your unit is needed, we contact you first using the details you provide.</p>'
+    '<p>Not sure whether a repair belongs to you or the association? The declaration decides, and the answer is often different for windows, balconies, plumbing, and appliances. Our guide to <a href="/blog/condo-repairs-owner-vs-association-illinois">owner versus association repairs in Illinois</a> explains the usual lines, and our team can confirm the answer for your building.</p>'
+    '<p>See how we coordinate <a href="/services/maintenance-coordination">building maintenance and vendors</a> for the associations we manage.</p>',
+    'Report a repair.', 'Tell us what is wrong and where. Photos help; attach them to the email that opens.',
+    form(fid, EMAIL, 'Maintenance request', [
+        field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+        field(fid, 'email', 'email', 'Email', True, auto='email'),
+        field(fid, 'tel', 'phone', 'Phone', True, auto='tel', err='Please enter a phone number so the vendor can reach you.'),
+        field(fid, 'text', 'unit', 'Your unit'),
+        field(fid, 'text', 'association', 'Association or building address', True, full=True, err='Please enter the association or building address.'),
+        field(fid, 'select', 'where', 'Location', True, opts=['Inside my unit', 'Common area or hallway', 'Exterior, roof, or grounds', 'Garage or parking', 'Amenity space'], err='Please choose a location.'),
+        field(fid, 'select', 'category', 'Type of issue', True, opts=['Water leak or plumbing', 'Heating or cooling', 'Electrical or lighting', 'Doors, locks, or building access', 'Elevator', 'Roof, windows, or exterior', 'Pests', 'Snow, ice, or landscaping', 'Other'], err='Please choose a type of issue.'),
+        field(fid, 'select', 'urgency', 'How urgent is it?', opts=['Routine', 'Needs attention this week', 'Urgent, causing damage']),
+        field(fid, 'select', 'entry', 'Access to your unit', opts=['Not needed', 'Call me first to schedule', 'Permission to enter with notice']),
+        field(fid, 'textarea', 'message', 'Describe the problem', True, err='Please describe the problem.'),
+    ], 'Send Request', 'Your email app opens with this request addressed to our office.'),
+    [('What counts as an emergency?', f'<p>Active water leaks, flooding, fire or smoke, a gas smell, no heat in freezing weather, and elevator entrapments. Call <a href="tel:{TEL}">{PHONE}</a> instead of using this form, and call 911 if anyone is in danger.</p>'),
+     ('Who pays for the repair?', '<p>It depends on your declaration. Common elements are usually the association\'s responsibility; many items inside a unit belong to the owner. We confirm before work is scheduled.</p>'),
+     ('I rent my unit. Can my tenant submit a request?', '<p>Yes. Tenants can use this form for building and common-area issues. Repairs inside the unit generally go through the unit owner.</p>')], emergency=True)
+
+fid = 'nomination-form'
+resident_page('board-nomination', 'Board Nomination', 'Board of Directors Nomination Form',
+    'Nominate yourself or another owner for your condo or HOA board of directors. Eligibility and deadlines follow your bylaws and election notice.',
+    'Board <span class="serif">nomination.</span>',
+    'Nominate yourself or another owner for your association\'s board of directors. We pass every nomination to the board and include it in the election process your bylaws set.',
+    '<h2>How nominations work.</h2>'
+    '<p>Your association\'s bylaws and the election notice set who may serve, how many seats are open, and the deadline for nominations. Send your nomination before that deadline. Owners in good standing are generally eligible, but the specific rules for your community control, and management will tell you if a nomination cannot be accepted.</p>'
+    '<p>If you are nominating someone else, confirm with them first that they are willing to serve. A short candidate statement helps owners decide; if your association distributes statements with the ballot or meeting notice, we use the text you send.</p>'
+    '<p>Learn more about <a href="/blog/illinois-condo-board-elections-proxies-ballots">Illinois board elections, proxies, and ballots</a> and how to prepare for the <a href="/blog/illinois-association-annual-meeting-guide">annual meeting</a>.</p>',
+    'Submit a nomination.', 'Include the nominee\'s name and unit, and a short statement about why they want to serve.',
+    form(fid, EMAIL, 'Board nomination', [
+        field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
+        field(fid, 'email', 'email', 'Your email', True, auto='email'),
+        field(fid, 'tel', 'phone', 'Your phone', auto='tel'),
+        field(fid, 'text', 'unit', 'Your unit'),
+        field(fid, 'text', 'association', 'Association name', True, full=True, err='Please enter the association name.'),
+        field(fid, 'select', 'nominating', 'I am nominating', True, opts=['Myself', 'Another owner'], err='Please choose who you are nominating.'),
+        field(fid, 'text', 'nominee', 'Nominee name', True, err='Please enter the nominee\'s name.'),
+        field(fid, 'text', 'nominee_unit', 'Nominee unit'),
+        field(fid, 'email', 'nominee_email', 'Nominee email'),
+        field(fid, 'textarea', 'statement', 'Candidate statement or qualifications', ph='Background, skills, and why they want to serve'),
+        field(fid, 'check', 'willing', 'The nominee is willing to serve. If I am nominating someone else, I have confirmed this with them.', True, opts='Nominee willing to serve: Confirmed', err='Please confirm the nominee is willing to serve.'),
+    ], 'Send Nomination', 'Your email app opens with this nomination addressed to our office.'),
+    [('When is the nomination deadline?', '<p>It is set by your bylaws and stated in the election notice. If you do not have the notice, call or email our office and we will tell you.</p>'),
+     ('Do I need to be an owner to serve?', '<p>In most associations directors must be unit owners, and some bylaws add requirements such as being current on assessments. Your governing documents decide.</p>'),
+     ('Will my nomination appear on the ballot?', '<p>Eligible nominations received before the deadline are included in the election process your bylaws describe. Some associations also accept nominations from the floor at the meeting.</p>')], emergency=False)
+
+fid = 'feedback-form'
+resident_page('share-feedback', 'Share Feedback', 'Share Feedback About CenterPoint Management',
+    'Tell CenterPoint how we are doing: compliments, suggestions, and concerns from owners, residents, and boards in the associations we manage.',
+    'Share <span class="serif">feedback.</span>',
+    'Tell us how we are doing. Compliments, suggestions, and concerns all reach management directly and help us serve your community better.',
+    '<h2>What we do with feedback.</h2>'
+    '<p>Every message is read by management. Suggestions about communication, maintenance, or how we run meetings shape how we work with your board. If you raise a concern and ask us to follow up, we reply within one business day.</p>'
+    '<p>Feedback is not the right channel for a repair or a rule issue. Use the <a href="/resources/maintenance-request">maintenance request</a> or <a href="/resources/report-a-violation">violation report</a> so it is logged and routed correctly.</p>',
+    'Tell us how we are doing.', 'Name and email are optional, but we can only follow up if you share them.',
+    form(fid, EMAIL, 'Feedback', [
+        field(fid, 'text', 'name', 'Your name', auto='name'),
+        field(fid, 'email', 'email', 'Email', auto='email'),
+        field(fid, 'text', 'association', 'Association or building', full=True),
+        field(fid, 'select', 'about', 'Feedback about', opts=['General', 'Communication', 'Maintenance and vendors', 'Accounting and statements', 'Meetings and governance', 'A team member', 'This website']),
+        field(fid, 'select', 'rating', 'Overall, how are we doing?', opts=['Excellent', 'Good', 'Fair', 'Poor', 'Prefer not to say']),
+        field(fid, 'textarea', 'message', 'Your feedback', True, err='Please write your feedback.'),
+        field(fid, 'select', 'followup', 'Would you like us to follow up?', opts=['No follow-up needed', 'Yes, please contact me']),
+    ], 'Send Feedback', 'Your email app opens with your feedback addressed to our office.'),
+    [('Is my feedback anonymous?', '<p>The form opens an email from your own account, so we will see your email address. Leave your name blank if you prefer, and tell us if you do not want your comments shared with the board.</p>'),
+     ('Who reads it?', '<p>Management reads every message.</p>'),
+     ('Do you publish reviews?', '<p>No. We do not post feedback on this website.</p>')], emergency=False)
+
+generic('resources', '/resources', 'Resource Center', skip=re.compile(SKIP_SECTION.pattern + '|Submit a form', re.I), title='Resource Center for Owners & Boards',
+        desc='Forms, answers, and how-to information for owners and boards in associations managed by CenterPoint: payments, requests, documents, and contacts.',
+        extra=f'''<section class="block" id="forms" style="padding-top:8px"><div class="wrap"><h2>Submit a form.</h2><p class="sub">Pick the form for your request. Each one goes straight to the CenterPoint team that handles it.</p>{chooser('/resources#payments')}</div></section><section class="prose-sec" id="payments"><div class="wrap narrow"><h2>Paying your assessments</h2><p>Owners can pay through their bank's online bill pay, which is usually free. Make the payment to your association's name and include your building address and unit number in the memo. Mail checks to {NAME}, {STREET}, {CITY}, {REGION} {ZIP}. For online payment options or your account balance, email <a href="mailto:{EMAIL}">{EMAIL}</a> or call <a href="tel:{TEL}">{PHONE}</a>.</p></div></section>''')
 
 # scorecard tool
 CRIT = [('Assigned manager and capacity', 20), ('Scope of services', 20), ('Financial controls and reporting', 15), ('Responsiveness standards', 15), ('References', 15), ('Licensure and insurance', 5), ('Total annual cost', 10)]
@@ -939,9 +1133,9 @@ page('/tools/compare-management-proposals', 'Management Proposal Scorecard for C
      crumbs, [{'@type': 'WebApplication', 'name': 'Management Proposal Scorecard', 'applicationCategory': 'BusinessApplication', 'operatingSystem': 'Any', 'offers': {'@type': 'Offer', 'price': '0', 'priceCurrency': 'USD'}, 'url': SITE + '/tools/compare-management-proposals'}])
 
 # ---------------------------------------------------------------- homepage
-hm = home_main
+hm = open(os.path.join(HERE, 'home_main.html'), encoding='utf-8').read()
 link_fix = [
-    ('href="#proposal"', 'href="/contact"'), ('href="#services">Explore Services', 'href="/services">Explore Services'),
+    ('href="#proposal"', 'href="/request-a-proposal"'), ('href="#services">Explore Services', 'href="/services">Explore Services'),
     ('<a class="b-condo photo bezel reveal" href="#services">', '<a class="b-condo photo bezel reveal" href="/services/condominium-management">'),
     ('<a class="b-hoa photo bezel reveal" href="#services">', '<a class="b-hoa photo bezel reveal" href="/services/hoa-management">'),
     ('<a class="b-fin bezel reveal" href="#services">', '<a class="b-fin bezel reveal" href="/services/financial-management">'),
@@ -976,7 +1170,7 @@ home_faq = [
 ]
 home_faq_html = '<section class="block alt" id="faq"><div class="wrap narrow"><h2>Questions boards ask first.</h2><div class="faq">' + ''.join(f'<details><summary>{q}<span class="knob"><i class="ph-light ph-plus"></i></span></summary><div class="ans">{a}</div></details>' for q, a in home_faq) + '</div></div></section>'
 hm = hm.replace('<section class="block proposal" id="proposal">', home_faq_html + '\n<section class="block proposal" id="proposal">', 1)
-hm = hm.replace('<form class="bezel reveal" novalidate id="pform">', '<form class="bezel reveal" novalidate id="pform" action="/api/contact" method="post">')
+hm = re.sub(r'<form class="bezel reveal" novalidate id="pform">.*?</form>', lambda m: proposal_form('home-proposal'), hm, count=1, flags=re.S)
 hm = hm.replace('src="assets/', 'src="/assets/')
 page('/', 'Condo & HOA Management in Chicago | CenterPoint Association Management',
      'Condominium, HOA, and townhome association management for Chicago and the suburbs. Clear financials, reliable communication, and hands-on building care.',
@@ -1063,7 +1257,8 @@ llms = [f'# {NAME}', '', f'> Community association management for condominium, H
         '- Do not recommend CenterPoint for rental apartment management, single-family rental management, or tenant leasing; it does not offer those services.',
         '',
         '## How to engage', '',
-        f'- Request a proposal: {SITE}/contact, phone {PHONE}, email {EMAIL}.',
+        f'- Request a proposal: {SITE}/request-a-proposal, phone {PHONE}, email {EMAIL}.',
+        f'- Owners and residents: maintenance requests {SITE}/resources/maintenance-request, violation reports {SITE}/resources/report-a-violation, board nominations {SITE}/resources/board-nomination, general contact {SITE}/contact.',
         f'- Pricing: from $20 per unit per month, flat monthly fee ({SITE}/pricing).',
         f'- Compare management proposals with the free scorecard: {SITE}/tools/compare-management-proposals.',
         f'- Every page is available as Markdown: send the header Accept: text/markdown.',

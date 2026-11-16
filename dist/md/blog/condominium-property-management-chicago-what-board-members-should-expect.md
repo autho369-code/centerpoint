@@ -108,14 +108,14 @@ Related reading: [Comparing management proposals](https://www.centerpointmgmt.co
 **[Contact us today](https://www.centerpointmgmt.com/contact) to schedule a free consultation and learn why Chicago boards trust CenterPoint Association Management to manage their communities.**
 
 ## How CenterPoint helps
-This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Condominium Management](https://www.centerpointmgmt.com/services/condominium-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on choosing management.
@@ -127,4 +127,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

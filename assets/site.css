@@ -481,3 +481,27 @@ footer{background:#08142A;color:rgba(255,255,255,.68);padding:96px 0 36px;font-s
 .row h3.rh{font-size:21px;letter-spacing:-.015em;margin:0 0 4px}
 .group .row h3.rh,.row h3.rh{font-family:Outfit,system-ui,sans-serif;font-weight:500;color:var(--ink);padding:0;border:0;margin:0 0 4px;font-size:21px;letter-spacing:-.015em;line-height:1.2}
 .row:hover h3.rh{color:var(--navy-2)}
+
+/* ===== purpose-built forms ===== */
+.field .opt{font-weight:400;font-size:12.5px;color:var(--muted);margin-left:6px}
+.proposal .field .opt{color:rgba(19,41,79,.55)}
+.flabel{font-weight:600;font-size:14px;color:var(--ink)}
+.consent{display:flex;gap:12px;align-items:flex-start;font-size:15px;line-height:1.5;color:var(--ink);cursor:pointer}
+.consent input{accent-color:var(--navy);width:18px;height:18px;margin-top:3px;flex:none;padding:0}
+.field.bad .consent{color:#B3261E}
+.field.bad input,.field.bad select,.field.bad textarea{box-shadow:inset 0 0 0 1.5px #B3261E}
+.chooser{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
+.choice{display:grid;grid-template-columns:44px 1fr 20px;gap:14px;align-items:center;padding:18px 20px;border-radius:22px;background:#fff;box-shadow:0 0 0 1px var(--hair);transition:background .4s var(--ease),color .4s var(--ease),transform .4s var(--ease)}
+.choice>i:first-child{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;font-size:20px;color:var(--navy);background:var(--cloud);transition:background .4s var(--ease),color .4s var(--ease)}
+.choice strong{display:block;font:500 17px/1.3 Outfit,sans-serif;color:var(--ink);transition:color .4s var(--ease)}
+.choice small{display:block;font-size:14px;color:var(--muted);margin-top:3px;transition:color .4s var(--ease)}
+.choice .go{color:var(--gold);transition:transform .4s var(--ease)}
+.choice:hover{background:var(--navy)}
+.choice:hover strong{color:#fff}.choice:hover small{color:rgba(255,255,255,.7)}
+.choice:hover>i:first-child{background:rgba(255,255,255,.1);color:var(--gold-soft)}
+.choice:hover .go{transform:translate(2px,-2px);color:var(--gold-soft)}
+.choice:active{transform:scale(.98)}
+.notice{display:grid;grid-template-columns:28px 1fr;gap:14px;align-items:start;padding:20px 24px;border-radius:20px;background:var(--gold-wash);color:var(--ink)}
+.notice i{font-size:26px;color:var(--gold-ink)}
+.notice p{margin:0;font-size:16px;line-height:1.6}
+.notice a{color:var(--navy);font-weight:600;text-decoration:underline;text-underline-offset:3px}

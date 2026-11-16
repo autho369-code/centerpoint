@@ -33,17 +33,17 @@ The Illinois Condominium Property Act directs boards to provide for reasonable r
 ## Fixing an Underfunded Reserve
 Also useful: [How to read a condo reserve study](https://www.centerpointmgmt.com/blog/how-to-read-condo-reserve-study); [what “reasonable reserves” means under Illinois law](https://www.centerpointmgmt.com/blog/reasonable-reserves-illinois-condo-law).
 
-Recovery is straightforward, if not painless: commission a current reserve study, adjust assessments toward a realistic funding level over a planned period, fund reserves consistently, and stop deferring projects. Transparent communication matters too, owners accept gradual, well-explained increases far better than sudden special assessments. CenterPoint Association Management's [financial management](https://www.centerpointmgmt.com/services/financial-management) team helps boards build and maintain reserve plans that hold up. To assess where your association stands, [reach out for a consultation](https://www.centerpointmgmt.com/contact).
+Recovery is straightforward, if not painless: commission a current reserve study, adjust assessments toward a realistic funding level over a planned period, fund reserves consistently, and stop deferring projects. Transparent communication matters too, owners accept gradual, well-explained increases far better than sudden special assessments. CenterPoint Association Management's [financial management](https://www.centerpointmgmt.com/services/financial-management) team helps boards build and maintain reserve plans that hold up. To assess where your association stands, [](https://www.centerpointmgmt.com/request-a-proposal).
 
 ## How CenterPoint helps
-This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Financial Management](https://www.centerpointmgmt.com/services/financial-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on finance & reserves.
@@ -55,4 +55,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

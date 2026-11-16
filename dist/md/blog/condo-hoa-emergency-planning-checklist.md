@@ -61,7 +61,7 @@ This article is educational information for Illinois association boards and is n
 Related reading: [Writing a vendor RFP](https://www.centerpointmgmt.com/blog/condo-hoa-vendor-rfp-checklist); [water leak responsibility](https://www.centerpointmgmt.com/blog/who-pays-condo-water-leak-illinois).
 
 ## Build Your Plan With Us
-CenterPoint Association Management builds and maintains emergency playbooks for condominium, HOA, and townhome boards throughout [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore, supported by structured board processes. [Schedule a consultation](https://www.centerpointmgmt.com/contact) to put a plan in place before you need it.
+CenterPoint Association Management builds and maintains emergency playbooks for condominium, HOA, and townhome boards throughout [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore, supported by structured board processes. [](https://www.centerpointmgmt.com/request-a-proposal) to put a plan in place before you need it.
 
 ## Primary sources and further reading
 
@@ -70,14 +70,14 @@ CenterPoint Association Management builds and maintains emergency playbooks for 
 - [City of Chicago Condominium Ordinance Information](https://www.chicago.gov/city/en/depts/bacp/supp_info/condominium_ordinanceinformation.html)
 
 ## How CenterPoint helps
-This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Maintenance Coordination](https://www.centerpointmgmt.com/services/maintenance-coordination)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on building operations.
@@ -89,4 +89,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

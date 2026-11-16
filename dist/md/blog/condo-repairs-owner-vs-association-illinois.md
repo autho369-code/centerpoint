@@ -44,7 +44,7 @@ Before hiring a contractor or demanding a repair from the board, spend five minu
 
 Read next: [A first-time Chicago condo buyer’s guide](https://www.centerpointmgmt.com/blog/first-time-condo-buyer-guide-chicago); [moving into a Chicago condo](https://www.centerpointmgmt.com/blog/moving-into-chicago-condo-guide).
 
-For the full picture of how a well-run building divides its labor, assessments, rights, insurance, and etiquette included, read [The Owner's Companion](https://www.centerpointmgmt.com/condo-living), our complete guide to condo living. Boards that want responsibility questions answered this cleanly every time can learn about our condominium management practice or [request a proposal](https://www.centerpointmgmt.com/contact).
+For the full picture of how a well-run building divides its labor, assessments, rights, insurance, and etiquette included, read [The Owner's Companion](https://www.centerpointmgmt.com/condo-living), our complete guide to condo living. Boards that want responsibility questions answered this cleanly every time can learn about our condominium management practice or [](https://www.centerpointmgmt.com/request-a-proposal).
 
 ## Primary sources and further reading
 
@@ -52,14 +52,14 @@ For the full picture of how a well-run building divides its labor, assessments, 
 - [Community Associations Institute, Homeowner Resources](https://www.caionline.org/)
 
 ## How CenterPoint helps
-This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning) series. See how we handle it day to day through our [maintenance coordination](https://www.centerpointmgmt.com/services/maintenance-coordination) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Maintenance Coordination](https://www.centerpointmgmt.com/services/maintenance-coordination)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on building operations.
@@ -71,4 +71,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

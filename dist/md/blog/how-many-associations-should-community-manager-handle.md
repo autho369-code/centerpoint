@@ -64,7 +64,7 @@ Match the proposed team to the community you actually operate. A complex high-ri
 ## Ask CenterPoint About the Team Assigned to Your Association
 Also useful: [The hidden problems of self-management](https://www.centerpointmgmt.com/blog/self-managed-condo-association-problems).
 
-CenterPoint Association Management serves condominium, HOA, and townhome boards across [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore. We will explain the proposed manager, support structure, transition plan, communication workflow, and service scope before your board decides. [Request a consultation](https://www.centerpointmgmt.com/contact) to compare the operating model with your association's needs.
+CenterPoint Association Management serves condominium, HOA, and townhome boards across [Chicago](https://www.centerpointmgmt.com/property-management-chicago) and the North Shore. We will explain the proposed manager, support structure, transition plan, communication workflow, and service scope before your board decides. [](https://www.centerpointmgmt.com/request-a-proposal) to compare the operating model with your association's needs.
 
 ## Primary sources and further reading
 
@@ -72,14 +72,14 @@ CenterPoint Association Management serves condominium, HOA, and townhome boards 
 - [Community Associations Institute](https://www.caionline.org/)
 
 ## How CenterPoint helps
-This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management) series. See how we handle it day to day through our [condominium management](https://www.centerpointmgmt.com/services/condominium-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Condominium Management](https://www.centerpointmgmt.com/services/condominium-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on choosing management.
@@ -91,4 +91,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

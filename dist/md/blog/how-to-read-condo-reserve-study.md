@@ -63,7 +63,7 @@ This article is general education and not legal, engineering, or accounting advi
 
 Also useful: [Condo reserve funds explained](https://www.centerpointmgmt.com/blog/condo-reserve-funds-explained); [what “reasonable reserves” means under Illinois law](https://www.centerpointmgmt.com/blog/reasonable-reserves-illinois-condo-law).
 
-Our [financial management](https://www.centerpointmgmt.com/services/financial-management) team builds reserve funding scenarios boards can actually vote on. If your association serves [Chicago](https://www.centerpointmgmt.com/property-management-chicago) or North Shore owners and your reserve line has not changed in years, [request a consultation](https://www.centerpointmgmt.com/contact).
+Our [financial management](https://www.centerpointmgmt.com/services/financial-management) team builds reserve funding scenarios boards can actually vote on. If your association serves [Chicago](https://www.centerpointmgmt.com/property-management-chicago) or North Shore owners and your reserve line has not changed in years, [](https://www.centerpointmgmt.com/request-a-proposal).
 
 ## Primary sources and further reading
 
@@ -71,14 +71,14 @@ Our [financial management](https://www.centerpointmgmt.com/services/financial-ma
 - [Fannie Mae Condo, Co-op and PUD Eligibility](https://singlefamily.fanniemae.com/originating-underwriting/condo-co-op-and-pud-eligibility)
 
 ## How CenterPoint helps
-This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Financial Management](https://www.centerpointmgmt.com/services/financial-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on finance & reserves.
@@ -90,4 +90,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)

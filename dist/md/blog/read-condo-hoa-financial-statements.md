@@ -62,7 +62,7 @@ This article is general education for association boards and is not legal or acc
 
 Read next: [Owners’ right to demand an independent audit](https://www.centerpointmgmt.com/blog/illinois-condo-owners-independent-audit-rights); [the Illinois budget adoption steps](https://www.centerpointmgmt.com/blog/illinois-condo-hoa-budget-adoption-guide).
 
-CenterPoint delivers board packets built for this kind of reading, reconciled, separated by fund, and aged. See our [financial management](https://www.centerpointmgmt.com/services/financial-management) and board support services, or [schedule a consultation](https://www.centerpointmgmt.com/contact) to review your current reporting.
+CenterPoint delivers board packets built for this kind of reading, reconciled, separated by fund, and aged. See our [financial management](https://www.centerpointmgmt.com/services/financial-management) and board support services, or [](https://www.centerpointmgmt.com/request-a-proposal) to review your current reporting.
 
 ## Primary sources and further reading
 
@@ -70,14 +70,14 @@ CenterPoint delivers board packets built for this kind of reading, reconciled, s
 - [Common Interest Community Association Act (765 ILCS 160)](https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62)
 
 ## How CenterPoint helps
-This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [request a proposal](https://www.centerpointmgmt.com/contact) for your association.
+This guide is part of our [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves) series. See how we handle it day to day through our [financial management](https://www.centerpointmgmt.com/services/financial-management) service, or [](https://www.centerpointmgmt.com/request-a-proposal) for your association.
 
 This guide supports
 
 [Financial Management](https://www.centerpointmgmt.com/services/financial-management)
 Questions about your building? Our team answers board questions every week.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)
 [773.728.0652](tel:+17737280652)
 
 ## More on finance & reserves.
@@ -89,4 +89,4 @@ Questions about your building? Our team answers board questions every week.
 ## Tell us about your association.
 Share a few details and we will follow up to schedule a conversation with your board. No cost, no obligation.
 
-[Request a Proposal](https://www.centerpointmgmt.com/contact)[773.728.0652](tel:+17737280652)
+[Request a Proposal](https://www.centerpointmgmt.com/request-a-proposal)[773.728.0652](tel:+17737280652)
