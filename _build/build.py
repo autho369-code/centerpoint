@@ -179,8 +179,8 @@ MENUS = [
         ("The Owner's Companion", 'A practical guide to association living', '/condo-living'),
         ('Resource Center', 'Forms, documents, and answers', '/resources'),
         ('Maintenance Request', 'Report a repair or building issue', '/resources/maintenance-request'),
-        ('Report a Violation', 'Tell management about a rule issue', '/resources/report-a-violation'),
-        ('Board Nomination', 'Nominate yourself or a neighbor', '/resources/board-nomination'),
+        ('Report a Violation', 'Submit a formal violation report for your community', '/resources/report-a-violation'),
+        ('Board Nomination', 'Apply to serve on your condominium or HOA board', '/resources/board-nomination'),
         ('Share Feedback', 'Tell us how we are doing', '/resources/share-feedback'),
     ]),
     ('Agents & Lenders', None, '/services/resale-disclosures'),
@@ -955,8 +955,8 @@ page('/request-a-proposal', 'Request a Condo or HOA Management Proposal in Chica
 CHOOSER = [
     ('/request-a-proposal', 'ph-buildings', 'Request a proposal', 'Boards comparing management for their association'),
     ('/resources/maintenance-request', 'ph-wrench', 'Maintenance request', 'Report a repair or building issue'),
-    ('/resources/report-a-violation', 'ph-flag', 'Report a violation', 'Tell management about a rule issue'),
-    ('/resources/board-nomination', 'ph-user-plus', 'Board nomination', 'Nominate yourself or a neighbor'),
+    ('/resources/report-a-violation', 'ph-flag', 'Report a violation', 'Submit a formal violation report for your community'),
+    ('/resources/board-nomination', 'ph-user-plus', 'Board nomination', 'Apply to serve on your condominium or HOA board'),
     ('/resources/share-feedback', 'ph-chat-circle-text', 'Share feedback', 'Tell us how we are doing'),
     ('/services/resale-disclosures', 'ph-file-text', 'Resale and lender documents', '22.1 packets, paid letters, questionnaires'),
     ('/resources#payments', 'ph-credit-card', 'Pay assessments', 'How to pay your association'),
@@ -997,32 +997,52 @@ def resident_page(slug, crumb, title, desc, h1, lead, about_html, sec_h2, sec_in
          cr, [faq_ld(faqs, path)])
 
 fid = 'violation-form'
-resident_page('report-a-violation', 'Report a Violation', 'Report a Rule Violation to Your Association',
-    'Report a condo or HOA rule violation to CenterPoint: noise, pets, parking, common-area damage, unauthorized alterations, and more. Reviewed under your rules.',
+resident_page('report-a-violation', 'Report a Violation', 'Illinois Condominium Violation Report Form',
+    'Submit an Illinois condominium violation report under Section 35 of the Ombudsperson Act. Reviewed with notice and a hearing before any fine.',
     'Report a <span class="serif">violation.</span>',
-    'Tell management about a rule issue in your building or community. We log every report and review it against your association\'s declaration and rules.',
-    '<h2>What happens after you report.</h2>'
-    '<p>Your report is logged with the date, the location, and the rule involved. Management reviews it against the declaration, bylaws, and rules your board has adopted, and may ask you for more detail or photos. If the issue is a repair problem rather than a conduct problem, we route it to maintenance instead, because a work order usually resolves it faster than a notice.</p>'
-    '<p>Enforcement decisions belong to your board, following the procedure in your governing documents. Under Illinois law an owner must receive notice and an opportunity to be heard before the board imposes a fine. Because of that process, we cannot always share the outcome of a specific report with the person who filed it.</p>'
+    'Illinois Condominium Violation Report, pursuant to Section 35 of the Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615/35).',
+    '<h2>Why this form exists.</h2>'
+    '<p>Illinois requires every condominium and common interest community association to have a written policy for resolving complaints from unit owners. Section 35 of the Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615/35) says that policy must include a form owners can use to make a complaint, the address where complaints are sent, and reasonable time frames for the association to respond and to reach a final decision. This report is that form for the associations CenterPoint manages.</p>'
+    '<p>Because the requirement comes from state law, the form follows the same structure for every association: who is reporting, who is involved, what rule was broken, what happened, and what you are asking the board to do. Your association\'s declaration, bylaws, and rules decide what counts as a violation and what the board can do about it.</p>'
+    '<h2>Violation reporting and resolution.</h2>'
+    '<p>Community standards only work when rules are enforced consistently and fairly. A written report gives the board a clear record of the concern, lets management investigate it properly, and protects the rights of every owner, including the owner the report is about. Every report is handled under the Illinois Condominium Property Act and your association\'s governing documents.</p>'
+    '<h3>Common violations.</h3>'
+    '<ul><li>Noise disturbances and quiet hours violations</li><li>Unauthorized modifications to units or common areas</li><li>Parking and vehicle violations</li><li>Pet policy violations</li><li>Improper waste disposal</li><li>Smoking in prohibited areas</li><li>Unauthorized subletting or short-term rentals such as Airbnb</li><li>Balcony and patio rule violations</li></ul>'
+    '<h3>How a report is investigated.</h3>'
+    '<p>Management logs the report, gathers evidence such as photos and witness statements, reviews the rule that applies, and contacts the people involved for their side. The goal is to resolve the issue through communication and cooperation before formal enforcement is needed.</p>'
+    '<h3>Fair enforcement and due process.</h3>'
+    '<p>Under Section 18.4(l) of the Illinois Condominium Property Act (765 ILCS 605/18.4), the board can levy a fine only after the owner receives notice and an opportunity to be heard. In practice that means written notice of the alleged violation, a chance to respond or correct it, a hearing before the board if requested, and enforcement that moves from warnings to fines. Every step is documented, and the same rules apply to every owner.</p>'
+    '<h3>Illinois Ombudsperson Act information.</h3>'
+    '<p>The Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615/) gives unit owners a way to report potential violations of the Condominium Property Act or the Common Interest Community Association Act. For more information, or to contact the state directly, visit the <a href="https://idfpr.illinois.gov/" rel="noopener">Illinois Department of Financial and Professional Regulation</a>.</p>'
     '<p>Read more about <a href="/services/violation-management">how we manage violations</a> and the <a href="/blog/common-condo-rule-violations-chicago">most common condo rule violations in Chicago</a>.</p>',
-    'Report a rule issue.', 'Be specific: what happened, where, and when. If you have photos, attach them to the email that opens.',
-    form(fid, EMAIL, 'Rule violation report', [
+    'Illinois Condominium Violation Report.',
+    'Pursuant to Section 35 of the Ombudsperson Act. This form is for reporting potential violations in condominium and common interest community properties under Illinois law. For emergencies, call 911. If you have photos, attach them to the email that opens.',
+    form(fid, EMAIL, 'Illinois Condominium Violation Report', [
+        field(fid, 'heading', 'h1', 'Reporter information'),
         field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
-        field(fid, 'email', 'email', 'Email', True, auto='email'),
-        field(fid, 'tel', 'phone', 'Phone', auto='tel'),
-        field(fid, 'text', 'unit', 'Your unit'),
-        field(fid, 'text', 'association', 'Association or building address', True, full=True, err='Please enter the association or building address.'),
-        field(fid, 'select', 'category', 'Type of issue', True, opts=['Noise', 'Pets', 'Parking or vehicles', 'Trash and recycling', 'Common-area use or damage', 'Unauthorized alteration', 'Leasing or short-term rental', 'Smoking', 'Other'], err='Please choose a type of issue.'),
-        field(fid, 'select', 'frequency', 'How often', opts=['One time', 'Happens repeatedly', 'Ongoing right now']),
-        field(fid, 'text', 'where', 'Where it happened', True, full=True, ph='For example: 3rd floor hallway, garage space 14, back courtyard', err='Please say where it happened.'),
-        field(fid, 'date', 'date', 'Date observed'),
-        field(fid, 'time', 'time', 'Time observed'),
-        field(fid, 'text', 'involved', 'Unit involved, if known', full=True),
-        field(fid, 'textarea', 'message', 'What happened?', True, err='Please describe what happened.'),
-    ], 'Send Report', 'Your email app opens with this report addressed to our office.'),
-    [('Will the owner I report know it was me?', '<p>Management uses your contact details to follow up with you. If you are concerned about how your report will be handled, say so in the report or call our office before you send it.</p>'),
+        field(fid, 'text', 'unit', 'Unit address', True, ph='Unit 301, 123 Main St, Chicago, IL 60601', err='Please enter your unit address.'),
+        field(fid, 'text', 'contact', 'Phone or email', True, auto='email', err='Please enter a phone number or email.'),
+        field(fid, 'date', 'date', 'Date of report', True, err='Please enter the date of this report.'),
+        field(fid, 'heading', 'h2', 'Violator information'),
+        field(fid, 'text', 'violator', 'Violator\'s name (if known)'),
+        field(fid, 'text', 'violator_unit', 'Unit number'),
+        field(fid, 'checks', 'nature', 'Nature of violation (check all that apply)', opts=['Noise or disturbance', 'Unauthorized construction or alteration', 'Pet violation', 'Parking or vehicle issue', 'Harassment', 'Other']),
+        field(fid, 'heading', 'h3', 'Details of the violation'),
+        field(fid, 'textarea', 'details', 'Details (include dates, times, and witnesses)', True, err='Please describe the violation.'),
+        field(fid, 'radios', 'before', 'Have you reported this before?', True, opts=['Yes', 'No'], full=True, err='Please answer yes or no.'),
+        field(fid, 'checks', 'action', 'Requested action', opts=['Warning', 'Fine', 'Hearing', 'Other']),
+        field(fid, 'heading', 'h4', 'Signature'),
+        field(fid, 'text', 'signature', 'Signature (type your full name)', True, full=True, err='Please type your full name as your signature.'),
+        field(fid, 'heading', 'h5', 'Acknowledgements'),
+        field(fid, 'check', 'ack1', 'I understand that this report may be shared with the association board, management company, or other relevant parties as part of the investigation process.', True, opts='Acknowledged: report may be shared with the board, management, or other relevant parties', err='Please check this box to continue.'),
+        field(fid, 'check', 'ack2', 'I certify that the information provided in this report is true and accurate to the best of my knowledge.', True, opts='Certified: information is true and accurate to the best of my knowledge', err='Please check this box to continue.'),
+        field(fid, 'check', 'ack3', 'I understand that I may be contacted for additional information regarding this report.', True, opts='Acknowledged: may be contacted for additional information', err='Please check this box to continue.'),
+    ], 'Submit Violation Report', 'Your email app opens with this report addressed to our office. Press send to submit it.'),
+    [('Why does Illinois require a violation report form?', '<p>Section 35 of the Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615/35) requires associations to adopt a written complaint policy that includes a form owners can use, where to send it, and reasonable time frames to respond and decide.</p>'),
+     ('Can I be fined because of a report?', '<p>Not without due process. Under 765 ILCS 605/18.4(l), the board must give the owner notice and an opportunity to be heard before levying a fine.</p>'),
+     ('Will the owner I report know it was me?', '<p>The report may be shared with the board and others involved in the investigation, as the acknowledgement on the form explains. If you are worried about how your report will be handled, say so in the details or call our office before you send it.</p>'),
      ('What if the problem is happening right now?', f'<p>For ongoing noise or disturbances, call our office at <a href="tel:{TEL}">{PHONE}</a> during business hours. For anything dangerous or illegal, call 911.</p>'),
-     ('Can I report a problem with a common area that needs repair?', '<p>Yes, but use the <a href="/resources/maintenance-request">maintenance request form</a>. Repairs are handled faster as work orders than as violation reports.</p>')])
+     ('Can I report a common area that needs repair?', '<p>Use the <a href="/resources/maintenance-request">maintenance request form</a>. Repairs are handled faster as work orders than as violation reports.</p>')])
 
 fid = 'maintenance-form'
 resident_page('maintenance-request', 'Maintenance Request', 'Submit a Condo or HOA Maintenance Request',
@@ -1051,31 +1071,47 @@ resident_page('maintenance-request', 'Maintenance Request', 'Submit a Condo or H
      ('I rent my unit. Can my tenant submit a request?', '<p>Yes. Tenants can use this form for building and common-area issues. Repairs inside the unit generally go through the unit owner.</p>')], emergency=True)
 
 fid = 'nomination-form'
-resident_page('board-nomination', 'Board Nomination', 'Board of Directors Nomination Form',
-    'Nominate yourself or another owner for your condo or HOA board of directors. Eligibility and deadlines follow your bylaws and election notice.',
+resident_page('board-nomination', 'Board Nomination', 'Board Member Nomination Application',
+    'Apply to serve on your condominium or HOA board of directors. Submit your background, skills, and commitment for the nominating committee to review.',
     'Board <span class="serif">nomination.</span>',
-    'Nominate yourself or another owner for your association\'s board of directors. We pass every nomination to the board and include it in the election process your bylaws set.',
-    '<h2>How nominations work.</h2>'
-    '<p>Your association\'s bylaws and the election notice set who may serve, how many seats are open, and the deadline for nominations. Send your nomination before that deadline. Owners in good standing are generally eligible, but the specific rules for your community control, and management will tell you if a nomination cannot be accepted.</p>'
-    '<p>If you are nominating someone else, confirm with them first that they are willing to serve. A short candidate statement helps owners decide; if your association distributes statements with the ballot or meeting notice, we use the text you send.</p>'
+    'Board Member Nomination Application. Apply to serve on your condominium or HOA board of directors.',
+    '<h2>Board service information.</h2>'
+    '<p>Serving on your condominium or HOA board is a valuable way to contribute to your community. Board members make important decisions about the property\'s management, finances, and future direction while working with professional management.</p>'
+    '<h3>Board member responsibilities.</h3>'
+    '<ul><li>Attend regular board meetings, typically monthly</li><li>Review financial reports and budgets</li><li>Make decisions on maintenance and improvements</li><li>Address owner concerns and communications</li><li>Oversee compliance with the governing documents</li><li>Work with the property management company</li></ul>'
+    '<h3>Election process.</h3>'
+    '<p>Board positions are typically decided by the votes received at the annual election. All eligible unit owners may vote, and in many associations voting power is based on percentage of ownership. The nominating committee reviews applications and may interview candidates before presenting them to the owners for election. Your bylaws and the election notice set who may serve, how many seats are open, and the deadline for nominations.</p>'
     '<p>Learn more about <a href="/blog/illinois-condo-board-elections-proxies-ballots">Illinois board elections, proxies, and ballots</a> and how to prepare for the <a href="/blog/illinois-association-annual-meeting-guide">annual meeting</a>.</p>',
-    'Submit a nomination.', 'Include the nominee\'s name and unit, and a short statement about why they want to serve.',
-    form(fid, EMAIL, 'Board nomination', [
-        field(fid, 'text', 'name', 'Your name', True, auto='name', err='Please enter your name.'),
-        field(fid, 'email', 'email', 'Your email', True, auto='email'),
-        field(fid, 'tel', 'phone', 'Your phone', auto='tel'),
-        field(fid, 'text', 'unit', 'Your unit'),
-        field(fid, 'text', 'association', 'Association name', True, full=True, err='Please enter the association name.'),
-        field(fid, 'select', 'nominating', 'I am nominating', True, opts=['Myself', 'Another owner'], err='Please choose who you are nominating.'),
-        field(fid, 'text', 'nominee', 'Nominee name', True, err='Please enter the nominee\'s name.'),
-        field(fid, 'text', 'nominee_unit', 'Nominee unit'),
-        field(fid, 'email', 'nominee_email', 'Nominee email'),
-        field(fid, 'textarea', 'statement', 'Candidate statement or qualifications', ph='Background, skills, and why they want to serve'),
-        field(fid, 'check', 'willing', 'The nominee is willing to serve. If I am nominating someone else, I have confirmed this with them.', True, opts='Nominee willing to serve: Confirmed', err='Please confirm the nominee is willing to serve.'),
-    ], 'Send Nomination', 'Your email app opens with this nomination addressed to our office.'),
+    'Board Member Nomination Application.',
+    'Board positions are typically determined by the percentage of votes received during elections. This application helps the nominating committee evaluate candidates for board service.',
+    form(fid, EMAIL, 'Board Member Nomination Application', [
+        field(fid, 'heading', 'h1', 'Nominee information'),
+        field(fid, 'text', 'name', 'Full name', True, auto='name', ph='John Doe', err='Please enter your full name.'),
+        field(fid, 'email', 'email', 'Email address', True, auto='email'),
+        field(fid, 'tel', 'phone', 'Phone number', True, auto='tel', err='Please enter a phone number.'),
+        field(fid, 'text', 'unit', 'Unit address', True, ph='Unit 301, 123 Main St, Chicago, IL 60601', err='Please enter your unit address.'),
+        field(fid, 'text', 'years', 'Years at property', True, inputmode='numeric', err='Please enter how many years you have lived at the property.'),
+        field(fid, 'radios', 'status', 'Ownership status', True, opts=['Owner', 'Renter (if allowed by bylaws)'], err='Please choose your ownership status.'),
+        field(fid, 'heading', 'h2', 'Professional background'),
+        field(fid, 'text', 'employment', 'Current employment or profession', full=True, ph='For example: Software engineer at a technology company'),
+        field(fid, 'textarea', 'experience', 'Previous board or leadership experience', ph='Describe any previous experience serving on boards, committees, or in leadership positions'),
+        field(fid, 'textarea', 'skills', 'Relevant skills and expertise', True, ph='For example: financial management, legal background, construction or engineering, communication skills, property management', err='Please describe your relevant skills.'),
+        field(fid, 'heading', 'h3', 'Motivation and commitment'),
+        field(fid, 'textarea', 'why', 'Why do you want to serve on the board?', True, ph='Describe your motivation for serving and what you hope to contribute to the community', err='Please tell us why you want to serve.'),
+        field(fid, 'radios', 'meetings', 'Can you commit to attending monthly board meetings?', True, opts=['Yes', 'No', 'Mostly, with occasional conflicts'], err='Please choose an answer.'),
+        field(fid, 'heading', 'h4', 'References (optional)'),
+        field(fid, 'textarea', 'references', 'References', ph='Names and contact information of references, such as other unit owners or professional contacts'),
+        field(fid, 'heading', 'h5', 'Signature'),
+        field(fid, 'text', 'signature', 'Signature (type your full name)', True, full=True, err='Please type your full name as your signature.'),
+        field(fid, 'heading', 'h6', 'Acknowledgements'),
+        field(fid, 'check', 'ack1', 'I understand that board members have fiduciary duties to the association and must act in the best interests of all owners. I agree to comply with the association\'s governing documents and all applicable laws.', True, opts='Acknowledged: fiduciary duties and compliance with governing documents and law', err='Please check this box to continue.'),
+        field(fid, 'check', 'ack2', 'I understand that serving on the board requires a significant time commitment, including attending regular meetings, reviewing documents, and responding to association matters.', True, opts='Acknowledged: board service requires a significant time commitment', err='Please check this box to continue.'),
+        field(fid, 'check', 'ack3', 'I certify that the information provided in this application is true and accurate to the best of my knowledge.', True, opts='Certified: information is true and accurate to the best of my knowledge', err='Please check this box to continue.'),
+    ], 'Submit Board Nomination Application', 'Your email app opens with this application addressed to our office. The nominating committee reviews every application.'),
     [('When is the nomination deadline?', '<p>It is set by your bylaws and stated in the election notice. If you do not have the notice, call or email our office and we will tell you.</p>'),
-     ('Do I need to be an owner to serve?', '<p>In most associations directors must be unit owners, and some bylaws add requirements such as being current on assessments. Your governing documents decide.</p>'),
-     ('Will my nomination appear on the ballot?', '<p>Eligible nominations received before the deadline are included in the election process your bylaws describe. Some associations also accept nominations from the floor at the meeting.</p>')], emergency=False)
+     ('Do I need to be an owner to serve?', '<p>In most associations directors must be unit owners, and some bylaws add requirements such as being current on assessments. Renters can serve only if your bylaws allow it.</p>'),
+     ('Can I nominate another owner?', '<p>Yes. Confirm first that they are willing to serve, then ask them to complete this application themselves so the committee has their own answers and signature.</p>'),
+     ('Will my application appear on the ballot?', '<p>Eligible applications received before the deadline are included in the election process your bylaws describe. Some associations also accept nominations from the floor at the meeting.</p>')], emergency=False)
 
 fid = 'feedback-form'
 resident_page('share-feedback', 'Share Feedback', 'Share Feedback About CenterPoint Management',

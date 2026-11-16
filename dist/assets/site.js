@@ -28,15 +28,19 @@ const check=i=>{const v=(i.value||'').trim();if(i.type==='checkbox')return !i.re
 const mark=(i,good)=>{i.setAttribute('aria-invalid',!good);const fl=i.closest('.field');if(fl)fl.classList.toggle('bad',!good)};
 document.querySelectorAll('form.cp-form').forEach(f=>{
   f.addEventListener('input',e=>{const i=e.target;if(i.closest('.field.bad')&&check(i))mark(i,true)});
-  f.addEventListener('change',e=>{const i=e.target;if(i.closest('.field.bad')&&check(i))mark(i,true)});
+  f.addEventListener('change',e=>{const i=e.target;if(i.type==='radio'){const g=i.closest('[data-radio]');if(g){g.removeAttribute('aria-invalid');mark(g.querySelector('input'),true)}return}if(i.closest('.field.bad')&&check(i))mark(i,true)});
   f.addEventListener('submit',e=>{e.preventDefault();let first=null;
-    f.querySelectorAll('input,select,textarea').forEach(i=>{if(i.closest('[data-group]'))return;const good=check(i);mark(i,good);if(!good&&!first)first=i});
+    f.querySelectorAll('input,select,textarea').forEach(i=>{if(i.closest('[data-group],[data-radio]'))return;const good=check(i);mark(i,good);if(!good&&!first)first=i});
+    f.querySelectorAll('[data-radio][data-req]').forEach(g=>{const good=!!g.querySelector('input:checked');const i=g.querySelector('input');mark(i,good);g.setAttribute('aria-invalid',!good);if(!good&&!first)first=i});
     const note=f.querySelector('.fnote');
     if(first){if(note)note.textContent='Please fix the highlighted fields.';first.focus();return}
     const lines=[];
     f.querySelectorAll('.field').forEach(fl=>{
       const g=fl.querySelector('[data-group]');
       if(g){const v=[...g.querySelectorAll('input:checked')].map(x=>x.value);if(v.length)lines.push(g.dataset.group+': '+v.join(', '));return}
+      const r=fl.querySelector('[data-radio]');
+      if(r){const c=r.querySelector('input:checked');if(c)lines.push(r.dataset.radio+': '+c.value);return}
+      if(fl.classList.contains('fsec')){lines.push('\n'+fl.textContent.trim().toUpperCase());return}
       const i=fl.querySelector('input,select,textarea');if(!i)return;
       if(i.type==='checkbox'){if(i.checked)lines.push(i.dataset.l);return}
       const v=i.value.trim();if(!v)return;

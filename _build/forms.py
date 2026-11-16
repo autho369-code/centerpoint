@@ -30,6 +30,13 @@ def field(fid, kind, name, label, req=False, opts=None, full=False, auto='', ph=
     if kind == 'checks':
         boxes = ''.join(f'<label><input type="checkbox" name="{name}" value="{_esc(x)}">{_esc(x)}</label>' for x in opts)
         return f'<div class="{cls}"><span class="flabel" id="{i}">{label}</span><div class="checks" role="group" aria-labelledby="{i}" data-group="{_esc(label)}">{boxes}</div></div>'
+    if kind == 'heading':
+        return f'<div class="field full fsec"><h3>{label}</h3></div>'
+    if kind == 'radios':
+        dr = ' data-req' if req else ''
+        boxes = ''.join(f'<label><input type="radio" name="{name}" value="{_esc(x)}">{_esc(x)}</label>' for x in opts)
+        return (f'<div class="{cls}"><span class="flabel" id="{i}">{label}{star}</span>'
+                f'<div class="checks" role="radiogroup" aria-labelledby="{i}" data-radio="{_esc(label)}"{dr}>{boxes}</div>{e}</div>')
     if kind == 'check':
         return f'<div class="{cls}"><label class="consent"><input type="checkbox" id="{i}" name="{name}" data-l="{_esc(opts or label)}"{r}><span>{label}</span></label>{e}</div>'
     return f'<div class="{cls}">{lab}<input id="{i}" name="{name}" type="{kind}"{a}{p}{im}{r}>{e}</div>'

@@ -489,6 +489,11 @@ footer{background:#08142A;color:rgba(255,255,255,.68);padding:96px 0 36px;font-s
 .consent{display:flex;gap:12px;align-items:flex-start;font-size:15px;line-height:1.5;color:var(--ink);cursor:pointer}
 .consent input{accent-color:var(--navy);width:18px;height:18px;margin-top:3px;flex:none;padding:0}
 .field.bad .consent{color:#B3261E}
+.fsec{padding-top:10px;border-top:1px solid rgba(11,31,58,.08);margin-top:4px}
+.fsec:first-child{border-top:0;padding-top:0;margin-top:0}
+.fsec h3{font-size:13px;letter-spacing:.16em;text-transform:uppercase;font-weight:600;color:var(--navy);margin:0}
+.field.bad .checks label{box-shadow:inset 0 0 0 1px #B3261E}
+.law{font-size:14px;color:var(--ink-2,#4a5568);margin-top:8px}
 .field.bad input,.field.bad select,.field.bad textarea{box-shadow:inset 0 0 0 1.5px #B3261E}
 .chooser{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px}
 .choice{display:grid;grid-template-columns:44px 1fr 20px;gap:14px;align-items:center;padding:18px 20px;border-radius:22px;background:#fff;box-shadow:0 0 0 1px var(--hair);transition:background .4s var(--ease),color .4s var(--ease),transform .4s var(--ease)}
