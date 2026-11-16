@@ -1,0 +1,116 @@
+{
+ "path": "/blog/are-hoa-condo-rules-enforceable-illinois",
+ "title": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+ "description": "Illinois condo and HOA rules are enforceable — but only when properly adopted, reasonable, and consistently applied. Learn what makes a rule hold up and where boards go wrong.",
+ "lastmod": "2023-07-25",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+   "description": "Illinois condo and HOA rules are enforceable — but only when properly adopted, reasonable, and consistently applied. Learn what makes a rule hold up and where boards go wrong.",
+   "datePublished": "2023-07-25",
+   "dateModified": "2023-07-25",
+   "image": "https://www.stellarpropertygroup.com/blog/are-hoa-condo-rules-enforceable-illinois.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/are-hoa-condo-rules-enforceable-illinois"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · July 25, 2023 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Every Illinois community association has rules — and in nearly every association, someone is convinced those rules cannot be enforced. Smoking, pets, parking, leasing, balcony storage: these are the everyday flashpoints between boards and owners. So what does Illinois law actually say? The short answer is that association rules are generally enforceable, including reasonable fines — but enforceability is conditional, and boards lose cases when they ignore those conditions.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Yes — But Only If the Rule Is Valid",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A community association rule holds up in Illinois when it satisfies four tests. It must be <strong>authorized</strong> by the declaration and bylaws, <strong>reasonable</strong>, <strong>properly adopted</strong>, and <strong>consistently enforced</strong> with fair process. A rule that fails any one of these is vulnerable to challenge — and so is the fine attached to it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What Makes a Rule Enforceable",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Authorized.</strong> The governing documents must give the board the power to adopt the rule in the first place. Boards cannot invent authority they were never granted.",
+    "<strong>Reasonable.</strong> The rule must be rationally related to a legitimate community purpose — protecting property values, safety, or shared enjoyment.",
+    "<strong>Properly adopted.</strong> Rules must be adopted following the notice and meeting procedures in the Act and the governing documents. A rule decided informally by text or email, with no meeting, is on shaky ground.",
+    "<strong>Consistently enforced.</strong> Selective enforcement is one of the strongest defenses an owner can raise. If a rule is enforced against one owner while neighbors are ignored, it becomes very hard to defend.",
+    "<strong>Fair process.</strong> Before levying a fine, the association generally must give the owner written notice of the alleged violation and an opportunity to be heard."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Where Rules Commonly Run Into Trouble",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Some limits sit above the association's rulebook entirely. A blanket \"no pets\" policy, for example, cannot override the federal Fair Housing Act, which requires associations to allow assistance animals as a reasonable accommodation for residents with disabilities. Leasing and short-term-rental restrictions are generally permissible in Illinois, but they must be validly adopted, and boards should get legal advice on how a new restriction applies to current owners. The most common failure point, though, is simpler: rules adopted without a proper meeting, or enforced against one owner while others are ignored.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Boards Should Enforce Rules",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/adopting-enforcing-condo-hoa-rules-illinois\">Adopting and enforcing association rules</a>; <a href=\"/blog/illinois-association-fines-notice-hearing\">the notice and hearing required before a fine</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Sound enforcement is systematic, not personal. That means a clearly written rulebook owners have actually received, a consistent and documented violation process, graduated enforcement from notice to hearing to fine, and an enforcement policy reviewed by the association attorney. Professional <a href=\"/services/violation-management\">violation management</a> gives boards exactly that structure — fair, documented, and defensible. To put a consistent process in place, <a href=\"/contact\">contact Stellar Property Management</a>.",
+   "cls": ""
+  }
+ ]
+}

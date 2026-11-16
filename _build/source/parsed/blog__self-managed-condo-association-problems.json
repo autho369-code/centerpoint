@@ -1,0 +1,117 @@
+{
+ "path": "/blog/self-managed-condo-association-problems",
+ "title": "The Hidden Problems With Self-Managed Condo Associations",
+ "description": "Self-managed condo associations save on management fees but carry hidden risks — collections gaps, compliance exposure, weak accounting, and volunteer burnout. Learn when to hire a manager.",
+ "lastmod": "2024-06-11",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Hidden Problems With Self-Managed Condo Associations",
+   "description": "Self-managed condo associations save on management fees but carry hidden risks — collections gaps, compliance exposure, weak accounting, and volunteer burnout. Learn when to hire a manager.",
+   "datePublished": "2024-06-11",
+   "dateModified": "2024-06-11",
+   "image": "https://www.stellarpropertygroup.com/blog/self-managed-condo-association-problems.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/self-managed-condo-association-problems"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Property Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The Hidden Problems With Self-Managed Condo Associations",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · June 11, 2024 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "As management costs rise, more Illinois associations — especially smaller condo buildings — are choosing to self-manage. On paper, the appeal is obvious: skip the management fee, keep the money in the association. And for a small, stable building with engaged volunteers, self-management can work for a while. The problem is what stays hidden until it suddenly is not.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why Associations Self-Manage",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The motivation is almost always cost. A management fee feels like a line item a tight budget can eliminate, and a capable, generous volunteer can make it look effortless. But self-management does not remove the work or the legal obligations — it simply moves all of them onto unpaid neighbors.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For smaller buildings weighing that choice, our <a href=\"/services/small-condo-association-management\">small condo association management</a> page explains what full-service management covers.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Hidden Problems",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Collections gaps.</strong> Volunteers are understandably reluctant to lien a neighbor or pursue a delinquency aggressively. Inconsistent collections quietly starve the association's cash flow.",
+    "<strong>Compliance and legal risk.</strong> Missed meeting-notice requirements, improperly adopted rules, and mishandled owner record requests are easy mistakes that create real liability.",
+    "<strong>Weak financial controls.</strong> Funds get commingled, reconciliations slip, and books end up audit-unready — making fraud easier and financing harder.",
+    "<strong>Volunteer burnout.</strong> The work is relentless. When the one indispensable volunteer steps down, the association is left scrambling.",
+    "<strong>Vendor and insurance exposure.</strong> Without professional leverage, associations overpay vendors, hire uninsured contractors, and miss coverage gaps.",
+    "<strong>Loss of continuity.</strong> Institutional knowledge lives in one person's inbox — and leaves when they do."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "When an Association Should Bring In a Manager",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Self-management has a natural shelf life. Clear signals that it is time to bring in a professional include chronic delinquencies, visible board burnout, a looming capital project, a compliance scare, or simple growth in the size and complexity of the building. Professional management restores collections discipline, real financial controls, regulatory compliance, vendor leverage, and — critically — continuity that does not depend on a single volunteer.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/how-many-associations-should-community-manager-handle\">How many associations one manager should handle</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The goal is not to take authority away from the board. It is to give the board reliable execution and expert guidance so its decisions actually get carried out. To weigh whether professional condominium management is right for your association, <a href=\"/contact\">contact Stellar Property Management</a> for a straightforward conversation.",
+   "cls": ""
+  }
+ ]
+}

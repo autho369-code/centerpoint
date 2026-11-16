@@ -1,0 +1,472 @@
+{
+ "path": "/services/resale-disclosures",
+ "title": "Condo Resale Disclosures & Lender Letters | Stellar",
+ "description": "Section 22.1 packets, paid assessment letters, lender questionnaires and insurance certificates for Chicago condo and community associations — answered by a named person.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/resale-disclosures#service",
+   "name": "Condominium Resale Disclosures and Lender Requests",
+   "serviceType": "Association resale disclosure and lender documentation",
+   "url": "https://www.stellarpropertygroup.com/services/resale-disclosures",
+   "description": "Section 22.1 disclosure packets, paid assessment letters, lender questionnaires, certificates of insurance, and project eligibility questionnaires for Chicago condominium and community associations.",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Chicago"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "North Shore, Illinois"
+    }
+   ],
+   "audience": [
+    {
+     "@type": "Audience",
+     "audienceType": "Unit owners selling a condominium"
+    },
+    {
+     "@type": "Audience",
+     "audienceType": "Real estate agents"
+    },
+    {
+     "@type": "Audience",
+     "audienceType": "Real estate attorneys"
+    },
+    {
+     "@type": "Audience",
+     "audienceType": "Mortgage lenders and title companies"
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Resale Disclosures",
+     "item": "https://www.stellarpropertygroup.com/services/resale-disclosures"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What is a Section 22.1 disclosure?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Section 22.1 of the Illinois Condominium Property Act governs what a condominium association must disclose when an owner sells a unit. On a proper request from the selling owner or their agent, the association furnishes specified information about its finances, governing documents, insurance, and known obligations affecting the unit. The board is not asked to interpret the sale — only to produce accurate, current records within the timeframe the Act and the association’s governing documents establish."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Section 22.1 apply to my HOA or townhome association?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Often not, and boards get this wrong constantly. Section 22.1 sits in the Illinois Condominium Property Act, which governs condominiums. Many Illinois homeowner and townhome associations are governed instead by the Common Interest Community Association Act, a separate statute with its own disclosure and records provisions. Two boards on the same street can owe different things at resale. Your association’s counsel should confirm which statute governs you and how your declaration and recorded amendments interact with it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What documents does a closing usually require?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Most Chicago closings need some combination of the disclosure packet, a paid assessment letter confirming the unit’s account status, a lender questionnaire, a certificate of insurance naming the lender, and current governing documents with all recorded amendments. Condominium project questionnaires for Fannie Mae or Freddie Mac eligibility are increasingly requested as well, and those ask about reserves, deferred maintenance, litigation, and owner-occupancy."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who can request resale documents?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The selling owner, or someone acting on the owner’s behalf — typically their attorney or listing agent. Lenders and title companies generally request the questionnaire and insurance certificate directly. We ask for the unit address, the requesting party’s role, the closing date, and who should receive the completed package, so nothing waits on a clarifying email."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Why do resale packets get delayed?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Almost never for legal reasons. They are records problems: nobody can locate the declaration with all recorded amendments, the insurance certificate expired, the reserve figure in the packet does not match the balance sheet, or the request sat in a personal inbox for nine days. Every one of those is a records problem rather than a legal one, and preventable with a standing file and a named owner of the process."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar charge for resale documents?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Charges for resale and lender documentation are set by each association’s governing documents and board policy rather than by us, and Illinois regulates what may be charged in connection with these requests. We will tell you what applies to a specific building before any work begins. Contact us at 773.728.0652 or mirsad@stellarpropertygroup.com with the unit address."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "For Sellers, Agents, Attorneys &amp; Lenders",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h1",
+   "html": "Resale Disclosures &amp; <em>Lender Requests.</em>",
+   "cls": "text-balance font-display text-5xl font-light leading-[1.04] text-ink lg:text-6xl xl:text-7xl"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 packets, paid assessment letters, lender questionnaires and insurance certificates for the associations we manage. Tell us the unit and the closing date.",
+   "cls": "text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "What We Produce",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Everything a Chicago closing <em>actually asks for.</em>",
+   "cls": "font-display text-4xl font-light leading-tight text-ink lg:text-5xl"
+  },
+  {
+   "type": "p",
+   "html": "A resale request is rarely one document. Lenders, title companies and buyer attorneys each work from their own checklist, and a package that satisfies one can stall with another.",
+   "cls": "mt-7 text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Section 22.1 disclosure packet",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "The statutory disclosure a condominium association furnishes on a proper request from a selling owner — finances, governing documents, insurance, and known obligations affecting the unit.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Paid assessment letter",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Written confirmation of the unit account: current balance, assessment amount, any special assessment levied or pending, and amounts owed at closing.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Lender questionnaire",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "The association-level questions a lender asks before financing — insurance, litigation, delinquency rates, reserves, owner occupancy, and commercial space.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Certificate of insurance",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Evidence of the association’s master policy, issued naming the lender or title company as the closing file requires.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Governing documents",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "The recorded declaration with every amendment, bylaws, and current rules — the version that actually governs, not the copy circulating from a prior sale.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Project eligibility questionnaires",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Fannie Mae and Freddie Mac condominium project questionnaires, which increasingly decide whether a buyer’s financing survives underwriting.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "The Distinction Most Miss",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-300"
+  },
+  {
+   "type": "h2",
+   "html": "“22.1” does not apply to <em>every association.</em>",
+   "cls": "mb-8 font-display text-4xl font-light leading-[1.08] lg:text-5xl"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 sits in the Illinois Condominium Property Act, which governs condominiums. Many Illinois homeowner and townhome associations are governed instead by the Common Interest Community Association Act — a separate statute with its own disclosure and records provisions.",
+   "cls": "font-light leading-relaxed text-paper/70"
+  },
+  {
+   "type": "p",
+   "html": "Two boards on the same street can owe different things at resale. When a request arrives labelled “22.1 disclosure” to an association governed by CICAA, the association still has to respond — but with what its governing statute and recorded documents actually require, not with a form copied from a condominium file.",
+   "cls": "mb-6 font-light leading-relaxed text-paper/70"
+  },
+  {
+   "type": "p",
+   "html": "We confirm which statute governs an association before drafting anything, and we flag to counsel any request touching pending litigation or an assessment not yet levied. Boards should have their association attorney confirm how the governing statute, the declaration, and any recorded amendments interact for their specific property.",
+   "cls": "mb-8 font-light leading-relaxed text-paper/70"
+  },
+  {
+   "type": "p",
+   "html": "What the Act sets for condominiums",
+   "cls": "mb-4 text-[10px] uppercase tracking-luxe text-gold-300"
+  },
+  {
+   "type": "dt",
+   "html": "Response time",
+   "cls": "w-36 shrink-0 text-paper/50"
+  },
+  {
+   "type": "dd",
+   "html": "10 business days from a proper request",
+   "cls": "text-paper/85"
+  },
+  {
+   "type": "dt",
+   "html": "Fee cap",
+   "cls": "w-36 shrink-0 text-paper/50"
+  },
+  {
+   "type": "dd",
+   "html": "$375, adjusted annually by CPI since 2023",
+   "cls": "text-paper/85"
+  },
+  {
+   "type": "dt",
+   "html": "Rush service",
+   "cls": "w-36 shrink-0 text-paper/50"
+  },
+  {
+   "type": "dd",
+   "html": "Up to $100 additional for completion within 72 hours",
+   "cls": "text-paper/85"
+  },
+  {
+   "type": "p",
+   "html": "Set by 765 ILCS 605/22.1 as amended effective 1 January 2023. Figures apply to condominium associations; confirm the current CPI-adjusted cap and how it applies to your association with counsel.",
+   "cls": "mt-5 text-xs leading-relaxed text-paper/50"
+  },
+  {
+   "type": "p",
+   "html": "How To Request",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Tell us the unit and the <em>closing date.</em>",
+   "cls": "font-display text-4xl font-light leading-tight text-ink lg:text-5xl"
+  },
+  {
+   "type": "h3",
+   "html": "Selling owners",
+   "cls": "mb-3 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Request through your attorney or listing agent, or contact us directly. Give us the unit address and target closing date and we will tell you what your building requires.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Listing agents",
+   "cls": "mb-3 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Send the unit address, closing date, and where the package should be delivered.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Attorneys",
+   "cls": "mb-3 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Tell us which statute you are working under if the association is not a condominium — it changes what we produce.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Lenders &amp; title",
+   "cls": "mb-3 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Questionnaire and insurance certificate requests come to us directly. Name the underwriting deadline in the request.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "We produce these documents for associations Stellar manages. If your building is managed by another firm, the request goes to them — but if you are a board weighing a change because resale requests keep stalling, that is worth a conversation.",
+   "cls": "mt-10 max-w-3xl text-sm font-light leading-relaxed text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Why Packets Stall",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Almost never a legal problem. <em>A records problem.</em>",
+   "cls": "mb-7 font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Nobody can locate the declaration with every recorded amendment. The insurance certificate expired two months ago. The reserve figure in the packet does not match the balance sheet. The request sat in a personal inbox while a closing date moved. None of these are legal problems, and all of them are avoidable.",
+   "cls": "font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Questions worth asking your manager",
+   "cls": "mb-5 text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Which statute governs the association — the Condominium Property Act or CICAA",
+    "Who specifically produces the packet, and what happens when that person is away",
+    "Where the recorded declaration and every amendment are kept",
+    "Whether the reserve and balance figures are reconciled to the financial statements",
+    "What the association’s governing documents and board policy allow to be charged",
+    "How requests are acknowledged, and what turnaround the board has agreed to"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Resale and lender questions we answer weekly.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What is a Section 22.1 disclosure?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 of the Illinois Condominium Property Act governs what a condominium association must disclose when an owner sells a unit. On a proper request from the selling owner or their agent, the association furnishes specified information about its finances, governing documents, insurance, and known obligations affecting the unit. The board is not asked to interpret the sale — only to produce accurate, current records within the timeframe the Act and the association’s governing documents establish.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does Section 22.1 apply to my HOA or townhome association?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Often not, and boards get this wrong constantly. Section 22.1 sits in the Illinois Condominium Property Act, which governs condominiums. Many Illinois homeowner and townhome associations are governed instead by the Common Interest Community Association Act, a separate statute with its own disclosure and records provisions. Two boards on the same street can owe different things at resale. Your association’s counsel should confirm which statute governs you and how your declaration and recorded amendments interact with it.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What documents does a closing usually require?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Most Chicago closings need some combination of the disclosure packet, a paid assessment letter confirming the unit’s account status, a lender questionnaire, a certificate of insurance naming the lender, and current governing documents with all recorded amendments. Condominium project questionnaires for Fannie Mae or Freddie Mac eligibility are increasingly requested as well, and those ask about reserves, deferred maintenance, litigation, and owner-occupancy.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Who can request resale documents?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "The selling owner, or someone acting on the owner’s behalf — typically their attorney or listing agent. Lenders and title companies generally request the questionnaire and insurance certificate directly. We ask for the unit address, the requesting party’s role, the closing date, and who should receive the completed package, so nothing waits on a clarifying email.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Why do resale packets get delayed?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Almost never for legal reasons. They are records problems: nobody can locate the declaration with all recorded amendments, the insurance certificate expired, the reserve figure in the packet does not match the balance sheet, or the request sat in a personal inbox for nine days. Every one of those is a records problem rather than a legal one, and preventable with a standing file and a named owner of the process.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does Stellar charge for resale documents?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Charges for resale and lender documentation are set by each association’s governing documents and board policy rather than by us, and Illinois regulates what may be charged in connection with these requests. We will tell you what applies to a specific building before any work begins. Contact us at 773.728.0652 or mirsad@stellarpropertygroup.com with the unit address.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Association Finance &amp; Reserves",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Budgets, reserves, assessments, disclosures, collections, insurance, loans, and financial reporting.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

@@ -1,0 +1,238 @@
+{
+ "path": "/blog/verify-illinois-community-association-manager-license",
+ "title": "How to Verify an Illinois Community Association Manager Lic…",
+ "description": "A step-by-step guide for Illinois condo and HOA boards on verifying community association manager and management firm licensure through IDFPR before signing an agreement.",
+ "lastmod": "2026-09-10",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How to Verify an Illinois Community Association Manager License",
+   "description": "A step-by-step guide for Illinois condo and HOA boards on verifying community association manager and management firm licensure through IDFPR before signing an agreement.",
+   "datePublished": "2026-09-10",
+   "dateModified": "2026-09-10",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/verify-illinois-community-association-manager-license"
+   },
+   "citation": [
+    "https://idfpr.illinois.gov/profs/cam.html",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "How to Verify an Illinois Community Association Manager License",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 10, 2026 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "To verify an Illinois community association manager license, use the license lookup maintained by the Illinois Department of Financial and Professional Regulation. Search for the individual manager assigned to your association and, separately, for the management firm, since Illinois licenses both individuals and firms. Confirm the license status, the exact legal name, and the expiration date, then save a dated screenshot or printout in your association records.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Do this before you sign, not after. Boards routinely verify a company's reputation and never check the credential the state actually issues. It is a short task with real consequences, and it is one of the few due-diligence steps you can complete yourself, for free, in a few minutes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Licenses Both Individuals and Firms",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois regulates community association management through IDFPR. Individual managers hold a community association manager license, and management companies hold a separate firm-level license or registration. Verifying only one leaves a gap.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A practical example: a well-known firm is properly licensed, but the person assigned to your building is newly hired and not yet licensed individually. The proposal did not mention this and the board never asked. Check both, by name.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Get the exact legal name first",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Lookup tools search on the name as filed with the state, which is often not the brand name on the proposal. Before searching, ask the firm in writing for its exact licensed legal entity name, its license number, the assigned manager's full legal name, and that manager's license number. A licensed firm will provide all four without hesitation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What to Confirm in the Lookup Results",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Status shows as active rather than expired, inactive, or lapsed.",
+    "The legal name matches the entity that will actually sign your agreement.",
+    "The license number matches what the firm provided.",
+    "The expiration date is noted, so you know when to re-verify.",
+    "Any disciplinary history or public action associated with the license or licensee."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "If a result is ambiguous, if names do not match, or if you cannot locate a record, contact IDFPR directly rather than assuming a data-entry issue. The department is the authoritative source for licensure questions, including which activities require a license and what exemptions may exist.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Distinguish State Licensure From Professional Designations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards often see credentials such as CAM, CMCA, and AMS in proposals and marketing. Professional designations reflect industry education and experience and are meaningful in evaluating a manager's background, but they are distinct from an Illinois state license. Designations are conferred by industry organizations; the license is issued by the state.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Evaluate both. A manager with strong designations and no active state license is a problem. A manager with an active license and no designations is not necessarily a problem, but it is a reasonable question to raise about training and continuing education.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build Verification Into Your Process",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "During the search",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Request license information in your RFP so every proposal includes it in a comparable format. Verify each finalist before interviews so the conversation is about fit, not credentials.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "At contract signing",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Confirm the licensed entity name in the lookup matches the party on the agreement. Firms operating under a brand name may sign as a different legal entity, and the board should know which entity it is contracting with.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "On an annual cycle",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Licenses expire. Add an annual re-verification to your compliance calendar, along with a step to re-verify whenever your assigned manager changes. Save each verification with a date in the association records.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Request exact legal entity name, firm license number, assigned manager's full legal name, and manager license number in writing.",
+    "Verify both the firm and the individual manager through the IDFPR lookup.",
+    "Confirm active status, matching names, license numbers, and expiration dates.",
+    "Review any public disciplinary history.",
+    "Contact IDFPR directly if anything is ambiguous or missing.",
+    "Treat professional designations as supplemental to, not a substitute for, state licensure.",
+    "Confirm the licensed entity matches the party signing the management agreement.",
+    "Save dated verification records with the association's files.",
+    "Re-verify annually and whenever the assigned manager changes."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Where Licensure Fits in Overall Due Diligence",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Licensure is a threshold check, not the whole evaluation. Once a firm clears it, the real work is scope, fee transparency, financial controls, response standards, and references from associations similar to yours in size and type. Condominiums, homeowner associations, and townhome communities each carry different operating realities, which is why we maintain distinct <a href=\"/services/condominium-management\">condominium</a>, HOA, and townhome programs.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois association boards and is not legal advice. Licensing requirements, exemptions, and lookup procedures are administered by IDFPR and may change; confirm current requirements with the agency. Governance obligations also differ between the Illinois Condominium Property Act and CICAA, and your declaration and bylaws may add requirements. Consult association counsel for interpretation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Ask Us Anything About Credentials",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/community-association-management-agreement-review\">Reviewing a management agreement</a>; <a href=\"/blog/switch-condo-management-companies-chicago\">a controlled change of manager</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "We are happy to provide our licensure information and walk your board through verifying it, whether or not you are considering us. Stellar Property Management serves boards throughout <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Contact us</a> for a consultation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR Community Association Manager Licensing</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "path": "/property-management-gold-coast",
+ "title": "Condo & HOA Management in Gold Coast, Chicago | Stellar",
+ "description": "Condo, HOA & townhome association management in Gold Coast, Chicago (ZIP 60610, 60611). Dedicated local manager, flat-fee pricing, 24/7 response.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "name": "Condo and HOA Management in Gold Coast, Chicago",
+   "description": "Condo, HOA & townhome association management in Gold Coast, Chicago (ZIP 60610, 60611). Dedicated local manager, flat-fee pricing, 24/7 response.",
+   "url": "https://www.stellarpropertygroup.com/property-management-gold-coast",
+   "serviceType": "Community Association Management",
+   "areaServed": {
+    "@type": "Place",
+    "name": "Gold Coast, Chicago, IL"
+   },
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Service Areas",
+     "item": "https://www.stellarpropertygroup.com/service-areas"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Gold Coast",
+     "item": "https://www.stellarpropertygroup.com/property-management-gold-coast"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.stellarpropertygroup.com/property-management-gold-coast#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Stellar manage landmark and vintage buildings in the Gold Coast?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. We manage vintage condominium associations where exterior alterations require Commission on Chicago Landmarks review, coordinating approvals, specialty masons, and phased capital plans that respect both the architecture and the budget."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar Property Management serve Gold Coast?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Gold Coast, Chicago (ZIP 60610, 60611), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What types of community associations does Stellar manage in Gold Coast?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar's association-management model is designed for condominiums, high-rises, HOAs in Gold Coast. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does association management cost in Gold Coast?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Gold Coast association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do we switch our Gold Coast association to Stellar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How should a Gold Coast board choose a condo or HOA management company?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Gold Coast can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Atlas · Chicago",
+   "cls": "reveal-up eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condo &amp; HOA Management in <em>Gold Coast,</em> Chicago",
+   "cls": "reveal-up reveal-delay-1 font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] mb-10 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "The Gold Coast is Chicago's most exclusive residential neighborhood, featuring historic mansions, landmark buildings, and luxury high-rises along Lake Shore Drive. Property management here sets the highest standard, requiring expertise in historic preservation, premium vendor relationships, and discreet, professional service. We are proud to manage some of the Gold Coast's most distinguished addresses.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Our Services in <em>Gold Coast.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Comprehensive property management tailored to the unique needs of Gold Coast associations.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management in Gold Coast",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Full-service condominium association management for Gold Coast boards — financials, governance, maintenance, and 24/7 response.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "High-Rise Management in Gold Coast",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Staffing, building systems, facade and life-safety compliance, and capital planning for Gold Coast high-rises.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "HOA Management in Gold Coast",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Homeowner association management for Gold Coast communities — common areas, covenant enforcement, budgets, and board support.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Management in Gold Coast",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Transparent budgeting, assessments, reserve planning, and monthly financial reporting for Gold Coast associations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Stellar Difference",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Why Choose Stellar for Gold Coast Property <em>Management.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "We combine a focused Chicagoland portfolio with building-specific operating plans, transparent financial reporting, and direct board accountability.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Local Expertise",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Deep knowledge of Chicago neighborhoods, building codes, and local vendor networks.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Proven Track Record",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "A focused portfolio of 29 associations and approximately 1,422 residences across Chicago and the North Shore.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Transparent Communication",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Real-time reporting, online portals, and responsive service your board can count on.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Tailored Solutions",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Management plans customized to your building size, budget, and community needs.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Local File",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What managing Gold Coast actually <em>takes.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Every community has its own building stock, rules, and rhythms. This is the on-the-ground knowledge we bring to Gold Coast associations.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Landmark addresses",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "From the Astor Street District's rowhouses to the East Lake Shore Drive Historic District's grand facades, exterior work here routinely runs through Chicago landmark review. We manage the approvals path alongside the contractors.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Pre-war building systems",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Steam heat, original elevator cabs, and hand-laid masonry demand engineers and specialty trades who know pre-war buildings. We maintain those vendor relationships and plan facade critical examinations years in advance.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Full front-of-house operations",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Many Gold Coast buildings run door staff around the clock. We coordinate staffing, scheduling, and payroll administration while protecting the service culture residents of these addresses expect.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Gold Coast · Questions, Answered",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Gold Coast boards ask us <em>first.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar manage landmark and vintage buildings in the Gold Coast?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. We manage vintage condominium associations where exterior alterations require Commission on Chicago Landmarks review, coordinating approvals, specialty masons, and phased capital plans that respect both the architecture and the budget.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar Property Management serve Gold Coast?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Gold Coast, Chicago (ZIP 60610, 60611), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "What types of community associations does Stellar manage in Gold Coast?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar's association-management model is designed for condominiums, high-rises, HOAs in Gold Coast. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How much does association management cost in Gold Coast?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Gold Coast association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do we switch our Gold Coast association to Stellar?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How should a Gold Coast board choose a condo or HOA management company?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Gold Coast can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Resource Path",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Guidance for Gold Coast boards.",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "A balanced selection of management, finance, governance, and building guidance for associations in this community.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas, Continued",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Explore Nearby <em>Neighborhoods.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Old Town",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Old Town is one of Chicago's oldest and most charming neighborhoods, known for its comedy clubs, historic row houses, and the iconic Old Town Triangle. Property management here involves caring for architecturally significant buildings while meeting modern resident expectations. Our experience with vintage properties makes us an excellent fit for Old Town associations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Loop",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "The Loop is Chicago's central business district, where an increasing number of commercial buildings have been converted to residential condominiums and new luxury towers continue to rise. Property management in the Loop requires expertise in mixed-use buildings, 24/7 operations, and coordination with commercial tenants. We excel at managing the unique complexities of downtown living.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "South Loop",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "The South Loop has transformed from an industrial area into one of Chicago's most popular residential neighborhoods, anchored by Museum Campus and Grant Park. The area features many newer construction high-rises with extensive amenity packages that require skilled management. We help South Loop boards navigate the challenges of managing modern, amenity-rich buildings.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Gold Coast Property <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Contact us today for a free, no-obligation consultation and proposal tailored to your association's needs.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

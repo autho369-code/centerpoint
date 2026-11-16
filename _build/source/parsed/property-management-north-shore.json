@@ -1,0 +1,538 @@
+{
+ "path": "/property-management-north-shore",
+ "title": "North Shore Condo & HOA Management | Stellar",
+ "description": "North Shore condominium, HOA and townhome management from $20 per unit monthly. Serving Evanston, Wilmette, Glenview, Northbrook and nearby communities.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/property-management-north-shore#service",
+   "name": "North Shore Community Association Management",
+   "description": "Condominium, HOA, and townhome association management across Chicago's North Shore.",
+   "url": "https://www.stellarpropertygroup.com/property-management-north-shore",
+   "serviceType": "Community Association Management",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Glenview, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Evanston, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Skokie, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Lincolnwood, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Morton Grove, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Norridge, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Wilmette, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Winnetka, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Highland Park, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Northbrook, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Glencoe, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Kenilworth, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Lake Forest, Illinois"
+    },
+    {
+     "@type": "City",
+     "name": "Deerfield, Illinois"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "minPrice": 20,
+     "priceCurrency": "USD",
+     "unitText": "unit per month"
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Service Areas",
+     "item": "https://www.stellarpropertygroup.com/service-areas"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "North Shore",
+     "item": "https://www.stellarpropertygroup.com/property-management-north-shore"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Which North Shore communities does Stellar serve?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar serves condominium, HOA, and townhome associations in Glenview, Evanston, Skokie, Lincolnwood, Morton Grove, Norridge, Wilmette, Winnetka, Highland Park, Northbrook, Glencoe, Kenilworth, Lake Forest, Deerfield. Service is coordinated from our Chicago office at 5107 N Western Ave #1S."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does North Shore association management cost?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Management starts at $20 per unit per month. Each association receives a flat monthly proposal based on its size, amenities, staffing, financial complexity, and service scope. Stellar does not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar manage both condominiums and townhome communities?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar manages condominium associations, homeowner associations, and townhome communities. The operating plan is adapted to the property type, from shared mechanical systems in condominium buildings to roofs, siding, landscaping, and private roads in townhome associations."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How does a North Shore board switch management companies?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "After approval and contract signing, Stellar coordinates a structured 30–60 day transition covering records, banking, vendors, owner communication, and board and resident portals. The exact schedule depends on the current contract and the condition of the association records."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Chicago's North Shore",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "North Shore Property <em>Management.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Condominium, HOA, and townhome association management for North Shore boards that expect clear financials, proactive maintenance, and direct accountability.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The Operating Priorities",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Built for North Shore <em>associations.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "From lakefront condominium buildings to multi-phase townhome communities, the management plan follows the property—not a generic portfolio playbook.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome &amp; HOA Operations",
+   "cls": "font-display text-2xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Coordinated exterior maintenance, landscaping, snow response, shared infrastructure, and owner communication across multi-building communities.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management",
+   "cls": "font-display text-2xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Dedicated management for boutique, mid-rise, and lakefront condominium associations, with board-ready reporting and responsive resident support.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Reserve &amp; Capital Planning",
+   "cls": "font-display text-2xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Multi-year planning for roofs, siding, private roads, mechanical systems, and other major common-element projects—without a separate oversight fee from Stellar.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Maintenance Coordination",
+   "cls": "font-display text-2xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Preventive schedules, competitive vendor bids, project coordination, and a 24/7 line for urgent building conditions.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "North Shore Service Area",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "One regional hub. <em>Local detail.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Each community page covers its property mix, ZIP codes, and operating context. We do not claim a separate office in every municipality.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Glenview",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60025 · 60026",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Glenview blends established tree-lined neighborhoods with newer master-planned communities like The Glen, creating steady demand for professional townhome and condominium association management. Associations here expect polished common areas, proactive reserve planning, and vendors who show up on time. We bring North Shore-calibre service to Glenview communities of every size, from boutique condo buildings to large multi-phase HOAs.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Evanston",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60201 · 60202",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Evanston is the North Shore's most vibrant lakefront city, home to Northwestern University, a thriving downtown, and an exceptional mix of vintage lakefront condominiums, mid-century courtyard buildings, and modern transit-oriented developments. Property management in Evanston requires fluency with the city's own landlord-tenant and building regulations layered on top of Illinois condominium law. We serve Evanston associations with the responsive, detail-driven management its engaged, well-informed boards expect.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Skokie",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60076 · 60077",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Skokie is one of Chicagoland's most diverse and well-run suburbs, with a strong stock of condominium buildings, townhome communities, and homeowner associations near the Yellow Line and Old Orchard corridor. Boards in Skokie value fiscal discipline and clear communication, and our management approach delivers both — transparent budgets, dependable maintenance, and multilingual resident support where communities need it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Lincolnwood",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60712",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Lincolnwood is a compact Cook County village between Chicago's far North Side and Skokie, a short drive from our Lincoln Square office. Its condominium buildings and townhome communities sit close to Touhy Avenue and the Lincolnwood Town Center area, and their boards need the same things city boards do: accurate books, dependable vendors, and a manager who answers. We bring Chicago-office responsiveness to Lincolnwood associations without a downtown-firm overhead.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Morton Grove",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60053",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Morton Grove is a Cook County village west of Skokie with its own Metra station on the Milwaukee District North Line and a mix of condominium buildings, townhome communities, and homeowner associations. Many of its associations are long-established and now facing the expensive decade of roofs, masonry, and mechanical replacements. We help Morton Grove boards plan those projects, keep reserves honest, and keep owners informed.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Norridge",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60706",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Norridge is a Cook County village on Chicago's northwest edge, home to the Harlem Irving Plaza and a residential mix that includes condominium buildings and townhome communities. Boards here tend to be small, volunteer-run, and stretched thin, which makes reliable bookkeeping, vendor follow-through, and clear owner communication the difference between a calm year and a hard one. We give Norridge associations a dedicated manager and a flat, published price.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Wilmette",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60091",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Wilmette is a premier North Shore village known for its lakefront beauty, top-rated schools, and meticulously maintained housing stock, including elegant vintage condominium buildings near the Metra and CTA. Boards in Wilmette hold high standards for appearance, communication, and financial stewardship. We manage Wilmette properties with the discretion and precision this distinguished community expects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Winnetka",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60093",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Winnetka is among the most prestigious addresses on the North Shore, with landmark estates, refined village-center condominiums, and associations that expect white-glove attention to every detail. Property management here means premium vendor relationships, immaculate common areas, and board reporting polished enough for the financially sophisticated residents who call Winnetka home.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Highland Park",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60035",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Highland Park pairs dramatic lakefront ravines and a celebrated arts scene with a diverse mix of condominium buildings, townhome enclaves, and homeowner associations. Managing property here requires sensitivity to mature landscaping, ravine and bluff maintenance, and the high service expectations of long-tenured owners. We deliver attentive, proactive management worthy of one of the North Shore's flagship communities.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Northbrook",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60062",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Northbrook is a thriving suburb with an exceptional concentration of townhome and condominium associations built from the 1970s through today — many now facing major capital projects like roofing, siding, and private road replacement. Our strength in reserve planning and capital project oversight makes us a natural partner for Northbrook boards navigating aging infrastructure with confidence.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Glencoe",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60022",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Glencoe is an intimate lakefront village renowned for the Chicago Botanic Garden, outstanding schools, and some of the North Shore's most carefully preserved residential architecture. Its boutique condominium buildings and small associations benefit from hands-on, personal management rather than big-firm bureaucracy — exactly the model Stellar was built on.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Kenilworth",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60043",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Kenilworth is the smallest and one of the most exclusive villages on the North Shore, a designated historic district where property stewardship is taken seriously at every level. Associations here require discreet, meticulous management with uncompromising attention to architectural character and resident privacy — a standard we are proud to uphold.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Lake Forest",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60045",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Lake Forest is the North Shore's grande dame — historic estates, a landmark Market Square, and a tradition of exacting property standards dating back more than a century. Condominium and homeowner associations in Lake Forest expect institutional-quality financial reporting with country-club-level service. We manage Lake Forest properties with the polish and rigor this storied community demands.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "h3",
+   "html": "Deerfield",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors mb-3"
+  },
+  {
+   "type": "p",
+   "html": "60015",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400 mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Deerfield is a family-oriented North Shore suburb with strong schools, a walkable downtown, and a substantial base of townhome and condominium associations along the Milwaukee District North line. Boards here value straightforward communication, competitive vendor pricing, and budgets that hold. We give Deerfield communities dependable, professional management without the overhead of the national chains.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-3"
+  },
+  {
+   "type": "p",
+   "html": "Transparent by Design",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "A clear fee model for <em>board planning.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-7"
+  },
+  {
+   "type": "p",
+   "html": "Management starts at $20 per unit per month. Capital-project planning and management oversight are not billed as a separate Stellar fee.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "h3",
+   "html": "Local rules still matter.",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "p",
+   "html": "North Shore municipalities maintain their own permit, property-maintenance, and building-code processes. A board should confirm the current local requirements before authorizing common-element work.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Stellar coordinates vendors and project administration; association counsel, engineers, architects, reserve specialists, and municipal officials remain the appropriate sources for legal and technical determinations.",
+   "cls": "text-sm text-slate-500 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "Questions, Answered",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What North Shore boards ask <em>first.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-12"
+  },
+  {
+   "type": "h3",
+   "html": "Which North Shore communities does Stellar serve?",
+   "cls": "font-display text-lg lg:text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Stellar serves condominium, HOA, and townhome associations in Glenview, Evanston, Skokie, Lincolnwood, Morton Grove, Norridge, Wilmette, Winnetka, Highland Park, Northbrook, Glencoe, Kenilworth, Lake Forest, Deerfield. Service is coordinated from our Chicago office at 5107 N Western Ave #1S.",
+   "cls": "pb-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "How much does North Shore association management cost?",
+   "cls": "font-display text-lg lg:text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Management starts at $20 per unit per month. Each association receives a flat monthly proposal based on its size, amenities, staffing, financial complexity, and service scope. Stellar does not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses.",
+   "cls": "pb-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar manage both condominiums and townhome communities?",
+   "cls": "font-display text-lg lg:text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar manages condominium associations, homeowner associations, and townhome communities. The operating plan is adapted to the property type, from shared mechanical systems in condominium buildings to roofs, siding, landscaping, and private roads in townhome associations.",
+   "cls": "pb-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "How does a North Shore board switch management companies?",
+   "cls": "font-display text-lg lg:text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "After approval and contract signing, Stellar coordinates a structured 30–60 day transition covering records, banking, vendors, owner communication, and board and resident portals. The exact schedule depends on the current contract and the condition of the association records.",
+   "cls": "pb-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "A Board-Level Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Bring clearer management to your <em>North Shore community.</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "We will review your property, current operating model, and board priorities before preparing a tailored proposal.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12"
+  }
+ ]
+}

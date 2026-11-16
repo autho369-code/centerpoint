@@ -1,0 +1,170 @@
+{
+ "path": "/blog/condo-master-policy-vs-ho6-board-guide",
+ "title": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+ "description": "Illinois condo boards: how the association master policy and an owner HO-6 policy fit together, what the declaration controls, and how to communicate coverage gaps.",
+ "lastmod": "2026-08-24",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+   "description": "Illinois condo boards: how the association master policy and an owner HO-6 policy fit together, what the declaration controls, and how to communicate coverage gaps.",
+   "datePublished": "2026-08-24",
+   "dateModified": "2026-08-24",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-master-policy-vs-ho6-board-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 24, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer boards should be able to give any owner: the association's <strong>master policy</strong> covers the property the association is responsible for insuring under the Illinois Condominium Property Act and your declaration, while an owner's <strong>HO-6 policy</strong> covers the owner's personal property, personal liability, additional living expense, and typically the portions of the unit and improvements the master policy does not. The dividing line is not universal. It comes from your declaration read alongside the statute, which is why the board should point owners to those documents and to their own insurance agent rather than issuing coverage opinions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards get into trouble when they answer coverage questions informally. A director who tells an owner \"the association covers your floors\" has created an expectation that can survive a denied claim. The productive board role is <em>education and documentation</em>: explain the structure, publish the association's deductible, describe how loss assessment can arise, and repeat it annually so owners can bring accurate information to their own agent.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What the Master Policy Generally Does",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The association's policy is purchased for the benefit of the association and the unit owners in the categories the governing documents and statute assign to it. Typical components include property coverage on the insured portions of the building, general liability for the common elements, and often directors and officers coverage purchased separately. Associations may also carry fidelity/crime, umbrella, equipment breakdown, and, where applicable, flood coverage.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Deductibles Are the Practical Issue",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Most owner frustration is really about deductibles. Property deductibles on association policies can be substantial, and the question of who bears that cost after a loss originating in a unit is governed by your declaration and applicable Illinois law, not by fairness intuitions. Ask association counsel to review your declaration's damage-and-repair and insurance provisions, then publish a plain-language summary. If your declaration is silent or ambiguous, that is a finding the board should act on rather than ignore.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What an Owner HO-6 Policy Generally Does",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "An owner's condominium unit-owners policy typically addresses personal property, personal liability, loss of use, and coverage for building property within the unit that the master policy does not insure. Two options owners should discuss with their own agent are <strong>loss assessment coverage</strong>, which may respond when the association levies an assessment following a covered loss, and coverage sized to the association's deductible. Boards can name these concepts without recommending limits.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Condominium Act vs. CICAA",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations are governed primarily by the Illinois Condominium Property Act. Many townhome and single-family common interest communities are instead governed by the Common Interest Community Association Act, which has its own framework and does not simply mirror the condominium statute. Insurance obligations, repair responsibilities, and owner disclosure rights can differ meaningfully between the two, and in every case the declaration and bylaws control specifics the statute leaves open. Confirm with association counsel which statute applies to your community before adopting an insurance communication.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Communication Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Obtain a current certificate of insurance and a written summary of the master policy from your agent each renewal.",
+    "Publish the association's property deductible amount to owners in writing, annually.",
+    "Distribute a one-page \"what the master policy insures / what to discuss with your agent\" summary, reviewed by counsel.",
+    "Ask counsel to confirm the declaration's allocation of repair and deductible responsibility, and to flag ambiguities.",
+    "Require proof of owner HO-6 coverage if, and only to the extent, your governing documents authorize it.",
+    "Review association coverage lines annually: property, liability, D and O, fidelity/crime, umbrella, and flood where applicable.",
+    "Route all coverage questions from owners to their own agent, and all claim decisions to the association's agent and counsel.",
+    "Record insurance decisions and the reasoning in board minutes."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Make It an Annual Habit",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Insurance education works best as a yearly rhythm tied to renewal. Our board support and <a href=\"/services/financial-management\">financial management</a> services help boards in condominium, HOA, and townhome communities keep documentation, renewal calendars, and owner communications organized across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is educational information for association boards, not legal or insurance advice. Coverage depends on your policy language and governing documents; consult your association counsel and licensed insurance professional.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/condo-hoa-insurance-renewal-checklist\">An insurance renewal checklist for boards</a>; <a href=\"/blog/illinois-association-fidelity-insurance-requirements\">fidelity coverage for the association and its manager</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Need help building an owner insurance communication your counsel can approve? <a href=\"/contact\">Request a consultation</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

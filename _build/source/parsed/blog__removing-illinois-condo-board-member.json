@@ -1,0 +1,314 @@
+{
+ "path": "/blog/removing-illinois-condo-board-member",
+ "title": "Removing a Condo Board Member in Illinois: What Owners and…",
+ "description": "How a condo board member is removed in Illinois: bylaws, the two-thirds owner vote under the Not For Profit Act, court removal, and what boards can’t do.",
+ "lastmod": "2026-10-30",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do",
+   "description": "How a condo board member is removed in Illinois: bylaws, the two-thirds owner vote under the Not For Profit Act, court removal, and what boards can’t do.",
+   "datePublished": "2026-10-30",
+   "dateModified": "2026-10-30",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/removing-illinois-condo-board-member"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Details?ActID=2280&ChapterID=65",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Where do the removal rules for an Illinois condo board come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "From three layers. Section 18(a)(4) of the Condominium Property Act requires the bylaws to state the method of removing directors. Section 18.3 gives every condominium association, incorporated or not, the powers of the General Not For Profit Corporation Act that are consistent with the Condominium Act and its instruments. Section 108.35 of that Act sets the corporate removal rules. Because those layers interact, the first step in any removal question is to pull the bylaws and have counsel read the removal clause against the statutes. Bylaws written decades ago sometimes contain a procedure that no longer lines up with current law."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can owners remove a director, and what vote does it take?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Under Section 108.35(a), directors may be removed with or without cause. Where members elect the directors, Section 108.35(c)(1) requires the affirmative vote of two-thirds of the votes present and voted, in person or by proxy. Your bylaws may set a procedure of their own, so counsel should confirm which standard governs your association before a meeting is called. Section 108.35(c)(2) adds a notice condition that matters in practice. Written notice of the meeting must go to all members entitled to vote, must state that a purpose of the meeting is to vote on removing one or more directors, and must name them. Only the directors named in the notice can be removed at that meeting. An owner who stands up at the annual meeting and moves to remove the treasurer is out of order if the notice did not say so."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do owners force a removal vote?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "By calling a special meeting. In a condominium, special meetings of the owners can be called by the president, the board, or 20% of unit owners (Section 18(b)(5)). Notice must give 10 to 30 days' notice of the time, place and purpose (Section 18(b)(6)). In an HOA, CICAA Section 1-40(b)(3) allows special membership meetings to be called by the president, the board, 20% of the membership, or any other method in the community instruments. Owners organising a petition should state the purpose exactly, naming each director to be removed, so the notice that follows satisfies Section 108.35(c)(2)."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can the board vote to remove one of its own members?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Generally not, where owners elect the board. Section 108.35(b) allows directors to remove a director only in a corporation with no voting members, which does not describe a typical condominium. For associations whose members elect directors, Section 108.35(c) lists the owner vote, and Section 108.35(d) adds court removal. A board vote is not on that list. Confirm the position with counsel before relying on any contrary bylaw. What the board can do is remove a director from an officer role. Section 108.55 allows any officer to be removed by the board or whoever is authorised to elect or appoint that officer. A board that has lost confidence in its president can elect a different president from among the directors. The former president stays on the board until the owners decide otherwise or the term ends."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can a court remove a director?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, in serious cases. Under Section 108.35(d), the circuit court may remove a director in a proceeding brought by the corporation or by members holding at least 10% of the outstanding votes of any class, if it finds the director engaged in fraudulent or dishonest conduct or grossly abused the position to the corporation's detriment, and that removal is in the corporation's best interest. The court may also bar re-election for a period it sets. This is litigation, not a governance shortcut."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What happens after a director is removed or resigns?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The vacancy is filled under Section 18(a)(13). The remaining directors may fill it by a two-thirds vote until the next annual meeting. If owners holding 20% of the votes petition for an owners' meeting to fill the vacancy, the board appointment lasts no more than 30 days after the petition is filed, and the meeting must be called within 30 days of the filing. CICAA Section 1-25(e) sets the same two-thirds and 20% rules for HOAs. Vacancies among officers are filled by the board for the rest of the term."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What about an HOA under CICAA?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "CICAA does not contain its own director-removal section. HOAs are commonly organised as not-for-profit corporations, so the bylaws and the General Not For Profit Corporation Act usually supply the answer. Counsel should confirm how your community is organised and which provisions apply."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is removal the right tool?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Often it is not. Condominium terms cannot exceed two years, and at least one-third of the seats turn over every year (Section 18(a)(1) and (11)), so the next election is rarely far away. A removal campaign splits the building, costs a special meeting, and can fail on a two-thirds threshold. Before starting one, owners and boards should ask whether the actual problem is a conduct issue that a board policy can address, such as confidentiality of closed sessions, attendance expectations, or communications with vendors."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What should owners weigh before starting a petition?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Owners considering a removal petition should be clear about what they are trying to change. If the concern is a single decision, such as a contract or an assessment, there may be a more direct route: the Act gives owners petition rights on certain budgets and special assessments, and on certain related-party contracts. If the concern is how the building is run generally, recruiting candidates for the next election is often more effective than a removal vote. Owners should also expect the director to defend themselves. Keep communications factual, avoid accusations that cannot be supported, and remember that the neighbours on the other side of the vote will still share the elevator afterward."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 30, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Removal questions arrive from two directions. Owners ask how to get rid of a director they believe is acting against the building. Directors ask how to get rid of a colleague who leaks closed-session discussions or stops showing up. The answers are different, and both start in the same place: the bylaws, read together with the statutes they sit under.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Where do the removal rules for an Illinois condo board come from?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "From three layers. Section 18(a)(4) of the Condominium Property Act requires the bylaws to state the method of removing directors. Section 18.3 gives every condominium association, incorporated or not, the powers of the General Not For Profit Corporation Act that are consistent with the Condominium Act and its instruments. Section 108.35 of that Act sets the corporate removal rules.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Because those layers interact, the first step in any removal question is to pull the bylaws and have counsel read the removal clause against the statutes. Bylaws written decades ago sometimes contain a procedure that no longer lines up with current law.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can owners remove a director, and what vote does it take?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes. Under Section 108.35(a), directors may be removed with or without cause. Where members elect the directors, Section 108.35(c)(1) requires the affirmative vote of two-thirds of the votes present and voted, in person or by proxy. Your bylaws may set a procedure of their own, so counsel should confirm which standard governs your association before a meeting is called.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 108.35(c)(2) adds a notice condition that matters in practice. Written notice of the meeting must go to all members entitled to vote, must state that a purpose of the meeting is to vote on removing one or more directors, and must name them. Only the directors named in the notice can be removed at that meeting. An owner who stands up at the annual meeting and moves to remove the treasurer is out of order if the notice did not say so.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How do owners force a removal vote?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "By calling a special meeting. In a condominium, special meetings of the owners can be called by the president, the board, or 20% of unit owners (Section 18(b)(5)). Notice must give 10 to 30 days' notice of the time, place and purpose (Section 18(b)(6)). In an HOA, CICAA Section 1-40(b)(3) allows special membership meetings to be called by the president, the board, 20% of the membership, or any other method in the community instruments.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Owners organising a petition should state the purpose exactly, naming each director to be removed, so the notice that follows satisfies Section 108.35(c)(2).",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can the board vote to remove one of its own members?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Generally not, where owners elect the board. Section 108.35(b) allows directors to remove a director only in a corporation with no voting members, which does not describe a typical condominium. For associations whose members elect directors, Section 108.35(c) lists the owner vote, and Section 108.35(d) adds court removal. A board vote is not on that list. Confirm the position with counsel before relying on any contrary bylaw.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "What the board can do is remove a director from an <strong>officer</strong> role. Section 108.55 allows any officer to be removed by the board or whoever is authorised to elect or appoint that officer. A board that has lost confidence in its president can elect a different president from among the directors. The former president stays on the board until the owners decide otherwise or the term ends.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can a court remove a director?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes, in serious cases. Under Section 108.35(d), the circuit court may remove a director in a proceeding brought by the corporation or by members holding at least 10% of the outstanding votes of any class, if it finds the director engaged in fraudulent or dishonest conduct or grossly abused the position to the corporation's detriment, and that removal is in the corporation's best interest. The court may also bar re-election for a period it sets. This is litigation, not a governance shortcut.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What happens after a director is removed or resigns?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The vacancy is filled under Section 18(a)(13). The remaining directors may fill it by a two-thirds vote until the next annual meeting. If owners holding 20% of the votes petition for an owners' meeting to fill the vacancy, the board appointment lasts no more than 30 days after the petition is filed, and the meeting must be called within 30 days of the filing. CICAA Section 1-25(e) sets the same two-thirds and 20% rules for HOAs.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Vacancies among officers are filled by the board for the rest of the term.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What about an HOA under CICAA?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "CICAA does not contain its own director-removal section. HOAs are commonly organised as not-for-profit corporations, so the bylaws and the General Not For Profit Corporation Act usually supply the answer. Counsel should confirm how your community is organised and which provisions apply.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Is removal the right tool?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Often it is not. Condominium terms cannot exceed two years, and at least one-third of the seats turn over every year (Section 18(a)(1) and (11)), so the next election is rarely far away. A removal campaign splits the building, costs a special meeting, and can fail on a two-thirds threshold. Before starting one, owners and boards should ask whether the actual problem is a conduct issue that a board policy can address, such as confidentiality of closed sessions, attendance expectations, or communications with vendors.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What should owners weigh before starting a petition?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Owners considering a removal petition should be clear about what they are trying to change. If the concern is a single decision, such as a contract or an assessment, there may be a more direct route: the Act gives owners petition rights on certain budgets and special assessments, and on certain related-party contracts. If the concern is how the building is run generally, recruiting candidates for the next election is often more effective than a removal vote.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Owners should also expect the director to defend themselves. Keep communications factual, avoid accusations that cannot be supported, and remember that the neighbours on the other side of the vote will still share the elevator afterward.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "A removal checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Read the bylaws' removal clause</strong> and have counsel compare it with Section 108.35.",
+    "<strong>Separate officer removal from director removal.</strong> The board can change officers; owners remove directors.",
+    "<strong>Call the special meeting correctly:</strong> president, board, or 20% of owners, with 10 to 30 days' notice.",
+    "<strong>Name every director</strong> to be removed in the notice and state the purpose.",
+    "<strong>Count the vote carefully</strong> against the threshold counsel confirms, with proxies or ballots verified.",
+    "<strong>Fill the vacancy</strong> under Section 18(a)(13) and record it in the minutes.",
+    "<strong>Keep the building running.</strong> Vendors, payments and maintenance should not stall while governance is contested."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "A professional manager cannot take sides in a removal effort, but we can make sure notices, meetings and vote counts are handled correctly so the outcome holds. Learn about our <a href=\"/services/board-support\">board support services</a> for Chicago and North Shore associations, or <a href=\"/contact\">contact us</a> to talk about governance at your building.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is general information for Illinois association boards and owners and is not legal advice. Removal of a director should be planned with association counsel.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/illinois-condo-board-elections-proxies-ballots\">How Illinois board elections work</a>; <a href=\"/blog/illinois-association-annual-meeting-guide\">running the annual meeting</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act, Sections 18 and 18.3 (765 ILCS 605/18, 605/18.3)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Details?ActID=2280&amp;ChapterID=65\">General Not For Profit Corporation Act of 1986, Sections 108.35 and 108.55 (805 ILCS 105)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act, Sections 1-25 and 1-40 (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

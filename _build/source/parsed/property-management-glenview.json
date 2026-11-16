@@ -1,0 +1,429 @@
+{
+ "path": "/property-management-glenview",
+ "title": "Condo & HOA Management in Glenview, IL | Stellar",
+ "description": "Flat-fee condo, HOA & townhome association management in Glenview, Illinois (ZIP 60025, 60026). Dedicated North Shore manager and 24/7 response since 2007.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "name": "Condo and HOA Management in Glenview, Illinois",
+   "description": "Flat-fee condo, HOA & townhome association management in Glenview, Illinois (ZIP 60025, 60026). Dedicated North Shore manager and 24/7 response since 2007.",
+   "url": "https://www.stellarpropertygroup.com/property-management-glenview",
+   "serviceType": "Community Association Management",
+   "areaServed": {
+    "@type": "Place",
+    "name": "Glenview, IL"
+   },
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Service Areas",
+     "item": "https://www.stellarpropertygroup.com/service-areas"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Glenview",
+     "item": "https://www.stellarpropertygroup.com/property-management-glenview"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.stellarpropertygroup.com/property-management-glenview#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Stellar manage townhome and HOA communities in Glenview?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Townhome and homeowner association management is the core of our Glenview practice (ZIPs 60025 and 60026) — from boutique condominium buildings near downtown Glenview to large multi-phase communities in and around The Glen, including master-and-sub-association structures. Every community receives a dedicated manager, transparent monthly reporting, and 24/7 live emergency response."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can Stellar handle major capital projects for a Glenview association?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Glenview townhome communities are entering major roofing, siding, and private-road replacement cycles, and we manage those projects end to end: reserve study coordination, phased capital calendars, competitive bidding, and construction oversight — with no separate capital-project planning or management-oversight fee added on top of our flat monthly rate."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar Property Management serve Glenview?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Glenview, Illinois (ZIP 60025, 60026), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What types of community associations does Stellar manage in Glenview?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar's association-management model is designed for townhomes, HOAs, condominiums in Glenview. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does association management cost in Glenview?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Glenview association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do we switch our Glenview association to Stellar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How should a Glenview board choose a condo or HOA management company?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Glenview can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Atlas · North Shore",
+   "cls": "reveal-up eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condo &amp; HOA Management in <em>Glenview</em>",
+   "cls": "reveal-up reveal-delay-1 font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] mb-10 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Glenview blends established tree-lined neighborhoods with newer master-planned communities like The Glen, creating steady demand for professional townhome and condominium association management. Associations here expect polished common areas, proactive reserve planning, and vendors who show up on time. We bring North Shore-calibre service to Glenview communities of every size, from boutique condo buildings to large multi-phase HOAs.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Our Services in <em>Glenview.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Comprehensive property management tailored to the unique needs of Glenview associations.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome Management in Glenview",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Townhome association management in Glenview: exterior maintenance, snow and landscape contracts, and reserve planning.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "HOA Management in Glenview",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Homeowner association management for Glenview communities — common areas, covenant enforcement, budgets, and board support.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management in Glenview",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Full-service condominium association management for Glenview boards — financials, governance, maintenance, and 24/7 response.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Management in Glenview",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Transparent budgeting, assessments, reserve planning, and monthly financial reporting for Glenview associations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Stellar Difference",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Why Choose Stellar for Glenview Property <em>Management.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "We combine a focused Chicagoland portfolio with building-specific operating plans, transparent financial reporting, and direct board accountability.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Local Expertise",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Deep knowledge of Chicago neighborhoods, building codes, and local vendor networks.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Proven Track Record",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "A focused portfolio of 29 associations and approximately 1,422 residences across Chicago and the North Shore.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Transparent Communication",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Real-time reporting, online portals, and responsive service your board can count on.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Tailored Solutions",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Management plans customized to your building size, budget, and community needs.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Local File",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What managing Glenview actually <em>takes.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Every community has its own building stock, rules, and rhythms. This is the on-the-ground knowledge we bring to Glenview associations.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "The Glen and master-planned communities",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "The redevelopment of the former Glenview Naval Air Station created The Glen — townhome and condominium communities with layered master-and-sub-association structures around Gallery Park and The Glen Town Center. We manage within exactly these frameworks, keeping every sub-association's budget and interests distinct.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome capital cycles",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Glenview's townhome associations — from 1970s-era communities to newer construction — are aging into the expensive decade: roofing, siding, and private-road replacement. Our reserve planning and capital project oversight carry no separate management fee, which matters when the project is seven figures.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Village standards, commuter rhythms",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "With two Metra stations, top-rated schools, and some of the North Shore's highest property values, Glenview owners expect immaculate common areas, reliable snow and landscape contracts, and portal-first communication that respects a commuter's schedule.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Glenview · Questions, Answered",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Glenview boards ask us <em>first.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar manage townhome and HOA communities in Glenview?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Townhome and homeowner association management is the core of our Glenview practice (ZIPs 60025 and 60026) — from boutique condominium buildings near downtown Glenview to large multi-phase communities in and around The Glen, including master-and-sub-association structures. Every community receives a dedicated manager, transparent monthly reporting, and 24/7 live emergency response.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Can Stellar handle major capital projects for a Glenview association?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Glenview townhome communities are entering major roofing, siding, and private-road replacement cycles, and we manage those projects end to end: reserve study coordination, phased capital calendars, competitive bidding, and construction oversight — with no separate capital-project planning or management-oversight fee added on top of our flat monthly rate.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar Property Management serve Glenview?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Glenview, Illinois (ZIP 60025, 60026), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "What types of community associations does Stellar manage in Glenview?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar's association-management model is designed for townhomes, HOAs, condominiums in Glenview. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How much does association management cost in Glenview?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Glenview association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do we switch our Glenview association to Stellar?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How should a Glenview board choose a condo or HOA management company?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Glenview can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Resource Path",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Guidance for Glenview boards.",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "A balanced selection of management, finance, governance, and building guidance for associations in this community.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas, Continued",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Explore Nearby <em>Neighborhoods.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Wilmette",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Wilmette is a premier North Shore village known for its lakefront beauty, top-rated schools, and meticulously maintained housing stock, including elegant vintage condominium buildings near the Metra and CTA. Boards in Wilmette hold high standards for appearance, communication, and financial stewardship. We manage Wilmette properties with the discretion and precision this distinguished community expects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Winnetka",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Winnetka is among the most prestigious addresses on the North Shore, with landmark estates, refined village-center condominiums, and associations that expect white-glove attention to every detail. Property management here means premium vendor relationships, immaculate common areas, and board reporting polished enough for the financially sophisticated residents who call Winnetka home.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Highland Park",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Highland Park pairs dramatic lakefront ravines and a celebrated arts scene with a diverse mix of condominium buildings, townhome enclaves, and homeowner associations. Managing property here requires sensitivity to mature landscaping, ravine and bluff maintenance, and the high service expectations of long-tenured owners. We deliver attentive, proactive management worthy of one of the North Shore's flagship communities.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Glenview Property <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Contact us today for a free, no-obligation consultation and proposal tailored to your association's needs.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

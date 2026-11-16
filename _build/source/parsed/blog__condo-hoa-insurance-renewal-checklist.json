@@ -1,0 +1,236 @@
+{
+ "path": "/blog/condo-hoa-insurance-renewal-checklist",
+ "title": "Preparing for Insurance Renewal: An Association Board Check…",
+ "description": "A preparation checklist for Illinois condo and HOA boards heading into insurance renewal, covering documentation, coverage review, deductibles, and owner communication.",
+ "lastmod": "2026-09-18",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Preparing for Insurance Renewal: An Association Board Checklist",
+   "description": "A preparation checklist for Illinois condo and HOA boards heading into insurance renewal, covering documentation, coverage review, deductibles, and owner communication.",
+   "datePublished": "2026-09-18",
+   "dateModified": "2026-09-18",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-insurance-renewal-checklist"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://singlefamily.fanniemae.com/originating-underwriting/condo-co-op-and-pud-eligibility"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Preparing for Insurance Renewal: An Association Board Checklist",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 18, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Prepare for association insurance renewal by starting roughly ninety to one hundred twenty days before expiration, assembling a complete documentation package for your broker, reviewing coverage against your declaration's actual requirements, and addressing any open maintenance or loss-control items before the underwriter looks at your account. A well-documented submission gives your broker something to market. A thin one gives an underwriter reasons to be cautious.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Renewal is also a governance moment, not just a purchasing one. Your declaration dictates what the association must insure versus what unit owners insure, and getting that boundary wrong produces uncovered losses and disputes after a claim. Have association counsel confirm the insurance obligations in your governing documents and under the statute that applies to your community, and work with a licensed broker experienced with Illinois community associations on coverage decisions.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Start Early and Assemble the Package",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The single highest-leverage renewal action is giving your broker time and information.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Documentation to compile",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Current declaration page and full policy, including all endorsements.",
+    "Loss runs for the past several policy years.",
+    "Updated statement of values or replacement cost information for the building and common elements.",
+    "Current budget, reserve balance, and most recent reserve study.",
+    "Documentation of completed capital work: roof, plumbing risers, electrical, elevators, windows, facade.",
+    "Inspection and compliance records, including life safety system testing.",
+    "Current unit count and any relevant occupancy or use information the underwriter requests.",
+    "Vendor certificates of insurance on file."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Completed capital work matters more than boards expect. An association that replaced its roof and updated plumbing risers should say so, with dates and documentation, rather than assuming the carrier knows. This is one reason to keep maintenance coordination records organized year-round instead of reconstructing them at renewal.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Review Coverage Against Your Governing Documents",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Association declarations differ in where they draw the line between association-insured and owner-insured property, particularly for items inside a unit such as fixtures, flooring, cabinetry, and improvements. Some declarations follow an original-specifications standard; others use different language entirely.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask counsel to confirm what your declaration requires the association to insure, and give that answer to your broker so the policy matches the obligation. Then communicate the boundary to owners in plain language so they can carry appropriate unit-owner coverage. Most post-loss disputes trace back to owners who never understood where association coverage stopped.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Coverage lines to review with your broker",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Property coverage on the building and common elements, and the valuation basis.",
+    "General liability limits.",
+    "Directors and officers liability, including who is covered and what is excluded.",
+    "Fidelity or crime coverage, including whether it extends to funds handled by your management company.",
+    "Umbrella or excess liability.",
+    "Equipment breakdown.",
+    "Ordinance or law coverage, which matters for older buildings that must be rebuilt to current code.",
+    "Water damage terms, including any sublimits or separate deductibles.",
+    "Flood coverage, based on your building's actual flood zone."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Deductibles Are a Budget Decision",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Raising a deductible lowers premium and transfers risk to the association. That is a legitimate choice, but only if reserves or a designated fund can absorb the retained loss. Before accepting a higher deductible, confirm the association can fund it without an emergency special assessment.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also examine how your governing documents and Illinois law treat deductible responsibility when a loss originates in a unit. Boards should understand this before a claim, not during one, and it is worth a written explanation to owners. Coordinate the funding side with your <a href=\"/services/financial-management\">financial management</a> planning so the deductible decision and the reserve plan are made together.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Do Not Ignore Lender Requirements",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Secondary-market guidelines from Fannie Mae and Freddie Mac address insurance among other project eligibility criteria. If your association's coverage falls short of what those guidelines contemplate, financing for units in your building can be affected, which reaches every owner's resale value. Ask your broker to review your program against current agency guidance and to flag any gaps in writing.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Begin renewal preparation roughly 90 to 120 days before expiration.",
+    "Assemble policies, loss runs, values, financials, reserve study, and capital work documentation.",
+    "Have counsel confirm the insurance obligations in your declaration and governing statute.",
+    "Give your broker the declaration language, not just the prior policy.",
+    "Review every coverage line, limit, sublimit, and exclusion with the broker.",
+    "Confirm the association can fund any deductible it accepts.",
+    "Address open loss-control and maintenance items before submission.",
+    "Ask the broker to check the program against current secondary-market guidance.",
+    "Document board approval of the renewal in the minutes.",
+    "Communicate the association-versus-owner coverage boundary to owners in writing each year."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Communicate With Owners Before, Not After",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Send owners an annual note describing what association coverage does and does not include, reminding them to carry unit-owner coverage, and noting the association's deductible. If premiums are rising, explain why in the same message rather than letting a budget line speak for itself. Owners accept a documented increase far more readily than an unexplained one.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois association boards. It is not legal advice and is not insurance advice. Insurance obligations differ between the Illinois Condominium Property Act and CICAA and are further defined by your recorded declaration and bylaws. Consult association counsel to interpret your governing documents and a licensed insurance professional for coverage decisions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/hoa-insurance-costs-illinois\">Why association insurance costs keep rising</a>; <a href=\"/blog/condo-master-policy-vs-ho6-board-guide\">what the master policy and HO-6 each cover</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Get Renewal Support",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your association has been renewing on autopilot, a structured renewal cycle is worth the effort. Stellar Property Management supports association boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore, including condominium and HOA communities. <a href=\"/contact\">Contact us</a> to schedule a consultation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://singlefamily.fanniemae.com/originating-underwriting/condo-co-op-and-pud-eligibility\">Fannie Mae Condo, Co-op, and PUD Eligibility</a>"
+   ]
+  }
+ ]
+}

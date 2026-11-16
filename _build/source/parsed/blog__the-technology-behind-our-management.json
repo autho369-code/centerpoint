@@ -1,0 +1,141 @@
+{
+ "path": "/blog/the-technology-behind-our-management",
+ "title": "The Technology Behind Our Management: Why Stellar Runs on P…",
+ "description": "A look inside the platform Stellar Property Management uses to run Chicago condo and HOA associations — owner portals, board financials, violation workflows, and why we chose Portier369.",
+ "lastmod": "2026-07-06",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Technology Behind Our Management: Why Stellar Runs on Portier369",
+   "description": "A look inside the platform Stellar Property Management uses to run Chicago condo and HOA associations — owner portals, board financials, violation workflows, and why we chose Portier369.",
+   "datePublished": "2026-07-06",
+   "dateModified": "2026-07-06",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/the-technology-behind-our-management"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The Technology Behind Our Management: Why Stellar Runs on Portier369",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · July 6, 2026 · 4 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "When boards interview management companies, they usually ask about responsiveness, financial reporting, and vendor relationships. They rarely ask about software — but they should. The platform a manager runs on determines how fast a work order moves, how transparent the financials are, and whether an owner can get an answer at 9 p.m. without calling anyone.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar runs its portfolio on <a href=\"https://portier369.com\">Portier369, an association management platform</a> built specifically for condominiums and HOAs — not adapted from rental-property software. Here is what that means in practice for the communities we manage.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Owners get self-service, not phone tag",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every owner in a Stellar-managed community has a portal: pay assessments online, submit maintenance requests with photos, check account history, upload proof of insurance, and find governing documents — from a phone, with no app download required. The routine questions that used to be phone calls are now answered instantly.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Boards see the same numbers we do",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Board members get their own workspace with live financial visibility — budgets versus actuals, receivables aging, and monthly statements — scoped to their association only. There is no waiting for a manager to export a report before a board meeting; the report is already there. That transparency is deliberate: we would rather answer questions about real numbers than be the only ones holding them.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "These tools are part of our full <a href=\"/services/condominium-management\">condominium management service</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Violations follow due process, automatically",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois associations must handle rule enforcement carefully. The platform runs the entire violation lifecycle — photo documentation, notice generation, hearing scheduling, and fine assessment — so every case follows the same documented process. If a matter is ever challenged, the paper trail already exists.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Maintenance never depends on memory",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Annual inspections, seasonal work, and vendor certificates are tracked on a preventive maintenance calendar with automated reminders. Chicago winters punish buildings that defer maintenance; a system that never forgets a boiler inspection is worth more than any brochure promise.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why we chose it",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "We evaluated the usual industry names. Most are rental-management platforms with an association module attached — you pay for leasing and tenant-screening tools a condo association will never use. Portier369 does one thing: community associations. The <a href=\"https://portier369.com/features/accounting\">association accounting</a> is true double-entry fund accounting, the portals cover every role from board member to vendor, and the pricing is flat per door with everything included.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For boards comparing management proposals: ask every candidate what platform they run on, whether owners and board members get their own portals, and whether financials are visible in real time. The software will shape your experience as much as the manager will.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/ai-in-condo-management\">Where AI fits in condo management</a>; <a href=\"/blog/community-association-management-agreement-review\">reviewing a management agreement</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>Questions about how this works for your association? <a href=\"/contact\">Contact us</a> — we are happy to show a board what their portal would look like.</em>",
+   "cls": ""
+  }
+ ]
+}

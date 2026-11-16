@@ -1,0 +1,255 @@
+{
+ "path": "/tools/compare-management-proposals",
+ "title": "Management Proposal Scorecard for Condo & HOA Boards",
+ "description": "A free weighted scorecard for Illinois condo and HOA boards comparing management proposals across seven criteria. No sign-up, nothing emailed, scores stay in your browser.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "HowTo",
+   "name": "How to compare condominium and HOA management proposals",
+   "description": "A weighted scorecard for association boards evaluating competing management proposals, using seven criteria agreed before proposals arrive.",
+   "step": [
+    {
+     "@type": "HowToStep",
+     "position": 1,
+     "name": "Assigned manager and capacity (20%)",
+     "text": "Who specifically is assigned, their experience with your community type, how many associations they carry, and who covers when they are unavailable. Ask for the number, not an adjective — published industry guidance treats a portfolio above roughly 15 to 18 associations as overextended."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 2,
+     "name": "Scope of services (20%)",
+     "text": "What is included in the base fee versus billed separately, stated in the management agreement rather than in the pitch. Extra board meetings, transition and exit fees, special-assessment administration, project oversight, portal charges, copying and postage."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 3,
+     "name": "Financial controls and reporting (15%)",
+     "text": "Accounts in the association’s name, board signers, segregation of duties, reporting format and frequency, and board access to live data. Ask for a sample board packet and a sample monthly financial report from a comparable association."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 4,
+     "name": "Responsiveness standards (15%)",
+     "text": "Committed response times for owners, directors and emergencies, and how after-hours calls are handled. Ask for the standard in writing — surveyed boards name unresponsiveness as the single most common reason they change firms."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 5,
+     "name": "References (15%)",
+     "text": "From associations similar in size, type and complexity, including at least one that has left the firm if available. Call them yourself. Consider asking for clients whose names begin with a particular letter rather than accepting a curated three."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 6,
+     "name": "Licensure and insurance (5%)",
+     "text": "In Illinois both the individual manager and the firm must be licensed. Verify independently through the IDFPR licence lookup rather than accepting a number in a proposal, and confirm liability and fidelity coverage."
+    },
+    {
+     "@type": "HowToStep",
+     "position": 7,
+     "name": "Total annual cost (10%)",
+     "text": "Base fee plus realistic ancillary charges over a year of your association’s actual activity — not the monthly headline. Rankings frequently change once this is calculated properly."
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "A Free Tool For Boards",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600 print:hidden"
+  },
+  {
+   "type": "h1",
+   "html": "Management proposal <em>scorecard.</em>",
+   "cls": "mb-7 text-balance font-display text-4xl font-light leading-[1.05] text-ink lg:text-6xl"
+  },
+  {
+   "type": "p",
+   "html": "Boards that discuss proposals without a framework tend to anchor on the lowest fee or the smoothest presentation, then reverse-engineer the justification. Score them independently against agreed weights instead, and the disagreements surface early enough to matter.",
+   "cls": "max-w-2xl text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Nothing is sent anywhere. There is no sign-up and no email capture — your scores stay in this browser. Print or save the page when you are done and bring it to the meeting.",
+   "cls": "mt-5 max-w-2xl font-light leading-relaxed text-slate-500 print:hidden"
+  },
+  {
+   "type": "h2",
+   "html": "Assigned manager and capacity",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Who specifically is assigned, their experience with your community type, how many associations they carry, and who covers when they are unavailable. Ask for the number, not an adjective — published industry guidance treats a portfolio above roughly 15 to 18 associations as overextended.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Scope of services",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "What is included in the base fee versus billed separately, stated in the management agreement rather than in the pitch. Extra board meetings, transition and exit fees, special-assessment administration, project oversight, portal charges, copying and postage.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Financial controls and reporting",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Accounts in the association’s name, board signers, segregation of duties, reporting format and frequency, and board access to live data. Ask for a sample board packet and a sample monthly financial report from a comparable association.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Responsiveness standards",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Committed response times for owners, directors and emergencies, and how after-hours calls are handled. Ask for the standard in writing — surveyed boards name unresponsiveness as the single most common reason they change firms.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "References",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "From associations similar in size, type and complexity, including at least one that has left the firm if available. Call them yourself. Consider asking for clients whose names begin with a particular letter rather than accepting a curated three.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Licensure and insurance",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "In Illinois both the individual manager and the firm must be licensed. Verify independently through the IDFPR licence lookup rather than accepting a number in a proposal, and confirm liability and fidelity coverage.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Total annual cost",
+   "cls": "font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Base fee plus realistic ancillary charges over a year of your association’s actual activity — not the monthly headline. Rankings frequently change once this is calculated properly.",
+   "cls": "mb-6 max-w-3xl text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Weighted totals",
+   "cls": "mb-7 font-display text-3xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Firm A",
+   "cls": "mb-3 text-sm text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "—",
+   "cls": "font-display text-5xl font-light tabular-nums text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Not yet scored",
+   "cls": "mt-3 text-xs text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Firm B",
+   "cls": "mb-3 text-sm text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "—",
+   "cls": "font-display text-5xl font-light tabular-nums text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Not yet scored",
+   "cls": "mt-3 text-xs text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Firm C",
+   "cls": "mb-3 text-sm text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "—",
+   "cls": "font-display text-5xl font-light tabular-nums text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Not yet scored",
+   "cls": "mt-3 text-xs text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A number is a prompt for discussion, not a verdict. Have each director score independently before anyone talks, then compare — the places where directors disagree are usually where the real question is. And write a sentence of reasoning next to each score; when the board reconciles differences, the notes matter more than the totals.",
+   "cls": "mt-8 max-w-3xl text-sm font-light leading-relaxed text-slate-500"
+  },
+  {
+   "type": "h2",
+   "html": "Before you score",
+   "cls": "mb-6 font-display text-3xl font-light text-ink"
+  },
+  {
+   "type": "h3",
+   "html": "Make the proposals comparable",
+   "cls": "mb-3 text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Send every firm the same brief with your unit count, community type, age, amenities, budget size, current delinquency level and known upcoming projects. Ask each to submit its standard management agreement alongside the proposal, so you compare terms rather than marketing.",
+   "cls": "mb-4 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Require a one-page total annual cost worksheet listing every ancillary charge. Rankings shift once that table is filled in.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Verify independently",
+   "cls": "mb-3 text-ink"
+  },
+  {
+   "type": "p",
+   "html": "In Illinois both the manager and the firm must be licensed. Check both yourself in the <a href=\"https://online-dfpr.micropact.com/lookup/licenselookup.aspx\">IDFPR licence lookup</a> rather than accepting a number in a proposal, and confirm any CMCA certification in <a href=\"https://www.camicb.org/find-a-cmca/\">CAMICB’s public directory</a>, which also publishes revocations by name.",
+   "cls": "mb-4 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Insist the manager who would actually be assigned attends the interview. A business development representative is not who your board will work with.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "The criteria and weights above come from our board guide, <a href=\"/blog/score-condo-hoa-management-proposals\">how to compare Chicago condo and HOA management companies</a>, which also covers reference checks and the interview questions worth asking. This tool is general educational information for association boards, not legal advice.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "We built this knowing it might score someone else higher.",
+   "cls": "mb-4 font-display text-3xl font-light leading-tight"
+  },
+  {
+   "type": "p",
+   "html": "If your board is running a search and wants Stellar in the comparison, we will answer every criterion above in writing — including the assigned manager, their portfolio, and a total annual cost worksheet.",
+   "cls": "font-light leading-relaxed text-paper/70"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "path": "/blog/why-condo-boards-fail",
+ "title": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+ "description": "The most common reason condo and HOA boards fail is a breakdown of trust and transparency. Learn the warning signs of board dysfunction and the practical fixes that restore a healthy board.",
+ "lastmod": "2023-03-14",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+   "description": "The most common reason condo and HOA boards fail is a breakdown of trust and transparency. Learn the warning signs of board dysfunction and the practical fixes that restore a healthy board.",
+   "datePublished": "2023-03-14",
+   "dateModified": "2023-03-14",
+   "image": "https://www.stellarpropertygroup.com/blog/why-condo-boards-fail.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/why-condo-boards-fail"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · March 14, 2023 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Most condo associations do not fail because of money, weather, or a single bad decision. They fail slowly, through a breakdown in how the board works. When a board loses the confidence of the owners it serves, every meeting becomes a battle, good volunteers walk away, and the association drifts. The encouraging news: the root cause is well understood, and it is fixable.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The #1 Reason: Treating the Board as a Throne, Not a Trust",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The single most common reason condo boards fail is a breakdown of trust — and that breakdown almost always begins when a board stops acting as a fiduciary body serving every owner and starts operating as a personal platform. A board is a trust. Members are legally obligated to act in the best interest of the whole community, not a faction, not a friendship, and not a grudge. The moment owners sense the board is opaque, arbitrary, or self-serving, cooperation collapses and conflict takes its place.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Warning Signs of a Failing Board",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Lack of transparency.</strong> Decisions are made with no explanation, minutes are thin or missing, and owners learn about major changes after the fact.",
+    "<strong>Micromanagement.</strong> The board insists on doing the manager's job, second-guesses every vendor, and bottlenecks routine work.",
+    "<strong>Favoritism.</strong> Rules are enforced strictly for some owners and quietly ignored for others.",
+    "<strong>Poor communication.</strong> Owners feel unheard, so they stop engaging — until they are angry enough to litigate.",
+    "<strong>Volunteer burnout.</strong> The same one or two people carry everything until they quit, leaving a vacuum.",
+    "<strong>Misunderstanding fiduciary duty.</strong> Members vote based on personal preference rather than the association's documents and best interest."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "How to Fix a Struggling Board",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Rebuilding a board starts with rebuilding trust, and trust is built through consistent, visible behavior:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Communicate first.</strong> Publish agendas and minutes, explain the reasoning behind decisions, and tell owners about problems before the rumor mill does.",
+    "<strong>Enforce rules uniformly.</strong> Apply the same standard to every owner, every time — including board members.",
+    "<strong>Separate governance from operations.</strong> Let the board set direction and let a manager execute it.",
+    "<strong>Invest in education.</strong> New board members should understand fiduciary duty, the governing documents, and the budget from day one.",
+    "<strong>Share the load.</strong> Use committees and professional support so no single volunteer burns out."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/new-condo-board-member-first-30-days\">A new board member’s first 30 days</a>; <a href=\"/blog/condo-hoa-board-communication-systems\">keeping board decisions from getting lost</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Strong boards are not the ones that never disagree — they are the ones that disagree in a structured, transparent process that owners can see and respect. Professional <a href=\"/services/board-support\">board support</a> from Stellar Property Management gives boards the meeting structure, documentation, and guidance to operate that way. To strengthen your board, <a href=\"/contact\">get in touch</a>.",
+   "cls": ""
+  }
+ ]
+}

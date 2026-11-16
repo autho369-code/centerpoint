@@ -1,0 +1,421 @@
+{
+ "path": "/blog/topic/choosing-association-management",
+ "title": "Choosing a Condo or HOA Management Company",
+ "description": "Board guides for comparing, selecting, changing, and improving condominium and HOA management companies in Chicago and the North Shore.",
+ "lastmod": null,
+ "ld": [
+  {
+   "@type": "CollectionPage",
+   "@id": "https://www.stellarpropertygroup.com/blog/topic/choosing-association-management#page",
+   "url": "https://www.stellarpropertygroup.com/blog/topic/choosing-association-management",
+   "name": "Choosing a Condo or HOA Management Company",
+   "description": "Board guides for comparing, selecting, changing, and improving condominium and HOA management companies in Chicago and the North Shore.",
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/blog#page"
+   },
+   "about": {
+    "@type": "Thing",
+    "name": "Choosing & Improving Management"
+   }
+  },
+  {
+   "@type": "ItemList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-management-company-segregated-accounts-commingling",
+     "name": "Association Money and Your Management Company: Illinois Rules"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "url": "https://www.stellarpropertygroup.com/blog/how-many-associations-should-community-manager-handle",
+     "name": "How Many Associations Should One Community Manager Handle?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-board-communication-systems",
+     "name": "Board Communication Systems That Reduce Conflict and Lost Decisions"
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "url": "https://www.stellarpropertygroup.com/blog/verify-illinois-community-association-manager-license",
+     "name": "How to Verify an Illinois Community Association Manager License"
+    },
+    {
+     "@type": "ListItem",
+     "position": 5,
+     "url": "https://www.stellarpropertygroup.com/blog/community-association-management-agreement-review",
+     "name": "What to Review in a Community Association Management Agreement"
+    },
+    {
+     "@type": "ListItem",
+     "position": 6,
+     "url": "https://www.stellarpropertygroup.com/blog/score-condo-hoa-management-proposals",
+     "name": "How to Compare Chicago Condo & HOA Management Companies"
+    },
+    {
+     "@type": "ListItem",
+     "position": 7,
+     "url": "https://www.stellarpropertygroup.com/blog/switch-condo-management-companies-chicago",
+     "name": "How to Switch Condo Management Companies in Chicago"
+    },
+    {
+     "@type": "ListItem",
+     "position": 8,
+     "url": "https://www.stellarpropertygroup.com/blog/the-technology-behind-our-management",
+     "name": "The Technology Behind Our Management: Why Stellar Runs on Portier369"
+    },
+    {
+     "@type": "ListItem",
+     "position": 9,
+     "url": "https://www.stellarpropertygroup.com/blog/ai-in-condo-management",
+     "name": "AI Is Coming to Condo Management — What Boards Need to Know"
+    },
+    {
+     "@type": "ListItem",
+     "position": 10,
+     "url": "https://www.stellarpropertygroup.com/blog/condominium-property-management-chicago-what-board-members-should-expect",
+     "name": "Condominium Property Management in Chicago: What Board Members Should Expect From a Professional Management Company"
+    },
+    {
+     "@type": "ListItem",
+     "position": 11,
+     "url": "https://www.stellarpropertygroup.com/blog/self-managed-condo-association-problems",
+     "name": "The Hidden Problems With Self-Managed Condo Associations"
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Board Guides",
+     "item": "https://www.stellarpropertygroup.com/blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Choosing & Improving Management",
+     "item": "https://www.stellarpropertygroup.com/blog/topic/choosing-association-management"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How do we compare management proposals that all look similar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Normalize them before reading them. Convert every fee to an annual per-unit figure including anything billed separately — capital-project oversight, transition charges, statutory disclosure fees, after-hours calls. Then ask each firm the same operational questions: who is our manager, how many associations do they carry, what arrives each month and when, and who answers at 2 a.m. Proposals rarely differ on promises; they differ on those answers."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What should a board expect during a management transition?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Plan a managed 30 to 60 day handoff after notice is given under the existing contract. It should cover records retrieval from the outgoing firm, banking migration under board control, owner balance verification, vendor and insurance notification, portal setup, and owner communication. Expect the first complete monthly financial package in the first full month. A transition without a written checklist is where records go missing."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do we know if our current management company is underperforming?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Look at inputs rather than feelings: do financials arrive before the meeting or at it, are action items from the last meeting tracked, are delinquencies aging, do owner emails get answered, are vendor certificates of insurance current, and does anyone answer after hours. One bad month is noise. A pattern across those six is the answer, and it is worth documenting before you raise it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does association management actually cost in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar quotes a customized flat monthly fee starting at $20 per unit per month, based on building size, systems, staffing, amenities, financial complexity, and scope, rather than a percentage of the association’s budget. When comparing firms, the figure that matters is total annual cost including every separately billed item — a low base fee with unbundled charges frequently exceeds a higher all-in quote."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Resource Center",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Choosing &amp; Improving Management",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.03] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Compare management proposals, evaluate service, plan a transition, and establish the operating standards your board should expect from a professional management company.",
+   "cls": "lg:col-span-4 text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Published Guidance",
+   "cls": "eyebrow text-gold-600 mb-4"
+  },
+  {
+   "type": "h2",
+   "html": "Board guides in this topic",
+   "cls": "font-display text-4xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 29, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Association Money and Your Management Company: Illinois Rules",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Whose name is on the bank account that holds your assessments? Illinois law gives a clear answer for licensed management firms, and every board should be able to confirm it in an afternoon.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 22, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How Many Associations Should One Community Manager Handle?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Association count alone does not reveal manager capacity. Boards should examine units, building complexity, meetings, active projects, support staff, and backup coverage together.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 14, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Board Communication Systems That Reduce Conflict and Lost Decisions",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most association conflict is not disagreement about policy. It is confusion about what was decided, by whom, and when. A communication system fixes far more than a personality change would.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 10, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How to Verify an Illinois Community Association Manager License",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Verifying licensure takes a few minutes and belongs in every management search. Here is exactly what to check, what to ask for in writing, and how to keep the verification current after you sign.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 2, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "What to Review in a Community Association Management Agreement",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The management agreement decides what your association actually receives, what it pays beyond the monthly fee, and how cleanly you can leave. Most boards read the fee line and skim the rest.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 14, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How to Compare Chicago Condo &amp; HOA Management Companies",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready scorecard for comparing Chicago association management companies on manager capacity, service, controls, references, and total annual cost.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Leadership",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 11, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How to Switch Condo Management Companies in Chicago",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready process for replacing a management company without losing records, missing deadlines, or disrupting owners and vendors.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "July 6, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The Technology Behind Our Management: Why Stellar Runs on Portier369",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards often ask what software we use and why it matters to them. Here is an honest look at the platform behind our day-to-day management — and what it means for owners and board members.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 7, 2025",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "AI Is Coming to Condo Management — What Boards Need to Know",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "AI is starting to reshape how associations are managed. Here is a clear-eyed look at where it helps, where it does not, and how boards should approach it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Education",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "November 15, 2024",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Property Management in Chicago: What Board Members Should Expect From a Professional Management Company",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Serving on a condo board in Chicago is a significant responsibility. Learn what to expect from a professional property management company and how to evaluate the right partner for your association.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Property Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "June 11, 2024",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The Hidden Problems With Self-Managed Condo Associations",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Self-management looks like an easy way to cut costs — until the hidden risks surface. Here is what boards should weigh before going it alone.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Related Service",
+   "cls": "eyebrow text-gold-300 mb-5"
+  },
+  {
+   "type": "h2",
+   "html": "Condominium Management",
+   "cls": "font-display text-3xl mb-5"
+  },
+  {
+   "type": "p",
+   "html": "See how Stellar puts this guidance into practice for Chicago and North Shore community associations.",
+   "cls": "text-paper/65 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "h2",
+   "html": "Explore other topics",
+   "cls": "font-display text-2xl text-ink mb-5"
+  }
+ ]
+}

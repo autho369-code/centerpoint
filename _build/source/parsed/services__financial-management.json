@@ -1,0 +1,436 @@
+{
+ "path": "/services/financial-management",
+ "title": "HOA & Condo Financial Management Chicago | Stellar",
+ "description": "Association financial management in Chicago: budgets, reserves, assessment collection, monthly reporting, invoice support, and transparent board controls.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/financial-management#service",
+   "name": "Chicago Association Financial Management",
+   "description": "Financial management for condominium, HOA, and townhome associations, including budgets, reserves, assessment collection, reporting, and board controls.",
+   "url": "https://www.stellarpropertygroup.com/services/financial-management",
+   "serviceType": "Community Association Financial Management",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Chicago"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "North Shore, Illinois"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "price": 20,
+     "priceCurrency": "USD",
+     "unitText": "per unit per month",
+     "description": "Starting price; customized flat monthly proposal."
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Chicago Association Financial Management",
+     "item": "https://www.stellarpropertygroup.com/services/financial-management"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Who holds the association’s money?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The association does. Funds sit in accounts owned by the association, in its own name and tax ID, with the board controlling signatures and authorization. A management company should never commingle association funds with its own or with another association’s. Boards evaluating any firm should ask this question directly and expect a clear answer."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What financial reporting should a board receive each month?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "At minimum a balance sheet, an income statement showing actual against budget, a cash disbursements listing, a delinquency report by owner, and reconciled bank statements. The package should arrive on a predictable schedule and early enough to be read before the meeting rather than handed out at the table. A treasurer should be able to trace any number back to a source document."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How are delinquent assessments handled in Illinois?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Collection follows a documented escalation the board adopts in advance and applies consistently to everyone: statement, late notice, formal demand, then referral to the association attorney. Illinois gives associations meaningful remedies, including a lien and, under the Condominium Property Act, a forcible action for possession in defined circumstances. Because those remedies carry statutory notice requirements, counsel drives that stage — but the board sets the policy and the trigger points."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much should the association hold in reserves?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Illinois requires condominium associations to fund reserves that are reasonable for the repair and replacement of common elements, judged against the age and condition of the building’s components, unless owners have voted to waive the requirement. The practical answer comes from a reserve study: a component inventory with remaining useful lives and replacement costs, translated into a funding plan. \"Reasonable\" is not a number in the statute, which is exactly why the study matters."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is a Section 22.1 disclosure and who prepares it?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When an Illinois condominium unit is sold, the seller must give the buyer a disclosure package covering the association’s finances, insurance, pending litigation, capital expenditures, and any known unpaid balances. In practice the request arrives at the management office, which assembles the package from association records within the statutory response window. Missed or inaccurate responses create real liability for the board, so this is a deadline to track rather than a formality."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does the association need an audit?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It depends on the governing documents and on the size and complexity of the association. Declarations frequently require an annual audit, review, or compilation by an independent CPA — and where they do, the requirement binds regardless of what previous boards have done. Even where it is optional, an independent review earns its cost at a transition, after a change in management, or whenever a board wants outside verification of its own records."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Practice · 04 · Financial Services",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Association Financial <em>Management</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Sound financial stewardship is the foundation of every well-run community association. Our team delivers transparent budgeting, disciplined reserve planning, and reliable reporting that gives your board the confidence to make informed decisions.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Approach",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Financial <em>Clarity</em> Your Board Can Count On",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Community association finances are not like any other business. You are managing shared resources on behalf of homeowners who expect every dollar to be spent wisely, reported transparently, and planned strategically. At Stellar Property Management, our financial management services are designed specifically for the unique demands of condo, HOA, and townhome associations in the Chicago area.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Our accounting team processes thousands of transactions monthly across 29 managed associations. We use industry-leading property management software to maintain real-time financial records, generate accurate reports, and provide your board with the financial visibility needed to govern effectively. Every invoice is verified, every payment is documented, and every financial report is delivered on schedule.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "From developing realistic annual budgets to conducting comprehensive reserve studies, from collecting assessments to preparing for annual audits, our financial management services cover the full spectrum of association accounting. We do not just track numbers; we provide the analysis and recommendations that help your board make smarter financial decisions for the community future.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Our Financial Management Standards",
+   "cls": "font-display text-2xl text-ink mb-6"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "01Monthly financial statements delivered by the 15th",
+    "02Real-time financial data via online board portal",
+    "03Segregated operating and reserve accounts",
+    "04Dual-signature controls on major expenditures",
+    "05Annual budget development with board collaboration",
+    "06Professional reserve study coordination",
+    "07Delinquency management and collection support",
+    "08Audit-ready records maintained year-round"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Scope of Service",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Complete Financial Management <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Every financial function your association needs, managed by professionals who specialize in community association accounting.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Budget Development",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Data-driven annual budgets built from historical spending, vendor contracts, and projected needs to keep assessments fair and funding adequate.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Reserve Studies &amp; Planning",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Professional reserve studies that identify future capital needs, establish funding schedules, and keep your association financially prepared.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Assessment Collection",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Timely invoicing, online payment options, delinquency tracking, and lien filing when necessary to maintain healthy cash flow.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Accounts Payable &amp; Receivable",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Accurate processing of vendor invoices, expense tracking, and receivable management with full audit trails and board-approved controls.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Reporting",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Monthly financial statements, balance sheets, income statements, and budget variance reports delivered on time to your board.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Cost Reduction Strategies",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Vendor renegotiations, energy audits, insurance reviews, and bulk purchasing programs that reduce expenses without cutting quality.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "In Depth",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Reserve Planning That Prevents Special <em>Assessments</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Nothing damages community trust like an unexpected special assessment. Proper reserve planning is the single most important financial practice an association can adopt, and it is an area where many communities fall short. Stellar Property Management takes reserve planning seriously because we have seen firsthand the consequences when associations are caught unprepared for major capital expenses.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "We coordinate professional reserve studies that inventory every major component of your property, estimate useful life and replacement costs, and establish a funding plan that builds your reserves steadily over time. Our goal is to help your association achieve at least 70% reserve funding, which the Community Associations Institute considers the threshold for a well-funded reserve.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Beyond the reserve study itself, we integrate reserve planning into your annual budget process, recommend investment strategies for reserve funds, and provide regular updates on reserve adequacy as market conditions and project timelines evolve. When capital projects arise, we manage the bidding and construction process to ensure reserve dollars are spent wisely and the work meets the highest quality standards.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Related <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-12"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Full-service condo management with integrated financial oversight.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Board Support &amp; Governance",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Meeting support, strategic planning, and governance guidance for your board.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Maintenance Coordination",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Capital project oversight and preventive maintenance that protects your investment.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Association Finance &amp; Reserves",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Budgets, reserves, assessments, disclosures, collections, insurance, loans, and financial reporting.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where we practice <em>Financial Management.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "This work looks different block to block. See how we serve the communities where it concentrates.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "What Chicago boards ask about association finances.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Who holds the association’s money?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "The association does. Funds sit in accounts owned by the association, in its own name and tax ID, with the board controlling signatures and authorization. A management company should never commingle association funds with its own or with another association’s. Boards evaluating any firm should ask this question directly and expect a clear answer.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What financial reporting should a board receive each month?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "At minimum a balance sheet, an income statement showing actual against budget, a cash disbursements listing, a delinquency report by owner, and reconciled bank statements. The package should arrive on a predictable schedule and early enough to be read before the meeting rather than handed out at the table. A treasurer should be able to trace any number back to a source document.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How are delinquent assessments handled in Illinois?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Collection follows a documented escalation the board adopts in advance and applies consistently to everyone: statement, late notice, formal demand, then referral to the association attorney. Illinois gives associations meaningful remedies, including a lien and, under the Condominium Property Act, a forcible action for possession in defined circumstances. Because those remedies carry statutory notice requirements, counsel drives that stage — but the board sets the policy and the trigger points.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How much should the association hold in reserves?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Illinois requires condominium associations to fund reserves that are reasonable for the repair and replacement of common elements, judged against the age and condition of the building’s components, unless owners have voted to waive the requirement. The practical answer comes from a reserve study: a component inventory with remaining useful lives and replacement costs, translated into a funding plan. \"Reasonable\" is not a number in the statute, which is exactly why the study matters.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What is a Section 22.1 disclosure and who prepares it?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "When an Illinois condominium unit is sold, the seller must give the buyer a disclosure package covering the association’s finances, insurance, pending litigation, capital expenditures, and any known unpaid balances. In practice the request arrives at the management office, which assembles the package from association records within the statutory response window. Missed or inaccurate responses create real liability for the board, so this is a deadline to track rather than a formality.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does the association need an audit?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "It depends on the governing documents and on the size and complexity of the association. Declarations frequently require an annual audit, review, or compilation by an independent CPA — and where they do, the requirement binds regardless of what previous boards have done. Even where it is optional, an independent review earns its cost at a transition, after a change in management, or whenever a board wants outside verification of its own records.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "path": "/reviews",
+ "title": "Share Feedback | Stellar Property Management",
+ "description": "Share an honest Google review of your Stellar Property Management experience or send feedback directly to our Chicago team.",
+ "lastmod": null,
+ "ld": [
+  {
+   "@type": "WebPage",
+   "@id": "https://www.stellarpropertygroup.com/reviews#webpage",
+   "url": "https://www.stellarpropertygroup.com/reviews",
+   "name": "Share Feedback — Stellar Property Management",
+   "about": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/#website"
+   },
+   "relatedLink": [
+    "https://g.page/r/CXsN7jc7d5JTEBM/review",
+    "https://www.google.com/maps?cid=6022006747972898171"
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Share Feedback",
+     "item": "https://www.stellarpropertygroup.com/reviews"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Your Experience Matters",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Share honest <em>feedback.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl text-ink leading-[1.04] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Whether your experience was positive, difficult, or somewhere in between, we want to hear it. Choose either option below—there is no incentive, screening step, or request for a particular rating.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h2",
+   "html": "Post a Google review",
+   "cls": "font-display text-3xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Describe your genuine experience publicly so boards, owners, and residents can make an informed decision.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-9"
+  },
+  {
+   "type": "h2",
+   "html": "Contact our team",
+   "cls": "font-display text-3xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Send a service concern, compliment, or suggestion directly to Stellar so our team can follow up with you.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-9"
+  }
+ ]
+}

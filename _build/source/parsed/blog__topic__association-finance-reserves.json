@@ -1,0 +1,785 @@
+{
+ "path": "/blog/topic/association-finance-reserves",
+ "title": "Condo & HOA Finance and Reserve Guides | Illinois",
+ "description": "Practical Illinois condo and HOA guidance for budgets, reserve funds, assessments, collections, insurance, loans, and board financial reporting.",
+ "lastmod": null,
+ "ld": [
+  {
+   "@type": "CollectionPage",
+   "@id": "https://www.stellarpropertygroup.com/blog/topic/association-finance-reserves#page",
+   "url": "https://www.stellarpropertygroup.com/blog/topic/association-finance-reserves",
+   "name": "Condo & HOA Finance and Reserve Guides | Illinois",
+   "description": "Practical Illinois condo and HOA guidance for budgets, reserve funds, assessments, collections, insurance, loans, and board financial reporting.",
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/blog#page"
+   },
+   "about": {
+    "@type": "Thing",
+    "name": "Association Finance & Reserves"
+   }
+  },
+  {
+   "@type": "ItemList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-insurance-deductible-charge-owner",
+     "name": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-association-reserve-funds-fdic-coverage",
+     "name": "Keeping Reserves Safe: FDIC Limits for Illinois Associations"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-association-fidelity-insurance-requirements",
+     "name": "Fidelity Insurance for Illinois Associations and Their Manager"
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-owners-independent-audit-rights",
+     "name": "Can Illinois Condo Owners Demand an Independent Audit?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 5,
+     "url": "https://www.stellarpropertygroup.com/blog/fannie-freddie-condo-reserve-15-percent-2027",
+     "name": "Fannie Mae and Freddie Mac Raise the Condo Reserve Minimum to 15%: What Boards Must Do for the 2027 Budget"
+    },
+    {
+     "@type": "ListItem",
+     "position": 6,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-22-1-response-workflow",
+     "name": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts"
+    },
+    {
+     "@type": "ListItem",
+     "position": 7,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-annual-budget-workbook",
+     "name": "A Practical Annual Budget Workbook for Association Boards"
+    },
+    {
+     "@type": "ListItem",
+     "position": 8,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-insurance-renewal-checklist",
+     "name": "Preparing for Insurance Renewal: An Association Board Checklist"
+    },
+    {
+     "@type": "ListItem",
+     "position": 9,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-capital-project-loan-preparation",
+     "name": "Preparing an Association for a Capital Project Loan"
+    },
+    {
+     "@type": "ListItem",
+     "position": 10,
+     "url": "https://www.stellarpropertygroup.com/blog/read-condo-hoa-financial-statements",
+     "name": "How Board Members Should Read Association Financial Statements"
+    },
+    {
+     "@type": "ListItem",
+     "position": 11,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-directors-officers-insurance-guide",
+     "name": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask"
+    },
+    {
+     "@type": "ListItem",
+     "position": 12,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-association-liens-delinquency",
+     "name": "Association Liens and Delinquencies: What Boards Need Organized"
+    },
+    {
+     "@type": "ListItem",
+     "position": 13,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-association-late-fees-interest-policy",
+     "name": "Late Fees and Interest: Building a Defensible Association Policy"
+    },
+    {
+     "@type": "ListItem",
+     "position": 14,
+     "url": "https://www.stellarpropertygroup.com/blog/reasonable-reserves-illinois-condo-law",
+     "name": "Reasonable Reserves Under Illinois Condo Law"
+    },
+    {
+     "@type": "ListItem",
+     "position": 15,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-delinquency-escalation-process",
+     "name": "Delinquency Escalation: A Consistent Process for Association Boards"
+    },
+    {
+     "@type": "ListItem",
+     "position": 16,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-22-1-disclosure-packet-checklist",
+     "name": "The Illinois 22.1 Disclosure Packet Checklist"
+    },
+    {
+     "@type": "ListItem",
+     "position": 17,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-master-policy-vs-ho6-board-guide",
+     "name": "Condo Master Policy vs. HO-6: What the Board Should Explain"
+    },
+    {
+     "@type": "ListItem",
+     "position": 18,
+     "url": "https://www.stellarpropertygroup.com/blog/how-to-read-condo-reserve-study",
+     "name": "How to Read a Condo Reserve Study Before the Next Budget"
+    },
+    {
+     "@type": "ListItem",
+     "position": 19,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-budget-adoption-guide",
+     "name": "How Illinois Association Boards Should Adopt an Annual Budget"
+    },
+    {
+     "@type": "ListItem",
+     "position": 20,
+     "url": "https://www.stellarpropertygroup.com/blog/fannie-freddie-condo-eligibility-board-guide",
+     "name": "Fannie Mae and Freddie Mac Condo Eligibility: A Board Readiness Guide"
+    },
+    {
+     "@type": "ListItem",
+     "position": 21,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-section-22-1-disclosure-board-guide",
+     "name": "Illinois Section 22.1 Disclosures: A Board Guide"
+    },
+    {
+     "@type": "ListItem",
+     "position": 22,
+     "url": "https://www.stellarpropertygroup.com/blog/first-time-condo-buyer-guide-chicago",
+     "name": "The 22.1 Disclosure and Beyond: A First-Time Chicago Condo Buyer’s Guide"
+    },
+    {
+     "@type": "ListItem",
+     "position": 23,
+     "url": "https://www.stellarpropertygroup.com/blog/hoa-insurance-costs-illinois",
+     "name": "Why HOA and Condo Insurance Costs Are Skyrocketing in Illinois"
+    },
+    {
+     "@type": "ListItem",
+     "position": 24,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-reserve-funds-explained",
+     "name": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded"
+    },
+    {
+     "@type": "ListItem",
+     "position": 25,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-special-assessments-illinois",
+     "name": "Special Assessments: Why Illinois Condo Owners Are Suddenly Paying Thousands"
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Board Guides",
+     "item": "https://www.stellarpropertygroup.com/blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Association Finance & Reserves",
+     "item": "https://www.stellarpropertygroup.com/blog/topic/association-finance-reserves"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How much should our association keep in reserves?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Illinois requires condominium associations to fund reserves reasonable for the repair and replacement of common elements, judged against the age and condition of the building’s components, unless owners have voted to waive it. The statute sets no number, which is why a reserve study matters: it inventories components with remaining useful lives and replacement costs, then converts them into a funding plan a board can defend to owners."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the difference between a special assessment and a reserve?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A reserve is money collected steadily in advance for work everyone knows is coming. A special assessment is money collected suddenly for work that arrived before the reserve did. They fund the same repairs — the difference is whether owners had years to absorb the cost or weeks. Most special assessments are a reserve-funding decision made years earlier, catching up."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "When should the board involve the attorney on collections?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Adopt a written collection policy in advance with defined trigger points, then follow it identically for every owner. Statements and late notices are administrative. Once the matter reaches a formal demand, a lien, or any action affecting possession, it carries statutory notice requirements and belongs with association counsel. What the board controls is the policy and the trigger; what counsel controls is the legal step."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Why does our insurance keep costing more?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Illinois associations have faced sustained premium increases driven by claims history, replacement-cost inflation on building materials, deductible structures, and reinsurance markets that price weather risk. Boards have less control over the market than over their own exposure: current appraisals, documented maintenance, resolved deferred repairs, and a clean claims record all affect what an underwriter offers at renewal."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Resource Center",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Association Finance &amp; Reserves",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.03] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Build stronger budgets, reserve plans, collection procedures, and financial controls with guidance written for condominium, HOA, and townhome boards.",
+   "cls": "lg:col-span-4 text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Published Guidance",
+   "cls": "eyebrow text-gold-600 mb-4"
+  },
+  {
+   "type": "h2",
+   "html": "Board guides in this topic",
+   "cls": "font-display text-4xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "November 2, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Master policy deductibles have climbed, and a single water loss can leave a five-figure bill. Illinois law gives condo boards three options for who pays it. Here is how each one works and the step boards most often skip.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Keeping Reserves Safe: FDIC Limits for Illinois Associations",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A reserve fund that has grown past $250,000 at a single bank is partly uninsured, no matter how many owners the association has. Here is how FDIC coverage works for associations and what a reserve investment policy should cover.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 27, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Fidelity Insurance for Illinois Associations and Their Manager",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Fidelity coverage is the policy that pays when someone steals association money. Illinois sets requirements for both the association and its management company, and one of those rules changed in July 2026.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 25, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Can Illinois Condo Owners Demand an Independent Audit?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A group of owners asks the board for an independent audit and says the law requires it. Before the board answers, it helps to know exactly what the Condominium Property Act does and does not say about audits.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 23, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Fannie Mae and Freddie Mac Raise the Condo Reserve Minimum to 15%: What Boards Must Do for the 2027 Budget",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "For loan applications dated on or after January 4, 2027, Fannie Mae and Freddie Mac will look for a replacement-reserve allocation of at least 15% of budgeted assessment income — up from 10%. The 2027 budget your board adopts this fall decides whether buyers in your building can get a conventional loan.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 24, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Speed in resale disclosures comes from preparation, not from skipping steps. Here is the intake-to-release workflow that produces both.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 20, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "A Practical Annual Budget Workbook for Association Boards",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A good association budget is built over three months, not one evening. Here is the working timeline, the line-item method, and the checklist to adopt it cleanly.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 18, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Preparing for Insurance Renewal: An Association Board Checklist",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Associations that arrive at renewal with organized documentation, completed maintenance, and clear loss context are in a materially better position than those that submit a bare application two weeks out.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 16, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Preparing an Association for a Capital Project Loan",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Association lending is underwritten on assessment income and governance quality. Both are things a board can improve months before the first lender conversation.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 12, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How Board Members Should Read Association Financial Statements",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "You do not need an accounting background to read an association financial packet well. You need to know which four numbers matter and which questions to ask.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 9, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Volunteer directors make consequential decisions. D and O coverage exists for the moment someone disagrees with one of them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 8, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Association Liens and Delinquencies: What Boards Need Organized",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not file liens. Counsel does. The board job is to keep records so clean that counsel can act quickly and the association position is provable.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 4, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Late Fees and Interest: Building a Defensible Association Policy",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A late fee policy is only as strong as its authority and its consistency. Boards lose these disputes on process, not on the dollar amount.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Reasonable Reserves Under Illinois Condo Law",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois does not hand boards a reserve percentage. It expects a reasoned judgment. That means the documentation of your decision matters as much as the number.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 29, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Delinquency Escalation: A Consistent Process for Association Boards",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The single biggest predictor of collection outcomes is not how aggressive a board is. It is whether the board treats every delinquent account the same way, on the same schedule, every time.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 27, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The Illinois 22.1 Disclosure Packet Checklist",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The packet is where 22.1 compliance either works or breaks. This is the assembly and quality-control checklist boards can hand to whoever prepares it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 24, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owners assume the master policy covers everything inside their unit. It usually does not. Here is how boards can explain the split without giving insurance advice.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 23, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How to Read a Condo Reserve Study Before the Next Budget",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A reserve study is not a document you file. It is the input that should drive your reserve contribution line before the budget vote. Here is how to read one.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 21, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How Illinois Association Boards Should Adopt an Annual Budget",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Budget season is where most association disputes are either prevented or created. Here is a repeatable process Illinois boards can use to build, notice, and adopt an annual budget without last-minute chaos.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 20, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Fannie Mae and Freddie Mac Condo Eligibility: A Board Readiness Guide",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Lenders selling loans to Fannie Mae or Freddie Mac must confirm the whole project is eligible, not just the buyer. Here is what your board should have ready before the next questionnaire arrives.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 19, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Section 22.1 Disclosures: A Board Guide",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 of the Illinois Condominium Property Act governs the information a condominium association must provide when a unit is being resold. Here is how boards should organize for it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The 22.1 Disclosure and Beyond: A First-Time Chicago Condo Buyer’s Guide",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "You are not just buying a unit — you are buying into a business with a budget, a board, and a balance sheet. Here is how to read that business before you close.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "May 13, 2025",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Why HOA and Condo Insurance Costs Are Skyrocketing in Illinois",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Master-policy premiums and deductibles are climbing across Illinois. Here is what is behind the increases — and the practical steps boards can take to manage them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Reserve Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "January 28, 2025",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Reserve funding has become one of the most important issues in community management. Here is what reserves are, why most associations fall short, and how to fix it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 24, 2024",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Special Assessments: Why Illinois Condo Owners Are Suddenly Paying Thousands",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Special assessments are hitting Illinois condo owners harder than ever. Here is what they are, why they are rising, what the board can and cannot do — and how to prevent them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Related Service",
+   "cls": "eyebrow text-gold-300 mb-5"
+  },
+  {
+   "type": "h2",
+   "html": "Financial Management",
+   "cls": "font-display text-3xl mb-5"
+  },
+  {
+   "type": "p",
+   "html": "See how Stellar puts this guidance into practice for Chicago and North Shore community associations.",
+   "cls": "text-paper/65 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "h2",
+   "html": "Explore other topics",
+   "cls": "font-display text-2xl text-ink mb-5"
+  }
+ ]
+}

@@ -1,0 +1,1737 @@
+{
+ "path": "/about/mirsad-cerimovic",
+ "title": "Mirsad Cerimovic, CMCA | Founder, Stellar Property Management",
+ "description": "Mirsad Cerimovic founded Stellar Property Management in Chicago in 2007. Licensed Illinois CAM, CMCA and AMS designee managing 29 condo, HOA and townhome associations.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "ProfilePage",
+   "@id": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic#webpage",
+   "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+   "name": "Mirsad Cerimovic, CMCA, AMS — Founder & Principal, Stellar Property Management",
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/#website"
+   },
+   "mainEntity": {
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic"
+   },
+   "about": {
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "About",
+     "item": "https://www.stellarpropertygroup.com/about"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Mirsad Cerimovic",
+     "item": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic"
+    }
+   ]
+  },
+  {
+   "@type": "Person",
+   "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+   "name": "Mirsad Cerimovic",
+   "honorificSuffix": "CAM, CMCA, AMS",
+   "jobTitle": "Founder & Principal",
+   "description": "Founder and principal of Stellar Property Management. In Chicago community association management since 1997, a licensed City of Chicago stationary engineer and NIULPE-certified power engineer, and from July 2007 to November 2024 the instructor for the Chicago Stationary Engineer’s License exam-prep course at the SEIU Local 1 Training Fund, where he took roughly 700 engineers through the city examination.",
+   "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+   "mainEntityOfPage": {
+    "@id": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic#webpage"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.stellarpropertygroup.com/images/mirsad-cerimovic.jpg",
+    "width": 356,
+    "height": 356,
+    "caption": "Mirsad Cerimovic, founder and principal of Stellar Property Management"
+   },
+   "telephone": "+1-773-728-0652",
+   "worksFor": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management"
+   },
+   "sameAs": [
+    "https://www.linkedin.com/in/mirsad-cerimovic-0a1a62bb"
+   ],
+   "workLocation": {
+    "@type": "Place",
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "5107 N Western Ave, Suite 1S",
+     "addressLocality": "Chicago",
+     "addressRegion": "IL",
+     "postalCode": "60625",
+     "addressCountry": "US"
+    }
+   },
+   "affiliation": {
+    "@type": "Organization",
+    "name": "SEIU Local 1 Training Fund",
+    "description": "Instructor, City of Chicago Stationary Engineer’s License exam-preparation course, July 2007 – November 2024."
+   },
+   "memberOf": [
+    {
+     "@type": "ProgramMembership",
+     "programName": "Community Associations Institute — Manager membership",
+     "hostingOrganization": {
+      "@type": "Organization",
+      "name": "Community Associations Institute",
+      "url": "https://www.caionline.org/"
+     }
+    },
+    {
+     "@type": "Organization",
+     "name": "Community Associations Institute Illinois Chapter",
+     "url": "https://www.cai-illinois.org/"
+    }
+   ],
+   "hasCredential": [
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Illinois Licensed Community Association Manager (CAM)",
+     "credentialCategory": "Professional license",
+     "identifier": "261000524",
+     "recognizedBy": {
+      "@type": "GovernmentOrganization",
+      "name": "Illinois Department of Financial and Professional Regulation",
+      "url": "https://idfpr.illinois.gov/"
+     }
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Certified Manager of Community Associations (CMCA)",
+     "credentialCategory": "Professional certification",
+     "url": "https://www.camicb.org/find-a-cmca/",
+     "recognizedBy": {
+      "@type": "Organization",
+      "name": "Community Association Managers International Certification Board",
+      "url": "https://www.camicb.org/"
+     }
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Association Management Specialist (AMS)",
+     "credentialCategory": "Professional designation",
+     "dateCreated": "2020-03-06",
+     "recognizedBy": {
+      "@type": "Organization",
+      "name": "Community Associations Institute",
+      "url": "https://www.caionline.org/"
+     }
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "City of Chicago Stationary Engineer’s License",
+     "credentialCategory": "Professional license",
+     "recognizedBy": {
+      "@type": "GovernmentOrganization",
+      "name": "City of Chicago Department of Buildings"
+     }
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "NIULPE Certified Power Engineer",
+     "credentialCategory": "Professional certification",
+     "recognizedBy": {
+      "@type": "Organization",
+      "name": "National Institute for the Uniform Licensing of Power Engineers"
+     }
+    }
+   ],
+   "knowsAbout": [
+    "Condominium association management",
+    "Illinois Condominium Property Act",
+    "Illinois Common Interest Community Association Act",
+    "HOA governance and finance",
+    "Reserve fund planning",
+    "Capital project oversight",
+    "Section 22.1 resale disclosures",
+    "Chicago building systems and boiler operations",
+    "City of Chicago Stationary Engineer licensing"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Who is Mirsad Cerimovic?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Mirsad Cerimovic is the founder and principal of Stellar Property Management. He entered the Chicago community association industry in April 1997 and founded Stellar in 2007. He is a licensed Illinois Community Association Manager holding the CMCA certification and AMS designation, and he is also a licensed City of Chicago stationary engineer and a NIULPE-certified power engineer. The firm manages 29 condominium, homeowner, and townhome associations, with approximately 1,422 residences, across Chicago and the North Shore, and he has managed portfolios exceeding fifty associations."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Mirsad Cerimovic do at Stellar Property Management?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "He leads the firm and stays directly involved in four areas: board transitions, the financial reporting standard applied across the portfolio, Illinois statutory compliance alongside association counsel, and reserve and capital planning. Boards evaluating management speak with him rather than a sales team, and he leads each incoming association through its transition personally."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Mirsad Cerimovic licensed in Illinois?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. He holds Illinois Community Association Manager license #261000524, which is active and carries no disciplinary history, and Stellar Property Group Inc. separately holds Illinois CAM Firm license #291000211. Illinois licenses both managers and the firms they work for. Any board can confirm this independently by searching the license number in the IDFPR public license lookup before signing a management agreement."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What do CMCA and AMS mean?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "CMCA is the Certified Manager of Community Associations credential, the international certification for community association managers, administered by the Community Association Managers International Certification Board. AMS is the Association Management Specialist designation from the Community Associations Institute, recognizing advanced experience and continuing education in community association management; his AMS was awarded in March 2020 and is active. Both credentials lapse without ongoing continuing education, so an active status means they are being maintained rather than simply held."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Mirsad Cerimovic a licensed engineer?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. He holds a City of Chicago Stationary Engineer’s License and is a certified power engineer under NIULPE, the National Institute for the Uniform Licensing of Power Engineers. That means he is qualified to operate the boilers, chillers, and mechanical plant of a commercial building himself. It is an unusual combination in community association management, where most managers can hire an engineer but cannot read the plant, and it is why he approaches a reserve study as a building rather than a spreadsheet."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Did Mirsad Cerimovic teach the Chicago Stationary Engineer’s License course?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. From July 2007 to November 2024 he was the instructor for the City of Chicago Stationary Engineer’s License eight-week exam-preparation course at the SEIU Local 1 Training Fund, helping establish the program and teaching it for seventeen years. Roughly 700 engineers went through his class and sat the city examination — the people who operate the boilers, chillers, and life-safety systems in Chicago buildings. He holds that license himself, along with NIULPE power-engineer certification. That background is why building operations, rather than paperwork, sits at the centre of how he approaches reserve studies and capital planning."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does Mirsad Cerimovic write about?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "He writes the firm’s board guides on Illinois association law, reserve funding, and governance — including Section 22.1 resale disclosures, budget adoption, reserve studies, records requests, and how boards should compare management proposals. The library is published in the Stellar journal and in The Owner’s Companion, a guide written for owners and residents rather than boards."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I contact Mirsad Cerimovic?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "By email at mirsad@stellarpropertygroup.com or by phone at 773.728.0652. The office is at 5107 N Western Avenue, Suite 1S, Chicago, Illinois 60625. Association boards requesting a management proposal, and owners with a concern their manager has not resolved, can both reach him directly."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Founder &amp; Principal · CAM · CMCA · AMS · Licensed Chicago Stationary Engineer",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Mirsad <em>Cerimovic.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "In Chicago community association management since 1997. Founder and principal of Stellar Property Management, a firm devoted exclusively to condominium, HOA, and townhome associations.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Biography",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "In Chicago associations since <em>1997.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Mirsad Cerimovic entered the Chicago community association industry in April 1997 and has worked in it ever since, managing portfolios that have exceeded fifty associations. In 2007 he founded Stellar Property Management on a conviction that community association management deserved to be someone’s only business rather than a side line of a brokerage. The firm has never managed rentals. It manages condominium associations, homeowner associations, and townhome communities — nothing else.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Starting with a handful of North Side associations, the firm grew through board referrals to the 29 associations and approximately 1,422 residences it manages today across Chicago and the North Shore. Mirsad still reviews the financial reporting standard applied to every association in the portfolio and leads each incoming board through its transition personally.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "He is a licensed Illinois Community Association Manager and holds both the CMCA certification and the AMS designation. He is a member of the Community Associations Institute and its Illinois Chapter, where Illinois statutory changes affecting condominium and common interest community boards are tracked each session.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "He is also a licensed City of Chicago stationary engineer and a NIULPE-certified power engineer — qualified to run the boilers, chillers, and mechanical plant of a commercial building, not merely to hire someone who can. From 2007 to 2024 he taught the exam-preparation course for that same Chicago license at the SEIU Local 1 Training Fund — July 2007 to November 2024. From the program’s first cohort onward he took roughly 700 engineers through the city examination: the people who now run the boilers, chillers, and life-safety systems in Chicago’s commercial and residential buildings.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "That combination is unusual in this industry and it changes the work. Most association managers read a reserve study as a spreadsheet. He reads it as a building — which components are genuinely near end of life, which contractor bid is describing work the plant does not need, and which deferred repair becomes an emergency in the next cold snap.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "He writes the firm’s board guides on Illinois condominium law, reserve funding, and association governance — the library published in <a href=\"/blog\">the Stellar journal</a> and <a href=\"/condo-living\">The Owner’s Companion</a>.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "At a glance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-6"
+  },
+  {
+   "type": "dt",
+   "html": "Role",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "Founder &amp; Principal, Stellar Property Management",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "In the industry since",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "April 1997",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Founded Stellar",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "2007",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Taught",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "City of Chicago Stationary Engineer’s License prep, SEIU Local 1 Training Fund, July 2007 – November 2024 · roughly 700 engineers",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Credentials",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "Illinois CAM · CMCA · AMS City of Chicago Stationary Engineer · NIULPE",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Illinois CAM license",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "#261000524 · Active <a href=\"https://online-dfpr.micropact.com/lookup/licenselookup.aspx\">Verify with IDFPR</a>",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Firm license",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "Illinois CAM Firm #291000211",
+   "cls": "text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Office",
+   "cls": "text-slate-500 mb-1"
+  },
+  {
+   "type": "dd",
+   "html": "5107 N Western Ave, Suite 1S Chicago, IL 60625",
+   "cls": "text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Licensing &amp; Credentials",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Verifiable, and worth <em>verifying.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Illinois licenses community association managers and the firms they work for. Any board can confirm a manager’s standing before signing a management agreement — and should. Search license <strong>#261000524</strong> in the <a href=\"https://online-dfpr.micropact.com/lookup/licenselookup.aspx\">IDFPR license lookup</a>: the record shows an active license and no disciplinary history. The CMCA certification can be confirmed separately in CAMICB’s <a href=\"https://www.camicb.org/find-a-cmca/\">Find a CMCA directory</a> by searching the surname — the same directory that publishes every CMCA revocation.",
+   "cls": "mt-6 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Licensed Community Association Manager",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Individual license #261000524, active and with no disciplinary history on file with the Illinois Department of Financial and Professional Regulation. Stellar Property Group Inc. separately holds Illinois CAM Firm license #291000211.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Certified Manager of Community Associations",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "The international certification for community association managers, administered by the Community Association Managers International Certification Board, an independent body whose programme is accredited by the NCCA and to ISO/IEC 17024 — the only credential in this field carrying third-party accreditation. The certification is listed and current in CAMICB’s public Find a CMCA directory, which also publishes any revocation — so the absence of a sanction is part of what the record shows.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Association Management Specialist",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "A Community Associations Institute designation recognizing advanced experience and education in community association management. Awarded March 2020 and currently active; the designation lapses without ongoing continuing education, so an active status means it is being maintained rather than simply held. CAI’s public directory listed roughly 5,400 active AMS holders in August 2026, against an industry of some 60,000 to 65,000 community association managers.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "City of Chicago Stationary Engineer’s License",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Licensed by the City of Chicago to operate high-pressure boilers, chillers, and the mechanical plant of a commercial building — the same license he taught the eight-week exam-preparation course for at the SEIU Local 1 Training Fund from July 2007 to November 2024.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "National Institute for the Uniform Licensing of Power Engineers",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Certified power engineer under the national uniform standard, covering boiler and pressure-vessel operation, refrigeration, and building mechanical systems.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "What He Handles Personally",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where the principal stays <em>involved.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-14 max-w-2xl"
+  },
+  {
+   "type": "h3",
+   "html": "Board transitions",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Leads every new association through its transition personally — records handover, bank and lockbox setup, vendor reassignment, and the first budget cycle under Stellar.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial reporting standards",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Sets and reviews the reporting standard applied to all 29 associations in the portfolio, so treasurers see the same statements in the same format every month.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois statutory compliance",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Works with association counsel on Illinois Condominium Property Act and Common Interest Community Association Act obligations — Section 22.1 disclosures, records requests, meeting and notice rules.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Reserve and capital planning",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Translates reserve studies into funding plans boards can actually adopt, and prepares associations for facade, roof, and mechanical projects before they become special assessments.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Published Guides",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Written for Illinois <em>boards.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Condo Porch and Deck Safety: What Boards of 3-Flats and Courtyard Buildings Should Do",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Wood rear porches are part of almost every Chicago 3-flat and courtyard building. Here is what the City requires, when a permit is needed, what inspectors look for, and how a condo board should manage porches year to year.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Master policy deductibles have climbed, and a single water loss can leave a five-figure bill. Illinois law gives condo boards three options for who pays it. Here is how each one works and the step boards most often skip.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The director whose brother-in-law runs a roofing company may well offer the best price. Illinois law does not ban that contract, but it requires notice to owners and gives them a way to force a vote.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Keeping Reserves Safe: FDIC Limits for Illinois Associations",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A reserve fund that has grown past $250,000 at a single bank is partly uninsured, no matter how many owners the association has. Here is how FDIC coverage works for associations and what a reserve investment policy should cover.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board that wants to push out a difficult colleague usually discovers it cannot do so by itself. In most Illinois associations, the people who elected the director are the ones who can remove them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Association Money and Your Management Company: Illinois Rules",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Whose name is on the bank account that holds your assessments? Illinois law gives a clear answer for licensed management firms, and every board should be able to confirm it in an afternoon.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois starts from a simple rule: board meetings are open to owners. The exceptions are narrow, the notice periods are short but strict, and every vote happens where owners can see it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Fidelity Insurance for Illinois Associations and Their Manager",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Fidelity coverage is the policy that pays when someone steals association money. Illinois sets requirements for both the association and its management company, and one of those rules changed in July 2026.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Can an Illinois Association Fine an Owner? Notice and Hearing Rules",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois law lets a condo or HOA board fine an owner for violating the governing documents, but only after notice and an opportunity to be heard. Skipping that step is the fastest way to lose a fine you were right to impose.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Can Illinois Condo Owners Demand an Independent Audit?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A group of owners asks the board for an independent audit and says the law requires it. Before the board answers, it helps to know exactly what the Condominium Property Act does and does not say about audits.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Board Elections: Nominations, Proxies and Secret Ballots",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most contested condo elections are not lost on votes. They are lost on process: a proxy form that only lists the incumbents, a candidate deadline nobody announced, or a ballot count no candidate was allowed to watch.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Fannie Mae and Freddie Mac Raise the Condo Reserve Minimum to 15%: What Boards Must Do for the 2027 Budget",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "For loan applications dated on or after January 4, 2027, Fannie Mae and Freddie Mac will look for a replacement-reserve allocation of at least 15% of budgeted assessment income — up from 10%. The 2027 budget your board adopts this fall decides whether buyers in your building can get a conventional loan.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo and HOA Collection Policy Law: What Boards Must Adopt by January 1, 2027",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Starting January 1, 2027, an Illinois condominium or common interest community association that has not adopted — and does not follow — a written collection policy cannot take legal action to collect unpaid assessments. Here is what the law requires and a dated plan for the next ten weeks.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Stopping Airbnb in Your Chicago Condo: The Prohibited Buildings List",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most boards fight short-term rentals one unit at a time, through violation notices and fines. Chicago offers a far blunter instrument, and comparatively few associations use it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not overpay because vendors are dishonest. They overpay because three bids described three different projects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Speed in resale disclosures comes from preparation, not from skipping steps. Here is the intake-to-release workflow that produces both.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Association Emergency Planning: A Board-Ready Playbook",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A pipe break at 2 a.m. is not the time to look up who can authorize a vendor. Decide the authority, contacts, and communication plan in advance.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How Many Associations Should One Community Manager Handle?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Association count alone does not reveal manager capacity. Boards should examine units, building complexity, meetings, active projects, support staff, and backup coverage together.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago High-Rise Life-Safety Planning for Condominium Boards",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Life-safety compliance in a Chicago high-rise is a program, not a filing. Boards need verified requirements, maintained systems, and records that prove both.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "A Practical Annual Budget Workbook for Association Boards",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A good association budget is built over three months, not one evening. Here is the working timeline, the line-item method, and the checklist to adopt it cleanly.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most annual meeting problems are logistics problems. Confirm the requirements with counsel, then execute notice, quorum, and minutes the same way every year.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Preparing for Insurance Renewal: An Association Board Checklist",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Associations that arrive at renewal with organized documentation, completed maintenance, and clear loss context are in a materially better position than those that submit a bare application two weeks out.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Snow and Ice Vendor Oversight for Illinois Associations",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Snow contracts are signed in September and tested at 4 a.m. in January. Specificity in the contract is what separates the two.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Preparing an Association for a Capital Project Loan",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Association lending is underwritten on assessment income and governance quality. Both are things a board can improve months before the first lender conversation.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Fiduciary Duty Self-Audit for Illinois Association Boards",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Fiduciary duty is demonstrated through process. This annual self-audit helps a board show that its decisions were informed, disinterested, and documented.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Board Communication Systems That Reduce Conflict and Lost Decisions",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most association conflict is not disagreement about policy. It is confusion about what was decided, by whom, and when. A communication system fixes far more than a personality change would.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "EV Charging Requests: A Process for Illinois Association Boards",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "EV requests are arriving at Illinois associations. Boards that build a written process once handle every future request in weeks instead of months.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How Board Members Should Read Association Financial Statements",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "You do not need an accounting background to read an association financial packet well. You need to know which four numbers matter and which questions to ask.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Developer Turnover: What an Illinois Association Board Should Collect",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Turnover is the one moment when an association has maximum leverage to obtain complete records. Use a written collection list and independent professional review.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How to Verify an Illinois Community Association Manager License",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Verifying licensure takes a few minutes and belongs in every management search. Here is exactly what to check, what to ask for in writing, and how to keep the verification current after you sign.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Volunteer directors make consequential decisions. D and O coverage exists for the moment someone disagrees with one of them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Association Liens and Delinquencies: What Boards Need Organized",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not file liens. Counsel does. The board job is to keep records so clean that counsel can act quickly and the association position is provable.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "New Condo Board Member Guide: The First 30 Days",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "New directors are asked to vote on real money within weeks of election. Here is what to read, review, and ask in your first month.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The Illinois Condominium Ombudsperson Act: Current Board Duties",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards regularly ask what the Ombudsperson Act requires of them today. The honest answer starts with checking the current status of the Act itself, then focusing on the internal complaint policy discipline that helps either way.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Capital Planning for Vintage Chicago Condominium Buildings",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Older Chicago buildings have character and finite systems. A real capital plan turns unpredictable emergencies into scheduled, funded projects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Late Fees and Interest: Building a Defensible Association Policy",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A late fee policy is only as strong as its authority and its consistency. Boards lose these disputes on process, not on the dollar amount.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Adopting and Enforcing Association Rules in Illinois",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A rule is only as strong as the process behind it. Authority, notice, a fair hearing, and consistency are what make enforcement stick.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "What to Review in a Community Association Management Agreement",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The management agreement decides what your association actually receives, what it pays beyond the monthly fee, and how cleanly you can leave. Most boards read the fee line and skim the rest.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Facade Compliance: How Condo Boards Can Stay Project-Ready",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Facade work is expensive, disruptive, and non-negotiable. Boards that plan for it years ahead avoid emergency assessments and scaffolding surprises.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Reasonable Reserves Under Illinois Condo Law",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois does not hand boards a reserve percentage. It expects a reasoned judgment. That means the documentation of your decision matters as much as the number.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Deconversion in Illinois: Is It 75% or 85%?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A developer offer to buy every unit in the building is the single most consequential vote most condo boards will ever put to their owners — and the approval threshold is different in Chicago than it is three miles north.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Collecting Unpaid Assessments in Illinois: The Possession Action",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most boards think their only collection tool is a lien that sits until the owner sells. Illinois gives associations something considerably sharper — and considerably more misunderstood.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Amending an Illinois Condo Declaration: What It Actually Takes",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards routinely pass amendments that never take effect, because the vote is only half the job. Here is the threshold, the exceptions, and the step that gets skipped.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Association Finance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Cook County Property Tax Appeals: What Condo Boards Should Know",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "One filing can cover every unit in the building — and unlike most things a board does, the upside lands directly in owners’ pockets rather than in the association’s budget.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Electronic Voting for Illinois Associations: Board Checklist",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Electronic voting can lift participation dramatically, but only if the board confirms its authority, collects proper consent, and preserves a defensible record.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Delinquency Escalation: A Consistent Process for Association Boards",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The single biggest predictor of collection outcomes is not how aggressive a board is. It is whether the board treats every delinquent account the same way, on the same schedule, every time.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Who Pays for a Condo Water Leak? Start With These Documents",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Water travels down, and so do disputes. The answer to who pays almost never starts with fairness -- it starts with your declaration.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The Illinois 22.1 Disclosure Packet Checklist",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The packet is where 22.1 compliance either works or breaks. This is the assembly and quality-control checklist boards can hand to whoever prepares it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Closed Sessions for Illinois Condo Boards: A Practical Guide",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Closed session exists for a narrow set of sensitive topics. Used correctly it protects the association; used loosely it damages owner trust.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Condominium Association Compliance Calendar",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Compliance failures in Chicago condominium buildings are rarely one big mistake. They are small recurring deadlines nobody owned. Here is how to build a calendar that assigns every one of them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owners assume the master policy covers everything inside their unit. It usually does not. Here is how boards can explain the split without giving insurance advice.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How to Read a Condo Reserve Study Before the Next Budget",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A reserve study is not a document you file. It is the input that should drive your reserve contribution line before the budget vote. Here is how to read one.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How Illinois Condo Boards Should Handle Records Requests",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owner records requests are a recurring source of conflict. A written intake process, counsel review, and consistent recordkeeping turn them into routine administration.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How Illinois Association Boards Should Adopt an Annual Budget",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Budget season is where most association disputes are either prevented or created. Here is a repeatable process Illinois boards can use to build, notice, and adopt an annual budget without last-minute chaos.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Fannie Mae and Freddie Mac Condo Eligibility: A Board Readiness Guide",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Lenders selling loans to Fannie Mae or Freddie Mac must confirm the whole project is eligible, not just the buyer. Here is what your board should have ready before the next questionnaire arrives.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Section 22.1 Disclosures: A Board Guide",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 of the Illinois Condominium Property Act governs the information a condominium association must provide when a unit is being resold. Here is how boards should organize for it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Condominiums, HOAs, and townhome associations in Illinois do not all operate under the same statute. Here is how boards identify the governing law and reconcile it with their own declaration and bylaws.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How to Compare Chicago Condo &amp; HOA Management Companies",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready scorecard for comparing Chicago association management companies on manager capacity, service, controls, references, and total annual cost.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Repairs in Illinois: What Owners Fix vs. What the Association Fixes",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "More condo disputes start over repair responsibility than anything else. Here is the three-zone map — what is yours, what is the association’s, and where the declaration decides.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Moving Into a Chicago Condo: The Complete First-Month Guide",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Condo buildings have moving rules for good reasons — and knowing them turns move-in day from an ordeal into a checklist. Here is the complete first-month playbook.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Between your association’s leasing rules and Chicago’s rental ordinances, leasing your condo has a right way and several expensive wrong ways. Here is the right way.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The 22.1 Disclosure and Beyond: A First-Time Chicago Condo Buyer’s Guide",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "You are not just buying a unit — you are buying into a business with a budget, a board, and a balance sheet. Here is how to read that business before you close.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Leadership",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "How to Switch Condo Management Companies in Chicago",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready process for replacing a management company without losing records, missing deadlines, or disrupting owners and vendors.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The Technology Behind Our Management: Why Stellar Runs on Portier369",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards often ask what software we use and why it matters to them. Here is an honest look at the platform behind our day-to-day management — and what it means for owners and board members.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Law in 2026: What Every Board Must Know",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois condo boards face a dense web of legal obligations. Here is a practical, plain-English rundown of the rules that matter most in 2026 — and where boards most often get into trouble.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "AI Is Coming to Condo Management — What Boards Need to Know",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "AI is starting to reshape how associations are managed. Here is a clear-eyed look at where it helps, where it does not, and how boards should approach it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Why HOA and Condo Insurance Costs Are Skyrocketing in Illinois",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Master-policy premiums and deductibles are climbing across Illinois. Here is what is behind the increases — and the practical steps boards can take to manage them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Reserve Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Reserve funding has become one of the most important issues in community management. Here is what reserves are, why most associations fall short, and how to fix it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Education",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Property Management in Chicago: What Board Members Should Expect From a Professional Management Company",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Serving on a condo board in Chicago is a significant responsibility. Learn what to expect from a professional property management company and how to evaluate the right partner for your association.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Special Assessments: Why Illinois Condo Owners Are Suddenly Paying Thousands",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Special assessments are hitting Illinois condo owners harder than ever. Here is what they are, why they are rising, what the board can and cannot do — and how to prevent them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Property Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The Hidden Problems With Self-Managed Condo Associations",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Self-management looks like an easy way to cut costs — until the hidden risks surface. Here is what boards should weigh before going it alone.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Owner Rights",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Few topics spark stronger reactions than a board entering a private unit. Here is how access rights actually work for Illinois condominiums — for owners and boards alike.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Community Standards",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The Most Common Condo Rule Violations in Chicago Buildings",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most condo conflict starts small. Here are the rule violations Chicago boards see most often — and the right way to address them before they escalate.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owners challenge condo and HOA rules constantly. Here is what actually makes a rule legally enforceable in Illinois — and the mistakes that get rules thrown out.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+   "cls": "font-display text-xl text-ink leading-snug mb-3 group-hover:text-gold-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Board dysfunction is the quiet killer of condo associations. Here is the single biggest reason boards fail — and a practical playbook for fixing it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-6 grow"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "About Mirsad Cerimovic.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Who is Mirsad Cerimovic?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Mirsad Cerimovic is the founder and principal of Stellar Property Management. He entered the Chicago community association industry in April 1997 and founded Stellar in 2007. He is a licensed Illinois Community Association Manager holding the CMCA certification and AMS designation, and he is also a licensed City of Chicago stationary engineer and a NIULPE-certified power engineer. The firm manages 29 condominium, homeowner, and townhome associations, with approximately 1,422 residences, across Chicago and the North Shore, and he has managed portfolios exceeding fifty associations.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What does Mirsad Cerimovic do at Stellar Property Management?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "He leads the firm and stays directly involved in four areas: board transitions, the financial reporting standard applied across the portfolio, Illinois statutory compliance alongside association counsel, and reserve and capital planning. Boards evaluating management speak with him rather than a sales team, and he leads each incoming association through its transition personally.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Is Mirsad Cerimovic licensed in Illinois?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. He holds Illinois Community Association Manager license #261000524, which is active and carries no disciplinary history, and Stellar Property Group Inc. separately holds Illinois CAM Firm license #291000211. Illinois licenses both managers and the firms they work for. Any board can confirm this independently by searching the license number in the IDFPR public license lookup before signing a management agreement.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What do CMCA and AMS mean?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "CMCA is the Certified Manager of Community Associations credential, the international certification for community association managers, administered by the Community Association Managers International Certification Board. AMS is the Association Management Specialist designation from the Community Associations Institute, recognizing advanced experience and continuing education in community association management; his AMS was awarded in March 2020 and is active. Both credentials lapse without ongoing continuing education, so an active status means they are being maintained rather than simply held.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Is Mirsad Cerimovic a licensed engineer?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. He holds a City of Chicago Stationary Engineer’s License and is a certified power engineer under NIULPE, the National Institute for the Uniform Licensing of Power Engineers. That means he is qualified to operate the boilers, chillers, and mechanical plant of a commercial building himself. It is an unusual combination in community association management, where most managers can hire an engineer but cannot read the plant, and it is why he approaches a reserve study as a building rather than a spreadsheet.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Did Mirsad Cerimovic teach the Chicago Stationary Engineer’s License course?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. From July 2007 to November 2024 he was the instructor for the City of Chicago Stationary Engineer’s License eight-week exam-preparation course at the SEIU Local 1 Training Fund, helping establish the program and teaching it for seventeen years. Roughly 700 engineers went through his class and sat the city examination — the people who operate the boilers, chillers, and life-safety systems in Chicago buildings. He holds that license himself, along with NIULPE power-engineer certification. That background is why building operations, rather than paperwork, sits at the centre of how he approaches reserve studies and capital planning.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What does Mirsad Cerimovic write about?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "He writes the firm’s board guides on Illinois association law, reserve funding, and governance — including Section 22.1 resale disclosures, budget adoption, reserve studies, records requests, and how boards should compare management proposals. The library is published in the Stellar journal and in The Owner’s Companion, a guide written for owners and residents rather than boards.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How do I contact Mirsad Cerimovic?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "By email at mirsad@stellarpropertygroup.com or by phone at 773.728.0652. The office is at 5107 N Western Avenue, Suite 1S, Chicago, Illinois 60625. Association boards requesting a management proposal, and owners with a concern their manager has not resolved, can both reach him directly.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h2",
+   "html": "Boards speak with the <em>principal.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Proposals, transition questions, and service concerns reach Mirsad directly — not a sales team. If your association is evaluating management, start there.",
+   "cls": "text-paper/60 font-light leading-relaxed max-w-xl"
+  }
+ ]
+}

@@ -1,0 +1,252 @@
+{
+ "path": "/blog/illinois-condo-hoa-budget-adoption-guide",
+ "title": "How Illinois Association Boards Should Adopt an Annual Budget",
+ "description": "A practical guide for Illinois condo and HOA boards on building, noticing, and adopting an annual budget, plus the owner notice steps to confirm with counsel.",
+ "lastmod": "2026-08-21",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How Illinois Association Boards Should Adopt an Annual Budget",
+   "description": "A practical guide for Illinois condo and HOA boards on building, noticing, and adopting an annual budget, plus the owner notice steps to confirm with counsel.",
+   "datePublished": "2026-08-21",
+   "dateModified": "2026-08-21",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-budget-adoption-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "How Illinois Association Boards Should Adopt an Annual Budget",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 21, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "An Illinois association board adopts an annual budget by building a line-item operating and reserve plan well before the fiscal year starts, reviewing it in an open board meeting, distributing the proposed budget to owners with the advance notice your statute and governing documents require, and then voting to adopt it at a properly noticed meeting. The budget is a board action, not an owner vote, but the notice and distribution steps are where boards most often get into trouble.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The short answer for planning purposes: start roughly ninety days before your fiscal year begins, circulate a draft internally, distribute the proposed budget to owners in advance of the adoption meeting, and adopt it before the year starts so assessment statements go out on time. Your exact notice window and any owner-rejection or reserve-disclosure provisions depend on whether your community is governed by the Illinois Condominium Property Act or the Common Interest Community Association Act (CICAA), and on your own declaration and bylaws. Confirm the current requirements with association counsel before you set your calendar.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Condominium Property Act vs. CICAA: Know Which Statute Applies",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations are generally governed by the Illinois Condominium Property Act. Many non-condominium common interest communities, including a large share of townhome and single-family HOAs, are governed instead by CICAA. The two statutes are similar in spirit but not identical in their budget, notice, reserve, and assessment-increase provisions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This matters practically. A board that copies a budget-notice checklist from a neighboring condominium into a townhome HOA may follow the wrong timeline entirely. Before your first budget workshop, write down which act applies to your community and pair it with your recorded declaration. Ask counsel to confirm both, in writing, once. That answer stays good for years.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Governing documents can be stricter",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Statutes set a floor. Declarations and bylaws frequently add requirements: a longer notice period, a specific delivery method, a reserve-funding target, or a cap on how much the board can raise assessments without owner ratification. When the statute and your documents differ, you generally follow the stricter path. Have counsel interpret the language rather than reading it yourself and hoping.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build the Budget Before You Debate It",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Most difficult budget meetings are really data problems. The board is arguing about a number nobody can source. Prevent that by assembling the inputs first.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Inputs to gather",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Trailing twelve months of actuals by GL account, with year-to-date variance against the current budget.",
+    "Contract renewal dates and known price changes for landscaping, snow, janitorial, elevator, and life safety.",
+    "Insurance renewal expectations from your broker, including any deductible or coverage changes.",
+    "Utility trends, with weather-driven and rate-driven changes separated where possible.",
+    "Your most recent reserve study or, absent one, a documented list of major components with estimated remaining life.",
+    "Current delinquency levels and any assessment revenue you should not count on collecting."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Boards that carry a formal reserve plan into the meeting spend far less time on the \"can we defer it another year\" conversation, because the deferral has a visible cost. Our <a href=\"/services/financial-management\">financial management</a> team builds this packet so the board sees actuals, contracts, and reserve position in one place.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "A Working Budget Timeline",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Adjust these to your fiscal year and your confirmed statutory notice period.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Roughly 90 days out",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Pull actuals, request insurance and contract renewal indications, and confirm the reserve funding target the board intends to use.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Roughly 60 days out",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Hold a budget workshop. Walk the draft line by line, document assumptions, and identify which increases are contractual versus discretionary. Decide the reserve contribution before you decide the assessment number, not after.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Roughly 30 to 45 days out",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Distribute the proposed budget to owners with the notice your statute and documents require, and notice the adoption meeting. Include a short plain-language summary explaining the largest drivers of change. Owners accept increases they understand far more readily than increases they discover on a statement.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Before the fiscal year starts",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Adopt the budget by board vote at the noticed open meeting, record the vote in the minutes, and issue updated assessment statements and payment instructions.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confirm with counsel whether the Condominium Property Act or CICAA governs your association.",
+    "Read your declaration and bylaws for notice periods, distribution method, and any assessment-increase limits.",
+    "Assemble trailing actuals, contracts, insurance indications, and reserve data before the first workshop.",
+    "Set the reserve contribution deliberately and document the reasoning in the minutes.",
+    "Budget collections conservatively rather than assuming full assessment revenue.",
+    "Distribute the proposed budget to owners with a plain-language summary of major changes.",
+    "Notice the adoption meeting properly and adopt by recorded board vote in open session.",
+    "Issue updated statements and autopay instructions before the first payment of the new year.",
+    "Schedule quarterly budget-to-actual reviews so surprises surface early."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Common Mistakes Worth Avoiding",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Three patterns cause most budget problems. First, holding the assessment flat for optics while quietly underfunding reserves, which converts a manageable increase into a future special assessment. Second, adopting late, which forces retroactive statements and erodes owner trust. Third, adopting in a closed discussion without a clean open-session vote in the minutes, which creates a record problem that surfaces later during a lender or buyer review.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Consistent, documented process also protects the board individually. When owners can see how the number was built, disagreement stays about policy instead of becoming about motive. Boards that want structured meeting preparation and minutes discipline often start with our board support services, and condominium-specific budget work is covered under condominium management.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois association boards. It is not legal advice and does not create an attorney-client relationship. Statutory requirements differ between the Illinois Condominium Property Act and CICAA, and your recorded declaration and bylaws may impose additional obligations. Have association counsel interpret your governing documents and confirm current requirements before you act.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/condo-hoa-annual-budget-workbook\">A three-month budget workbook</a>; <a href=\"/blog/how-to-read-condo-reserve-study\">how to read a condo reserve study</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Talk Through Your Budget Season",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board wants a budget packet that stands up to owner questions and a calendar that does not slip, we can help. Stellar Property Management works with association boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Contact us</a> to schedule a consultation before your next budget cycle begins.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

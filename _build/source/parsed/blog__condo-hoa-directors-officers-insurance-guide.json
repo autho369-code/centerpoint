@@ -1,0 +1,177 @@
+{
+ "path": "/blog/condo-hoa-directors-officers-insurance-guide",
+ "title": "Directors and Officers Insurance: Questions Every Volunteer…",
+ "description": "D and O insurance for Illinois condo and HOA boards: what it typically covers, common exclusions, and the questions volunteer directors should ask at renewal.",
+ "lastmod": "2026-09-09",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask",
+   "description": "D and O insurance for Illinois condo and HOA boards: what it typically covers, common exclusions, and the questions volunteer directors should ask at renewal.",
+   "datePublished": "2026-09-09",
+   "dateModified": "2026-09-09",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-directors-officers-insurance-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 9, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Directors and officers (D and O) liability insurance is intended to respond to claims alleging wrongful acts in the management of the association -- decisions about rules, elections, assessments, architectural approvals, records, and similar governance matters. It is fundamentally different from the association's property and general liability coverage, which addresses physical damage and bodily injury. If your association carries only property and general liability, the board should raise D and O with its agent immediately.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The second thing every volunteer director should understand is that coverage terms vary substantially between carriers and forms. Two associations can both say \"we have D and O\" and have very different protection. Boards should read the policy with their agent and counsel, focusing on who is insured, what is excluded, and how defense costs work -- because in governance disputes, defense cost is often the dominant expense.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Who Is Actually Insured",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask whether the policy covers the association entity, current directors and officers, former directors and officers, committee members, and volunteers. Boards often assume committee members and past directors are covered when the form may not include them. This matters most in disputes that surface long after a decision was made.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Defense Costs and Consent",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Clarify whether defense costs erode the limit or sit outside it, who selects defense counsel, and whether the carrier's consent is required before the association incurs legal expense. Boards that hire counsel first and notify the carrier later can create coverage problems.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Common Exclusions to Discuss",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask the agent to walk through exclusions in plain language. Frequently discussed categories include bodily injury and property damage (handled by other policies), fraudulent or intentional acts, certain employment-related matters unless endorsed, construction defect and similar claims, insured-versus-insured situations, and fines or penalties. Also ask how the policy treats non-monetary relief, since many association disputes seek an order rather than money.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Coverage limits and premiums should be reviewed with the budget, which is part of our <a href=\"/services/financial-management\">association financial management</a> service.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Governance Practices That Reduce Claims",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Insurance does not substitute for process. Boards reduce exposure by making decisions the way their documents require: proper meeting notice, quorum, decisions made at meetings rather than through informal consensus, accurate minutes, consistent rule enforcement, and disciplined handling of records requests. The Illinois Condominium Property Act and the Common Interest Community Association Act each establish governance and records frameworks, and they are not identical, so ask association counsel to confirm which applies to your community and to review your board's standard procedures against it and against your declaration and bylaws.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Renewal Checklist for Volunteer Boards",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Confirm the association carries D and O coverage and obtain the full policy, not just the certificate.",
+    "Verify the insured definition includes the entity, current and former directors, committee members, and volunteers.",
+    "Ask whether defense costs erode the limit and who controls choice of counsel.",
+    "Review exclusions with the agent and ask which endorsements are available.",
+    "Ask how the policy responds to claims seeking non-monetary relief.",
+    "Confirm the claim-reporting procedure and circulate it to all directors.",
+    "Review limits annually against association size, budget, and known disputes.",
+    "Ask counsel to review indemnification provisions in the declaration and bylaws alongside the policy.",
+    "Adopt written procedures for meetings, minutes, rule enforcement, and records requests.",
+    "Document board decisions with the reasoning, not just the vote."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/condo-hoa-insurance-renewal-checklist\">Preparing for insurance renewal</a>; <a href=\"/blog/illinois-association-fidelity-insurance-requirements\">Illinois fidelity insurance requirements</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Support for Volunteer Directors",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Most governance claims trace back to process gaps, not bad intentions. Our board support services help directors run compliant meetings, maintain records, and coordinate with counsel and insurance professionals across condominium, HOA, and townhome communities in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is educational information for association boards, not legal or insurance advice. Coverage depends on your specific policy language; consult your association counsel and licensed insurance professional.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/contact\">Schedule a consultation</a> to review your board's governance and documentation practices.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "path": "/blog/reasonable-reserves-illinois-condo-law",
+ "title": "Reasonable Reserves Under Illinois Condo Law",
+ "description": "Illinois condominium boards must budget reserves that are reasonable in the circumstances. Here is how boards build and document a defensible reserve decision.",
+ "lastmod": "2026-08-31",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Reasonable Reserves Under Illinois Condo Law",
+   "description": "Illinois condominium boards must budget reserves that are reasonable in the circumstances. Here is how boards build and document a defensible reserve decision.",
+   "datePublished": "2026-08-31",
+   "dateModified": "2026-08-31",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/reasonable-reserves-illinois-condo-law"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Reasonable Reserves Under Illinois Condo Law",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium boards are expected to consider reserves as part of the annual budget process, and the standard the Condominium Property Act uses is reasonableness in light of the association's circumstances -- not a fixed percentage that applies to every building in the state. Boards looking for a single number to comply with will not find one, and that is the point. The statute asks for judgment, and judgment has to be exercised, documented, and revisited.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The practical translation for a board: you are not judged on hitting a magic threshold. You are judged on whether you considered the right factors, in good faith, with real information, and wrote down what you concluded. A modest reserve with a documented rationale and a written funding plan is a far better position than a larger reserve nobody can explain.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What \"reasonable in the circumstances\" actually asks you to weigh",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The Act directs attention to the association's specific situation rather than to a benchmark. In practice, boards should be able to show they considered:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "The repair and replacement cost of the common elements the association is responsible for.",
+    "The estimated remaining useful life of those components.",
+    "The current reserve balance relative to those obligations.",
+    "The association's ability to obtain financing or levy assessments if reserves fall short.",
+    "Deferred maintenance already known to exist."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Confirm the current statutory language and any owner-approval mechanics with your association's counsel before relying on a summary. The Act has provisions addressing how reserve obligations can be affected by owner action, and those mechanics are exactly the kind of thing a board should not reconstruct from memory.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Condominium versus CICAA associations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This reserve framework sits in the Condominium Property Act. Illinois homeowners and townhome associations governed by CICAA operate under a separate statute with its own budget and reserve provisions. A board that reads condominium reserve guidance and applies it to a CICAA association may be following the wrong rulebook. Ask counsel which statute governs your association -- the answer determines which analysis you owe.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Building a defensible reserve decision",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Step one: know what you own",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Start from the declaration's allocation of maintenance responsibility. If the association is responsible for roofs, windows, and mechanical systems but not for in-unit fixtures, your reserve scope follows that line. Many under-reserved associations are not under-reserved by intent; they simply never inventoried what they owe.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Step two: get real cost information",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A reserve study is the standard instrument, and it gives the board a professional basis for cost and timing. Where a full study is not in reach, boards can still gather documented contractor estimates and maintain a written component list. What boards should avoid is a reserve number derived entirely from last year's reserve number.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Step three: choose a funding approach and write it down",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Whether the board fully funds the study recommendation, phases toward it over a defined period, or adopts a lower contribution for stated reasons, the decision belongs in the minutes with its reasoning. \"The board reviewed the 2026 reserve study, noted the projected 2031 elevator modernization, and adopted a three-year phase-in to the recommended contribution\" is a defensible record. Silence is not.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Communicating the reserve line to owners",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Reserve increases are the least popular line in any budget until owners understand the alternative. Frame it concretely: the choice is not between paying and not paying. It is between predictable monthly funding and an unpredictable special assessment that lands on whoever owns the unit that year. Show the projected low point from the study. Show the per-unit monthly difference. Owners who see the arithmetic argue less than owners who see only a percentage increase.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Board checklist: annual reserve review",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Confirm with counsel which Illinois statute governs your association.",
+    "Re-verify the component inventory against the declaration each budget cycle.",
+    "Obtain or update professional cost information rather than escalating last year's figure.",
+    "Reconcile the reserve balance on the balance sheet to the bank statements.",
+    "Keep reserve funds in accounts separate from operating funds.",
+    "Adopt the reserve contribution as an explicit vote, not as a residual of the budget.",
+    "Record the reasoning for the contribution level in the minutes.",
+    "Ask counsel about any owner approval or notice mechanics that apply.",
+    "Disclose adopted assessments accurately in resale disclosures."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for Illinois association boards and is not legal or accounting advice. Your governing documents control, and your association's attorney and accountant should confirm current requirements and apply them to your association's facts.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/how-to-read-condo-reserve-study\">Reading your reserve study before the budget</a>; <a href=\"/blog/condo-reserve-funds-explained\">why so many reserve funds are underfunded</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar's <a href=\"/services/financial-management\">financial management</a> practice builds the documentation trail behind reserve decisions so boards can defend them years later. If your condominium association is heading into budget season without a current reserve basis, <a href=\"/contact\">schedule a consultation</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

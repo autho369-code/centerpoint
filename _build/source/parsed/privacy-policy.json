@@ -1,0 +1,142 @@
+{
+ "path": "/privacy-policy",
+ "title": "Privacy Policy | Stellar Property Management",
+ "description": "How Stellar Property Management collects, uses, and protects personal information submitted through stellarpropertygroup.com. No advertising cookies or data selling.",
+ "lastmod": "2026-11-03",
+ "ld": [],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Legal · Effective August 12, 2026",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Privacy <em>Policy.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management, Inc. (“Stellar,” “we,” “us”) respects your privacy. This policy explains what we collect through stellarpropertygroup.com, how we use it, and the choices you have.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed max-w-2xl"
+  },
+  {
+   "type": "h2",
+   "html": "Information We Collect",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We collect personal information only when you choose to provide it through this website:",
+   "cls": "mb-4"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Contact &amp; proposal requests</strong> — your name, email address, phone number, community or association name, property address, property type, unit count, board role, contract timing, management concerns, contact preferences, how you found Stellar, inquiry type, message, referring page, and campaign-source parameters.",
+    "<strong>Violation reports</strong> — your name, contact details, unit or property information, the details of the reported matter, and your electronic signature.",
+    "<strong>Board nomination submissions</strong> — your name, contact details, professional background, candidate statements, and electronic signature."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This website does not use advertising cookies. We use Vercel Web Analytics and Speed Insights to measure aggregate page performance and high-intent actions such as proposal, phone, and email clicks. This privacy-focused measurement does not collect the personal details entered in our forms and does not require you to create an account.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How We Use Your Information",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We use the information you submit solely to respond to your inquiry, prepare management proposals, process violation reports and board nominations for the relevant association, communicate with you about your community, and comply with our legal and contractual obligations to the associations we manage. We do not sell, rent, or trade your personal information to third parties for marketing purposes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Information Is Shared",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Your information may be shared only with:",
+   "cls": "mb-4"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Form processing.</strong> Website form submissions are transmitted to us through Web3Forms, a form-delivery service that processes submissions on our behalf.",
+    "<strong>Website measurement.</strong> Vercel processes aggregate website-usage and performance data on our behalf so we can understand which pages help visitors and diagnose slow experiences. We do not send names, email addresses, phone numbers, or form-message contents to this analytics service.",
+    "<strong>Your association.</strong> Violation reports and board nominations are shared with the board and records of the relevant community association as part of its governance process, consistent with the Illinois Condominium Property Act and the association’s governing documents.",
+    "<strong>Service providers.</strong> Resident portal access, assessments, and payments are handled by AppFolio, Inc. under its own terms and privacy policy — payment card and bank information is entered directly with AppFolio and never touches this website.",
+    "<strong>Legal requirements.</strong> We may disclose information when required by law, subpoena, or court order, or to protect the rights, property, or safety of Stellar Property Management, the associations we manage, or others."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Data Retention &amp; Security",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We retain submitted information for as long as needed to serve the purpose for which it was provided, to maintain association records we are contractually required to keep, and to meet legal record-keeping obligations under Illinois law. We use commercially reasonable administrative and technical safeguards to protect your information; however, no method of transmission over the internet is completely secure, and we cannot guarantee absolute security.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Your Choices &amp; Rights",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "You may request access to, correction of, or deletion of the personal information you have submitted through this website by contacting us at <a href=\"mailto:mirsad@stellarpropertygroup.com\">mirsad@stellarpropertygroup.com</a> or 773.728.0652. Note that information forming part of an association’s official records (such as violation reports or board nominations) may be subject to retention requirements under the association’s governing documents and Illinois law, which can limit deletion.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Children’s Privacy",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "This website is intended for adults — board members, owners, and residents of the communities we manage. We do not knowingly collect personal information from children under 13. If you believe a child has submitted information through this site, contact us and we will delete it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Third-Party Links",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "This website links to third-party services — most notably the AppFolio owner and resident portal. Those services operate under their own terms and privacy policies, which we encourage you to review. Stellar Property Management is not responsible for the privacy practices of third-party websites.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Changes to This Policy",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We may update this Privacy Policy from time to time. The effective date below reflects the most recent revision. Material changes will be posted on this page — continued use of the website after changes are posted constitutes acceptance of the revised policy.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Questions about this policy",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management · 5107 N Western Ave #1S, Chicago, IL 60625 · <a href=\"tel:+17737280652\">773.728.0652</a> · <a href=\"mailto:mirsad@stellarpropertygroup.com\">mirsad@stellarpropertygroup.com</a>",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "See also our <a href=\"/terms-of-service\">Terms of Service</a>.",
+   "cls": "mt-6 text-sm text-slate-500 font-light"
+  }
+ ]
+}

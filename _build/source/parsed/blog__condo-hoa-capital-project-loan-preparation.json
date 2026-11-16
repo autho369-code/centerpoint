@@ -1,0 +1,202 @@
+{
+ "path": "/blog/condo-hoa-capital-project-loan-preparation",
+ "title": "Preparing an Association for a Capital Project Loan",
+ "description": "What Illinois condo and HOA boards should organize before approaching a lender for a capital project loan: authority, financials, scope, and repayment planning.",
+ "lastmod": "2026-09-16",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Preparing an Association for a Capital Project Loan",
+   "description": "What Illinois condo and HOA boards should organize before approaching a lender for a capital project loan: authority, financials, scope, and repayment planning.",
+   "datePublished": "2026-09-16",
+   "dateModified": "2026-09-16",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-capital-project-loan-preparation"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Preparing an Association for a Capital Project Loan",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 16, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "When an association borrows for a capital project, the lender is underwriting two things: the reliability of assessment income and the quality of the association's governance. Neither is something you fix in the week before an application. Both are things a board can materially improve over a few months of deliberate work. Start there, and the financing conversation gets much shorter.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Before any of it, confirm authority. Your association's power to borrow, to pledge assessment income, and to levy an assessment to service debt comes from your recorded documents read alongside the Illinois statute that governs your association -- the Condominium Property Act for condominiums, CICAA for many homeowners and townhome associations. Owner approval may be required for some or all of it. Have counsel answer this before the board spends time on term sheets.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Step one: define the project, not the aspiration",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Lenders fund defined scopes. \"Roof and facade work\" is an aspiration. A defined scope has an engineer's or architect's assessment, a written scope of work, competitive bids, a schedule, and a contingency. Boards that arrive with a defined scope are also boards that avoid the far more common failure: borrowing an amount that turns out to be short mid-project.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Build the contingency into the borrowing request. A project that runs over and requires a second financing round costs the association far more than a slightly larger initial facility. Our maintenance coordination team works with boards on scoping and bid comparison so the number that goes to the lender reflects the work that will actually be performed.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Step two: get the financial record in order",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Expect a lender to ask for several years of financial statements, the current budget, the reserve study, delinquency reporting, insurance certificates, and governing documents. Prepare them as a package rather than responding piecemeal. Specifically:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Reconciled financial statements, with reserves shown separately from operating funds.",
+    "An aged delinquency report and evidence of a consistently applied collections policy.",
+    "The reserve study and the board's funding decisions.",
+    "Minutes documenting the project decision and any owner vote.",
+    "Current insurance certificates and the association's claims history.",
+    "Any existing debt or obligations, disclosed up front."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Delinquency is the line lenders read hardest",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Because repayment depends on assessment collection, a lender's view of your delinquency rate and your collections discipline drives their view of risk. An association that can show charges posting on schedule, notices going out on schedule, and accounts escalating at a written threshold presents a materially different profile than one with an unexplained receivable balance. Spending three months tightening collections before applying is often the highest-return preparation available.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Clean, current books are the core of our <a href=\"/services/financial-management\">association financial management</a> service.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Step three: plan repayment before you borrow",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Model the assessment impact per unit per month for the full term. Show owners the same number you show the board. Then answer the questions owners will actually ask: can an owner pay their share in full up front rather than over the term, what happens at resale, and does the reserve contribution continue during repayment.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "That last one matters. Boards sometimes suspend reserve funding to make loan payments feel affordable, which trades a solved problem for a deferred one. If the board is going to do it anyway, do it consciously, for a defined period, with the reasoning in the minutes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Step four: run the owner communication as a process",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Present the condition assessment and the professional recommendation first.",
+    "Present the options considered, including doing nothing, and their consequences.",
+    "Present the cost per unit per month under each option.",
+    "Hold an information session before any vote.",
+    "Document the decision and the rationale in the minutes."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Board checklist: loan readiness",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Confirm borrowing authority and any owner approval requirement with counsel.",
+    "Obtain a professional condition assessment for the scope.",
+    "Collect competitive bids and select with documented criteria.",
+    "Include a contingency in the borrowing amount.",
+    "Reconcile and package three years of financials.",
+    "Tighten collections and produce a clean aged report.",
+    "Model the per-unit monthly repayment across the full term.",
+    "Decide explicitly whether reserve funding continues during repayment.",
+    "Have counsel review all loan documents before signing."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for association boards and is not legal, financial, or engineering advice. Your governing documents control, and your association's attorney should confirm borrowing authority, owner approval requirements, and document terms.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/condo-special-assessments-illinois\">How special assessments work in Illinois</a>; <a href=\"/blog/how-to-read-condo-reserve-study\">how to read a condo reserve study</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar supports condominium, HOA, and townhome boards through capital project planning and lender preparation. <a href=\"/contact\">Request a consultation</a> to review your association's readiness.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

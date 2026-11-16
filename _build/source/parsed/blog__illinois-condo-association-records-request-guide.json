@@ -1,0 +1,192 @@
+{
+ "path": "/blog/illinois-condo-association-records-request-guide",
+ "title": "How Illinois Condo Boards Should Handle Records Requests",
+ "description": "A practical process for Illinois condo and HOA boards responding to owner records requests: intake, review with counsel, redaction, delivery, and documentation.",
+ "lastmod": "2026-08-22",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How Illinois Condo Boards Should Handle Records Requests",
+   "description": "A practical process for Illinois condo and HOA boards responding to owner records requests: intake, review with counsel, redaction, delivery, and documentation.",
+   "datePublished": "2026-08-22",
+   "dateModified": "2026-08-22",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-association-records-request-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "How Illinois Condo Boards Should Handle Records Requests",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 22, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer: Illinois association owners have statutory rights to inspect and copy certain association records, and boards should respond through a single written process rather than improvising each time. The Illinois Condominium Property Act sets out records rights for condominiums, and CICAA does the same for non-condominium common interest communities. The categories of records, the form of a proper request, and the association's permitted response vary by statute and by your own declaration and bylaws, so your counsel should confirm the exact requirements that apply to you before you publish a policy.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "What boards can control is the operational side: how requests are received, who reviews them, how sensitive information is protected, how the response is delivered, and how the whole exchange is documented. A disciplined process reduces avoidable disputes by giving the owner a complete and consistent answer.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build a Single Intake Channel",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Designate one channel for records requests, typically the management office, and require the request in writing. A written request creates a clear date stamp, a clear description of what is sought, and a record you can act on. Verbal requests at a meeting should be politely redirected to the written channel and noted in the file.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "What Intake Should Capture",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Requesting owner's name, unit, and contact information, and confirmation of current ownership.",
+    "Date the request was received.",
+    "Specific records or categories requested and the date range.",
+    "Any purpose statement the owner provides.",
+    "Preferred delivery format, whether inspection, paper copies, or electronic files."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Review Before You Release",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Not everything in an association's files is an association record subject to production, and some records contain information that should be protected. Common examples that warrant careful review include attorney-client communications, personnel information, information related to pending litigation, and personal financial information of individual owners. Because the treatment of these categories is statute- and document-specific, route non-routine requests to association counsel before responding.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Redaction should be applied consistently and documented. Keep a copy of both the produced version and the unredacted original so the board can later explain exactly what was withheld and why. Never redact ad hoc at the copier; do it as a reviewed step with a written note.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Deliver in a Repeatable Format",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Electronic delivery through a secure owner portal is usually the cleanest option: it timestamps delivery, avoids copying-cost disputes, and creates an automatic record. If your association charges for copies or staff time, confirm with counsel what your governing documents and the applicable statute permit, quote the amount in writing before production, and apply the same schedule to every owner. Inconsistent charging is a frequent source of complaints.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist: Records Request Response",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Adopt a written records request policy reviewed by association counsel.",
+    "Publish the policy and the intake address to all owners and post it in the portal.",
+    "Log every request with received date, scope, and assigned reviewer.",
+    "Verify the requester is a current owner or an authorized representative.",
+    "Route unusual or broad requests to counsel before responding.",
+    "Apply redactions through a documented review step, retaining the unredacted original.",
+    "Quote any permitted costs in writing before producing records.",
+    "Deliver through the portal or another method that creates proof of delivery.",
+    "Close the log entry with the production date and a list of what was provided.",
+    "Retain the full request file with the association's official records."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Prevention Beats Response",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Many records requests are really questions about money or a decision that felt opaque. Boards that publish approved minutes promptly, distribute monthly financials, and explain major decisions in an owner update see fewer formal requests. Strong financial reporting and consistent <a href=\"/services/board-support\">board support</a> reduce the volume of requests more effectively than any policy language.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Recordkeeping quality also shows up at resale, when buyers, lenders, and title companies request documents on short timelines. An association with organized minutes, budgets, insurance certificates, and governing documents closes those requests in days instead of weeks.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is educational information for Illinois association boards and is not legal advice. The Illinois Condominium Property Act and CICAA contain distinct records provisions, and your association's counsel should interpret your governing documents and the current statute before your board responds to a request.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/illinois-association-annual-meeting-guide\">Running the annual meeting</a>; <a href=\"/blog/illinois-condo-board-closed-session-guide\">when a board may meet in closed session</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Get Help Standardizing Your Process",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management runs records intake and production for condominium, HOA, and townhome boards throughout <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Schedule a consultation</a> to review your current policy and recordkeeping.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

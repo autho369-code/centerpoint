@@ -1,0 +1,212 @@
+{
+ "path": "/blog/cook-county-property-tax-appeal-condo-association",
+ "title": "Cook County Property Tax Appeals: What Condo Boards Should…",
+ "description": "A Cook County condo association can appeal on behalf of every unit in one filing. How the two-stage process works, what the filing must include, and why you need an attorney.",
+ "lastmod": "2026-08-31",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Cook County Property Tax Appeals: What Condo Boards Should Know",
+   "description": "A Cook County condo association can appeal on behalf of every unit in one filing. How the two-stage process works, what the filing must include, and why you need an attorney.",
+   "datePublished": "2026-08-31",
+   "dateModified": "2026-08-31",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/cook-county-property-tax-appeal-condo-association"
+   },
+   "citation": [
+    "https://www.cookcountyassessoril.gov/official-appeal-rules-cook-county-assessor",
+    "https://www.cookcountyboardofreview.com/about/frequently-asked-questions",
+    "https://www.cai-illinois.org/property-tax-assessments-tax-bills/"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Association Finance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Cook County Property Tax Appeals: What Condo Boards Should Know",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Property taxes are usually the largest single cost of owning a unit, and they are the one an association can actually do something about collectively. Illinois lets a community association board file a <strong>single appeal covering every unit</strong> rather than leaving each owner to fend for themselves.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "It is one of the few board actions where the benefit goes straight to owners' own tax bills rather than into the association budget — which makes it one of the easiest things a board ever has to explain at an annual meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How the association filing works",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "When an association files with the Cook County Assessor's Office, the filing must include <strong>all the PINs in the association</strong>, except those belonging to owners who have opted out. Individual owners are strongly encouraged to file with their association, but they retain the right to opt out and appeal their own unit separately.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The filing must also include <strong>a copy of the declaration, or the most recent amendment, setting out the percentage of ownership for each unit.</strong> That requirement quietly rewards associations that keep their recorded documents in order, and quietly punishes the ones that do not — if you cannot produce a clean declaration with all recorded amendments, this is one more place it costs you.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Two stages, two separate bodies",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards frequently assume one filing is the whole process. It is not.",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>The Cook County Assessor's Office.</strong> The first appeal of the assessed valuation.",
+    "<strong>The Cook County Board of Review.</strong> If the association does not agree with the Assessor's decision, a further appeal can be filed here. This is a separate body with its own filing window."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Missing the second stage because the first produced a disappointing result is a common and expensive mistake. Treat them as two calendar entries, not one.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Appeal deadlines belong on the same calendar as the budget, which is part of our <a href=\"/services/financial-management\">association financial management</a> work.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "You need an attorney, and this is not optional",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Filing a tax appeal in Illinois is considered the practice of law. A corporation or association therefore <strong>must be represented by an attorney</strong> — a board member, a manager, or a consultant cannot file on the association's behalf.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This surprises boards, and it is worth stating plainly because the alternative is a filing that gets rejected. Firms that do this work typically operate on contingency, taking a share of the reduction achieved, so the association usually is not writing a cheque up front. Confirm the fee basis in writing before engaging anyone.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Timing is the whole game",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Cook County reassesses on a triennial cycle, and townships open for appeal on a rolling schedule rather than all at once. The window for a given township is short and it does not move because a board was busy.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The practical consequence: this belongs on the association's annual calendar as a standing item, with someone accountable for watching the township's filing window. An association that misses its window waits until the next cycle, and every owner pays the difference in the meantime.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What a board should actually do",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Put the township's appeal window on the annual calendar</strong> and assign it to a named person.",
+    "<strong>Keep the declaration and every recorded amendment current and accessible</strong> — the filing requires it.",
+    "<strong>Engage counsel who does this work routinely</strong> and confirm the fee arrangement in writing.",
+    "<strong>Tell owners the association is filing</strong>, and explain the opt-out. Owners who do not know an appeal is happening sometimes file duplicates or pay someone else to do what the association is already doing for them.",
+    "<strong>Follow through to the Board of Review</strong> if the Assessor's result is unsatisfactory.",
+    "<strong>Report the outcome.</strong> A reduction achieved and never communicated is a benefit the board gets no credit for."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Setting expectations honestly",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "An appeal is a request to correct an assessed valuation, not a guarantee of a lower bill. A successful appeal reduces assessed value; the eventual tax bill also depends on the tax rate and the equalisation factor, neither of which the association influences. It is entirely possible to win a reduction and still see a bill rise.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Say that to owners before the appeal rather than after. A board that promises lower taxes and delivers a lower assessment inside a higher bill has created a credibility problem it did not need.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is general information for Illinois community association boards and is not legal or tax advice. Appeal rules, deadlines and filing requirements are set by the Cook County Assessor and Board of Review and change; associations outside Cook County follow a different process entirely. Engage an attorney who handles association tax appeals.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This guide applies to every Cook County association, including the <a href=\"/property-management-chicago\">Chicago condo associations we manage</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/illinois-condo-hoa-budget-adoption-guide\">Adopting the annual budget in Illinois</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Questions about your association’s assessment calendar? <a href=\"/contact\">Contact our office</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.cookcountyassessoril.gov/official-appeal-rules-cook-county-assessor\">Official Appeal Rules of the Cook County Assessor</a>",
+    "<a href=\"https://www.cookcountyboardofreview.com/about/frequently-asked-questions\">Cook County Board of Review — Frequently Asked Questions</a>",
+    "<a href=\"https://www.cai-illinois.org/property-tax-assessments-tax-bills/\">CAI Illinois — Property Tax Assessments and Tax Bills</a>"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+{
+ "path": "/blog/condo-reserve-funds-explained",
+ "title": "Condo Reserve Funds Explained: Why So Many Associations Are…",
+ "description": "A clear guide to condo reserve funds and reserve studies — what they are, why so many Illinois associations are underfunded, and how underfunding hurts property values and financing.",
+ "lastmod": "2025-01-28",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded",
+   "description": "A clear guide to condo reserve funds and reserve studies — what they are, why so many Illinois associations are underfunded, and how underfunding hurts property values and financing.",
+   "datePublished": "2025-01-28",
+   "dateModified": "2025-01-28",
+   "image": "https://www.stellarpropertygroup.com/blog/condo-reserve-funds-explained.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-reserve-funds-explained"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Reserve Planning",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · January 28, 2025 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Ask a room of condo owners where their monthly assessments go and most can describe the operating costs — insurance, landscaping, utilities, cleaning. Far fewer can explain the reserve fund. Yet reserve funding has quietly become one of the most consequential issues in community management, affecting everything from special assessments to whether a buyer can get a mortgage.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What a Reserve Fund Actually Is",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A well-run association keeps money in two distinct places. The <strong>operating fund</strong> pays this year's recurring bills. The <strong>reserve fund</strong> is long-term savings set aside for the major repair and replacement of big-ticket components — roofs, elevators, facades and tuckpointing, boilers, parking decks, and paving. Reserves exist to spread enormous, predictable costs fairly across all the years owners benefit from those components, rather than dropping the whole bill on whoever happens to own a unit the year the roof finally fails.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What a Reserve Study Is",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A reserve study is the financial roadmap. A qualified professional inventories the association's major components, estimates each one's remaining useful life and replacement cost, and builds a multi-year funding plan. Without a current study, a board is essentially guessing — and guesses about six-figure expenses tend to be wrong.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why So Many Associations Are Underfunded",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Dues kept artificially low.</strong> Boards and developers often hold assessments down to attract buyers or avoid owner backlash — leaving nothing for the future.",
+    "<strong>No reserve study.</strong> If no one has measured the real number, the reserve target is just a comfortable guess.",
+    "<strong>Reserves raided for operations.</strong> When the operating budget falls short, reserves get \"borrowed\" and rarely repaid.",
+    "<strong>Inflation.</strong> Replacement costs have climbed faster than old funding plans assumed."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Law and Lender Expectations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The Illinois Condominium Property Act directs boards to provide for reasonable reserves, weighing factors such as the cost and remaining useful life of major components. But state law is only part of the picture. Fannie Mae and Freddie Mac scrutinize reserves and deferred maintenance when reviewing condominium projects for financing eligibility. An underfunded association can make units harder to buy, sell, or refinance — which quietly erodes every owner's property value.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Fixing an Underfunded Reserve",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/how-to-read-condo-reserve-study\">How to read a condo reserve study</a>; <a href=\"/blog/reasonable-reserves-illinois-condo-law\">what “reasonable reserves” means under Illinois law</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Recovery is straightforward, if not painless: commission a current reserve study, adjust assessments toward a realistic funding level over a planned period, fund reserves consistently, and stop deferring projects. Transparent communication matters too — owners accept gradual, well-explained increases far better than sudden special assessments. Stellar Property Management's <a href=\"/services/financial-management\">financial management</a> team helps boards build and maintain reserve plans that hold up. To assess where your association stands, <a href=\"/contact\">reach out for a consultation</a>.",
+   "cls": ""
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "path": "/blog/common-condo-rule-violations-chicago",
+ "title": "The Most Common Condo Rule Violations in Chicago Buildings",
+ "description": "From smoking and short-term rentals to balcony storage and hallway clutter, here are the most common condo rule violations in Chicago buildings — and how boards should handle them fairly.",
+ "lastmod": "2023-11-09",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Most Common Condo Rule Violations in Chicago Buildings",
+   "description": "From smoking and short-term rentals to balcony storage and hallway clutter, here are the most common condo rule violations in Chicago buildings — and how boards should handle them fairly.",
+   "datePublished": "2023-11-09",
+   "dateModified": "2023-11-09",
+   "image": "https://www.stellarpropertygroup.com/blog/common-condo-rule-violations-chicago.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/common-condo-rule-violations-chicago"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Community Standards",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The Most Common Condo Rule Violations in Chicago Buildings",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · November 9, 2023 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Ask any Chicago condo board what consumes their time and the answer is rarely a single dramatic crisis. It is the steady stream of everyday rule violations — small frictions that, left unaddressed, erode property values, strain neighbor relationships, and occasionally create real safety hazards. Knowing the usual suspects helps boards stay ahead of them.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Violations Chicago Boards See Most",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Smoking.</strong> Smoke drifting between units is one of the most frequent and emotional complaints, especially in buildings that have adopted smoke-free policies.",
+    "<strong>Pet rules and dog waste.</strong> Unleashed pets, uncleaned waste, and undeclared animals are perennial sources of tension.",
+    "<strong>Short-term rentals.</strong> Unauthorized Airbnb-style rentals raise security, insurance, and nuisance concerns and often violate the declaration.",
+    "<strong>Balcony storage and grills.</strong> Cluttered balconies and prohibited grills are both an eyesore and, frequently, a fire-safety violation.",
+    "<strong>Noise.</strong> Late-night noise and hard-surface flooring complaints are constant in multi-unit buildings.",
+    "<strong>Move-in and move-out damage.</strong> Skipped elevator reservations and damage to common areas during moves are common and avoidable.",
+    "<strong>Hallway and common-area clutter.</strong> Items left in corridors are not just untidy — they can obstruct egress and violate fire code.",
+    "<strong>Parking abuse.</strong> Using the wrong space, guest-spot hogging, and improperly stored vehicles generate steady complaints.",
+    "<strong>Trash and recycling.</strong> Improper disposal and missed schedules create sanitation and pest problems."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "These patterns come from day-to-day <a href=\"/property-management-chicago\">Chicago condo association management</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why Small Violations Matter More Than They Seem",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "It is tempting to wave off minor infractions, but they compound. Visible disorder lowers the impression — and ultimately the value — of the whole building. Balcony grills and blocked hallways are genuine fire hazards. And inconsistent enforcement quietly teaches owners that the rules are optional, which makes the next violation harder to address. Small problems handled early stay small.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Boards Should Handle Violations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/adopting-enforcing-condo-hoa-rules-illinois\">How to adopt rules that hold up</a>; <a href=\"/blog/illinois-association-fines-notice-hearing\">fining an owner the right way</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Effective enforcement is calm, consistent, and documented. That means a clearly written set of rules that every owner has received, a defined reporting channel, objective documentation of each violation, and a graduated process — notice, opportunity to be heard, then fines — applied identically to everyone. Stellar Property Management's <a href=\"/services/violation-management\">violation management</a> gives boards that structure, and residents can file a formal report through the form on our <a href=\"/resources\">owner resources</a> page. To set up a fair, defensible process, <a href=\"/contact\">contact our team</a>.",
+   "cls": ""
+  }
+ ]
+}

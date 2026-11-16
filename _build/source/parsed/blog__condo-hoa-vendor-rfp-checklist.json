@@ -1,0 +1,189 @@
+{
+ "path": "/blog/condo-hoa-vendor-rfp-checklist",
+ "title": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and…",
+ "description": "A vendor RFP framework for Illinois condo and HOA boards: writing scope, requiring insurance, comparing bids fairly, and building financial controls into contracts.",
+ "lastmod": "2026-09-25",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls",
+   "description": "A vendor RFP framework for Illinois condo and HOA boards: writing scope, requiring insurance, comparing bids fairly, and building financial controls into contracts.",
+   "datePublished": "2026-09-25",
+   "dateModified": "2026-09-25",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-vendor-rfp-checklist"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://idfpr.illinois.gov/profs/cam.html"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 25, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The single most valuable thing a board can do before soliciting bids is write the <strong>scope of work itself</strong>. When each vendor writes their own scope, the association receives three incomparable documents and ends up choosing on price alone -- which usually means choosing the narrowest scope. An association-authored scope, prepared with a professional where the work is technical, makes bids directly comparable and makes change orders the exception rather than the plan.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The second discipline is treating the RFP as the first draft of the contract. Insurance requirements, payment terms, warranty, and dispute procedures belong in the solicitation so vendors price them, not in a negotiation after the board has already announced a winner. Have association counsel review the contract template once; reuse it for years.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Writing a Scope That Can Be Bid",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A biddable scope typically includes: the work to be performed and explicit exclusions, materials and acceptable equivalents, applicable standards, site conditions and access constraints, schedule and working hours, resident notice requirements, cleanup and disposal, permits and who obtains them, inspection and acceptance criteria, and warranty terms. For technical projects -- envelope, roofing, mechanical, elevator, life safety -- engage an engineer or architect to author the specifications.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Standardize the Response Format",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Require a uniform bid form: lump sum for the base scope, priced alternates, unit prices for likely variable quantities, a schedule, a subcontractor list, references from similar associations, and current insurance certificates. Uniform responses are the only way to compare bids fairly.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Insurance, Licensing, and Verification",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Require current certificates of insurance with the association as additional insured where appropriate, and confirm licensing for trades that require it. Verify certificates rather than filing them, and re-verify annually on recurring contracts. Counsel should specify required coverage lines and limits, indemnification, and subcontractor flow-down requirements. Note also that community association management in Illinois is a licensed profession regulated by IDFPR; boards should confirm licensure when engaging management services.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Financial Controls in the Contract",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Build controls into the agreement rather than policing them later:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Progress payments tied to defined milestones, not to calendar dates.",
+    "Retainage held until acceptance and closeout documentation.",
+    "Written change orders only, approved by the board or a designated authority with a dollar threshold.",
+    "Lien waivers collected with each payment, at the level counsel recommends.",
+    "Closeout package required before final payment: warranties, as-builts, permits, and inspection sign-offs."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Because assessment funding, contracting authority, and owner-notice obligations may be affected by the Illinois Condominium Property Act or the Common Interest Community Association Act depending on your community type, and by your declaration and bylaws in all cases, ask counsel to confirm what board approvals and disclosures a large contract requires before you award it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board RFP Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Author the scope of work, using a licensed professional for technical projects.",
+    "Issue the same written RFP package to every bidder on the same date.",
+    "Require a standardized bid form with base scope, alternates, and unit prices.",
+    "Include the contract template and insurance requirements in the solicitation.",
+    "Hold a site walk when conditions affect pricing, and document questions and answers to all bidders.",
+    "Verify licensing, insurance, and references before shortlisting.",
+    "Score bids on scope compliance, references, schedule, and price -- not price alone.",
+    "Ask counsel to review the contract and confirm required board approvals.",
+    "Disclose and document any director conflict of interest, and follow your documents' recusal requirements.",
+    "Record the award decision and its rationale in the minutes."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Process Beats Negotiation",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A repeatable RFP process protects the association more than aggressive negotiation on any single bid. Our <a href=\"/services/maintenance-coordination\">maintenance coordination</a>, financial management, and board support teams help condominium, HOA, and townhome boards in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore run consistent, documented procurement.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is educational information for association boards, not legal advice. Contracting requirements depend on your governing documents and applicable Illinois law; consult association counsel before awarding significant contracts.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/condo-hoa-emergency-planning-checklist\">Association emergency planning</a>; <a href=\"/blog/vintage-chicago-condo-capital-planning\">capital planning for vintage Chicago buildings</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/contact\">Request a consultation</a> to build your association's vendor procurement process.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR: Community Association Manager Licensing</a>"
+   ]
+  }
+ ]
+}

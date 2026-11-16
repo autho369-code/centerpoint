@@ -1,0 +1,219 @@
+{
+ "path": "/blog/amend-illinois-condo-declaration-section-27",
+ "title": "Amending an Illinois Condo Declaration: What It Actually Takes",
+ "description": "Section 27 sets the amendment threshold at two-thirds of voting owners unless your instruments say otherwise. And an amendment nobody records is not in force.",
+ "lastmod": "2026-08-31",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Amending an Illinois Condo Declaration: What It Actually Takes",
+   "description": "Section 27 sets the amendment threshold at two-thirds of voting owners unless your instruments say otherwise. And an amendment nobody records is not in force.",
+   "datePublished": "2026-08-31",
+   "dateModified": "2026-08-31",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/amend-illinois-condo-declaration-section-27"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/ccico/pdfs/2025-08-15-cpa-full-act.pdf",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Amending an Illinois Condo Declaration: What It Actually Takes",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Every few years a board runs into something its declaration will not let it do. Leasing has got out of hand, the rules have no teeth, an obsolete provision is blocking a project. Someone says \"we should amend the declaration,\" and the board discovers the process is less obvious than it looked.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The default is two-thirds — but check your own documents first",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 27 of the Illinois Condominium Property Act sets the general amendment threshold at an affirmative vote of <strong>two-thirds of voting unit owners</strong>. That is the default, and it applies unless your condominium instruments specify a different figure.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Your instruments can set another majority, but not any number the drafter felt like. The alternative has to fall somewhere between 50% and 75%. So a declaration might require 60%, or 70%, and either is enforceable. If the documents are silent, two-thirds governs.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The practical instruction is simple and it is skipped constantly: <strong>read your declaration before you announce a number to owners.</strong> A board that campaigns for months on the wrong threshold either falls short of a bar it did not know about, or clears a bar it did not need to clear.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Some amendments require two-thirds no matter what your documents say",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "There is a category where the statute overrides whatever figure your instruments contain. Section 18 requires a two-thirds majority regardless of document language for:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "merger or consolidation of the association;",
+    "sale, lease, exchange or other disposition of substantially all the property and assets of the association; and",
+    "the purchase or sale of land or units on behalf of all owners."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "These are the decisions that change what the association fundamentally is or what it owns. A declaration setting a 55% threshold does not lower the bar for them.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The step that gets skipped: recording",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is the single most common failure, and it is entirely avoidable.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>An amendment is not effective until it is recorded.</strong> Section 17 of the Condominium Property Act governs this for condominiums, and Section 1-20 of the Common Interest Community Association Act does the same for common interest communities. Until the amendment is recorded, it cannot be enforced — no matter how decisively owners voted.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The failure mode is predictable. The board holds the vote, the amendment passes, everyone celebrates, and the executed document goes into a file. Two years later a new board tries to enforce the new leasing cap against an owner, the owner's attorney checks the recorded chain of title, and the amendment is not in it. The association loses, and it loses on a clerical omission rather than on the merits.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Treat recording as part of the vote, not as follow-up. The task is not complete until you are holding the recorded instrument with the recorder's stamp on it.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Tracking an amendment from the vote to the recorder is the kind of follow-through our <a href=\"/services/board-support\">condo board support services</a> are built for.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Mortgagee consent",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Some declarations require the consent of mortgage holders for particular amendments — commonly those touching the percentage of ownership, insurance provisions, or reserves. Where your documents require it, Section 27 contains a mechanism for notifying mortgagees.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards discover this requirement late and it is a genuine schedule risk, because tracking down and notifying every mortgagee on a large building is slow work. Establish at the start whether your amendment falls into a consent category, because the answer changes the timeline by months.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "A sequence that works",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Have counsel draft it.</strong> Amendments are recorded instruments that outlive every director who voted on them. This is not a task for a board member with a word processor.",
+    "<strong>Confirm the threshold</strong> from your own declaration, not from what a neighbouring association used.",
+    "<strong>Determine whether mortgagee consent is triggered</strong> before you set a target date.",
+    "<strong>Explain the change plainly to owners</strong> well ahead of the vote. Amendments fail on confusion far more often than on opposition.",
+    "<strong>Run the vote by the book</strong> — notice, meeting, and ballot procedure exactly as your documents require. A defective vote is worse than a failed one, because it produces an amendment that looks valid until it is challenged.",
+    "<strong>Record it, and file the stamped copy</strong> with the governing documents.",
+    "<strong>Distribute the recorded amendment to owners</strong> and give the current version to your manager, so the packet sent on the next resale reflects reality."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Why this matters beyond the amendment itself",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every unrecorded or badly documented amendment becomes someone else's problem later — usually at a closing, when a buyer's attorney asks for the declaration with all recorded amendments and the association cannot produce a clean set. That is the same file that drives Section 22.1 disclosure responses, and gaps in it surface at precisely the worst moment.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "An association that keeps a complete, recorded, current set of governing documents saves itself a recurring tax it would otherwise pay at every sale, every dispute and every insurance renewal.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is general information about Illinois community association practice and is not legal advice. Amendment thresholds, consent requirements and recording procedure depend on your recorded declaration and which statute governs your association. Engage association counsel before drafting or noticing an amendment.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/illinois-condo-law-updates-2026\">The 2026 Illinois condo law updates</a>; <a href=\"/blog/illinois-condo-deconversion-75-or-85-percent\">the 75% and 85% deconversion votes</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Planning an amendment? <a href=\"/contact\">Talk with our team</a> before the vote is scheduled.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://idfpr.illinois.gov/content/dam/soi/en/web/idfpr/ccico/pdfs/2025-08-15-cpa-full-act.pdf\">IDFPR — Illinois Condominium Property Act, full text</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

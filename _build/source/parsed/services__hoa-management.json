@@ -1,0 +1,592 @@
+{
+ "path": "/services/hoa-management",
+ "title": "Chicago HOA Management From $20/Unit | Stellar",
+ "description": "Chicago HOA management from $20 per unit with transparent financials, common-area operations, board support, and no separate project-oversight fee.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/hoa-management#service",
+   "name": "Chicago HOA Management",
+   "description": "Homeowners association management with governance, financial reporting, maintenance coordination, owner communication, and 24/7 response.",
+   "url": "https://www.stellarpropertygroup.com/services/hoa-management",
+   "serviceType": "Homeowners Association Management",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Chicago"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "North Shore, Illinois"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "price": 20,
+     "priceCurrency": "USD",
+     "unitText": "per unit per month",
+     "description": "Starting price; customized flat monthly proposal."
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Chicago HOA Management",
+     "item": "https://www.stellarpropertygroup.com/services/hoa-management"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does an HOA management company actually do?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Day to day: assessment collection and accounting, monthly financial reporting with invoices attached, vendor bidding and supervision for landscaping, snow removal, and common-area maintenance, fair CC&R enforcement with documented due process, board meeting preparation and minutes, owner communications and portal support, and a 24/7 emergency line. The board keeps every decision; the manager executes them and reports back."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is HOA management different from rental property management?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An HOA manager works for the association and carries out board-approved community operations. A rental manager works for landlords and tenants. Stellar serves community associations only and does not manage rental apartments."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does HOA management cost in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar HOA management starts at $20 per unit per month, quoted as a flat monthly fee based on your community’s size, common areas, amenities, financial complexity, and service scope. We never price as a percentage of your budget, and we do not add a separate capital-project planning or oversight fee. Third-party costs such as contractors, engineers, and attorneys remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can Stellar help an HOA enforce rules consistently?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar builds documented workflows around the association’s declaration, bylaws, rules, notices, response periods, hearings, and board decisions so similar matters follow a consistent process. Association counsel is consulted when legal advice is required."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can our HOA switch management companies before the contract ends?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Usually, yes — most Chicago-area management contracts allow termination with 30 to 90 days written notice, and some allow immediate termination for cause. Have your board review the termination clause, then time the notice so our managed 30–60 day transition lands at the handover date. We coordinate records, banking, vendors, and owner communication so the community never feels the seam."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you manage townhome communities and single-family HOAs?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Alongside condominium associations, Stellar manages townhome communities and single-family homeowners associations across Chicago and the North Shore, including planned developments with private streets, shared landscaping, and amenity spaces. See our townhome management practice for the specifics of fee-simple and shared-element communities."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is our community too small or too large for Stellar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Our portfolio runs from boutique associations to communities of more than 250 residences. We deliberately curate the portfolio — 29 associations and approximately 1,422 residences — so every community keeps a dedicated manager with genuine capacity. If we cannot serve your community to that standard, we will say so in the first conversation."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How is Stellar different from national HOA management firms?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "One dedicated manager instead of a rotating account team, a flat fee instead of percentage-based pricing, a Chicago office that answers its own 24/7 line instead of a national call center, and monthly board-ready financials instead of quarterly boilerplate. That model is why 96% of our client associations stay with us year over year."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Practice · 02 · Property Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "HOA Management Services in <em>Chicago</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Building stronger neighborhoods through professional homeowners association management. From established suburbs to new developments across Chicagoland, we create communities where people are proud to live.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Approach",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Neighborly Management That Builds Real <em>Community</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Homeowners associations thrive when residents feel connected, informed, and proud of where they live. At Stellar Property Management, our HOA management goes beyond the administrative basics. We partner with your board to create vibrant, well-maintained neighborhoods where property values grow and neighbors become friends.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Since 2007, we have managed single-family home communities, planned unit developments, and mixed-use neighborhoods throughout Chicago and the surrounding suburbs. Our approach combines proactive common area maintenance, transparent financial management, and thoughtful community programming that transforms a collection of homes into a true community.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Every HOA we manage receives a dedicated community manager who attends board meetings, coordinates vendors, handles homeowner communications, and ensures your CC&amp;Rs are enforced fairly and consistently. We bring institutional knowledge and professional resources while never losing sight of the personal relationships that make neighborhoods special.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "The Stellar HOA Difference",
+   "cls": "font-display text-2xl text-ink mb-6"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "01Dedicated community manager for your HOA",
+    "02Proven CC&amp;R enforcement that is fair and consistent",
+    "03Seasonal landscaping and common area programs",
+    "04Community event planning and coordination",
+    "05Streamlined architectural review process",
+    "06Online homeowner portal with real-time updates",
+    "07Annual community satisfaction surveys",
+    "08CAI and CAI Illinois Chapter membership"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Scope of Service",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Complete HOA Management <em>Solutions</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "From day-to-day operations to long-term strategic planning, we handle every aspect of homeowners association management with professionalism and care.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Community Engagement",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Town halls, surveys, social events, and communication programs that bring neighbors together and build a strong sense of community.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "CC&amp;R Enforcement",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Fair, consistent enforcement of covenants, conditions, and restrictions that protects property values while respecting homeowner rights.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Landscaping Coordination",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Seasonal landscaping programs, snow removal management, and common area beautification that keeps your community looking its best.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Community Events",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Planning and coordination of neighborhood events, holiday celebrations, and community gatherings that foster resident connections.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Architectural Review",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Streamlined architectural review process for modifications, additions, and exterior changes that maintains community aesthetics.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Homeowner Communications",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Multi-channel communication through newsletters, email, online portal, and community website to keep every homeowner informed.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "In Depth",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "More Than Management: Building <em>Community</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The best homeowners associations are the ones where residents feel a genuine sense of belonging. Our community engagement programs go beyond maintaining common areas and collecting dues. We help your board create traditions, foster connections, and build the kind of neighborhood where people want to put down roots.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "From seasonal block parties and holiday lighting ceremonies to community garden programs and neighborhood watch coordination, we bring the organizational expertise and vendor relationships to make community events happen smoothly. Our online community portal gives homeowners a centralized place to stay informed, submit requests, and connect with their neighbors.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "We also conduct annual community satisfaction surveys to identify priorities and measure how well the association is meeting homeowner expectations. This data-driven approach ensures your board makes decisions that reflect the community values and helps us continuously improve the services we provide.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Board’s Checklist",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "How to evaluate HOA management companies in <em>Chicago.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Most boards compare proposals on the monthly fee alone — and most regret it within a year. These are the six questions we would ask any firm, including us, before signing.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "h3",
+   "html": "Total annual cost, not the headline fee",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Compare the full year: base management fee, per-item charges for mailings and violation letters, transition fees, and any percentage taken on capital projects. Stellar quotes one flat monthly fee — no percentage-of-budget pricing and no separate capital-project oversight fee.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Who actually manages your community",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Ask how many communities your assigned manager carries and how often that assignment changes. Every Stellar community works with one dedicated manager who attends your meetings, walks your property, and answers a direct line.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial reporting you can audit",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "A board should see monthly statements with every invoice attached, not a quarterly summary. Ask each candidate firm for a sample report package and the date it typically arrives each month.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Enforcement with due process",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Consistent, documented CC&amp;R enforcement protects property values and protects the board from claims of selective treatment. Ask how violations are logged, noticed, escalated, and reported back to the board.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "What happens after 5 PM",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Storm damage, water intrusion, and access failures do not schedule themselves inside business hours. Confirm whether the emergency line is answered by the firm’s own local staff or routed to a national call center.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Exit terms before entry terms",
+   "cls": "sm:col-span-4 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Read the termination clause before signing: notice period, early-exit penalties, and who owns your records. A firm confident in its service does not need to lock boards in.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Transition",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Switching HOA managers, without the <em>chaos.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Boards stay with underperforming firms because the handover feels risky. Here is exactly what the first ninety days look like when a community moves to Stellar — your board signs, and we carry the rest.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Weeks 1–2 · Records &amp; access",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We issue the records request to your outgoing firm, collect governing documents, contracts, owner ledgers, and keys, and stand up your association in our systems.",
+   "cls": "text-sm text-slate-600 leading-relaxed font-light"
+  },
+  {
+   "type": "h3",
+   "html": "Weeks 3–6 · Money &amp; vendors",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Bank accounts transfer under board control, assessment collection is redirected, vendors are notified and re-papered, and owners receive a welcome letter with portal credentials.",
+   "cls": "text-sm text-slate-600 leading-relaxed font-light"
+  },
+  {
+   "type": "h3",
+   "html": "Weeks 7–12 · The new standard",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Your dedicated manager walks the property, builds the maintenance calendar, reviews the budget and reserves with the board, and delivers the first full monthly report package.",
+   "cls": "text-sm text-slate-600 leading-relaxed font-light"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Related <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-12"
+  },
+  {
+   "type": "h3",
+   "html": "Violation Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Fair, transparent enforcement of community rules with proper due process.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Maintenance Coordination",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Common area maintenance, landscaping oversight, and emergency response.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Board Support &amp; Governance",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Meeting coordination, strategic planning, and governance best practices.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "What HOA boards should ask a prospective manager.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What does an HOA management company actually do?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Day to day: assessment collection and accounting, monthly financial reporting with invoices attached, vendor bidding and supervision for landscaping, snow removal, and common-area maintenance, fair CC&amp;R enforcement with documented due process, board meeting preparation and minutes, owner communications and portal support, and a 24/7 emergency line. The board keeps every decision; the manager executes them and reports back.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How is HOA management different from rental property management?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "An HOA manager works for the association and carries out board-approved community operations. A rental manager works for landlords and tenants. Stellar serves community associations only and does not manage rental apartments.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How much does HOA management cost in Chicago?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Stellar HOA management starts at $20 per unit per month, quoted as a flat monthly fee based on your community’s size, common areas, amenities, financial complexity, and service scope. We never price as a percentage of your budget, and we do not add a separate capital-project planning or oversight fee. Third-party costs such as contractors, engineers, and attorneys remain association expenses.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Can Stellar help an HOA enforce rules consistently?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar builds documented workflows around the association’s declaration, bylaws, rules, notices, response periods, hearings, and board decisions so similar matters follow a consistent process. Association counsel is consulted when legal advice is required.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Can our HOA switch management companies before the contract ends?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Usually, yes — most Chicago-area management contracts allow termination with 30 to 90 days written notice, and some allow immediate termination for cause. Have your board review the termination clause, then time the notice so our managed 30–60 day transition lands at the handover date. We coordinate records, banking, vendors, and owner communication so the community never feels the seam.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Do you manage townhome communities and single-family HOAs?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Alongside condominium associations, Stellar manages townhome communities and single-family homeowners associations across Chicago and the North Shore, including planned developments with private streets, shared landscaping, and amenity spaces. See our townhome management practice for the specifics of fee-simple and shared-element communities.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Is our community too small or too large for Stellar?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Our portfolio runs from boutique associations to communities of more than 250 residences. We deliberately curate the portfolio — 29 associations and approximately 1,422 residences — so every community keeps a dedicated manager with genuine capacity. If we cannot serve your community to that standard, we will say so in the first conversation.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How is Stellar different from national HOA management firms?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "One dedicated manager instead of a rotating account team, a flat fee instead of percentage-based pricing, a Chicago office that answers its own 24/7 line instead of a national call center, and monthly board-ready financials instead of quarterly boilerplate. That model is why 96% of our client associations stay with us year over year.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Board Governance &amp; Illinois Law",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Illinois law, meetings, records, rules, elections, fiduciary duties, and board decision-making.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where we practice <em>HOA Management.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "This work looks different block to block. See how we serve the communities where it concentrates.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

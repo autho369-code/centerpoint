@@ -1,0 +1,175 @@
+{
+ "path": "/blog/renting-out-your-condo-chicago-rules",
+ "title": "Renting Out Your Chicago Condo: Association Rules and City…",
+ "description": "Can you rent out your Chicago condo? Leasing caps, board approval, minimum lease terms, short-term rental restrictions, and the steps to lease your unit the right way.",
+ "lastmod": "2026-08-13",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained",
+   "description": "Can you rent out your Chicago condo? Leasing caps, board approval, minimum lease terms, short-term rental restrictions, and the steps to lease your unit the right way.",
+   "datePublished": "2026-08-13",
+   "dateModified": "2026-08-13",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/renting-out-your-condo-chicago-rules"
+   },
+   "citation": [
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2200",
+    "https://www.chicago.gov/city/en/depts/bacp.html"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can I rent out my condo in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Only if your association's governing documents allow it. Many Chicago condominiums restrict leasing through rental caps, minimum lease terms of six or twelve months, owner-occupancy waiting periods, or board approval requirements — and some prohibit leasing outright through a properly adopted amendment. Nearly all prohibit short-term rentals, which Chicago also restricts by ordinance. Request the current leasing rules from your manager in writing before you list, and get any required approval documented."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the usual condo leasing requirements?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Five appear in most Chicago associations: a written lease with a minimum term (commonly twelve months), a copy of the executed lease delivered to management, a lease rider binding the tenant to the association's rules, current contact information for the owner (who remains liable for assessments and violations), and sometimes a move fee or lease registration fee. Some buildings add board approval or maintain a rental waiting list when the cap is full."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 13, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The market shifts, a job moves, a family grows — and a condo owner becomes a prospective landlord. In Chicago, that decision runs through two rulebooks at once: your association's governing documents and the city's rental ordinances. Owners who check both first lease smoothly; owners who list first and check later fund the association's legal budget.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can I rent out my condo in Chicago?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Only if your association's governing documents allow it. Many Chicago condominiums restrict leasing through rental caps, minimum lease terms of six or twelve months, owner-occupancy waiting periods, or board approval requirements — and some prohibit leasing outright through a properly adopted amendment. Nearly all prohibit short-term rentals, which Chicago also restricts by ordinance. Request the current leasing rules from your manager in writing before you list, and get any required approval documented.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why Associations Regulate Leasing at All",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "It is not hostility to renters. Owner-occupancy ratios affect the whole building's finances: mortgage underwriters — including Fannie Mae and Freddie Mac project reviews — look at investor concentration, insurance carriers price it, and communities with stable long-term residents simply run smoother. A leasing cap protects every owner's ability to sell and refinance. When your board enforces one, it is defending your unit's value too.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What are the usual condo leasing requirements?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Five appear in most Chicago associations: a written lease with a minimum term (commonly twelve months), a copy of the executed lease delivered to management, a lease rider binding the tenant to the association's rules, current contact information for the owner (who remains liable for assessments and violations), and sometimes a move fee or lease registration fee. Some buildings add board approval or maintain a rental waiting list when the cap is full.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Short-Term Rentals: The Double Prohibition",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Airbnb-style rentals face two independent barriers. First, most declarations' minimum-lease-term and single-family-use provisions prohibit them outright. Second, Chicago's shared-housing ordinance requires registration, restricts eligible buildings, and maintains a prohibited-buildings list that associations can join by vote — placing the entire building off-limits on the platforms. Fines run per violation, per day, from both the city and the association. If your plan involves a lockbox and a cleaning crew, have the conversation with your manager before the first booking, not after the first complaint.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Owner's Leasing Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Request the current leasing rules</strong> from management in writing — rules amend over time, and last year's answer may not be this year's.",
+    "<strong>Confirm cap space and any waiting list</strong> before signing with a tenant.",
+    "<strong>Use the association's lease rider</strong> so your tenant is bound to the rules you are responsible for.",
+    "<strong>Register the tenant with management</strong> so they receive building notices, portal access, and emergency communications.",
+    "<strong>Keep your own insurance current</strong> — a landlord policy for your unit, while your tenant carries renter's coverage.",
+    "<strong>Remember: violations follow the deed.</strong> Your tenant's noise complaint is, legally, your noise complaint. Screen accordingly."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "For the association side of these rules, see <a href=\"/property-management-chicago\">property management in Chicago</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/condo-repairs-owner-vs-association-illinois\">Owner versus association repairs</a>; <a href=\"/blog/first-time-condo-buyer-guide-chicago\">a first-time Chicago condo buyer’s guide</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Rules on leasing are enforceable in Illinois when properly adopted — our guide to <a href=\"/blog/are-hoa-condo-rules-enforceable-illinois\">which condo rules hold up</a> explains the framework, and <a href=\"/condo-living\">The Owner's Companion</a> covers the rest of ownership life. For boards: clean leasing administration — riders, registrations, caps, and enforcement — is part of Stellar's condominium management practice. If your building's leasing file is a shoebox, <a href=\"/contact\">we should talk</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2200\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.chicago.gov/city/en/depts/bacp.html\">City of Chicago — Business Affairs &amp; Consumer Protection</a>"
+   ]
+  }
+ ]
+}

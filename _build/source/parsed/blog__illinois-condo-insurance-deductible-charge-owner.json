@@ -1,0 +1,305 @@
+{
+ "path": "/blog/illinois-condo-insurance-deductible-charge-owner",
+ "title": "Illinois Condo Insurance Deductibles: When Can the Board Ch…",
+ "description": "Section 12(c) of the Illinois Condo Act gives boards three ways to handle a master policy deductible. When an owner can be charged and the hearing step.",
+ "lastmod": "2026-11-02",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?",
+   "description": "Section 12(c) of the Illinois Condo Act gives boards three ways to handle a master policy deductible. When an owner can be charged and the hearing step.",
+   "datePublished": "2026-11-02",
+   "dateModified": "2026-11-02",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-insurance-deductible-charge-owner"
+   },
+   "citation": [
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K12.html",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can an Illinois condo board charge the insurance deductible to an owner?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, in defined circumstances. Section 12(c) of the Condominium Property Act lets the board, for a claim for damage to a unit or the common elements, (i) pay the deductible as a common expense, (ii) after notice and an opportunity for a hearing, assess it against the owners who caused the damage or from whose units the damage originated, or (iii) require the owners of the affected units to pay it. Those three options are the statutory menu. Your declaration may add procedures or limits, so the board should read Section 12(c) together with the declaration and have counsel confirm how they fit before adopting a policy or sending a charge."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does the owner have to be negligent to be charged?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not under the text of option (ii). The statute allows the deductible to be assessed against owners who caused the damage or owners from whose units the damage or cause of loss originated. The second phrase does not mention fault, so a loss that starts in a unit can support a charge even without proof of carelessness. That does not mean every charge is wise or that every declaration reads the same way. Some declarations narrow the board's discretion or add standards of their own. Where a declaration and the statute appear to conflict, that is a question for association counsel, not a judgement call for the board."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the notice and hearing step?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It is required before charging the owner who caused the damage or where it originated. Option (ii) applies only after notice and an opportunity for a hearing. In practice that means written notice of the proposed charge and the reasons, a stated opportunity to be heard by the board, and a written decision afterwards. Skipping it is the most common way an otherwise valid charge is undermined. The statute's text attaches the hearing language to option (ii), not to option (iii). Even so, many boards give the same notice before any deductible charge to an owner because it creates a clear record and reduces disputes. Counsel can advise whether your declaration requires it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "When does charging the affected owners make sense?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When the loss has no clear source unit or the board has chosen that approach by policy. Option (iii) lets the board require the owners of the affected units to pay the deductible, regardless of where the damage started. Some boards use it so each owner's own HO-6 policy responds to its share, which is why the deductible rules and owner insurance requirements should be designed together. Boards using option (iii) should decide in advance how the deductible is split when several units are affected and put that method in writing. An allocation invented after the loss invites argument."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can the board require owners to carry insurance for deductibles?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Section 12(h) lets the board, under the declaration and bylaws or by rule, require owners to carry insurance covering their personal liability for damage to another unit caused by negligence or originating from the unit regardless of negligence. That personal liability must include the deductible of the owner whose unit was damaged. A board that intends to charge deductibles to owners should pair the policy with a clear rule on required HO-6 coverage, including loss assessment and liability limits that make sense against the master policy deductible. The owners' insurance agents can then size coverage correctly. Our guide to the master policy and HO-6 explains how the two policies divide the loss."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who adjusts the claim and who receives the money?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The association. Section 12(g) requires any loss covered by the master property policy to be adjusted by and with the association, with proceeds payable to the association or an insurance trustee it designates. Proceeds go first to repairing the common elements and the bare walls, ceilings and floors of units, then to any improvements and betterments the association insures. Section 12(f) adds that the association's policy is primary when an owner has other insurance covering the same property. Owners sometimes assume their HO-6 should go first; it does not for property the master policy covers."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "When should the association simply absorb the deductible?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "When the loss is building-wide or has no owner source. Option (i), paying the deductible as a common expense, fits losses that start in the common elements, such as a roof, riser or boiler failure, and storm or other events that affect the whole building. Charging individual owners for those losses is rarely fair and usually invites a dispute. If the board expects to absorb deductibles in some situations, the operating budget or reserves should reflect it. A deductible that is many times larger than it was a few renewals ago can consume a contingency line in a single loss. Review the deductible with the broker at each renewal and decide, before a loss, whether the budget can carry it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does this apply to townhome and HOA communities?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Section 12 is part of the Condominium Property Act. Communities governed by the Common Interest Community Association Act should look first to their declaration for deductible and insurance allocation rules, and have counsel confirm the approach. For condominiums, the Section 12 insurance provisions apply to policies issued or renewed on or after 1 June 2015."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · November 2, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A supply line fails on the eighth floor and water runs through three units below. The association's master policy responds, but only above its deductible, and deductibles on many Chicago-area master policies are now large enough that the first dollars of a loss are a real budget event. The board then has to decide who pays that deductible. Illinois law answers the question for condominiums, and the answer gives the board more choice than many directors realise.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can an Illinois condo board charge the insurance deductible to an owner?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Yes, in defined circumstances.</strong> Section 12(c) of the Condominium Property Act lets the board, for a claim for damage to a unit or the common elements, (i) pay the deductible as a common expense, (ii) after notice and an opportunity for a hearing, assess it against the owners who caused the damage or from whose units the damage originated, or (iii) require the owners of the affected units to pay it.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Those three options are the statutory menu. Your declaration may add procedures or limits, so the board should read Section 12(c) together with the declaration and have counsel confirm how they fit before adopting a policy or sending a charge.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Does the owner have to be negligent to be charged?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Not under the text of option (ii).</strong> The statute allows the deductible to be assessed against owners who caused the damage or owners from whose units the damage or cause of loss originated. The second phrase does not mention fault, so a loss that starts in a unit can support a charge even without proof of carelessness.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "That does not mean every charge is wise or that every declaration reads the same way. Some declarations narrow the board's discretion or add standards of their own. Where a declaration and the statute appear to conflict, that is a question for association counsel, not a judgement call for the board.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What is the notice and hearing step?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>It is required before charging the owner who caused the damage or where it originated.</strong> Option (ii) applies only after notice and an opportunity for a hearing. In practice that means written notice of the proposed charge and the reasons, a stated opportunity to be heard by the board, and a written decision afterwards. Skipping it is the most common way an otherwise valid charge is undermined.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The statute's text attaches the hearing language to option (ii), not to option (iii). Even so, many boards give the same notice before any deductible charge to an owner because it creates a clear record and reduces disputes. Counsel can advise whether your declaration requires it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "When does charging the affected owners make sense?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>When the loss has no clear source unit or the board has chosen that approach by policy.</strong> Option (iii) lets the board require the owners of the affected units to pay the deductible, regardless of where the damage started. Some boards use it so each owner's own HO-6 policy responds to its share, which is why the deductible rules and owner insurance requirements should be designed together.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards using option (iii) should decide in advance how the deductible is split when several units are affected and put that method in writing. An allocation invented after the loss invites argument.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can the board require owners to carry insurance for deductibles?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Yes.</strong> Section 12(h) lets the board, under the declaration and bylaws or by rule, require owners to carry insurance covering their personal liability for damage to another unit caused by negligence or originating from the unit regardless of negligence. That personal liability must include the deductible of the owner whose unit was damaged.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A board that intends to charge deductibles to owners should pair the policy with a clear rule on required HO-6 coverage, including loss assessment and liability limits that make sense against the master policy deductible. The owners' insurance agents can then size coverage correctly. Our guide to the <a href=\"/blog/condo-master-policy-vs-ho6-board-guide\">master policy and HO-6</a> explains how the two policies divide the loss.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Who adjusts the claim and who receives the money?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>The association.</strong> Section 12(g) requires any loss covered by the master property policy to be adjusted by and with the association, with proceeds payable to the association or an insurance trustee it designates. Proceeds go first to repairing the common elements and the bare walls, ceilings and floors of units, then to any improvements and betterments the association insures.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 12(f) adds that the association's policy is primary when an owner has other insurance covering the same property. Owners sometimes assume their HO-6 should go first; it does not for property the master policy covers.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "When should the association simply absorb the deductible?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>When the loss is building-wide or has no owner source.</strong> Option (i), paying the deductible as a common expense, fits losses that start in the common elements, such as a roof, riser or boiler failure, and storm or other events that affect the whole building. Charging individual owners for those losses is rarely fair and usually invites a dispute.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If the board expects to absorb deductibles in some situations, the operating budget or reserves should reflect it. A deductible that is many times larger than it was a few renewals ago can consume a contingency line in a single loss. Review the deductible with the broker at each renewal and decide, before a loss, whether the budget can carry it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Does this apply to townhome and HOA communities?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Section 12 is part of the Condominium Property Act.</strong> Communities governed by the Common Interest Community Association Act should look first to their declaration for deductible and insurance allocation rules, and have counsel confirm the approach. For condominiums, the Section 12 insurance provisions apply to policies issued or renewed on or after 1 June 2015.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board checklist: a deductible policy that holds up",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Read the declaration</strong> alongside Section 12(c), and have counsel reconcile any differences.",
+    "<strong>Choose the default approach</strong> for each type of loss: common expense, charge to the source unit after a hearing, or charge to the affected units.",
+    "<strong>Write the allocation method</strong> for losses that affect several units.",
+    "<strong>Adopt an owner insurance rule</strong> under Section 12(h) that addresses the master policy deductible.",
+    "<strong>Tell owners the current deductible</strong> every year and when it changes, so they can adjust their HO-6 coverage.",
+    "<strong>Document every loss</strong>: source, photos, plumber or restoration reports and dates.",
+    "<strong>Give written notice and an opportunity for a hearing</strong> before charging a source-unit owner, and issue a written decision.",
+    "<strong>Apply the policy consistently</strong>; uneven treatment is the fastest way to lose a dispute."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "For the maintenance side of the same question, see <a href=\"/blog/who-pays-condo-water-leak-illinois\">who pays for a condo water leak</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Stellar handles deductible charges",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/condo-hoa-insurance-renewal-checklist\">Preparing for insurance renewal</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "We help boards draft deductible and owner insurance policies with counsel, document losses from the first call, run the notice and hearing process, and post charges accurately to owner ledgers. See our <a href=\"/services/financial-management\">financial management services</a>, or <a href=\"/contact\">contact us</a> to review your association's deductible approach. This article is general information, not legal advice; association counsel should review your declaration and any charge before it is issued.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K12.html\">Illinois Condominium Property Act, Section 12 — Insurance (765 ILCS 605/12)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act, full text (765 ILCS 605)</a>"
+   ]
+  }
+ ]
+}

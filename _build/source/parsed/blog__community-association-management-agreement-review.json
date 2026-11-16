@@ -1,0 +1,247 @@
+{
+ "path": "/blog/community-association-management-agreement-review",
+ "title": "What to Review in a Community Association Management Agreement",
+ "description": "A clause-by-clause guide for Illinois condo and HOA boards reviewing a community association management agreement, including fees, scope, termination, records, and insurance.",
+ "lastmod": "2026-09-02",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "What to Review in a Community Association Management Agreement",
+   "description": "A clause-by-clause guide for Illinois condo and HOA boards reviewing a community association management agreement, including fees, scope, termination, records, and insurance.",
+   "datePublished": "2026-09-02",
+   "dateModified": "2026-09-02",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/community-association-management-agreement-review"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://idfpr.illinois.gov/profs/cam.html"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "What to Review in a Community Association Management Agreement",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 2, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "When reviewing a community association management agreement, focus on six things before anything else: the scope of included services, every fee that is not the monthly management fee, the term and termination provisions, who owns and returns association records, the indemnification and insurance language, and whether the firm and the assigned manager hold current Illinois licensure. Those six clauses determine what you actually get, what you actually pay, and how difficult it will be to change course.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read the agreement as a whole document, not as a price. Two proposals with identical monthly fees can differ substantially once ancillary charges, an auto-renewal clause, and a records-return provision are accounted for. Have association counsel review the final draft before the board signs. This article describes what to look for; counsel should tell you what the language means for your association.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Scope of Services: Included Versus Available",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The most consequential distinction in any management agreement is between services included in the base fee and services available at additional cost. Vague scope language is where budget surprises originate.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Questions to answer from the document itself",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "How many board meetings per year are included, and are they in person or remote?",
+    "Is annual meeting preparation and attendance included?",
+    "What financial reporting is included, at what frequency, and in what format?",
+    "Who prepares the draft budget, and is that included?",
+    "What is the property inspection frequency, and is a written report produced?",
+    "How are after-hours emergencies handled, and by whom?",
+    "Is violation processing included, and to what stage?",
+    "Who handles resale disclosures and paid assessment letters, and who keeps that fee?"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "If the answer to any of these is not in the document, it is not in your agreement. Get it added in writing.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Full Fee Picture",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Build a total annual cost model, not a monthly comparison. Ancillary charges commonly include resale and disclosure documents, transfer fees, special assessment administration, additional meeting attendance, project or construction oversight fees, late notice and collection administration charges, copying and mailing, and technology or portal fees.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask directly which of these the management company retains and which are passed through to the association. Ask whether any fee is charged to owners rather than the association, since those still affect your community even when they never appear on your operating statement. Also confirm how banking works: which accounts are in the association's name, who is a signer, and whether the firm receives any compensation related to association deposits.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Term, Termination, and Transition",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Auto-renewal",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Many agreements renew automatically unless notice is given within a specific window. Note that window in your compliance calendar the day you sign, or you will renew by inattention.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Termination rights",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Look for whether termination without cause is available to both parties, the notice period, whether it is symmetrical, and whether any early termination fee applies. An agreement where the manager can leave on 30 days' notice but the association needs 120 is worth negotiating.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Records return",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is the clause boards regret most. The agreement should state plainly that all association records, financial data, owner information, vendor contracts, and files belong to the association, will be returned in a usable electronic format within a defined number of days after termination, and that no fee or outstanding-balance condition may delay their return. Association records are the association's property.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Liability, Insurance, and Authority Limits",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Review the indemnification language carefully with counsel. Some agreements ask the association to indemnify the management company broadly, including for the company's own negligence. Boards should understand exactly what they are agreeing to.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Confirm the insurance the firm carries and that it is appropriate for the scope of work, including general liability, professional liability, and fidelity or crime coverage where the firm handles association funds. Ask to be named where appropriate and to receive certificates annually.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Finally, check spending authority. The agreement should set a clear dollar threshold above which board approval is required, with a narrow, defined emergency exception that includes prompt notification to the board.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Licensure and Assigned Personnel",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois regulates community association managers through the Illinois Department of Financial and Professional Regulation. Confirm both the firm's and the assigned manager's licensure status directly through IDFPR rather than relying on a marketing claim. The agreement should also name the assigned manager, describe the portfolio load or service standard, and state what happens if that person leaves.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "List every included service with frequency, in writing, inside the agreement.",
+    "Build a total annual cost model including all ancillary fees.",
+    "Confirm which fees the firm retains versus passes through.",
+    "Note the auto-renewal notice window in your compliance calendar immediately.",
+    "Negotiate symmetrical termination notice periods.",
+    "Require electronic records return within a defined period, with no fee conditions.",
+    "Have counsel review indemnification and insurance provisions.",
+    "Set a clear board-approval spending threshold with a defined emergency exception.",
+    "Verify firm and manager licensure through IDFPR.",
+    "Confirm accounts are in the association's name with board signers."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois association boards and is not legal advice. Contract terms should be reviewed by association counsel, who can also interpret your declaration and bylaws and confirm whether the Illinois Condominium Property Act or CICAA governs your community.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Have Us Walk the Agreement With You",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/score-condo-hoa-management-proposals\">Scoring management proposals side by side</a>; <a href=\"/blog/verify-illinois-community-association-manager-license\">checking a CAM license with IDFPR</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Whether you are reviewing our agreement or someone else's, a board should understand every clause before it votes. Stellar Property Management serves association boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore, with dedicated <a href=\"/services/condominium-management\">condominium</a>, HOA, and townhome programs. <a href=\"/contact\">Contact us</a> for a consultation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR Community Association Manager Licensing</a>"
+   ]
+  }
+ ]
+}

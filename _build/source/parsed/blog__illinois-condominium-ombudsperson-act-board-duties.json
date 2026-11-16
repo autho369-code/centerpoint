@@ -1,0 +1,233 @@
+{
+ "path": "/blog/illinois-condominium-ombudsperson-act-board-duties",
+ "title": "The Illinois Condominium Ombudsperson Act: Current Board Du…",
+ "description": "What Illinois condominium and common interest community boards should understand about the Condominium and Common Interest Community Ombudsperson Act and how to verify current duties.",
+ "lastmod": "2026-09-06",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Illinois Condominium Ombudsperson Act: Current Board Duties",
+   "description": "What Illinois condominium and common interest community boards should understand about the Condominium and Common Interest Community Ombudsperson Act and how to verify current duties.",
+   "datePublished": "2026-09-06",
+   "dateModified": "2026-09-06",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condominium-ombudsperson-act-board-duties"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://idfpr.illinois.gov/profs/cam.html"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The Illinois Condominium Ombudsperson Act: Current Board Duties",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 6, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The Illinois Condominium and Common Interest Community Ombudsperson Act established a state office intended to provide information and dispute resolution assistance to unit owners and associations, and contemplated that associations would adopt a written policy for resolving owner complaints. Boards asking what the Act requires of them right now should verify the Act's current status and any active obligations directly with association counsel or the administering state agency before relying on any secondary summary, including this one.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "That caution is deliberate. The Act has been the subject of significant legislative attention since it was passed, including provisions affecting its operation and duration. Rather than restate requirements that may no longer be in effect or may have changed, the practical guidance below focuses on what a board should confirm and on the internal complaint-policy discipline that serves the association well regardless of the Act's current status.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What the Act Was Designed to Do",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "In general terms, the legislation created an Office of the Condominium and Common Interest Community Ombudsperson within Illinois state government. The concept was to give unit owners and board members a neutral state resource for information about their rights and responsibilities under Illinois association law, and to encourage associations to have a defined internal process for handling owner complaints before disputes escalate.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The underlying idea is sound and worth adopting on its own merits. Most owner disputes that end up expensive started as a complaint that received no acknowledgment, no timeline, and no written answer.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What Your Board Should Verify",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask association counsel to confirm, in writing, the following for your specific association.",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "The current status and effective dates of the Ombudsperson Act as of today.",
+    "Whether your association is within its scope, given that condominiums and common interest communities are governed by different underlying statutes.",
+    "Whether a written complaint policy is currently required of your association, and if so, what it must contain.",
+    "Any registration, fee, or filing obligation currently in effect.",
+    "Whether your governing documents already impose a complaint or dispute-resolution procedure."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "A single written opinion from counsel covering these points is inexpensive relative to guessing, and it gives the board something concrete to rely on and to hand to a successor board.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Condominium Property Act Versus CICAA",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations are generally governed by the Illinois Condominium Property Act. Many non-condominium common interest communities, including townhome and single-family homeowner associations, are governed by the Common Interest Community Association Act. These statutes address governance, records, meetings, and owner rights differently.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ombudsperson-related questions cut across both categories, which is exactly why boards should not assume that guidance written for a condominium applies to a townhome association or the reverse. Confirm which act governs your community, and have counsel apply the analysis to that framework and to your recorded declaration.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Adopt a Written Complaint Policy Regardless",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Whatever the Act currently requires, a written owner complaint policy is good governance. It converts an emotional exchange into a documented process with a defined endpoint.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Elements of a workable policy",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "A single defined channel for submitting a written complaint, with the address or portal stated plainly.",
+    "A commitment to acknowledge receipt within a stated number of business days.",
+    "A defined period within which the board will provide a written response.",
+    "A description of how the complaint will be considered, including whether it goes to a board meeting agenda.",
+    "A statement that responses are provided in writing and retained in association records.",
+    "Clarity that the policy does not waive any legal rights of either the owner or the association."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Have counsel review the policy before adoption so it aligns with your declaration and with any current statutory requirement, then adopt it by recorded vote in open session and distribute it to all owners.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ask counsel for a written confirmation of the Ombudsperson Act's current status and any active obligations.",
+    "Confirm whether the Condominium Property Act or CICAA governs your association.",
+    "Review your declaration and bylaws for existing complaint or dispute-resolution language.",
+    "Adopt a written owner complaint policy with acknowledgment and response timelines.",
+    "Distribute the policy to all owners and post it wherever governing documents are made available.",
+    "Log every complaint received, the date, and the date and substance of the response.",
+    "Route complaints through the policy consistently rather than handling some informally.",
+    "Re-verify statutory status annually, since legislation in this area has changed repeatedly."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Why Documentation Matters Here",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The common thread in owner-versus-board disputes is a missing record. An owner says they raised an issue three times; the board has no log. Once a complaint policy exists and every submission is logged with its response, that argument disappears. It also makes board turnover survivable, because an incoming director can read the history instead of inheriting a rumor.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards that want help operationalizing this, including intake, logging, and meeting-agenda discipline, can look at our <a href=\"/services/board-support\">board support</a> services, with statute-specific work under condominium management and HOA management.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Public Act 104-0377 extended the statutory repeal date for the Condominium and Common Interest Community Ombudsperson Act to January 1, 2029. This article is general educational information for Illinois association boards and is not legal advice. Requirements differ between the Illinois Condominium Property Act and CICAA, and your recorded declaration and bylaws may impose additional obligations. Consult association counsel to interpret your governing documents and confirm current legal requirements before acting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Get Clarity for Your Association",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/illinois-condo-association-records-request-guide\">Answering owner records requests</a>; <a href=\"/blog/condo-hoa-board-communication-systems\">keeping board decisions from getting lost</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board is unsure what applies to your community today, that uncertainty is worth resolving once and documenting. Stellar Property Management works with association boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Contact us</a> to schedule a consultation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Condominium and Common Interest Community Ombudsperson Act (765 ILCS 615)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR Community Association Manager Licensing</a>"
+   ]
+  }
+ ]
+}

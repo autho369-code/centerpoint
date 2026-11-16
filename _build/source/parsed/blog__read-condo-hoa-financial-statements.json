@@ -1,0 +1,205 @@
+{
+ "path": "/blog/read-condo-hoa-financial-statements",
+ "title": "How Board Members Should Read Association Financial Statements",
+ "description": "A plain-language guide for condo and HOA board members: how to read the balance sheet, income statement, and delinquency report in your monthly financial packet.",
+ "lastmod": "2026-09-12",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How Board Members Should Read Association Financial Statements",
+   "description": "A plain-language guide for condo and HOA board members: how to read the balance sheet, income statement, and delinquency report in your monthly financial packet.",
+   "datePublished": "2026-09-12",
+   "dateModified": "2026-09-12",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/read-condo-hoa-financial-statements"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "How Board Members Should Read Association Financial Statements",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 12, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A board member reading a monthly financial packet well does not need to audit it. They need to answer four questions: does the association have the cash it should have, are owners paying, are we tracking to budget, and is anything moving in a direction we did not authorize? If you can answer those four every month, you are doing the fiduciary work the role actually requires.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Start with the balance sheet, not the income statement. Boards habitually flip to the variance report because it feels like the interesting part. The balance sheet is where the association's actual condition lives, and it is where problems show up first.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The balance sheet: what the association has and owes",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Cash, separated by fund",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "You should see operating cash and reserve cash as distinct lines, ideally tied to distinct bank accounts. If reserves and operating funds are commingled in one account, raise it. Separation is what makes reserve balances meaningful and what makes reserve reporting in resale disclosures accurate.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Compare reserve cash to the prior month. It should move in the direction your budget says -- up by the monthly contribution, down only by approved reserve expenditures. An unexplained drop in reserve cash is the single most important thing a board member can catch.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Assessments receivable",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is what owners owe. Watch the trend line, not just the number. Receivable balances that climb three months in a row indicate either a collections process that has stalled or charges accruing on accounts that are not being worked.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Liabilities and prepaid assessments",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Accounts payable tells you what the association owes vendors. Prepaid assessments -- money received for future periods -- is cash you hold but have not earned. Boards sometimes read a healthy cash balance that is partly prepayments and conclude the association is in better shape than it is.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The income statement: budget versus actual",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read the variance column, and read it year-to-date rather than month alone. A single month's utility spike may be a billing cycle; three months of the same variance is a trend. Ask about any line more than a modest percentage off budget year-to-date, and ask specifically whether the variance is timing or permanent.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Two traps worth naming. First, a favorable maintenance variance is not automatically good news -- it may mean work was deferred, which converts an operating saving into a future capital cost. Second, budgeted reserve contributions should appear as a transfer, not vanish. Confirm the contribution actually moved to the reserve account, not just to a line on paper.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The delinquency report",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask for an aged report -- current, 30, 60, 90+ -- rather than a single receivable total. Aging tells you whether the problem is a few chronic accounts or broad softening. It also tells you whether your collections policy is being applied on schedule, because accounts should move to the next stage of escalation at predictable intervals. If accounts sit at 90+ for months with no action recorded, the process has stopped.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Questions to ask at every meeting",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Did reserve cash change for any reason other than the budgeted contribution?",
+    "Have the bank accounts been reconciled through the statement date?",
+    "Which three expense lines are furthest off budget year-to-date, and why?",
+    "How many accounts are 90+ days, and what is the next step on each?",
+    "Are there approved expenditures not yet reflected in these statements?",
+    "Is any expense being paid that the board did not approve?"
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Controls a board should insist on",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Monthly bank reconciliations, with statements available to the board.",
+    "Reserve funds in separate accounts from operating funds.",
+    "Dual authorization for disbursements above a board-set threshold.",
+    "A written check-signing and approval policy.",
+    "Financial statements delivered on a fixed schedule before each meeting.",
+    "An annual independent review or audit consistent with your governing documents and applicable law -- confirm the requirement with counsel and your accountant.",
+    "Board access to the underlying records, not only to summaries."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Whether your association is an Illinois condominium under the Condominium Property Act or an association governed by CICAA, your governing documents and the applicable statute may impose specific accounting, reporting, and owner-access requirements. Ask counsel to confirm what applies to yours rather than assuming the two are the same.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for association boards and is not legal or accounting advice. Consult your association's attorney and accountant regarding your specific obligations.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/illinois-condo-owners-independent-audit-rights\">Owners’ right to demand an independent audit</a>; <a href=\"/blog/illinois-condo-hoa-budget-adoption-guide\">the Illinois budget adoption steps</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar delivers board packets built for this kind of reading -- reconciled, separated by fund, and aged. See our <a href=\"/services/financial-management\">financial management</a> and board support services, or <a href=\"/contact\">schedule a consultation</a> to review your current reporting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

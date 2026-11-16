@@ -1,0 +1,230 @@
+{
+ "path": "/blog/illinois-22-1-disclosure-packet-checklist",
+ "title": "The Illinois 22.1 Disclosure Packet Checklist",
+ "description": "A practical assembly checklist for Illinois condominium 22.1 resale disclosure packets: documents, financials, ledgers, insurance, and quality control steps.",
+ "lastmod": "2026-08-27",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The Illinois 22.1 Disclosure Packet Checklist",
+   "description": "A practical assembly checklist for Illinois condominium 22.1 resale disclosure packets: documents, financials, ledgers, insurance, and quality control steps.",
+   "datePublished": "2026-08-27",
+   "dateModified": "2026-08-27",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-22-1-disclosure-packet-checklist"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The Illinois 22.1 Disclosure Packet Checklist",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 27, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "If your association is a condominium governed by the Illinois Condominium Property Act, Section 22.1 sets out the disclosure obligation triggered when a unit is resold. This article is the operational companion to that obligation: a packet assembly checklist your board can hand to whoever actually prepares the response, so that the same complete, accurate package goes out every time regardless of who is on duty.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Use it as a workflow, not a form. The exact contents your association must provide are determined by the governing statute and your recorded documents, and your association's counsel should confirm the required contents and any permitted fee before you standardize. What follows is how to organize the work so that nothing accurate gets left out and nothing unverified gets put in.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Section 1: Governing documents",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Recorded declaration, complete, including all recorded amendments in order.",
+    "Bylaws as currently in effect.",
+    "Rules and regulations as adopted, each with its adoption date.",
+    "Any recorded plat or exhibits referenced by the declaration."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "The failure here is almost always amendments. An association records three amendments over fifteen years and keeps sending the original 1998 declaration. Build one consolidated master set, verify it against the recorder's records once, and never assemble from loose files again.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Section 2: Financial condition",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Adopted annual budget for the current fiscal year.",
+    "Most recent financial statements, including balance sheet and income statement.",
+    "Current operating and reserve fund balances as of a stated date.",
+    "Any adopted special assessment: amount, purpose, term, and remaining balance.",
+    "Capital expenditures the board has formally approved."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Every financial figure in the packet must trace to a document the association can produce. If the reserve balance in the packet is a rounded number someone remembered, that is a problem waiting for a dispute. Our financial management process ties disclosure figures directly to the reconciled statements so the two never diverge.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Section 3: The unit account",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Current assessment amount and payment frequency for the unit.",
+    "Full ledger showing charges, payments, credits, and any unpaid balance.",
+    "Any fines, late fees, interest, or legal costs charged to the unit, itemized.",
+    "Any recorded lien affecting the unit."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Itemize, do not summarize",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A single line reading \"balance due\" invites a fight at closing. An itemized ledger showing the origin of every charge ends the fight before it starts. This is also why late fee and interest charges need a written, consistently applied policy behind them -- an unexplained charge on a resale ledger is the moment an owner asks where the authority came from.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Section 4: Insurance and risk",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Current certificates of insurance from the association's agent, not expired copies.",
+    "Coverage summary sufficient for the buyer's lender review.",
+    "Pending litigation or claims involving the association, as confirmed with counsel."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Request certificates directly from the agent at the time of the packet rather than reusing a PDF from last year. Certificates carry dates, and lenders read them.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Section 5: Quality control before it goes out",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The last ten minutes of the process prevent most of the problems. Before release:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Confirm the unit number on every document matches the requested unit.",
+    "Confirm the balance in the packet matches the ledger as of the stated date.",
+    "Confirm each document is the current version, with a visible effective or recording date.",
+    "Confirm no draft, unapproved, or \"proposed\" document is included.",
+    "Confirm the litigation statement was verified with counsel, not assumed.",
+    "Confirm the fee charged matches the association's written, counsel-reviewed policy.",
+    "Date and initial the response, and file a complete copy in the association's records."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Two things never to put in the packet",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "First, speculation about future assessments. Disclose what the board has adopted. A board discussion is not an adopted assessment, and describing it as one misleads a buyer. Second, personal opinions about the seller, the unit, or a dispute. The packet is a records disclosure. Commentary belongs nowhere in it.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board would rather not assemble packets itself, our <a href=\"/services/resale-disclosures\">resale disclosure service</a> handles Section 22.1 requests.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "If your association is not a condominium",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Homeowners associations and townhome associations in Illinois are frequently governed by CICAA rather than the Condominium Property Act, and their disclosure obligations come from that statute plus their own recorded documents. If you manage a townhome association or an HOA, do not adopt a condominium 22.1 form wholesale. Have counsel confirm which statute applies and what your documents require.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for Illinois association boards and is not legal advice. Governing documents control, and your association's attorney should confirm required packet contents, permitted fees, and response timing.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/illinois-section-22-1-disclosure-board-guide\">The Illinois 22.1 disclosure guide</a>; <a href=\"/blog/illinois-22-1-response-workflow\">a 22.1 response workflow</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar's board support team maintains standing disclosure packets for the associations we manage so responses go out in days, not weeks. <a href=\"/contact\">Talk to us</a> about auditing your current packet.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

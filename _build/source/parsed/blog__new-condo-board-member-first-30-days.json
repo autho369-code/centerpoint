@@ -1,0 +1,201 @@
+{
+ "path": "/blog/new-condo-board-member-first-30-days",
+ "title": "New Condo Board Member Guide: The First 30 Days",
+ "description": "A 30-day onboarding plan for new Illinois condo and HOA board members: documents to read, financials to review, and questions to ask before your first vote.",
+ "lastmod": "2026-09-07",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "New Condo Board Member Guide: The First 30 Days",
+   "description": "A 30-day onboarding plan for new Illinois condo and HOA board members: documents to read, financials to review, and questions to ask before your first vote.",
+   "datePublished": "2026-09-07",
+   "dateModified": "2026-09-07",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/new-condo-board-member-first-30-days"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&ChapterID=65",
+    "https://idfpr.illinois.gov/profs/cam.html"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "New Condo Board Member Guide: The First 30 Days",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 7, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer: in your first 30 days as a new Illinois association director, your job is to learn the association before you try to change it. Read the governing documents, understand the money, meet the manager, and ask questions in writing. You are a fiduciary from the moment you take office, and the decisions in front of you will involve real dollars belonging to your neighbors.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Most new directors run into the same two surprises. First, the board has less unilateral power than they assumed, because the declaration and the applicable statute constrain what a board may decide on its own. Second, the association has more financial complexity than expected, with reserves, insurance, and long-cycle capital projects sitting behind the monthly assessment. Both surprises are easier to absorb during a structured onboarding than in the middle of a contested vote.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Week One: Read the Documents",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Request a complete governance packet and actually read it: the recorded declaration, bylaws, plat, all recorded amendments, the current rules and regulations, and the last twelve months of approved minutes. Note which statute governs your association, since Illinois condominiums and non-condominium common interest communities are governed by different acts. If nobody can tell you which applies, that is your first question for counsel.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Questions to Ask Right Away",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Which statute governs this association, and has counsel confirmed it in writing?",
+    "What is the board's current officer slate and term structure?",
+    "What matters are currently in litigation or under counsel review?",
+    "What major capital projects are planned in the next three years?",
+    "Is the association's corporate registration current with the Secretary of State?"
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Week Two: Understand the Money",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Review the current year budget, the most recent monthly financial statements, the reserve balance and any reserve study, the aged delinquency report, and the insurance policies with limits and deductibles. Do not skim. Ask the manager to walk you line by line through one month's statements until you can explain where the assessment dollars go. Boards make better decisions when every director can read a balance sheet, and good association financial management makes that possible.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Week Three: Meet the People and Walk the Property",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Meet the community association manager and understand the scope of the management agreement, including what the manager does and what remains a board responsibility. Illinois licenses community association managers through IDFPR, and you should know who is licensed and serving your association. Then walk the property with the manager or engineer. Look at roofs, facades, mechanical rooms, garages, and any area with an active repair history. Physical condition is where deferred decisions become visible.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Week Four: Learn the Process, Then Contribute",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Attend a board meeting with the goal of understanding how the board moves from packet to motion to minutes. Ask how the agenda is built, when packets go out, and how owner concerns reach the board. Once you understand the process, propose your first improvement in writing so it can be evaluated on its merits rather than debated on the spot.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist: First 30 Days",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Obtain and read the declaration, bylaws, plat, amendments, and rules.",
+    "Read twelve months of approved minutes.",
+    "Confirm which Illinois statute governs the association.",
+    "Review the current budget and the latest monthly financial statements.",
+    "Review the reserve balance and the most recent reserve study, if one exists.",
+    "Review the delinquency report and the collection policy.",
+    "Review insurance policies, limits, deductibles, and the certificate on file.",
+    "Read the management agreement and confirm the manager's license status.",
+    "Walk the property and note deferred maintenance.",
+    "Sign the board's confidentiality and conflict-of-interest acknowledgments.",
+    "Disclose any potential conflict, including business relationships with vendors.",
+    "Submit questions in writing and keep the responses in your board file."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Habits That Make Good Directors",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Prepare before the meeting rather than reading the packet at the table. Vote on the record and support the board's decision publicly once it is made. Keep association business out of hallway conversations. Route legal questions to counsel instead of to online forums. And remember that a director's duty runs to the association as a whole, not to the owners who campaigned for you.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is educational information for Illinois association boards and is not legal advice. Your association's counsel should interpret your declaration, bylaws, and the applicable statute for your specific situation.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board is also reviewing its management company, the free <a href=\"/board-toolkit\">board toolkit</a> has an RFP outline and manager interview questions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/illinois-condo-board-elections-proxies-ballots\">Board elections, proxies and secret ballots</a>; <a href=\"/blog/illinois-association-annual-meeting-guide\">annual meeting notice, quorum and minutes</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Onboarding Support for New Boards",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management provides orientation packets and ongoing <a href=\"/services/board-support\">board support</a> for condominium and HOA boards in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Schedule a consultation</a> to get your new directors up to speed.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&amp;ChapterID=65\">Illinois General Not For Profit Corporation Act of 1986 (805 ILCS 105)</a>",
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR Community Association Manager Licensing</a>"
+   ]
+  }
+ ]
+}

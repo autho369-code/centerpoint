@@ -1,0 +1,277 @@
+{
+ "path": "/blog/illinois-association-fidelity-insurance-requirements",
+ "title": "Fidelity Insurance for Illinois Associations and Their Manager",
+ "description": "Illinois fidelity coverage rules for condo and HOA associations and management firms: Condo Act Section 12, CICAA 1-55 and the 2026 CAM Act change.",
+ "lastmod": "2026-10-27",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Fidelity Insurance for Illinois Associations and Their Manager",
+   "description": "Illinois fidelity coverage rules for condo and HOA associations and management firms: Condo Act Section 12, CICAA 1-55 and the 2026 CAM Act change.",
+   "datePublished": "2026-10-27",
+   "dateModified": "2026-10-27",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-association-fidelity-insurance-requirements"
+   },
+   "citation": [
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K12.html",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200160/076501600K1-55.html",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200225/Act%200427/022504270K55.html",
+    "https://www.ilga.gov/ftp/Public%20Acts/104/104-0746.htm"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Illinois require condo associations to carry fidelity coverage?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, for associations with 6 or more dwelling units. Section 12(a)(3)(A) of the Condominium Property Act requires a fidelity bond covering the persons, including the managing agent and its employees, who control or disburse association funds, for the maximum amount of coverage available to protect funds in the association's custody or control plus the reserve fund. Section 12(a)(3)(C) removes any doubt about the amount: the bond must be in the full amount of association funds and reserves in the custody of the association or the management company. The bylaws requirements in Section 18(g) separately require associations with 30 or more units to maintain fidelity insurance and make the association the direct obligee of the management company's bond. The Section 12 requirements apply to policies issued or renewed on or after 1 June 2015."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much fidelity coverage is enough?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Enough to cover the full amount of operating and reserve funds at their highest point. Because the statute measures coverage against all association funds and reserves, the limit should be set against the peak combined balance during the policy year, not an average. Reserve growth, a special assessment collection or loan proceeds can push balances well above last year's limit. This is the requirement boards most often fall behind on. A limit set five years ago against a smaller reserve fund may now be short. The fix is mechanical: at every renewal, compare the limit with the highest month-end combined balance over the past year plus expected inflows, and raise the limit before a large collection, not after."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What must the management company carry?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Its own fidelity or crime coverage before it touches association money. Under the Condominium Property Act, a management company responsible for association funds must be covered by a fidelity bond for the maximum amount of coverage available, and the association has standing to make a loss claim against the managing agent's bond. The manager licensing statute adds its own conditions. Section 55 of the Community Association Manager Licensing and Disciplinary Act (225 ILCS 427/55) says a management firm and its designated manager may not have access to and disburse association funds unless: fidelity or crime insurance is in place against loss or theft of association funds; it is in the maximum amount of coverage available to protect funds in the firm's custody or control; it covers the designated manager, the firm, all licensed managers, the firm's partners, officers and employees, and the association's own officers, directors and employees; and the insurer cannot cancel or refuse to renew without at least 10 days' prior written notice. Unless the management agreement says otherwise, the association may secure and pay for this coverage, with the designated manager, other licensees and the firm named as additional insureds. If the firm buys the coverage instead, it must give the association a current certificate within 10 days of a request."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What changed in 2026?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Crime insurance now expressly counts. Public Act 104-746, effective 31 July 2026, amended Section 55 to refer to \"fidelity or crime insurance\" and states that nothing in the section requires fidelity coverage to be issued when a crime policy with equivalent or broader coverage is already in place. The same Act extended the manager licensing law, which had been scheduled for repeal on 1 January 2027, to 1 January 2032. The practical effect is that boards will increasingly see crime policies rather than traditional fidelity bonds. That is permitted for the manager licensing requirement, but the board should still confirm with counsel and its broker that the policy satisfies the Condominium Property Act provisions as well, which still use the term fidelity bond."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What about townhome and HOA communities under CICAA?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The threshold is 30 units. Section 1-55 of the Common Interest Community Association Act requires an association with 30 or more units to maintain fidelity insurance covering persons who control or disburse funds, for the maximum amount that is commercially available or reasonably required. Management companies must maintain and furnish a fidelity bond on the same standard, at the association's cost unless the contract says otherwise. Smaller CICAA communities are not exempt from the manager licensing rules in Section 55 when a licensed firm handles their money, and many declarations require fidelity coverage regardless of size. A community under 30 units should not assume it can go without."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What else should the board ask the manager to prove?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "General liability and errors and omissions coverage. Section 55(c) requires the designated manager or firm to carry general liability and errors and omissions insurance, as determined by the Department of Financial and Professional Regulation, and to provide a current certificate within 10 days of the association's request. Ask for it at contract signing and at every renewal. Beyond the statute, have the association's broker read the actual policy wording. Questions worth asking include whether the managing agent's employees are covered as employees, whether electronic payment and funds-transfer fraud are covered, whether volunteer directors and committee members are included, and how long after discovery a loss must be reported. Those answers vary by policy, and only the broker and the policy text can give them."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Fidelity Insurance for Illinois Associations and Their Manager",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 27, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Most association insurance protects against things that happen to the building: fire, water, liability claims. Fidelity coverage protects against something that happens to the money. It responds when a person entrusted with association funds steals them, whether that person is a volunteer treasurer, a bookkeeper or an employee of the management company. It is one of the few coverages Illinois law requires by name, and the requirements apply to both the association and its manager.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Does Illinois require condo associations to carry fidelity coverage?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Yes, for associations with 6 or more dwelling units.</strong> Section 12(a)(3)(A) of the Condominium Property Act requires a fidelity bond covering the persons, including the managing agent and its employees, who control or disburse association funds, for the maximum amount of coverage available to protect funds in the association's custody or control plus the reserve fund.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 12(a)(3)(C) removes any doubt about the amount: the bond must be in the full amount of association funds and reserves in the custody of the association or the management company. The bylaws requirements in Section 18(g) separately require associations with 30 or more units to maintain fidelity insurance and make the association the direct obligee of the management company's bond. The Section 12 requirements apply to policies issued or renewed on or after 1 June 2015.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How much fidelity coverage is enough?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Enough to cover the full amount of operating and reserve funds at their highest point.</strong> Because the statute measures coverage against all association funds and reserves, the limit should be set against the peak combined balance during the policy year, not an average. Reserve growth, a special assessment collection or loan proceeds can push balances well above last year's limit.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is the requirement boards most often fall behind on. A limit set five years ago against a smaller reserve fund may now be short. The fix is mechanical: at every renewal, compare the limit with the highest month-end combined balance over the past year plus expected inflows, and raise the limit before a large collection, not after.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What must the management company carry?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Its own fidelity or crime coverage before it touches association money.</strong> Under the Condominium Property Act, a management company responsible for association funds must be covered by a fidelity bond for the maximum amount of coverage available, and the association has standing to make a loss claim against the managing agent's bond. The manager licensing statute adds its own conditions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 55 of the Community Association Manager Licensing and Disciplinary Act (225 ILCS 427/55) says a management firm and its designated manager may not have access to and disburse association funds unless:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "fidelity or crime insurance is in place against loss or theft of association funds;",
+    "it is in the maximum amount of coverage available to protect funds in the firm's custody or control;",
+    "it covers the designated manager, the firm, all licensed managers, the firm's partners, officers and employees, and the association's own officers, directors and employees; and",
+    "the insurer cannot cancel or refuse to renew without at least 10 days' prior written notice."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Unless the management agreement says otherwise, the association may secure and pay for this coverage, with the designated manager, other licensees and the firm named as additional insureds. If the firm buys the coverage instead, it must give the association a current certificate within 10 days of a request.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What changed in 2026?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Crime insurance now expressly counts.</strong> Public Act 104-746, effective 31 July 2026, amended Section 55 to refer to \"fidelity or crime insurance\" and states that nothing in the section requires fidelity coverage to be issued when a crime policy with equivalent or broader coverage is already in place. The same Act extended the manager licensing law, which had been scheduled for repeal on 1 January 2027, to 1 January 2032.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The practical effect is that boards will increasingly see crime policies rather than traditional fidelity bonds. That is permitted for the manager licensing requirement, but the board should still confirm with counsel and its broker that the policy satisfies the Condominium Property Act provisions as well, which still use the term fidelity bond.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What about townhome and HOA communities under CICAA?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>The threshold is 30 units.</strong> Section 1-55 of the Common Interest Community Association Act requires an association with 30 or more units to maintain fidelity insurance covering persons who control or disburse funds, for the maximum amount that is commercially available or reasonably required. Management companies must maintain and furnish a fidelity bond on the same standard, at the association's cost unless the contract says otherwise.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Smaller CICAA communities are not exempt from the manager licensing rules in Section 55 when a licensed firm handles their money, and many declarations require fidelity coverage regardless of size. A community under 30 units should not assume it can go without.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What else should the board ask the manager to prove?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>General liability and errors and omissions coverage.</strong> Section 55(c) requires the designated manager or firm to carry general liability and errors and omissions insurance, as determined by the Department of Financial and Professional Regulation, and to provide a current certificate within 10 days of the association's request. Ask for it at contract signing and at every renewal.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Beyond the statute, have the association's broker read the actual policy wording. Questions worth asking include whether the managing agent's employees are covered as employees, whether electronic payment and funds-transfer fraud are covered, whether volunteer directors and committee members are included, and how long after discovery a loss must be reported. Those answers vary by policy, and only the broker and the policy text can give them.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board fidelity coverage checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Pull both policies</strong>: the association's fidelity or crime policy and the management firm's.",
+    "<strong>Compare limits with peak balances.</strong> Add operating and reserve balances at their highest month-end point and include any expected special assessment or loan proceeds.",
+    "<strong>Confirm who is covered</strong>: the managing agent and its employees, the board, the treasurer and any volunteers who sign or approve payments.",
+    "<strong>Confirm the association is the obligee</strong> or named insured with the right to claim directly.",
+    "<strong>Request certificates</strong> for the firm's fidelity or crime coverage and its general liability and errors and omissions coverage; the firm must respond within 10 days.",
+    "<strong>Check the cancellation notice terms</strong> meet the 10-day minimum.",
+    "<strong>Read the management agreement</strong> for who buys and pays for the coverage.",
+    "<strong>Calendar a review</strong> before every renewal and before any large collection. Our <a href=\"/blog/condo-hoa-insurance-renewal-checklist\">insurance renewal checklist</a> fits this into the full renewal."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "How Stellar handles fidelity coverage",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/illinois-condo-owners-independent-audit-rights\">Owners’ right to demand an independent audit</a>; <a href=\"/blog/condo-hoa-directors-officers-insurance-guide\">directors and officers insurance for volunteer boards</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "We review fidelity limits against actual balances at each renewal, provide our own coverage certificates on request, and work with the association's broker so the board sees a clear comparison. See our <a href=\"/services/financial-management\">financial management services</a>, or <a href=\"/contact\">contact us</a> for a review of your current coverage. This article is general information; the association's insurance broker and counsel should confirm that any specific policy satisfies the statutes and your governing documents.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K12.html\">Illinois Condominium Property Act, Section 12 — Insurance (765 ILCS 605/12)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200160/076501600K1-55.html\">Common Interest Community Association Act, Section 1-55 — Fidelity insurance (765 ILCS 160/1-55)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200225/Act%200427/022504270K55.html\">Community Association Manager Licensing and Disciplinary Act, Section 55 (225 ILCS 427/55)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/Public%20Acts/104/104-0746.htm\">Illinois Public Act 104-746 (effective July 31, 2026)</a>"
+   ]
+  }
+ ]
+}

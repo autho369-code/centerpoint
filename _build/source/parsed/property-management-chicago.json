@@ -1,0 +1,605 @@
+{
+ "path": "/property-management-chicago",
+ "title": "Chicago Condo & HOA Management Company | Stellar",
+ "description": "Chicago condo, HOA and townhome association management. Facade ordinance and heat compliance, reserve planning, flat fees, 24/7 response.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/property-management-chicago#service",
+   "name": "Property Management in Chicago",
+   "description": "Condominium, HOA, and townhome association management across 55+ Chicago neighborhoods. Dedicated managers, flat-fee pricing, 24/7 emergency response. Since 2007.",
+   "url": "https://www.stellarpropertygroup.com/property-management-chicago",
+   "serviceType": "Community Association Management",
+   "areaServed": {
+    "@type": "City",
+    "name": "Chicago",
+    "containedInPlace": {
+     "@type": "State",
+     "name": "Illinois"
+    }
+   },
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Service Areas",
+     "item": "https://www.stellarpropertygroup.com/service-areas"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Chicago",
+     "item": "https://www.stellarpropertygroup.com/property-management-chicago"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.stellarpropertygroup.com/property-management-chicago#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Who provides condominium and HOA management in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar Property Management is a Chicago community association management firm serving condominium associations, HOAs, and townhome communities exclusively — 29 associations and approximately 1,422 residences across the city and North Shore, with a 96% client retention rate since 2007. Our office is at 5107 N Western Ave #1S, Chicago, IL 60625."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Which Chicago neighborhoods does Stellar Property Management serve?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We serve associations across Chicago, including the Gold Coast, Streeterville, River North, Lincoln Park, Lakeview, the Loop, West Loop, South Loop, Edgewater, Andersonville, and Hyde Park. We also serve North Shore communities through our regional North Shore property-management hub."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does condo association management cost in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on building size, amenities, staffing, financial complexity, and scope — never a percentage of your association’s budget. We do not add a separate capital-project planning or management-oversight fee."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What makes Stellar different from national property management chains in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "One dedicated manager per community, transparent flat fees, a local Chicago office that answers 24/7, and board-ready monthly financials. National firms manage by volume; Stellar manages by standard — that is why boards that join Stellar stay, at a 96% retention rate."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar manage vintage buildings and high-rises?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Our Chicago portfolio spans pre-war courtyard buildings and greystone conversions to modern amenity-rich high-rises. Management plans account for each building type — from masonry and boiler systems in vintage stock to 24/7 staffing and amenity operations in towers."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar handle Chicago facade ordinance compliance?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Buildings 80 feet and taller fall under the City of Chicago Exterior Wall Program, which requires ongoing visual inspections plus a critical examination every four to twelve years depending on construction type, filed with the Department of Buildings. We coordinate the licensed architect or engineer, track the filing cycle, and carry the resulting repair programme into the reserve plan so the board is funding the work before the deadline rather than after it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who is responsible when a Chicago condo building loses heat?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Where residents do not control their own heat — which describes most centrally heated Chicago buildings — the city requires 68°F from 8:30am to 10:30pm and 66°F overnight between 15 September and 1 June, with penalties up to $1,000 per day per violation. Heat plant is a common element, so restoring it is the association’s responsibility to fund and the managing agent’s to coordinate. Boards should confirm how the ordinance applies to their specific building with association counsel."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Stellar’s principal a licensed engineer?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, and it is unusual in this industry. Mirsad Cerimovic holds a City of Chicago Stationary Engineer’s License and NIULPE power-engineer certification alongside his Illinois CAM licence, CMCA and AMS. From 2007 to 2024 he taught the exam-preparation course for that Chicago licence at the SEIU Local 1 Training Fund, taking roughly 700 engineers through the city examination. Most management firms hire that judgement. Yours would have it on the account."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How does a Chicago association switch to Stellar Property Management?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Through a managed 30–60 day transition: records retrieval from your outgoing firm, banking migration, vendor transfers, owner communication, and portal setup — your board only signs. Call 773.728.0652 or request a proposal at stellarpropertygroup.com/contact."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Atlas · The City of Chicago",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Property Management in <em>Chicago.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Condominium, HOA, and townhome association management across more than 55 Chicago neighborhoods — practiced from a Chicago office, by people who know these buildings block by block.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dd",
+   "html": "29",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Associations under management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "1,422",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Residences (approx.)",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "96%",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Client retention since 2007",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "2007",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Serving Chicago since",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Why Chicago Boards Choose Stellar",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "A city of buildings. One <em>standard.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Chicago association management is its own discipline: the Illinois Condominium Property Act, city facade-inspection ordinances, vintage masonry and boilers, lakefront wind and moisture, winter emergency response measured in minutes.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Since 2007 we have managed only Chicago-area community associations — never rentals, never other markets. That focus is why boards from the Gold Coast to Hyde Park keep us at a 96% retention rate.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-10"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "From boutique vintage conversions in Andersonville to lakefront high-rises in Edgewater — daily operations, staffing, and amenity oversight handled to one standard.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Governance",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Transparent flat-fee pricing, monthly board-ready reporting, reserve planning, and assessment collection your auditors can trust.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Maintenance &amp; 24/7 Response",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Vetted Chicago vendor network, preventive schedules for vintage and new construction alike, and a live person on the phone at 2 AM.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Capital &amp; Reserve Planning",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Reserve studies translated into funding plans a board can actually adopt, and capital projects scoped by someone who can read the mechanical plant rather than only the bid.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Violation &amp; Rule Enforcement",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Consistent, documented enforcement under your declaration — the process that holds up when a dispute reaches counsel.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Board Support &amp; Compliance",
+   "cls": "font-display text-xl lg:text-2xl text-ink mb-2 group-hover:text-navy-700 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Meeting facilitation, elections, director onboarding, and full alignment with the Illinois Condominium Property Act and Chicago ordinances.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Why Boards Switch",
+   "cls": "eyebrow text-gold-300 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Most firms hire the <em>engineer.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Every board’s two worst outcomes are a special assessment nobody saw coming and a capital project that goes wrong. Both turn on the same question: can anyone on your side actually read the building?",
+   "cls": "text-paper/70 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Stellar’s principal holds a City of Chicago Stationary Engineer’s License and NIULPE power-engineer certification alongside an Illinois CAM licence, CMCA and AMS. From 2007 to 2024 he taught the exam-preparation course for that Chicago licence at the SEIU Local 1 Training Fund — roughly 700 engineers through the city examination. Many of them now run the plants in buildings like yours.",
+   "cls": "text-paper/70 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "What that changes in practice",
+   "cls": "text-[10px] uppercase tracking-luxe text-paper/50 mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Reserve studies",
+   "cls": "sm:col-span-4 text-gold-300 text-sm"
+  },
+  {
+   "type": "p",
+   "html": "Read as a building rather than a spreadsheet — which components are genuinely near end of life, and which are padding.",
+   "cls": "sm:col-span-8 text-sm text-paper/70 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Contractor bids",
+   "cls": "sm:col-span-4 text-gold-300 text-sm"
+  },
+  {
+   "type": "p",
+   "html": "Scope reviewed against what the plant actually needs, before the board votes on a number.",
+   "cls": "sm:col-span-8 text-sm text-paper/70 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Emergencies",
+   "cls": "sm:col-span-4 text-gold-300 text-sm"
+  },
+  {
+   "type": "p",
+   "html": "A boiler down in January is diagnosed, not just dispatched.",
+   "cls": "sm:col-span-8 text-sm text-paper/70 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Engineering staff",
+   "cls": "sm:col-span-4 text-gold-300 text-sm"
+  },
+  {
+   "type": "p",
+   "html": "Hired, evaluated and supported by someone who has held the same licence.",
+   "cls": "sm:col-span-8 text-sm text-paper/70 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Housing Stock",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Six kinds of Chicago <em>building.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "“Chicago association management” covers buildings with almost nothing in common. What a board should expect from its manager depends entirely on which one it owns.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Pre-war courtyard &amp; greystone",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Masonry that moves, single-pipe steam or converted hot water, and tuckpointing cycles that decide whether the next decade brings maintenance or a special assessment. Reserve planning here lives or dies on an honest read of the envelope.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Vintage conversions",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Two-flats and courtyard buildings converted in the 1990s and 2000s, often with declarations written faster than the rehab. Boundary disputes over risers, roofs, and balconies trace straight back to that document.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Mid-rise elevator buildings",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "One or two elevators, a central boiler, and a plant small enough that a single failure is an emergency. Annual elevator inspection, backflow testing, and boiler certification all land on the same calendar.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Lakefront high-rises",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Facade ordinance obligations, life-safety evaluation requirements, door staff and engineering payroll, and amenity operations. The management question is not paperwork — it is whether anyone on your side can read the plant.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome &amp; rowhouse associations",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Shared roofs, private entries, and drainage that becomes contentious the first time a downspout backs up. Usually governed under CICAA rather than the Condominium Property Act, which changes notice and voting rules.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Mixed-use with ground-floor retail",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "A commercial tenant under the residential units changes everything: shared mechanicals with split responsibility, separate insurance exposure, deliveries and refuse in a residential building, and an assessment structure the declaration rarely explains cleanly.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "City Compliance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "The calendar boards <em>inherit.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Chicago regulates buildings more closely than most American cities, and the obligations transfer to whoever is on the board this year — usually without anyone explaining that the clock is already running.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Requirements vary by building height, construction type and use. Confirm how each applies to your property with your association attorney and the Department of Buildings.",
+   "cls": "text-sm text-slate-500 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Facade — Exterior Wall Program",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Buildings 80 feet and taller must run ongoing visual inspections and a critical examination on a four-to-twelve-year cycle depending on construction type, filed with the Department of Buildings. Every report classifies the building as safe, safe with a repair programme, or unsafe — and that classification drives the reserve conversation for years afterwards.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Heat — 15 September to 1 June",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Where residents do not control their own heat, which describes most centrally heated Chicago buildings, the ordinance requires 68°F from 8:30am to 10:30pm and 66°F overnight. Fines run to $1,000 per day per violation. A boiler failure in January is a compliance event, not just a service call.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Elevators, boilers &amp; backflow",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Annual elevator inspection, boiler certification, and reduced-pressure backflow assembly testing each carry their own filing. Missing one is cheap to avoid and expensive to explain to owners.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Life safety in high-rises",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Life-safety evaluation obligations, alarm and sprinkler testing, and documented procedures. Boards inherit these on turnover and frequently do not know the clock is running.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Porches, decks &amp; drainage",
+   "cls": "text-ink mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Chicago inspects porch construction closely, and wood porch systems age faster than boards budget for. Condition surveys belong in the reserve study, not in the year the inspector arrives.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Comparing firms on this? <a href=\"/blog/score-condo-hoa-management-proposals\">Our scoring framework for management proposals</a> sets out the questions worth asking, and <a href=\"/pricing\">our pricing is published</a> — rarer in this market than it should be.",
+   "cls": "mt-8 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "29 Chicago Neighborhoods",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Your neighborhood, <em>covered.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Chicago · Questions, Answered",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What Chicago boards ask us <em>first.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Who provides condominium and HOA management in Chicago?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management is a Chicago community association management firm serving condominium associations, HOAs, and townhome communities exclusively — 29 associations and approximately 1,422 residences across the city and North Shore, with a 96% client retention rate since 2007. Our office is at 5107 N Western Ave #1S, Chicago, IL 60625.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Which Chicago neighborhoods does Stellar Property Management serve?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "We serve associations across Chicago, including the Gold Coast, Streeterville, River North, Lincoln Park, Lakeview, the Loop, West Loop, South Loop, Edgewater, Andersonville, and Hyde Park. We also serve North Shore communities through our regional North Shore property-management hub.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How much does condo association management cost in Chicago?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on building size, amenities, staffing, financial complexity, and scope — never a percentage of your association’s budget. We do not add a separate capital-project planning or management-oversight fee.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "What makes Stellar different from national property management chains in Chicago?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "One dedicated manager per community, transparent flat fees, a local Chicago office that answers 24/7, and board-ready monthly financials. National firms manage by volume; Stellar manages by standard — that is why boards that join Stellar stay, at a 96% retention rate.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar manage vintage buildings and high-rises?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Our Chicago portfolio spans pre-war courtyard buildings and greystone conversions to modern amenity-rich high-rises. Management plans account for each building type — from masonry and boiler systems in vintage stock to 24/7 staffing and amenity operations in towers.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar handle Chicago facade ordinance compliance?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Buildings 80 feet and taller fall under the City of Chicago Exterior Wall Program, which requires ongoing visual inspections plus a critical examination every four to twelve years depending on construction type, filed with the Department of Buildings. We coordinate the licensed architect or engineer, track the filing cycle, and carry the resulting repair programme into the reserve plan so the board is funding the work before the deadline rather than after it.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Who is responsible when a Chicago condo building loses heat?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Where residents do not control their own heat — which describes most centrally heated Chicago buildings — the city requires 68°F from 8:30am to 10:30pm and 66°F overnight between 15 September and 1 June, with penalties up to $1,000 per day per violation. Heat plant is a common element, so restoring it is the association’s responsibility to fund and the managing agent’s to coordinate. Boards should confirm how the ordinance applies to their specific building with association counsel.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Is Stellar’s principal a licensed engineer?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes, and it is unusual in this industry. Mirsad Cerimovic holds a City of Chicago Stationary Engineer’s License and NIULPE power-engineer certification alongside his Illinois CAM licence, CMCA and AMS. From 2007 to 2024 he taught the exam-preparation course for that Chicago licence at the SEIU Local 1 Training Fund, taking roughly 700 engineers through the city examination. Most management firms hire that judgement. Yours would have it on the account.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How does a Chicago association switch to Stellar Property Management?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Through a managed 30–60 day transition: records retrieval from your outgoing firm, banking migration, vendor transfers, owner communication, and portal setup — your board only signs. Call 773.728.0652 or request a proposal at stellarpropertygroup.com/contact.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago’s standard, <em>raised.</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Speak with our managing partners about your Chicago association — a free, no-obligation consultation and a proposal tailored to your building.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

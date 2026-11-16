@@ -1,0 +1,310 @@
+{
+ "path": "/blog/illinois-condo-open-board-meetings-notice-comment",
+ "title": "Open Board Meetings in Illinois: Notice, Owner Comment and…",
+ "description": "Illinois condo and HOA board meetings must be open to owners: the 48-hour notice rule, budget-meeting notice, owner comment, recording and open votes.",
+ "lastmod": "2026-10-28",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording",
+   "description": "Illinois condo and HOA board meetings must be open to owners: the 48-hour notice rule, budget-meeting notice, owner comment, recording and open votes.",
+   "datePublished": "2026-10-28",
+   "dateModified": "2026-10-28",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-open-board-meetings-notice-comment"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Do Illinois condo board meetings have to be open to owners?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Section 18(a)(9)(A) of the Condominium Property Act requires that every meeting of the board be open to any unit owner. The board may close part of a noticed meeting, or meet separately, only for six listed topics such as pending or probable litigation and rule violations, and any vote on those topics must still be taken in a portion of the meeting open to owners. CICAA Section 1-40(b)(5) sets the same rule for HOAs, with a similar list of six exceptions. The HOA list also allows closed discussion of third-party contracts."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much notice must the board give before a meeting?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For condominiums, notice of every board meeting must be posted in entranceways, elevators or other conspicuous places at least 48 hours in advance (Section 18(a)(9)(E)). Notice must also go, at least 48 hours ahead, to owners who have authorised electronic communication, and to other owners by mail or delivery where the condominium instruments require it. Every director must receive at least 48 hours' notice unless they waive it (Section 18(a)(9)(D)). Where there is no common entranceway for seven or more units, the board may designate posting locations near those units. CICAA Section 1-40(b)(4) uses the same 48-hour standard, allowing either a prescribed delivery method or posting."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Are budget and special assessment meetings different?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. For condominiums, owners must receive notice of any board meeting concerning adoption of the annual budget, regular assessments, or a separate (special) assessment in the same manner the Act provides for membership meetings (Section 18(a)(8)(i)), which means 10 to 30 days' written notice (Section 18(b)(6)). Each owner must also receive a copy of the proposed budget at least 25 days before the board adopts it (Section 18(a)(6)). For HOAs under CICAA, notice of a board meeting to adopt the budget, regular assessments or a special assessment must be given 10 to 60 days before the meeting, unless another provision of the Act says otherwise (Section 1-40(b)(4))."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do owners have a right to speak at board meetings?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In an HOA, yes. CICAA Section 1-40(b)(6) requires the board to reserve a portion of each board meeting for member comments, while leaving the length and place on the agenda to the board's sole discretion. We did not find a parallel requirement in Section 18 of the Condominium Property Act, so condominium boards should check their bylaws and confirm with counsel. Even where it is not required, a short, scheduled owner forum tends to make meetings shorter. Owners who know they will get three minutes at a set time are less likely to interrupt the business agenda. Whatever format you choose, apply it the same way at every meeting and state it at the top of the agenda."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can owners record board meetings?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In a condominium, yes. Section 18(a)(9)(C) gives any unit owner the right to record the portions of board meetings that are required to be open, by tape, film or other means. The board may adopt reasonable rules governing how recordings are made, such as where a camera may be placed, but it cannot prohibit recording of open portions."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How often must the board meet, and who can call a meeting?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Condominium boards must meet at least four times a year (Section 18(a)(10)), and CICAA boards likewise (Section 1-30(a)). Special board meetings can be called by the president or by 25% of the directors (Section 18(a)(19)). CICAA also allows any other method the community instruments prescribe (Section 1-40(b)(3)). Directors may attend and act by telephone or any acceptable technological means that lets all participants communicate with each other, and that participation counts as attendance in person (Section 18(a)(9)(B))."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What about decisions made between meetings?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ordinary business should wait for a noticed, open meeting. The Act gives the board an emergency route instead: Section 18(a)(21) lets the board ratify actions taken by directors in response to an emergency, which Section 18(a)(8)(iv) defines as an immediate danger to the structural integrity of the common elements or to the life, health, safety or property of the owners. The board must notify owners of the emergency within 7 business days and give a general description of the actions taken within 7 days. An email chain that settles a vendor selection is not an emergency. Bring it to the next open meeting and vote there."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What are the most common open-meeting mistakes?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In our experience, the problems are rarely dramatic. They are small habits that drift away from the statute: Deciding by email and then reading the result into the minutes as if it had been voted at a meeting. Calling an executive session for a topic that is not on the statutory list, such as a disagreement among directors. Voting in closed session on a collection matter or vendor contract that was properly discussed there. Posting notice late because the meeting date moved and nobody updated the lobby. Treating the budget meeting like any other meeting and giving 48 hours' notice instead of the longer period required. Each of these is easy to fix with a standing calendar and an agenda template, and each is the kind of thing an unhappy owner will raise later."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 28, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "New directors often assume board meetings are private business meetings that owners may sometimes attend. Illinois law works the other way around. Board meetings are open to owners by default, notice is required, and the board needs a specific statutory reason to step out of public view. This guide covers the open-meeting rules themselves. For the narrow closed-session exceptions, see our separate guide on closed sessions.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Do Illinois condo board meetings have to be open to owners?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes. Section 18(a)(9)(A) of the Condominium Property Act requires that every meeting of the board be open to any unit owner. The board may close part of a noticed meeting, or meet separately, only for six listed topics such as pending or probable litigation and rule violations, and any vote on those topics must still be taken in a portion of the meeting open to owners.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "CICAA Section 1-40(b)(5) sets the same rule for HOAs, with a similar list of six exceptions. The HOA list also allows closed discussion of third-party contracts.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How much notice must the board give before a meeting?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For condominiums, notice of every board meeting must be posted in entranceways, elevators or other conspicuous places at least 48 hours in advance (Section 18(a)(9)(E)). Notice must also go, at least 48 hours ahead, to owners who have authorised electronic communication, and to other owners by mail or delivery where the condominium instruments require it. Every director must receive at least 48 hours' notice unless they waive it (Section 18(a)(9)(D)).",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Where there is no common entranceway for seven or more units, the board may designate posting locations near those units. CICAA Section 1-40(b)(4) uses the same 48-hour standard, allowing either a prescribed delivery method or posting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Are budget and special assessment meetings different?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes. For condominiums, owners must receive notice of any board meeting concerning adoption of the annual budget, regular assessments, or a separate (special) assessment in the same manner the Act provides for membership meetings (Section 18(a)(8)(i)), which means 10 to 30 days' written notice (Section 18(b)(6)). Each owner must also receive a copy of the proposed budget at least 25 days before the board adopts it (Section 18(a)(6)).",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For HOAs under CICAA, notice of a board meeting to adopt the budget, regular assessments or a special assessment must be given 10 to 60 days before the meeting, unless another provision of the Act says otherwise (Section 1-40(b)(4)).",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Do owners have a right to speak at board meetings?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "In an HOA, yes. CICAA Section 1-40(b)(6) requires the board to reserve a portion of each board meeting for member comments, while leaving the length and place on the agenda to the board's sole discretion. We did not find a parallel requirement in Section 18 of the Condominium Property Act, so condominium boards should check their bylaws and confirm with counsel.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Even where it is not required, a short, scheduled owner forum tends to make meetings shorter. Owners who know they will get three minutes at a set time are less likely to interrupt the business agenda. Whatever format you choose, apply it the same way at every meeting and state it at the top of the agenda.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can owners record board meetings?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "In a condominium, yes. Section 18(a)(9)(C) gives any unit owner the right to record the portions of board meetings that are required to be open, by tape, film or other means. The board may adopt reasonable rules governing how recordings are made, such as where a camera may be placed, but it cannot prohibit recording of open portions.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How often must the board meet, and who can call a meeting?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Condominium boards must meet at least four times a year (Section 18(a)(10)), and CICAA boards likewise (Section 1-30(a)). Special board meetings can be called by the president or by 25% of the directors (Section 18(a)(19)). CICAA also allows any other method the community instruments prescribe (Section 1-40(b)(3)).",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Directors may attend and act by telephone or any acceptable technological means that lets all participants communicate with each other, and that participation counts as attendance in person (Section 18(a)(9)(B)).",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What about decisions made between meetings?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ordinary business should wait for a noticed, open meeting. The Act gives the board an emergency route instead: Section 18(a)(21) lets the board ratify actions taken by directors in response to an emergency, which Section 18(a)(8)(iv) defines as an immediate danger to the structural integrity of the common elements or to the life, health, safety or property of the owners. The board must notify owners of the emergency within 7 business days and give a general description of the actions taken within 7 days.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "An email chain that settles a vendor selection is not an emergency. Bring it to the next open meeting and vote there.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What are the most common open-meeting mistakes?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "In our experience, the problems are rarely dramatic. They are small habits that drift away from the statute:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Deciding by email</strong> and then reading the result into the minutes as if it had been voted at a meeting.",
+    "<strong>Calling an executive session</strong> for a topic that is not on the statutory list, such as a disagreement among directors.",
+    "<strong>Voting in closed session</strong> on a collection matter or vendor contract that was properly discussed there.",
+    "<strong>Posting notice late</strong> because the meeting date moved and nobody updated the lobby.",
+    "<strong>Treating the budget meeting like any other meeting</strong> and giving 48 hours' notice instead of the longer period required."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Each of these is easy to fix with a standing calendar and an agenda template, and each is the kind of thing an unhappy owner will raise later.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "An open-meeting checklist for Illinois boards",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Post notice at least 48 hours ahead</strong> in the building's conspicuous places and send it to owners who opted into electronic delivery.",
+    "<strong>Give 10 to 30 days' notice</strong> (condominium) or 10 to 60 days' notice (HOA) for budget and assessment meetings, and send the proposed condominium budget at least 25 days before adoption.",
+    "<strong>Publish an agenda</strong> that shows when owner comment happens.",
+    "<strong>Hold at least four meetings a year</strong> and calendar them in January.",
+    "<strong>Use closed session only for a listed topic,</strong> and come back into open session to vote.",
+    "<strong>Let owners record</strong> open portions, under a short written recording rule.",
+    "<strong>Ratify emergency actions</strong> and send the required owner notices on time.",
+    "<strong>Keep minutes</strong> that show every vote and who made the motion."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "These rules are state law, so they apply the same way in a Chicago high-rise and a North Shore townhome community; what differs is what each building's declaration and bylaws add. Our <a href=\"/services/board-support\">board support team</a> prepares notices, agendas and minutes for associations across Chicago and the North Shore. To talk through how your meetings run today, <a href=\"/contact\">contact us</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is general information for Illinois association boards and is not legal advice. Confirm notice requirements and meeting procedures with association counsel.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/illinois-condo-board-closed-session-guide\">When a board may meet in closed session</a>; <a href=\"/blog/illinois-association-annual-meeting-guide\">annual meeting notice, quorum and minutes</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act, Section 18 (765 ILCS 605/18)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act, Section 1-40 (765 ILCS 160/1-40)</a>"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "path": "/blog/condo-hoa-board-communication-systems",
+ "title": "Board Communication Systems That Reduce Conflict and Lost D…",
+ "description": "How Illinois condo and HOA boards can structure meetings, minutes, owner communication, and records so decisions are documented, findable, and defensible.",
+ "lastmod": "2026-09-14",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Board Communication Systems That Reduce Conflict and Lost Decisions",
+   "description": "How Illinois condo and HOA boards can structure meetings, minutes, owner communication, and records so decisions are documented, findable, and defensible.",
+   "datePublished": "2026-09-14",
+   "dateModified": "2026-09-14",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-board-communication-systems"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Board Communication Systems That Reduce Conflict and Lost Decisions",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 14, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A board communication system is the set of standing practices that determine how the board deliberates, records decisions, and communicates with owners: a consistent meeting rhythm with an advance packet, minutes that capture motions and votes rather than conversation, a single official channel for owner communication, and a records structure where any past decision can be found in under a minute. Put those four in place and most recurring board conflict quiets down.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The reason is straightforward. Conflict in associations rarely comes from directors who want different outcomes. It comes from ambiguity about what was decided, whether it was actually voted on, and whether owners were told. Structure removes the ambiguity. Note that meeting, notice, and records requirements differ between the Illinois Condominium Property Act and CICAA and are further shaped by your declaration and bylaws, so have counsel confirm your specific obligations before finalizing procedures.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Meetings: Rhythm, Packet, Agenda",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Set a standing schedule",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Adopt a fixed meeting cadence for the year and publish the dates. Ad hoc scheduling produces poor attendance and encourages decisions to migrate into email threads where they do not belong.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Distribute a packet in advance",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Send directors a packet several days ahead containing the agenda, prior minutes for approval, current financials with budget-to-actual comparison, an aging report, open maintenance items, and any proposals requiring a vote. Directors who read beforehand debate substance. Directors seeing a bid for the first time at the table debate process.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Structure the agenda around decisions",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Write agenda items as the decision to be made, not the topic. \"Approve roof repair proposal from Vendor A at stated amount\" is actionable. \"Roof discussion\" produces forty minutes and no motion.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Minutes: Record Decisions, Not Dialogue",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Minutes are the association's official record of what the board decided. They are not a transcript. Good minutes state who attended, that the meeting was properly noticed, the exact text of each motion, who made and seconded it, the vote result, and any action item with an owner and a date.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Avoid recording individual opinions or characterizing debate. Beyond being unnecessary, it creates a document that reads as adversarial when reviewed later by an owner, a buyer, a lender, or in litigation. Approve minutes at the following meeting and retain them permanently.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Open session versus closed session",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois law addresses which matters a board may discuss outside open session and requires that final action generally occur in open session. The categories and procedures differ between the two statutes. Ask counsel to give your board a one-page summary of what may be discussed in closed session under your governing act, and follow it consistently. A common and avoidable error is deciding something in closed session and never taking the open-session vote, leaving no record that the decision was ever made.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Owner Communication: One Channel, Predictable Cadence",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Designate one official channel for owner communication with the association and state it clearly in every message. When owners can reach three directors personally, four different answers circulate and the board loses control of its own record.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "What to send, and when",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "A short recap after each board meeting summarizing decisions made, sent within a set number of days.",
+    "Advance notice of any project affecting access, parking, water, or noise.",
+    "Budget and assessment communications with a plain-language explanation of what changed.",
+    "Annual meeting notice per your governing documents.",
+    "An acknowledgment for every written owner inquiry, even when the substantive answer takes longer."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Silence is interpreted as concealment. A brief, regular update costs almost nothing and materially reduces the volume of suspicious questions a board has to field.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Records: Findable Beats Complete",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every association eventually needs a document quickly: a lender questionnaire, a buyer's request, an insurance claim, a dispute over a rule adopted six years ago. Records that exist but cannot be located are functionally missing.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Maintain a consistent electronic structure with governing documents, minutes by year, financials by year, contracts, insurance policies and certificates, inspection and compliance records, and correspondence. Keep it in association-owned storage, not in a director's personal account, and make sure at least two people have access. Owner records requests carry a response window and permissible-fee rules under Illinois law; confirm the current requirements with counsel and build the process around them.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Adopt and publish a standing meeting schedule for the year.",
+    "Distribute a board packet several days before every meeting.",
+    "Write agenda items as decisions to be made.",
+    "Keep minutes limited to attendance, notice, motions, votes, and action items.",
+    "Get a written summary from counsel on closed-session categories under your governing act.",
+    "Take final action in open session and record the vote.",
+    "Designate one official owner communication channel and use it consistently.",
+    "Send a short recap after every board meeting.",
+    "Maintain association-owned electronic records with a consistent folder structure.",
+    "Establish a documented process and clock for owner records requests."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "When Structure Is Not Enough",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Sometimes the problem is capacity rather than process. Volunteer directors with full-time jobs cannot reliably produce packets, minutes, and owner updates on schedule. That is a normal reason to bring in professional support: not because the board is failing, but because the administrative load is real. Our <a href=\"/services/board-support\">board support</a> services cover packets, minutes, and owner communication, with community-type-specific work under condominium management, HOA management, and townhome management.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois association boards and is not legal advice. Meeting, notice, closed-session, and records requirements differ between the Illinois Condominium Property Act and CICAA, and your recorded declaration and bylaws may impose additional obligations. Consult association counsel to interpret your governing documents and confirm current requirements.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Tighten Up Your Board Operations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/illinois-association-annual-meeting-guide\">Running the annual meeting</a>; <a href=\"/blog/illinois-condo-association-records-request-guide\">the records request deadlines</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board is spending meetings relitigating decisions it already made, the fix is structural. Stellar Property Management works with boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Contact us</a> to schedule a consultation.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

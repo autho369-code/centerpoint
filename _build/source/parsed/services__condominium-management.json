@@ -1,0 +1,567 @@
+{
+ "path": "/services/condominium-management",
+ "title": "Chicago Condominium Management From $20/Unit | Stellar",
+ "description": "Chicago condominium association management from $20 per unit, with financial reporting, 24/7 response, and no separate capital-project oversight fee.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/condominium-management#service",
+   "name": "Chicago Condominium Association Management",
+   "description": "Full-service condominium association management with financial reporting, maintenance coordination, governance support, and 24/7 response.",
+   "url": "https://www.stellarpropertygroup.com/services/condominium-management",
+   "serviceType": "Condominium Association Management",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Chicago"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "North Shore, Illinois"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "price": 20,
+     "priceCurrency": "USD",
+     "unitText": "per unit per month",
+     "description": "Starting price; customized flat monthly proposal."
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Chicago Condominium Association Management",
+     "item": "https://www.stellarpropertygroup.com/services/condominium-management"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Stellar manage condominium associations or rental apartments?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar manages condominium associations, HOAs, and townhome communities exclusively. We do not manage apartment rentals, so our staff, systems, and board support remain focused on community associations."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is included in full-service condominium association management?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "A customized scope can include board and meeting support, budgeting and monthly financial reporting, assessment administration, vendor bidding and coordination, preventive maintenance, owner communication, records, rule administration, and 24/7 emergency response."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does condominium management cost in Chicago?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar condominium management starts at $20 per unit per month, quoted as a customized flat monthly fee based on your building’s size, systems, staffing, amenities, financial complexity, and service scope. We do not price as a percentage of your budget and we do not charge a separate capital-project planning or oversight fee. Third-party costs — contractors, engineers, attorneys, permits — remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does hiring a management company mean the board gives up control?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No — it usually means the opposite. Every contract, expenditure, and policy remains a board decision. What changes is the quality of the information behind those decisions: current financials, documented bids, tracked violations, and an agenda that arrives before the meeting. Boards that switch to professional management typically report spending less time on administration and more on actual governance."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How long does it take to switch condo management companies?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Plan on a managed 30–60 day transition after your board gives notice under its current contract. Stellar handles records retrieval from the outgoing firm, banking migration under board control, vendor notification, owner communication, and portal setup. The first full monthly report package arrives on schedule in the first complete month under management."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does Stellar charge a separate fee to plan or oversee capital projects?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No separate capital-project planning or management-oversight fee is added by Stellar. Engineer, architect, attorney, reserve-study, permit, contractor, and other third-party costs remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you manage small, self-managed condo buildings?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Boutique buildings from roughly 6 to 30 units are a deliberate part of our portfolio, including many moving from self-management for the first time. Our small condo association practice adds professional financials, vendor leverage, and continuity between volunteer boards without the overhead built for a 300-unit tower."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Do you manage high-rise condominiums with on-site staff?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Our high-rise practice covers door staff and engineer supervision, building-system maintenance programs, elevator and life-safety compliance, and the capital planning cadence that towers on the lakefront require. High-rise communities receive the same dedicated-manager model with staffing oversight added to the scope."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Practice · 01 · Property Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condominium Management Services in <em>Chicago</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Expert management for Chicago-area condominium associations. From high-rise towers on Lake Shore Drive to boutique buildings in Lincoln Park, we deliver the financial discipline, legal compliance, and responsive service your community deserves.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Approach",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Full-Service Condo Management Built on Chicago <em>Expertise</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Managing a condominium association in Illinois requires deep knowledge of state-specific regulations, strong financial stewardship, and the ability to balance the needs of diverse unit owners. Since 2007, Stellar Property Management has provided Chicago-area condominiums with the professional management they need to protect property values, maintain common elements, and foster thriving residential communities.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Stellar is a member of the Community Associations Institute (CAI) and the CAI Illinois Chapter, connecting our firm with community-association education, legislative updates, and professional resources. We currently serve 29 associations and approximately 1,422 residences across Chicago and the North Shore, with a 96% client retention rate since 2007 that reflects our commitment to excellence.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Whether your building has 10 units or 500, our approach is the same: proactive management that prevents problems before they arise, transparent communication that keeps owners informed, and financial planning that positions your association for long-term stability. We assign a dedicated property manager to each community so you always have a knowledgeable point of contact who understands your building inside and out.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Why Chicago Condos Choose Stellar",
+   "cls": "font-display text-2xl text-ink mb-6"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "01Dedicated property manager for every community",
+    "02Illinois Condominium Property Act expertise",
+    "03CAI and CAI Illinois Chapter member",
+    "0424/7 emergency response line",
+    "05Online owner portal with financial transparency",
+    "06Competitive vendor pricing through bulk contracts",
+    "0796% client retention rate since 2007",
+    "08Board member training and orientation programs"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Scope of Service",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Comprehensive Condominium Management <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Every aspect of your association operations, handled by experienced professionals who understand the unique challenges of Chicago condo living.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Act Procedures",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Operational support informed by the Illinois Condominium Property Act (765 ILCS 605), with association counsel consulted for legal advice.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Board Governance Support",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Meeting coordination, agenda preparation, quorum tracking, and parliamentary procedure guidance for effective board operations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Oversight",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Comprehensive budgeting, reserve fund management, assessment collection, and transparent monthly financial reporting.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Vendor Management",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Vetted contractor relationships, competitive bidding, contract negotiation, and quality oversight for all building services.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Owner Communications",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Dedicated online portal, regular newsletters, emergency notifications, and responsive customer service for all unit owners.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Document Management",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Digital record-keeping, governing document maintenance, disclosure packet preparation, and secure document archiving.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "In Depth",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Condo Act <em>Compliance</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations operate under a complex regulatory framework that includes the Condominium Property Act, the Common Interest Community Association Act, and the Not-for-Profit Corporation Act. Non-compliance can expose board members to personal liability and create costly legal disputes that drain your reserve funds.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Our management team stays current with every legislative change and court ruling that affects Illinois condominiums. We ensure your association governing documents, meeting procedures, financial practices, and enforcement policies align with current law. From proper notice requirements to assessment lien procedures, we handle the legal complexities so your board can focus on community-building.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "We also work closely with experienced condominium attorneys to address complex legal questions, review proposed bylaw amendments, and navigate disputes. Our proactive approach to compliance has helped our client communities avoid costly litigation and regulatory penalties year after year.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Deliverables",
+   "cls": "eyebrow text-gold-300 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What your board receives, <em>every month.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "“Full service” means little until you see the paper it produces. This is the standing output of a Stellar-managed condominium — ask any firm you interview to show you the same.",
+   "cls": "text-lg text-paper/55 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "The monthly report package",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Balance sheet, income statement against budget, delinquency and collection status, reserve balances, paid-invoice copies, and a manager’s narrative — delivered on schedule every month, formatted for a board meeting, not an accountant’s drawer.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "The annual budget, drafted for decision",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A line-item draft with prior-year actuals, vendor contract renewals flagged, reserve contribution scenarios, and the assessment impact of each option — so the board votes on choices, not on a spreadsheet.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Meeting packets and minutes",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Agendas and supporting materials before every board meeting, notices that satisfy Illinois Condominium Property Act requirements, and minutes your association attorney would be content to see subpoenaed.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Section 22.1 disclosures and closing documents",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Prompt, accurate resale disclosure packets and paid-assessment letters, so unit sales in your building close on time and owners are not chasing paperwork.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Violation and work-order logs",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Every complaint, violation notice, and maintenance request tracked from intake to resolution, visible to the board in real time through the portal.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "A capital plan that looks past this fiscal year",
+   "cls": "font-display text-xl mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Reserve-study coordination, multi-year capital calendars for façade, roof, and mechanical work, and competitive bids assembled before deadlines force premium pricing.",
+   "cls": "text-sm text-paper/60 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Related <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-12"
+  },
+  {
+   "type": "h3",
+   "html": "High-Rise Condominium Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Building systems, staffing, capital planning, and 24/7 response for complex Chicago high-rises.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Small Condo Association Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Professional structure and board continuity for boutique and self-managed associations.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Budgeting, reserves, and transparent financial reporting for your association.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Maintenance Coordination",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Preventive maintenance programs and 24/7 emergency response for your building.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Board Support &amp; Governance",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Meeting coordination, governance guidance, and strategic planning for your board.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "What Chicago condominium boards need to know.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does Stellar manage condominium associations or rental apartments?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Stellar manages condominium associations, HOAs, and townhome communities exclusively. We do not manage apartment rentals, so our staff, systems, and board support remain focused on community associations.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What is included in full-service condominium association management?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "A customized scope can include board and meeting support, budgeting and monthly financial reporting, assessment administration, vendor bidding and coordination, preventive maintenance, owner communication, records, rule administration, and 24/7 emergency response.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How much does condominium management cost in Chicago?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Stellar condominium management starts at $20 per unit per month, quoted as a customized flat monthly fee based on your building’s size, systems, staffing, amenities, financial complexity, and service scope. We do not price as a percentage of your budget and we do not charge a separate capital-project planning or oversight fee. Third-party costs — contractors, engineers, attorneys, permits — remain association expenses.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does hiring a management company mean the board gives up control?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "No — it usually means the opposite. Every contract, expenditure, and policy remains a board decision. What changes is the quality of the information behind those decisions: current financials, documented bids, tracked violations, and an agenda that arrives before the meeting. Boards that switch to professional management typically report spending less time on administration and more on actual governance.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How long does it take to switch condo management companies?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Plan on a managed 30–60 day transition after your board gives notice under its current contract. Stellar handles records retrieval from the outgoing firm, banking migration under board control, vendor notification, owner communication, and portal setup. The first full monthly report package arrives on schedule in the first complete month under management.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does Stellar charge a separate fee to plan or oversee capital projects?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "No separate capital-project planning or management-oversight fee is added by Stellar. Engineer, architect, attorney, reserve-study, permit, contractor, and other third-party costs remain association expenses.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Do you manage small, self-managed condo buildings?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Boutique buildings from roughly 6 to 30 units are a deliberate part of our portfolio, including many moving from self-management for the first time. Our small condo association practice adds professional financials, vendor leverage, and continuity between volunteer boards without the overhead built for a 300-unit tower.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Do you manage high-rise condominiums with on-site staff?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Our high-rise practice covers door staff and engineer supervision, building-system maintenance programs, elevator and life-safety compliance, and the capital planning cadence that towers on the lakefront require. High-rise communities receive the same dedicated-manager model with staffing oversight added to the scope.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Choosing &amp; Improving Management",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Selecting, evaluating, and transitioning association management with stronger systems and accountability.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where we practice <em>Condominium Management.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "This work looks different block to block. See how we serve the communities where it concentrates.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

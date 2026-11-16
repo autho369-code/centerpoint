@@ -1,0 +1,1650 @@
+{
+ "path": "/blog",
+ "title": "Illinois Condo & HOA Board Guides | Stellar",
+ "description": "Illinois condominium, HOA, and townhome association guidance for Chicagoland board members: governance, reserves, maintenance, compliance, and community management.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "CollectionPage",
+   "@id": "https://www.stellarpropertygroup.com/blog#page",
+   "url": "https://www.stellarpropertygroup.com/blog",
+   "name": "Illinois Condo and HOA Board Guides",
+   "description": "Illinois condominium, HOA, and townhome association guidance for Chicagoland board members.",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management"
+   },
+   "hasPart": [
+    {
+     "@type": "CollectionPage",
+     "name": "Board Governance & Illinois Law",
+     "url": "https://www.stellarpropertygroup.com/blog/topic/board-governance-illinois-law"
+    },
+    {
+     "@type": "CollectionPage",
+     "name": "Association Finance & Reserves",
+     "url": "https://www.stellarpropertygroup.com/blog/topic/association-finance-reserves"
+    },
+    {
+     "@type": "CollectionPage",
+     "name": "Building Operations & Capital Planning",
+     "url": "https://www.stellarpropertygroup.com/blog/topic/building-operations-capital-planning"
+    },
+    {
+     "@type": "CollectionPage",
+     "name": "Choosing & Improving Management",
+     "url": "https://www.stellarpropertygroup.com/blog/topic/choosing-association-management"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Journal",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Insights for Board Members &amp; Community <em>Leaders.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Practical guidance for condominium, HOA, and townhome association boards on governance, financial planning, compliance, and building maintenance.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Choose a Topic",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Practical guidance organized around <em>board decisions.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Start with the issue your association is facing. Each topic connects board education with the relevant management service.",
+   "cls": "lg:col-span-4 lg:col-start-9 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "27 Published Guides",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Board Governance &amp; Illinois Law",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois law, meetings, records, rules, elections, fiduciary duties, and board decision-making.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-4"
+  },
+  {
+   "type": "p",
+   "html": "25 Published Guides",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Association Finance &amp; Reserves",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Budgets, reserves, assessments, disclosures, collections, insurance, loans, and financial reporting.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-4"
+  },
+  {
+   "type": "p",
+   "html": "12 Published Guides",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Building Operations &amp; Capital Planning",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance, vendors, capital projects, building compliance, emergencies, and physical operations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-4"
+  },
+  {
+   "type": "p",
+   "html": "11 Published Guides",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-4"
+  },
+  {
+   "type": "h3",
+   "html": "Choosing &amp; Improving Management",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Selecting, evaluating, and transitioning association management with stronger systems and accountability.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-4"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "November 3, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago Condo Porch and Deck Safety: What Boards of 3-Flats and Courtyard Buildings Should Do",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Wood rear porches are part of almost every Chicago 3-flat and courtyard building. Here is what the City requires, when a permit is needed, what inspectors look for, and how a condo board should manage porches year to year.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "November 2, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Condo Insurance Deductibles: When Can the Board Charge an Owner?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Master policy deductibles have climbed, and a single water loss can leave a five-figure bill. Illinois law gives condo boards three options for who pays it. Here is how each one works and the step boards most often skip.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "November 1, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "The director whose brother-in-law runs a roofing company may well offer the best price. Illinois law does not ban that contract, but it requires notice to owners and gives them a way to force a vote.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 31, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Keeping Reserves Safe: FDIC Limits for Illinois Associations",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A reserve fund that has grown past $250,000 at a single bank is partly uninsured, no matter how many owners the association has. Here is how FDIC coverage works for associations and what a reserve investment policy should cover.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 30, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A board that wants to push out a difficult colleague usually discovers it cannot do so by itself. In most Illinois associations, the people who elected the director are the ones who can remove them.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 29, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Association Money and Your Management Company: Illinois Rules",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Whose name is on the bank account that holds your assessments? Illinois law gives a clear answer for licensed management firms, and every board should be able to confirm it in an afternoon.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 28, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Illinois starts from a simple rule: board meetings are open to owners. The exceptions are narrow, the notice periods are short but strict, and every vote happens where owners can see it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 27, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Fidelity Insurance for Illinois Associations and Their Manager",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Fidelity coverage is the policy that pays when someone steals association money. Illinois sets requirements for both the association and its management company, and one of those rules changed in July 2026.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 26, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Can an Illinois Association Fine an Owner? Notice and Hearing Rules",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Illinois law lets a condo or HOA board fine an owner for violating the governing documents, but only after notice and an opportunity to be heard. Skipping that step is the fastest way to lose a fine you were right to impose.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 25, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Can Illinois Condo Owners Demand an Independent Audit?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A group of owners asks the board for an independent audit and says the law requires it. Before the board answers, it helps to know exactly what the Condominium Property Act does and does not say about audits.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 24, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Condo Board Elections: Nominations, Proxies and Secret Ballots",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most contested condo elections are not lost on votes. They are lost on process: a proxy form that only lists the incumbents, a candidate deadline nobody announced, or a ballot count no candidate was allowed to watch.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 23, 2026 · 9 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Fannie Mae and Freddie Mac Raise the Condo Reserve Minimum to 15%: What Boards Must Do for the 2027 Budget",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "For loan applications dated on or after January 4, 2027, Fannie Mae and Freddie Mac will look for a replacement-reserve allocation of at least 15% of budgeted assessment income — up from 10%. The 2027 budget your board adopts this fall decides whether buyers in your building can get a conventional loan.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 22, 2026 · 9 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Condo and HOA Collection Policy Law: What Boards Must Adopt by January 1, 2027",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Starting January 1, 2027, an Illinois condominium or common interest community association that has not adopted — and does not follow — a written collection policy cannot take legal action to collect unpaid assessments. Here is what the law requires and a dated plan for the next ten weeks.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 26, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Stopping Airbnb in Your Chicago Condo: The Prohibited Buildings List",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most boards fight short-term rentals one unit at a time, through violation notices and fines. Chicago offers a far blunter instrument, and comparatively few associations use it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 25, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not overpay because vendors are dishonest. They overpay because three bids described three different projects.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 24, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Speed in resale disclosures comes from preparation, not from skipping steps. Here is the intake-to-release workflow that produces both.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 23, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Association Emergency Planning: A Board-Ready Playbook",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A pipe break at 2 a.m. is not the time to look up who can authorize a vendor. Decide the authority, contacts, and communication plan in advance.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 22, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How Many Associations Should One Community Manager Handle?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Association count alone does not reveal manager capacity. Boards should examine units, building complexity, meetings, active projects, support staff, and backup coverage together.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 21, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago High-Rise Life-Safety Planning for Condominium Boards",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Life-safety compliance in a Chicago high-rise is a program, not a filing. Boards need verified requirements, maintained systems, and records that prove both.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 20, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "A Practical Annual Budget Workbook for Association Boards",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A good association budget is built over three months, not one evening. Here is the working timeline, the line-item method, and the checklist to adopt it cleanly.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 19, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most annual meeting problems are logistics problems. Confirm the requirements with counsel, then execute notice, quorum, and minutes the same way every year.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 18, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Preparing for Insurance Renewal: An Association Board Checklist",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Associations that arrive at renewal with organized documentation, completed maintenance, and clear loss context are in a materially better position than those that submit a bare application two weeks out.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 17, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Snow and Ice Vendor Oversight for Illinois Associations",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Snow contracts are signed in September and tested at 4 a.m. in January. Specificity in the contract is what separates the two.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 16, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Preparing an Association for a Capital Project Loan",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Association lending is underwritten on assessment income and governance quality. Both are things a board can improve months before the first lender conversation.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 15, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Fiduciary Duty Self-Audit for Illinois Association Boards",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Fiduciary duty is demonstrated through process. This annual self-audit helps a board show that its decisions were informed, disinterested, and documented.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 14, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Board Communication Systems That Reduce Conflict and Lost Decisions",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most association conflict is not disagreement about policy. It is confusion about what was decided, by whom, and when. A communication system fixes far more than a personality change would.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 13, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "EV Charging Requests: A Process for Illinois Association Boards",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "EV requests are arriving at Illinois associations. Boards that build a written process once handle every future request in weeks instead of months.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 12, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How Board Members Should Read Association Financial Statements",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "You do not need an accounting background to read an association financial packet well. You need to know which four numbers matter and which questions to ask.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 11, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Developer Turnover: What an Illinois Association Board Should Collect",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Turnover is the one moment when an association has maximum leverage to obtain complete records. Use a written collection list and independent professional review.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 10, 2026 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How to Verify an Illinois Community Association Manager License",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Verifying licensure takes a few minutes and belongs in every management search. Here is exactly what to check, what to ask for in writing, and how to keep the verification current after you sign.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 9, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Directors and Officers Insurance: Questions Every Volunteer Board Should Ask",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Volunteer directors make consequential decisions. D and O coverage exists for the moment someone disagrees with one of them.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 8, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Association Liens and Delinquencies: What Boards Need Organized",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not file liens. Counsel does. The board job is to keep records so clean that counsel can act quickly and the association position is provable.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 7, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "New Condo Board Member Guide: The First 30 Days",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "New directors are asked to vote on real money within weeks of election. Here is what to read, review, and ask in your first month.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 6, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The Illinois Condominium Ombudsperson Act: Current Board Duties",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Boards regularly ask what the Ombudsperson Act requires of them today. The honest answer starts with checking the current status of the Act itself, then focusing on the internal complaint policy discipline that helps either way.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 5, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Capital Planning for Vintage Chicago Condominium Buildings",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Older Chicago buildings have character and finite systems. A real capital plan turns unpredictable emergencies into scheduled, funded projects.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 4, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Late Fees and Interest: Building a Defensible Association Policy",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A late fee policy is only as strong as its authority and its consistency. Boards lose these disputes on process, not on the dollar amount.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 3, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Adopting and Enforcing Association Rules in Illinois",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A rule is only as strong as the process behind it. Authority, notice, a fair hearing, and consistency are what make enforcement stick.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 2, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "What to Review in a Community Association Management Agreement",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "The management agreement decides what your association actually receives, what it pays beyond the monthly fee, and how cleanly you can leave. Most boards read the fee line and skim the rest.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 1, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago Facade Compliance: How Condo Boards Can Stay Project-Ready",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Facade work is expensive, disruptive, and non-negotiable. Boards that plan for it years ahead avoid emergency assessments and scaffolding surprises.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Reasonable Reserves Under Illinois Condo Law",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Illinois does not hand boards a reserve percentage. It expects a reasoned judgment. That means the documentation of your decision matters as much as the number.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Condo Deconversion in Illinois: Is It 75% or 85%?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A developer offer to buy every unit in the building is the single most consequential vote most condo boards will ever put to their owners — and the approval threshold is different in Chicago than it is three miles north.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Collecting Unpaid Assessments in Illinois: The Possession Action",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most boards think their only collection tool is a lien that sits until the owner sells. Illinois gives associations something considerably sharper — and considerably more misunderstood.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Amending an Illinois Condo Declaration: What It Actually Takes",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Boards routinely pass amendments that never take effect, because the vote is only half the job. Here is the threshold, the exceptions, and the step that gets skipped.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Association Finance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Cook County Property Tax Appeals: What Condo Boards Should Know",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "One filing can cover every unit in the building — and unlike most things a board does, the upside lands directly in owners’ pockets rather than in the association’s budget.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 30, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Electronic Voting for Illinois Associations: Board Checklist",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Electronic voting can lift participation dramatically, but only if the board confirms its authority, collects proper consent, and preserves a defensible record.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 29, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Delinquency Escalation: A Consistent Process for Association Boards",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "The single biggest predictor of collection outcomes is not how aggressive a board is. It is whether the board treats every delinquent account the same way, on the same schedule, every time.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 28, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Who Pays for a Condo Water Leak? Start With These Documents",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Water travels down, and so do disputes. The answer to who pays almost never starts with fairness -- it starts with your declaration.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 27, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The Illinois 22.1 Disclosure Packet Checklist",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "The packet is where 22.1 compliance either works or breaks. This is the assembly and quality-control checklist boards can hand to whoever prepares it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 26, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Closed Sessions for Illinois Condo Boards: A Practical Guide",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Closed session exists for a narrow set of sensitive topics. Used correctly it protects the association; used loosely it damages owner trust.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 25, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago Condominium Association Compliance Calendar",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Compliance failures in Chicago condominium buildings are rarely one big mistake. They are small recurring deadlines nobody owned. Here is how to build a calendar that assigns every one of them.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 24, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Condo Master Policy vs. HO-6: What the Board Should Explain",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Owners assume the master policy covers everything inside their unit. It usually does not. Here is how boards can explain the split without giving insurance advice.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 23, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How to Read a Condo Reserve Study Before the Next Budget",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A reserve study is not a document you file. It is the input that should drive your reserve contribution line before the budget vote. Here is how to read one.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 22, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How Illinois Condo Boards Should Handle Records Requests",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Owner records requests are a recurring source of conflict. A written intake process, counsel review, and consistent recordkeeping turn them into routine administration.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 21, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How Illinois Association Boards Should Adopt an Annual Budget",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Budget season is where most association disputes are either prevented or created. Here is a repeatable process Illinois boards can use to build, notice, and adopt an annual budget without last-minute chaos.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 20, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Fannie Mae and Freddie Mac Condo Eligibility: A Board Readiness Guide",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Lenders selling loans to Fannie Mae or Freddie Mac must confirm the whole project is eligible, not just the buyer. Here is what your board should have ready before the next questionnaire arrives.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 19, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Section 22.1 Disclosures: A Board Guide",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 of the Illinois Condominium Property Act governs the information a condominium association must provide when a unit is being resold. Here is how boards should organize for it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 18, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Condominiums, HOAs, and townhome associations in Illinois do not all operate under the same statute. Here is how boards identify the governing law and reconcile it with their own declaration and bylaws.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 14, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How to Compare Chicago Condo &amp; HOA Management Companies",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready scorecard for comparing Chicago association management companies on manager capacity, service, controls, references, and total annual cost.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Condo Repairs in Illinois: What Owners Fix vs. What the Association Fixes",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "More condo disputes start over repair responsibility than anything else. Here is the three-zone map — what is yours, what is the association’s, and where the declaration decides.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Moving Into a Chicago Condo: The Complete First-Month Guide",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Condo buildings have moving rules for good reasons — and knowing them turns move-in day from an ordeal into a checklist. Here is the complete first-month playbook.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Between your association’s leasing rules and Chicago’s rental ordinances, leasing your condo has a right way and several expensive wrong ways. Here is the right way.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026 · 9 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The 22.1 Disclosure and Beyond: A First-Time Chicago Condo Buyer’s Guide",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "You are not just buying a unit — you are buying into a business with a budget, a board, and a balance sheet. Here is how to read that business before you close.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Leadership",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "August 11, 2026 · 10 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "How to Switch Condo Management Companies in Chicago",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A board-ready process for replacing a management company without losing records, missing deadlines, or disrupting owners and vendors.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "July 6, 2026 · 4 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The Technology Behind Our Management: Why Stellar Runs on Portier369",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Boards often ask what software we use and why it matters to them. Here is an honest look at the platform behind our day-to-day management — and what it means for owners and board members.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "February 18, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Illinois Condo Law in 2026: What Every Board Must Know",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Illinois condo boards face a dense web of legal obligations. Here is a practical, plain-English rundown of the rules that matter most in 2026 — and where boards most often get into trouble.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "October 7, 2025 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "AI Is Coming to Condo Management — What Boards Need to Know",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "AI is starting to reshape how associations are managed. Here is a clear-eyed look at where it helps, where it does not, and how boards should approach it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Insurance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "May 13, 2025 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Why HOA and Condo Insurance Costs Are Skyrocketing in Illinois",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Master-policy premiums and deductibles are climbing across Illinois. Here is what is behind the increases — and the practical steps boards can take to manage them.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Reserve Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "January 28, 2025 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Condo Reserve Funds Explained: Why So Many Associations Are Underfunded",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Reserve funding has become one of the most important issues in community management. Here is what reserves are, why most associations fall short, and how to fix it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Education",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "November 15, 2024 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Condominium Property Management in Chicago: What Board Members Should Expect From a Professional Management Company",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Serving on a condo board in Chicago is a significant responsibility. Learn what to expect from a professional property management company and how to evaluate the right partner for your association.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Financial Planning",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "September 24, 2024 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Special Assessments: Why Illinois Condo Owners Are Suddenly Paying Thousands",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Special assessments are hitting Illinois condo owners harder than ever. Here is what they are, why they are rising, what the board can and cannot do — and how to prevent them.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Property Management",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "June 11, 2024 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The Hidden Problems With Self-Managed Condo Associations",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Self-management looks like an easy way to cut costs — until the hidden risks surface. Here is what boards should weigh before going it alone.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Owner Rights",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "February 20, 2024 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Few topics spark stronger reactions than a board entering a private unit. Here is how access rights actually work for Illinois condominiums — for owners and boards alike.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Community Standards",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "November 9, 2023 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The Most Common Condo Rule Violations in Chicago Buildings",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Most condo conflict starts small. Here are the rule violations Chicago boards see most often — and the right way to address them before they escalate.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "July 25, 2023 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Owners challenge condo and HOA rules constantly. Here is what actually makes a rule legally enforceable in Illinois — and the mistakes that get rules thrown out.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600 mb-2"
+  },
+  {
+   "type": "p",
+   "html": "March 14, 2023 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-400"
+  },
+  {
+   "type": "h2",
+   "html": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+   "cls": "font-display text-2xl lg:text-3xl text-ink group-hover:text-navy-700 transition-colors duration-300 mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Board dysfunction is the quiet killer of condo associations. Here is the single biggest reason boards fail — and a practical playbook for fixing it.",
+   "cls": "text-slate-600 font-light leading-relaxed max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "A Free Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Have questions about property <em>management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Our team helps Chicagoland condominium, HOA, and townhome boards navigate the complexities of community association management. Reach out for a free consultation.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

@@ -1,0 +1,183 @@
+{
+ "path": "/blog/vintage-chicago-condo-capital-planning",
+ "title": "Capital Planning for Vintage Chicago Condominium Buildings",
+ "description": "Capital planning for vintage Chicago condo buildings: reserve studies, component inventories, funding strategy, and a board checklist for aging systems.",
+ "lastmod": "2026-09-05",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Capital Planning for Vintage Chicago Condominium Buildings",
+   "description": "Capital planning for vintage Chicago condo buildings: reserve studies, component inventories, funding strategy, and a board checklist for aging systems.",
+   "datePublished": "2026-09-05",
+   "dateModified": "2026-09-05",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/vintage-chicago-condo-capital-planning"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Capital Planning for Vintage Chicago Condominium Buildings",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 5, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The core answer: a vintage building's capital plan should be built from a <strong>physical component inventory with observed conditions and estimated remaining useful life</strong>, translated into a multi-year funding schedule the board revisits annually. Age alone does not determine urgency. A 1920s building with a re-roofed, tuckpointed envelope and updated risers may be in better shape than a 1970s building that has deferred everything. The plan must describe your building, not a category.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards should also separate two decisions that often get blurred. First, <em>what needs to be done and when</em> -- an engineering and condition question. Second, <em>how it will be paid for</em> -- reserves, assessment increases, special assessments, or financing. Mixing them leads to scope decisions driven by fear of owner reaction rather than by building condition.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build the Component Inventory First",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Work through the building system by system and record what exists, its approximate age, its observed condition, and the last time it was serviced or replaced. Typical categories in older Chicago buildings include:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Envelope:</strong> masonry, tuckpointing, lintels, sealants, windows, balconies, and roofing.",
+    "<strong>Mechanical:</strong> boilers, chillers, pumps, cooling towers, and ventilation.",
+    "<strong>Plumbing:</strong> domestic water risers, waste stacks, and water heaters.",
+    "<strong>Electrical:</strong> service equipment, distribution, and emergency power where present.",
+    "<strong>Vertical transportation:</strong> elevator equipment, controllers, and cab interiors.",
+    "<strong>Life safety:</strong> alarm systems, detection, standpipes, and sprinklers where installed.",
+    "<strong>Site and common areas:</strong> paving, drainage, garage structure, corridors, and lobbies."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Use Professionals for the High-Consequence Items",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards can inventory finishes and paving. Envelope, structure, elevators, and life-safety systems warrant licensed professionals. Their reports also become the evidence base for lender questionnaires, insurance underwriting, and owner communication.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Turn Conditions Into a Funding Schedule",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Once components are inventoried, map projected replacement years and costs across a multi-year horizon, then compare that curve to your reserve balance and annual contribution. The gap is the board's actual decision. Because assessment increases, special assessments, and borrowing all carry procedural requirements under the Illinois Condominium Property Act and your declaration -- and because many townhome and single-family communities are instead governed by the Common Interest Community Association Act -- ask association counsel to confirm which rules and owner-notice requirements apply before the board selects an approach.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Sequencing Matters in Older Buildings",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Order of operations can save real money. Envelope work generally precedes interior finish restoration, riser replacement precedes bathroom and kitchen common-area work, and any project requiring scaffolding should be coordinated so the association mobilizes once rather than three times. Ask your engineer to propose a sequence, not just a list.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Capital Planning Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Commission or update a reserve study or professional capital plan on a defined cycle.",
+    "Maintain a written component inventory with age, condition, and last-service date.",
+    "Obtain professional assessments for envelope, structure, elevators, and life-safety systems.",
+    "Model reserve balances against projected expenditures for at least the next ten years.",
+    "Review the funding plan annually at budget time and record the board's decision in the minutes.",
+    "Ask counsel to confirm procedures for assessment increases, special assessments, or borrowing.",
+    "Sequence projects to minimize repeat mobilization and rework.",
+    "Track actual project costs against estimates to improve the next cycle's accuracy.",
+    "Share a plain-language capital summary with owners each year so decisions are not a surprise."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Consistency Is the Advantage",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Capital planning fails when it restarts with every board election. Professional financial management, structured <a href=\"/services/maintenance-coordination\">maintenance coordination</a>, and continuous board support preserve institutional memory. Stellar supports condominium and HOA boards in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore with long-horizon capital programs.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is educational information for association boards, not legal, engineering, or financial advice. Consult licensed professionals and association counsel regarding your building and governing documents.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/condo-hoa-vendor-rfp-checklist\">Vendor scope, insurance and controls</a>; <a href=\"/blog/condo-hoa-emergency-planning-checklist\">association emergency planning</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/contact\">Request a consultation</a> to review your association's capital plan.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

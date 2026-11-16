@@ -1,0 +1,288 @@
+{
+ "path": "/blog/illinois-condo-board-conflicts-of-interest",
+ "title": "Conflicts of Interest on Illinois Association Boards: Contr…",
+ "description": "Can an Illinois condo or HOA board hire a director’s family business? Section 18(a)(16), CICAA 1-30(b), the 25% rule, owner notice and petitions.",
+ "lastmod": "2026-11-01",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors",
+   "description": "Can an Illinois condo or HOA board hire a director’s family business? Section 18(a)(16), CICAA 1-30(b), the 25% rule, owner notice and petitions.",
+   "datePublished": "2026-11-01",
+   "dateModified": "2026-11-01",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-board-conflicts-of-interest"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Details?ActID=2280&ChapterID=65"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can an Illinois condo board contract with one of its own directors?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, but only through a set procedure. Section 18(a)(16) of the Condominium Property Act says the board may not contract with a current director, or with a corporation or partnership in which a director or the director's immediate family holds a 25% or greater interest, unless owners are notified and given the chance to petition for a vote on the contract. For this purpose, \"immediate family\" means the director's spouse, parents and children."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What notice and petition procedure applies to a condominium?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The steps and deadlines in Section 18(a)(16) are: The board decides to enter into the contract. Within 20 days after that decision, the board gives unit owners notice of its intent to enter the contract. Owners may file a petition, signed by 20% of the unit owners , for an election to approve or disapprove the contract. The petition must be filed within 30 days after the notice. If a valid petition is filed, the election must be held within 30 days after the petition is filed. The statute does not say what vote approves or disapproves the contract at that election. If a petition arrives, ask counsel how the election should be run and counted under your documents."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is the rule different for an HOA?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, in three details. CICAA Section 1-30(b) applies the same structure to common interest communities, but: It covers a corporation, limited liability company or partnership in which the director or immediate family holds 25% or more. The condominium provision names only corporations and partnerships; whether it reaches an LLC is a question for counsel, and the prudent course is to give notice anyway. \"Immediate family\" includes the director's spouse, parents, siblings and children. The member petition, signed by 20% of the membership, must be filed within 20 days after the notice, not 30. The election still follows within 30 days of the petition. The 20-day notice deadline after the board's decision is the same in both statutes."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What if the relationship falls outside the 25% rule?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The statutory procedure is triggered by a director, or a business in which the director or immediate family holds 25% or more. Plenty of real conflicts fall outside that line: a director's employer, a sibling's company in a condominium, a business in which the director holds 10%, or a vendor who is a close friend. The statute does not require the owner-notice procedure for those, but the director's fiduciary duty still applies. Section 18.4 requires directors and officers to exercise the care required of a fiduciary of the unit owners. The General Not For Profit Corporation Act, whose consistent powers apply to condominium associations through Section 18.3, adds Section 108.60. It provides that a transaction in which a director has an interest is not invalid for that reason if it was fair to the corporation when approved. Where the transaction is challenged, the person defending it must prove fairness unless the material facts and the director's interest were disclosed and the transaction was approved by a majority of disinterested directors, or by the voting members without counting the interested director's vote. An interested director may be counted toward quorum but not when the board acts on the transaction (Section 108.60(c)). Put plainly: disclose, step out of the vote, and let the disinterested directors decide on the record."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What should the owner notice say?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Neither statute prescribes the contents of the notice, so the safest approach is to make it complete enough that an owner could decide whether to petition without asking a follow-up question. That usually means identifying the director and the nature of the relationship, describing the work and the contract price, summarising the other bids the board considered, and explaining how and by when owners can file a petition. Send it through the same channels the association uses for other official notices, and keep a copy with proof of delivery in the association's records. If no petition is filed within the window, note that in the minutes before the contract is signed."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can the board discuss the contract in closed session?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The board may close a portion of a meeting to discuss the engagement of an independent contractor or other provider of goods and services (Section 18(a)(9)(A)(ii)), and CICAA additionally lists third-party contracts (Section 1-40(b)(5)(ii)). But the vote to approve the contract must happen in a portion of the meeting open to owners. For a related-party contract, holding the full discussion in open session is usually the wiser choice anyway, because the point is to show owners there was nothing to hide."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · November 1, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Volunteer boards are made up of neighbours, and neighbours have businesses, spouses and children with businesses. Sooner or later a director, or someone close to one, wants to bid on association work. Illinois law does not prohibit that. It does impose a specific notice-and-petition procedure, and it holds every director to a fiduciary standard. Boards that follow the procedure protect both the contract and the director. Boards that skip it put both at risk.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can an Illinois condo board contract with one of its own directors?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes, but only through a set procedure. Section 18(a)(16) of the Condominium Property Act says the board may not contract with a current director, or with a corporation or partnership in which a director or the director's immediate family holds a 25% or greater interest, unless owners are notified and given the chance to petition for a vote on the contract.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For this purpose, \"immediate family\" means the director's spouse, parents and children.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What notice and petition procedure applies to a condominium?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The steps and deadlines in Section 18(a)(16) are:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "The board decides to enter into the contract.",
+    "Within <strong>20 days</strong> after that decision, the board gives unit owners notice of its intent to enter the contract.",
+    "Owners may file a petition, signed by <strong>20% of the unit owners</strong>, for an election to approve or disapprove the contract. The petition must be filed within <strong>30 days</strong> after the notice.",
+    "If a valid petition is filed, the election must be held within <strong>30 days</strong> after the petition is filed."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "The statute does not say what vote approves or disapproves the contract at that election. If a petition arrives, ask counsel how the election should be run and counted under your documents.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Is the rule different for an HOA?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Yes, in three details. CICAA Section 1-30(b) applies the same structure to common interest communities, but:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "It covers a corporation, <strong>limited liability company</strong> or partnership in which the director or immediate family holds 25% or more. The condominium provision names only corporations and partnerships; whether it reaches an LLC is a question for counsel, and the prudent course is to give notice anyway.",
+    "\"Immediate family\" includes the director's spouse, parents, <strong>siblings</strong> and children.",
+    "The member petition, signed by 20% of the membership, must be filed within <strong>20 days</strong> after the notice, not 30. The election still follows within 30 days of the petition."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "The 20-day notice deadline after the board's decision is the same in both statutes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What if the relationship falls outside the 25% rule?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The statutory procedure is triggered by a director, or a business in which the director or immediate family holds 25% or more. Plenty of real conflicts fall outside that line: a director's employer, a sibling's company in a condominium, a business in which the director holds 10%, or a vendor who is a close friend. The statute does not require the owner-notice procedure for those, but the director's fiduciary duty still applies.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 18.4 requires directors and officers to exercise the care required of a fiduciary of the unit owners. The General Not For Profit Corporation Act, whose consistent powers apply to condominium associations through Section 18.3, adds Section 108.60. It provides that a transaction in which a director has an interest is not invalid for that reason if it was fair to the corporation when approved. Where the transaction is challenged, the person defending it must prove fairness unless the material facts and the director's interest were disclosed and the transaction was approved by a majority of disinterested directors, or by the voting members without counting the interested director's vote. An interested director may be counted toward quorum but not when the board acts on the transaction (Section 108.60(c)).",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Put plainly: disclose, step out of the vote, and let the disinterested directors decide on the record.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What should the owner notice say?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Neither statute prescribes the contents of the notice, so the safest approach is to make it complete enough that an owner could decide whether to petition without asking a follow-up question. That usually means identifying the director and the nature of the relationship, describing the work and the contract price, summarising the other bids the board considered, and explaining how and by when owners can file a petition.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Send it through the same channels the association uses for other official notices, and keep a copy with proof of delivery in the association's records. If no petition is filed within the window, note that in the minutes before the contract is signed.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can the board discuss the contract in closed session?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The board may close a portion of a meeting to discuss the engagement of an independent contractor or other provider of goods and services (Section 18(a)(9)(A)(ii)), and CICAA additionally lists third-party contracts (Section 1-40(b)(5)(ii)). But the vote to approve the contract must happen in a portion of the meeting open to owners. For a related-party contract, holding the full discussion in open session is usually the wiser choice anyway, because the point is to show owners there was nothing to hide.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "A conflict-of-interest checklist for Illinois boards",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Adopt a written disclosure policy.</strong> Each director lists businesses in which they or immediate family hold an interest, updated annually and whenever a bid is received.",
+    "<strong>Ask at every vendor vote</strong> whether any director has a relationship with the bidder, and minute the answer.",
+    "<strong>Get competing bids</strong> on related-party work so fairness can be shown with numbers.",
+    "<strong>The interested director discloses and abstains</strong> from discussion and the vote.",
+    "<strong>Vote in open session</strong> and record which directors voted.",
+    "<strong>Send the owner notice within 20 days</strong> when the 25% rule applies, describing the contract and the director's relationship.",
+    "<strong>Calendar the petition window</strong>: 30 days for condominiums, 20 days for HOAs, and do not sign until it closes.",
+    "<strong>If a petition arrives,</strong> involve counsel and hold the election within 30 days."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/illinois-condo-open-board-meetings-notice-comment\">Open board meetings, notice and owner comment</a>; <a href=\"/blog/illinois-condo-board-closed-session-guide\">closed session rules</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Why the procedure helps the director too",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related-party contracts fail in a predictable way. The work is fine, the price was fair, and two years later an owner discovers the relationship and assumes the worst. A director who disclosed, abstained, and saw the board send the statutory notice has a complete answer. A director who quietly voted for a relative's bid has none, even if the deal was a good one.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Managing related-party bids is routine work for a professional manager: collecting comparable proposals, documenting disclosures, drafting the owner notice and tracking the petition window. Our <a href=\"/services/board-support\">board support team</a> handles this for associations across Chicago and the North Shore. If your board is weighing a contract with a director's business, <a href=\"/contact\">contact us</a> before the vote.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is general information for Illinois association boards and is not legal advice. Related-party contracts should be reviewed by association counsel before they are signed.</em>",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act, Sections 18 and 18.4 (765 ILCS 605/18, 605/18.4)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act, Section 1-30 (765 ILCS 160/1-30)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Details?ActID=2280&amp;ChapterID=65\">General Not For Profit Corporation Act of 1986, Section 108.60 (805 ILCS 105/108.60)</a>"
+   ]
+  }
+ ]
+}

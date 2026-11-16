@@ -1,0 +1,208 @@
+{
+ "path": "/blog/which-illinois-law-governs-condo-hoa-townhome",
+ "title": "Which Illinois Law Governs Your Condo, HOA, or Townhome Ass…",
+ "description": "Illinois boards are governed by the Condominium Property Act or CICAA depending on ownership form. Learn which statute applies and how to confirm it.",
+ "lastmod": "2026-08-18",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?",
+   "description": "Illinois boards are governed by the Condominium Property Act or CICAA depending on ownership form. Learn which statute applies and how to confirm it.",
+   "datePublished": "2026-08-18",
+   "dateModified": "2026-08-18",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/which-illinois-law-governs-condo-hoa-townhome"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&ChapterID=65"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 18, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer: in Illinois, a property submitted to condominium ownership is generally governed by the Illinois Condominium Property Act, while many non-condominium homeowner and townhome associations are governed by the Common Interest Community Association Act (CICAA). Both statutes sit on top of your recorded declaration and bylaws, and most Illinois associations are also incorporated under the General Not For Profit Corporation Act of 1986. Knowing which of these applies to your association is the first step in almost every governance decision a board makes.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards get into trouble when they borrow a procedure from the wrong statute. A condominium board that follows an HOA-oriented checklist, or a townhome board that assumes the Condominium Property Act applies to it, can end up with a meeting, vote, or assessment action that does not match the law and documents actually controlling the property. Because the statutes were written separately and amended on different timelines, their provisions on notice, records, meetings, and enforcement are similar in spirit but not identical in text. Confirm the correct framework once, document it, and reuse it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Start with the Recorded Declaration",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The declaration recorded against your property is the controlling document for identifying the ownership form. A condominium declaration submits the property to the Condominium Property Act and creates units plus undivided interests in the common elements. A homeowners or townhome association declaration typically creates lots with an obligation to pay assessments to an association that owns or maintains common area, without submitting the property to condominium ownership.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Signals of a Condominium",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "The declaration states that the property is submitted to the Illinois Condominium Property Act.",
+    "Ownership is described in units and percentage interests in common elements.",
+    "A plat of survey identifies unit boundaries within one or more buildings."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Signals of a Non-Condominium Common Interest Community",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Owners hold lots or parcels rather than units with percentage interests.",
+    "Common area is owned by the association or subject to easements rather than held as common elements.",
+    "The declaration references covenants, conditions, and restrictions running with the land."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Townhome associations sit on both sides of this line. Many Illinois townhome communities are legally condominiums even though the buildings look like row homes, and others are lot-owner associations. The architecture tells you nothing; the recorded declaration tells you everything. Our townhome association management team routinely pulls the recorded documents before making any governance recommendation, because that single step resolves most of the ambiguity.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Where the Not For Profit Corporation Act Fits",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your association is incorporated in Illinois as a not-for-profit corporation, the corporate statute governs matters such as corporate existence, annual reporting to the Secretary of State, director and officer roles, and certain corporate formalities. It does not replace the Condominium Property Act or CICAA; it operates alongside them. Boards should confirm that the corporation remains in good standing and that officer records match reality, since lenders, insurers, and title companies frequently check.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Order of Authority for Board Decisions",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Use a consistent hierarchy when analyzing any governance question:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Applicable Illinois statute (Condominium Property Act or CICAA), which can override conflicting document provisions.",
+    "The recorded declaration.",
+    "The bylaws.",
+    "Duly adopted rules and regulations.",
+    "Board policies and past practice, which never outrank the above."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Where a statute and a document appear to conflict, that is a question for association counsel, not a judgment call for the board at the meeting table. Local ordinances may add requirements in some municipalities as well, so associations in the city should also review applicable Chicago requirements with counsel.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist: Confirm Your Governing Framework",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Obtain a complete recorded copy of the declaration, bylaws, plat, and all recorded amendments.",
+    "Note whether the declaration submits the property to the Condominium Property Act.",
+    "Confirm the association's corporate status and current registered agent with the Secretary of State.",
+    "Ask counsel to confirm in writing which statute governs and to flag any document provisions superseded by statute.",
+    "Record the conclusion in a one-page governance summary kept with the official records.",
+    "Give every new director that summary during orientation.",
+    "Re-verify after any declaration amendment, deconversion discussion, or merger of parcels.",
+    "Align your meeting, notice, records, and collection templates to the confirmed statute."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Why This Matters Operationally",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The governing framework drives meeting notice practices, records response procedures, reserve and budget presentation, insurance placement, and enforcement steps. It also drives how lenders read your documents during resale, which is why association financial management and document accuracy are so closely linked. A clean governance summary gives current and future directors a shared reference point for those questions.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is educational information for Illinois association boards and is not legal advice. Your association's counsel should interpret your specific declaration, bylaws, and the current statutes before you act.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Talk Through Your Documents With Us",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management supports boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore with condominium management, <a href=\"/services/hoa-management\">HOA management</a>, and day-to-day board support. If your board is unsure which framework applies or wants a second set of eyes on its documents, <a href=\"/contact\">schedule a consultation</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&amp;ChapterID=65\">Illinois General Not For Profit Corporation Act of 1986 (805 ILCS 105)</a>"
+   ]
+  }
+ ]
+}

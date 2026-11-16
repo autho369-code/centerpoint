@@ -1,0 +1,209 @@
+{
+ "path": "/blog/how-many-associations-should-community-manager-handle",
+ "title": "How Many Associations Should One Community Manager Handle?",
+ "description": "A board guide to evaluating a community association manager's workload, portfolio capacity, support team, response standards, and coverage before hiring a management company.",
+ "lastmod": "2026-09-22",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "How Many Associations Should One Community Manager Handle?",
+   "description": "A board guide to evaluating a community association manager's workload, portfolio capacity, support team, response standards, and coverage before hiring a management company.",
+   "datePublished": "2026-09-22",
+   "dateModified": "2026-09-22",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/how-many-associations-should-community-manager-handle"
+   },
+   "citation": [
+    "https://idfpr.illinois.gov/profs/cam.html",
+    "https://www.caionline.org/"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Choosing Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "How Many Associations Should One Community Manager Handle?",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 22, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "There is no single responsible number of associations that every community association manager should handle. A portfolio of several complex high-rises can demand more time than a much larger count of small, stable communities. Boards should evaluate capacity by looking at association count, combined unit count, building systems, meeting load, active capital projects, delinquency and violation volume, travel, after-hours responsibility, administrative support, and backup coverage together.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The useful question is not simply, “How many buildings do you manage?” It is, “What work is already committed across your portfolio, what support do you receive, and how will our association receive reliable attention when several communities need help at once?”",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Association Count Is Only the Starting Point",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Two portfolios with the same number of communities may be entirely different jobs. A high-rise with elevators, life-safety systems, union or on-site staff, frequent moves, a large operating budget, and active facade work creates a different workload from a small townhome association with stable vendors and limited common property.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask for both the number of associations and the combined number of homes or units. Then ask how many communities have on-site staff, how many board meetings occur in a typical month, and how many significant capital projects are active. Those answers reveal the shape of the workload far better than one portfolio number.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Seven Capacity Factors Boards Should Examine",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Property complexity.</strong> Elevators, boilers, fire and life-safety systems, garages, pools, staffed entries, private roads, stormwater facilities, and extensive common exteriors all add recurring work.",
+    "<strong>Meeting load.</strong> Evening board meetings, committee meetings, annual meetings, budget workshops, and project meetings consume preparation and follow-up time as well as the meeting itself.",
+    "<strong>Active projects.</strong> A roof, facade, riser, elevator, siding, or roadway project can temporarily make one association feel like several.",
+    "<strong>Financial condition.</strong> Delinquencies, special assessments, weak records, late reconciliations, or an underdeveloped budget require concentrated management and accounting attention.",
+    "<strong>Communication volume.</strong> Large resident populations, recurring violations, architectural requests, move coordination, and unresolved maintenance issues create daily traffic that must be tracked to closure.",
+    "<strong>Support structure.</strong> Dedicated accounting, administrative, compliance, maintenance, and resale support can preserve a manager's time for judgment, board guidance, inspections, and vendor accountability.",
+    "<strong>Coverage.</strong> Vacation, illness, emergencies, and staff turnover should not leave the board searching for basic records or an authorized decision-maker."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Interview the Assigned Manager",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards frequently meet a senior executive or salesperson and never speak with the person expected to manage the community. Require the proposed assigned manager to attend the interview. Ask that person to describe the current portfolio in practical terms and explain what changes if your association signs.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Questions worth asking",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "How many associations and total units are currently in your portfolio?",
+    "How many are high-rise, condominium, HOA, or townhome communities?",
+    "How many evening meetings do you attend during a typical month?",
+    "Which major projects are active across your portfolio?",
+    "What work is handled by accounting, administrative, compliance, and maintenance support teams?",
+    "Who answers when you are unavailable, and can that person access our records and open items?",
+    "How are owner requests, board directives, vendor commitments, and deadlines tracked?",
+    "What response standards will appear in the management agreement or operating plan?"
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Look for Systems, Not Reassurance",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A credible answer includes a work-order system, an open-item register, a recurring compliance calendar, scheduled financial delivery, documented emergency escalation, and named backup coverage. “You can always reach me” is not a capacity plan. Reliable management comes from a system that makes commitments visible and transferable.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask finalists to show a sample monthly board package, a redacted open-item report, and the transition checklist used during the first ninety days. These materials demonstrate whether the firm has designed work to move consistently or relies on individual memory and inboxes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Warning Signs of an Overloaded Portfolio",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "The firm will not identify the assigned manager before contract signing.",
+    "The manager cannot state the current portfolio or meeting load clearly.",
+    "Financial packages and meeting materials routinely arrive late.",
+    "Board directives disappear unless directors repeatedly follow up.",
+    "Vendor commitments are not documented in a shared system.",
+    "There is no named backup with access to association records.",
+    "The firm describes every communication problem as an owner-expectation problem."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Put Capacity Into the Selection Score",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Manager capacity should be a scored selection criterion, not an informal interview impression. Our <a href=\"/blog/score-condo-hoa-management-proposals\">management-company comparison scorecard</a> recommends weighting the assigned manager and capacity alongside scope, financial controls, responsiveness, references, licensing, and total annual cost.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Match the proposed team to the community you actually operate. A complex high-rise, a boutique <a href=\"/services/small-condo-association-management\">small condominium</a>, and a shared-exterior townhome association should not be staffed or measured identically.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Ask Stellar About the Team Assigned to Your Association",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/self-managed-condo-association-problems\">The hidden problems of self-management</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management serves condominium, HOA, and townhome boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. We will explain the proposed manager, support structure, transition plan, communication workflow, and service scope before your board decides. <a href=\"/contact\">Request a consultation</a> to compare the operating model with your association's needs.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://idfpr.illinois.gov/profs/cam.html\">IDFPR Community Association Manager Licensing</a>",
+    "<a href=\"https://www.caionline.org/\">Community Associations Institute</a>"
+   ]
+  }
+ ]
+}

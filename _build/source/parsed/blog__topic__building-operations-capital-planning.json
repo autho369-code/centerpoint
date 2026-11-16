@@ -1,0 +1,447 @@
+{
+ "path": "/blog/topic/building-operations-capital-planning",
+ "title": "Chicago Condo Building & Capital Planning Guides",
+ "description": "Chicago condo and HOA guidance on maintenance, vendors, emergencies, capital projects, inspections, and long-term building operations.",
+ "lastmod": null,
+ "ld": [
+  {
+   "@type": "CollectionPage",
+   "@id": "https://www.stellarpropertygroup.com/blog/topic/building-operations-capital-planning#page",
+   "url": "https://www.stellarpropertygroup.com/blog/topic/building-operations-capital-planning",
+   "name": "Chicago Condo Building & Capital Planning Guides",
+   "description": "Chicago condo and HOA guidance on maintenance, vendors, emergencies, capital projects, inspections, and long-term building operations.",
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/blog#page"
+   },
+   "about": {
+    "@type": "Thing",
+    "name": "Building Operations & Capital Planning"
+   }
+  },
+  {
+   "@type": "ItemList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "url": "https://www.stellarpropertygroup.com/blog/chicago-condo-porch-deck-safety-board-guide",
+     "name": "Chicago Condo Porch and Deck Safety: What Boards of 3-Flats and Courtyard Buildings Should Do"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-vendor-rfp-checklist",
+     "name": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-hoa-emergency-planning-checklist",
+     "name": "Association Emergency Planning: A Board-Ready Playbook"
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "url": "https://www.stellarpropertygroup.com/blog/chicago-condo-life-safety-board-planning",
+     "name": "Chicago High-Rise Life-Safety Planning for Condominium Boards"
+    },
+    {
+     "@type": "ListItem",
+     "position": 5,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-snow-removal-vendor-guide",
+     "name": "Snow and Ice Vendor Oversight for Illinois Associations"
+    },
+    {
+     "@type": "ListItem",
+     "position": 6,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-ev-charging-board-process",
+     "name": "EV Charging Requests: A Process for Illinois Association Boards"
+    },
+    {
+     "@type": "ListItem",
+     "position": 7,
+     "url": "https://www.stellarpropertygroup.com/blog/vintage-chicago-condo-capital-planning",
+     "name": "Capital Planning for Vintage Chicago Condominium Buildings"
+    },
+    {
+     "@type": "ListItem",
+     "position": 8,
+     "url": "https://www.stellarpropertygroup.com/blog/chicago-condo-facade-compliance-board-guide",
+     "name": "Chicago Facade Compliance: How Condo Boards Can Stay Project-Ready"
+    },
+    {
+     "@type": "ListItem",
+     "position": 9,
+     "url": "https://www.stellarpropertygroup.com/blog/who-pays-condo-water-leak-illinois",
+     "name": "Who Pays for a Condo Water Leak? Start With These Documents"
+    },
+    {
+     "@type": "ListItem",
+     "position": 10,
+     "url": "https://www.stellarpropertygroup.com/blog/chicago-condo-association-compliance-calendar",
+     "name": "Chicago Condominium Association Compliance Calendar"
+    },
+    {
+     "@type": "ListItem",
+     "position": 11,
+     "url": "https://www.stellarpropertygroup.com/blog/condo-repairs-owner-vs-association-illinois",
+     "name": "Condo Repairs in Illinois: What Owners Fix vs. What the Association Fixes"
+    },
+    {
+     "@type": "ListItem",
+     "position": 12,
+     "url": "https://www.stellarpropertygroup.com/blog/moving-into-chicago-condo-guide",
+     "name": "Moving Into a Chicago Condo: The Complete First-Month Guide"
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Board Guides",
+     "item": "https://www.stellarpropertygroup.com/blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Building Operations & Capital Planning",
+     "item": "https://www.stellarpropertygroup.com/blog/topic/building-operations-capital-planning"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Who is responsible for a repair, the owner or the association?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The declaration decides, not intuition. Generally the association maintains common elements — roof, facade, structure, common risers, boilers, elevators, hallways — while owners maintain what sits inside their unit boundaries. Limited common elements such as balconies and assigned parking often carry their own rules. Because declarations vary building to building, the reliable answer comes from your own recorded documents rather than from what a neighbor was told."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What counts as an emergency for an association?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Anything threatening people or property that cannot wait for business hours: burst pipes, no heat in cold weather, flooding, elevator entrapment, fire and life-safety alarms, roof or facade failures, and loss of power to common areas. Call 911 first for anything life-threatening. A building without heat in winter is genuinely an emergency, not a next-morning work order, and should be reported to a 24-hour line rather than an office voicemail."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How should a board approach a large capital project?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Scope before price. Have an engineer or architect define the work in writing, then bid that written scope so the proposals a board compares describe the same job. Confirm funding — reserves, assessment, or a loan — before signing. Build in inspection milestones and retainage. Most capital projects that go badly went wrong at the scoping stage, when three bids described three different jobs."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What building inspections do Chicago associations have to keep up with?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Depending on the building’s height, age, and systems, obligations can include facade inspection under the city’s critical-examination requirements, annual elevator inspection, life-safety and alarm testing, backflow-prevention testing, and boiler inspection. Deadlines vary by building rather than following one calendar, so the practical safeguard is a compliance calendar maintained by the association with the responsible party named against each item."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Resource Center",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Building Operations &amp; Capital Planning",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.03] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Plan preventive maintenance, vendor selection, emergency response, and capital work with practical guidance grounded in Chicago-area building operations.",
+   "cls": "lg:col-span-4 text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Published Guidance",
+   "cls": "eyebrow text-gold-600 mb-4"
+  },
+  {
+   "type": "h2",
+   "html": "Board guides in this topic",
+   "cls": "font-display text-4xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "November 3, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Condo Porch and Deck Safety: What Boards of 3-Flats and Courtyard Buildings Should Do",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Wood rear porches are part of almost every Chicago 3-flat and courtyard building. Here is what the City requires, when a permit is needed, what inspectors look for, and how a condo board should manage porches year to year.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 25, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Vendor RFPs for Condo and HOA Boards: Scope, Insurance, and Controls",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards do not overpay because vendors are dishonest. They overpay because three bids described three different projects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 23, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Association Emergency Planning: A Board-Ready Playbook",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A pipe break at 2 a.m. is not the time to look up who can authorize a vendor. Decide the authority, contacts, and communication plan in advance.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 21, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago High-Rise Life-Safety Planning for Condominium Boards",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Life-safety compliance in a Chicago high-rise is a program, not a filing. Boards need verified requirements, maintained systems, and records that prove both.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 17, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Snow and Ice Vendor Oversight for Illinois Associations",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Snow contracts are signed in September and tested at 4 a.m. in January. Specificity in the contract is what separates the two.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 13, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "EV Charging Requests: A Process for Illinois Association Boards",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "EV requests are arriving at Illinois associations. Boards that build a written process once handle every future request in weeks instead of months.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 5, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Capital Planning for Vintage Chicago Condominium Buildings",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Older Chicago buildings have character and finite systems. A real capital plan turns unpredictable emergencies into scheduled, funded projects.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 1, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Facade Compliance: How Condo Boards Can Stay Project-Ready",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Facade work is expensive, disruptive, and non-negotiable. Boards that plan for it years ahead avoid emergency assessments and scaffolding surprises.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 28, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Who Pays for a Condo Water Leak? Start With These Documents",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Water travels down, and so do disputes. The answer to who pays almost never starts with fairness -- it starts with your declaration.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 25, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Chicago Condominium Association Compliance Calendar",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Compliance failures in Chicago condominium buildings are rarely one big mistake. They are small recurring deadlines nobody owned. Here is how to build a calendar that assigns every one of them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Repairs in Illinois: What Owners Fix vs. What the Association Fixes",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "More condo disputes start over repair responsibility than anything else. Here is the three-zone map — what is yours, what is the association’s, and where the declaration decides.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Building Operations",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Moving Into a Chicago Condo: The Complete First-Month Guide",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Condo buildings have moving rules for good reasons — and knowing them turns move-in day from an ordeal into a checklist. Here is the complete first-month playbook.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Related Service",
+   "cls": "eyebrow text-gold-300 mb-5"
+  },
+  {
+   "type": "h2",
+   "html": "Maintenance Coordination",
+   "cls": "font-display text-3xl mb-5"
+  },
+  {
+   "type": "p",
+   "html": "See how Stellar puts this guidance into practice for Chicago and North Shore community associations.",
+   "cls": "text-paper/65 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "h2",
+   "html": "Explore other topics",
+   "cls": "font-display text-2xl text-ink mb-5"
+  }
+ ]
+}

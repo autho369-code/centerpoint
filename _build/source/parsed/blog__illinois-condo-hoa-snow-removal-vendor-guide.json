@@ -1,0 +1,193 @@
+{
+ "path": "/blog/illinois-condo-hoa-snow-removal-vendor-guide",
+ "title": "Snow and Ice Vendor Oversight for Illinois Associations",
+ "description": "Illinois condo and HOA snow removal: contract terms, trigger depths, documentation, insurance requirements, and a board oversight checklist for winter vendors.",
+ "lastmod": "2026-09-17",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Snow and Ice Vendor Oversight for Illinois Associations",
+   "description": "Illinois condo and HOA snow removal: contract terms, trigger depths, documentation, insurance requirements, and a board oversight checklist for winter vendors.",
+   "datePublished": "2026-09-17",
+   "dateModified": "2026-09-17",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-snow-removal-vendor-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Maintenance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Snow and Ice Vendor Oversight for Illinois Associations",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 17, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The direct answer: a snow and ice contract protects an association only if it defines <strong>what triggers service, what areas are covered, what the response time is, and how each event is documented</strong>. Boards should not accept a one-page proposal with a seasonal price and no operational detail. And because premises liability questions after a slip-and-fall are fact-specific and legally nuanced in Illinois, boards should have association counsel review contract language, indemnification, and insurance requirements rather than relying on the vendor's form.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The second point boards underestimate is documentation. If a claim arises months later, the association's position depends on records: service logs with timestamps, material application records, photos, and communications. A vendor who cannot produce those on request is a liability regardless of how well they plow.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Define the Scope Precisely",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A workable scope specifies, at minimum:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Trigger depth</strong> for plowing and for walkway clearing, and whether service is per-event or continuous during accumulation.",
+    "<strong>Covered areas</strong> mapped on a site plan: drive lanes, guest parking, entries, walkways, stairs, ramps, garage aprons, sidewalks, and refuse areas.",
+    "<strong>Response time</strong> from trigger, and expectations for overnight and pre-dawn service before resident departure.",
+    "<strong>Ice management</strong>: materials used, application triggers, refreeze monitoring, and any restrictions to protect concrete, landscaping, or pets.",
+    "<strong>Snow relocation</strong>: designated stacking areas, hauling terms, and drainage considerations.",
+    "<strong>Communication</strong>: who the association calls, and how escalation works during a large event."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Pricing Structures Have Consequences",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Seasonal flat rates give budget certainty and shift weather risk to the vendor. Per-event or per-inch pricing tracks actual work but creates budget variance. Hybrid structures with caps exist. Whichever the board chooses, document the rationale in the minutes so future boards understand the decision.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Insurance and Contract Terms to Review With Counsel",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Ask counsel to review indemnification and hold-harmless language, additional-insured status, required coverage lines and limits, subcontracting restrictions, termination rights, and the standard of performance. Collect current certificates of insurance before the season begins and again on renewal, and verify them rather than filing them unread.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Documentation Requirements",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Require the vendor to submit, per event, a service log with arrival and departure times, areas serviced, materials applied with quantities, and photographs. Require submission within a short, defined window -- documentation reconstructed weeks later is far less useful. The association should retain these records for a period your counsel recommends.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Decide Who Monitors Between Visits",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The contract should also name the person responsible for checking changing conditions between vendor visits. Sun, shade, drainage, roof runoff, and vehicle traffic can create new ice after a property was properly serviced. Establish a simple inspection route for the manager, engineer, or designated board contact, and give that person a documented escalation path to the vendor. Do not ask volunteer directors to perform snow work; the goal is to identify and report changing conditions through the contracted process.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep owner communication practical. Before winter, tell residents how to report a missed area, where snow will be stacked, and which entrances may temporarily close during service. During a significant event, send one concise update explaining the vendor's sequence and when the next inspection will occur. That information helps the board manage expectations without making promises the weather or vendor cannot keep.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Winter Oversight Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Bid the contract in late summer using a written scope and a marked site plan, not a vendor-authored proposal.",
+    "Have counsel review indemnification, insurance, and performance terms before signing.",
+    "Collect and verify certificates of insurance before the first service date.",
+    "Specify trigger depths, response times, and covered areas in writing.",
+    "Require per-event service logs with timestamps, materials, and photos.",
+    "Walk the property after early-season events and document any missed areas in writing.",
+    "Log every resident complaint and the vendor's response.",
+    "Confirm ice-melt materials are appropriate for your surfaces and stocked before the season.",
+    "Maintain association-controlled backup supplies for entries and stairs.",
+    "Conduct a written post-season review before renewing."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Consistent Vendor Management",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Winter performance is a management discipline. Structured maintenance coordination and reliable board support keep scopes, certificates, logs, and complaints in one place for condominium, HOA, and <a href=\"/services/townhome-management\">townhome</a> communities across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<em>This article is educational information for association boards, not legal advice. Contract terms and liability questions depend on your facts and governing documents; consult association counsel and your insurance professional.</em>",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/contact\">Talk with our team</a> before your next snow season bid.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

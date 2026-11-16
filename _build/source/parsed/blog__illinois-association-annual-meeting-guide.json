@@ -1,0 +1,191 @@
+{
+ "path": "/blog/illinois-association-annual-meeting-guide",
+ "title": "Illinois Association Annual Meetings: Notice, Quorum, and M…",
+ "description": "How Illinois condo and HOA boards plan an annual meeting that holds up: notice logistics, quorum and proxy handling, election mechanics, and minute drafting.",
+ "lastmod": "2026-09-19",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes",
+   "description": "How Illinois condo and HOA boards plan an annual meeting that holds up: notice logistics, quorum and proxy handling, election mechanics, and minute drafting.",
+   "datePublished": "2026-09-19",
+   "dateModified": "2026-09-19",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-association-annual-meeting-guide"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&ChapterID=65"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 19, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer: an Illinois association's annual meeting is valid when it is properly noticed to all owners, a quorum is present in person or by the proxy or ballot methods your documents allow, business is conducted within the noticed scope, and the outcome is captured in minutes. The notice period, quorum threshold, proxy rules, and election mechanics come from the applicable statute and from your declaration and bylaws, and they differ between condominiums and non-condominium common interest communities. Confirm your association's specific requirements with counsel and calendar them.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Nearly every annual meeting dispute we see traces back to logistics rather than law: notice sent to a stale address, a quorum count nobody can reconstruct, a proxy form that did not match the bylaws, or minutes written weeks later from memory. Fix the logistics and the meeting takes care of itself.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build a Notice Plan Backward From the Meeting Date",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Set the meeting date first, then work backward through candidate solicitation, the notice mailing or transmission, the candidate statement deadline, and the proxy or ballot return date. Confirm the required notice period with counsel and add margin; sending early is never a defect. Reconcile the owner roster against current recorded ownership before you send, and make sure owners who have not consented to electronic delivery receive notice in the traditional manner.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "What the Notice Package Should Include",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Date, time, and location or access instructions for the meeting.",
+    "The agenda and a statement of the business to be conducted.",
+    "Election information, candidate statements, and the ballot or proxy form.",
+    "Clear instructions and a deadline for returning proxies or ballots.",
+    "Any budget or other materials your documents require to be circulated."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Handle Quorum and Proxies Methodically",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Know your quorum threshold before the meeting and know exactly which units or lots are eligible to vote. Check in attendees against the roster, collect and validate proxies at check-in against the form your bylaws require, and record the count on paper. If quorum fails, follow the adjournment and reconvening procedure in your documents rather than improvising, and confirm with counsel whether any reduced-quorum provision applies to your association.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Give the election itself a defined process: who counts ballots, who observes, how ties are handled, and how the count is recorded. Retain ballots and proxies with the association's records for the retention period counsel advises.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Minutes That Serve the Association",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Minutes are a record of actions, not a transcript. Capture the meeting type, date, time, and location; confirmation that notice was given; the quorum determination; who chaired; each motion with its mover, second, and result; election results; and the time of adjournment. Leave out debate summaries and personal commentary. Draft within a few days while recollection is fresh, circulate to the board for review, and approve at the next meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist: Annual Meeting Execution",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Confirm notice period, quorum, and proxy rules with counsel and calendar them.",
+    "Reconcile the owner roster against recorded ownership before mailing.",
+    "Send notice by the method each owner is entitled to receive and keep proof.",
+    "Solicit candidates early and circulate candidate statements with the notice.",
+    "Use a proxy or ballot form that matches your bylaws exactly.",
+    "Prepare a check-in roster and a written quorum tally sheet.",
+    "Validate proxies at check-in before the meeting is called to order.",
+    "Follow the documented adjournment procedure if quorum is not met.",
+    "Run the election with designated counters and observers.",
+    "Announce results and record them in the minutes.",
+    "Retain notice proof, ballots, proxies, and tally sheets with official records.",
+    "Draft minutes within a week and approve them at the next meeting."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Turnout Follows Relevance",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Owners are more likely to understand the value of attending when the meeting decides something they care about. Publish the agenda with a short plain-language summary of what will be decided, send reminders, and hold the meeting at a realistic hour. A brief year-in-review of completed projects and the coming year's plan also gives owners a practical reason to participate.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is educational information for Illinois association boards and is not legal advice. Meeting, notice, and quorum provisions differ between the Illinois Condominium Property Act and CICAA, and your association's counsel should interpret your declaration, bylaws, and the current statute before your meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Let Us Run the Logistics",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/illinois-condo-board-elections-proxies-ballots\">How Illinois board elections work</a>; <a href=\"/blog/condo-hoa-board-communication-systems\">board communication systems that reduce conflict</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management handles notice packages, check-in, tabulation, and minutes for condominium, HOA, and townhome boards in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore, backed by ongoing <a href=\"/services/board-support\">board support</a>. <a href=\"/contact\">Schedule a consultation</a> before your next annual meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2280&amp;ChapterID=65\">Illinois General Not For Profit Corporation Act of 1986 (805 ILCS 105)</a>"
+   ]
+  }
+ ]
+}

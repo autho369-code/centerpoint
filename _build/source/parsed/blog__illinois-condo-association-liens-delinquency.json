@@ -1,0 +1,210 @@
+{
+ "path": "/blog/illinois-condo-association-liens-delinquency",
+ "title": "Association Liens and Delinquencies: What Boards Need Organ…",
+ "description": "Illinois condo and HOA boards can protect assessment income by keeping delinquency records, ledgers, and lien documentation organized before counsel gets involved.",
+ "lastmod": "2026-09-08",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Association Liens and Delinquencies: What Boards Need Organized",
+   "description": "Illinois condo and HOA boards can protect assessment income by keeping delinquency records, ledgers, and lien documentation organized before counsel gets involved.",
+   "datePublished": "2026-09-08",
+   "dateModified": "2026-09-08",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-association-liens-delinquency"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Association Liens and Delinquencies: What Boards Need Organized",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 8, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "When an owner stops paying assessments, the association's remedies are governed by its recorded documents and by the Illinois statute that applies to it -- the Condominium Property Act for condominiums, CICAA for many homeowners and townhome associations. Those remedies are legal processes, and they should be handled by association counsel. The board's job is different and comes first: keep the underlying records so complete and so consistent that counsel can act immediately and the association's position is provable.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "That framing solves most delinquency problems before they become legal problems. Associations rarely fail at collections because the law is unfavorable. They fail because the ledger has unexplained adjustments, the notices were sent inconsistently, the board waived charges for some owners, or nobody can produce proof that the assessment was validly adopted.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The four record sets counsel will ask for",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "1. Proof the assessment was validly adopted",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Minutes showing the budget adoption, the assessment amount, and the vote. If the association levied a special assessment, the same for that -- amount, purpose, payment terms, and the vote. An owner defending a collection action will look here first, and so should you.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "2. A clean unit ledger",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every charge, every payment, every credit, in date order, with descriptions that make sense to a reader who was not there. No line should read \"adjustment\" without an explanation. Payment application must follow your written policy consistently -- inconsistent application is the fastest way to make a simple balance disputable.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "3. The notice trail",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Copies of every statement, reminder, and formal notice sent to the owner, with dates and the method of delivery. Notices sent from a board member's personal email with no copy retained do not exist for practical purposes.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "4. The policy that authorized each charge",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The adopted late fee and interest policy, the document provisions it relies on, and evidence that it was distributed to owners. If the ledger contains a fee the policy does not cover, counsel needs to know before a court does.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Consistency across owners is the whole game",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Selective enforcement is the most common self-inflicted wound in association collections. It usually starts kindly -- a board waives a late fee for a sympathetic owner without a vote or a record. Two years later a different owner asks why they were charged. Now the board is explaining a distinction it never articulated.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Fix it structurally. Charges post by system rule. Notices generate on schedule. Waivers require a written request and a recorded vote against a stated standard. Referral to counsel happens at a delinquency threshold the board adopted in advance and applies to everyone. Our board support workflows exist to keep that discipline in place when board composition changes.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What boards should not do themselves",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Do not prepare or record lien documents without counsel.",
+    "Do not send communications that resemble legal demands without counsel review.",
+    "Do not negotiate payoff figures verbally or outside the ledger.",
+    "Do not restrict an owner's rights as a collection tactic without confirming authority with counsel.",
+    "Do not discuss a specific owner's delinquency outside of properly conducted board sessions."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Debt collection is also subject to federal and state requirements that can apply to communications with owners. Ask counsel what applies to your association's practice before you standardize any collection letter.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Payment plans, handled properly",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Payment plans are often the fastest route to recovery, and they are safe when they are documented. Put the plan in writing, state the total balance, the installment amount, the schedule, what happens on default, and whether charges continue to accrue. Approve it by board vote. Have counsel provide or review the template once so the board can use it repeatedly. An undocumented verbal arrangement is not a plan; it is a future dispute about what was said.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Board checklist: delinquency readiness",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Reconcile all unit ledgers monthly and resolve unexplained entries immediately.",
+    "Retain copies of every notice with date and delivery method.",
+    "Adopt a written referral threshold and apply it uniformly.",
+    "Keep budget and assessment adoption minutes permanently and indexed.",
+    "Require board votes for every waiver or payment plan.",
+    "Review an aged delinquency report at every board meeting.",
+    "Confirm with counsel which statute governs and what remedies your documents provide.",
+    "Ensure resale disclosures report unit balances that match the ledger exactly."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for Illinois association boards and is not legal advice. Governing documents control, and your association's attorney should advise on liens, collection procedures, and applicable notice requirements for your specific situation.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/condo-hoa-delinquency-escalation-process\">A consistent delinquency escalation process</a>; <a href=\"/blog/illinois-condo-assessment-collection-possession-action\">the Illinois possession action for unpaid assessments</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar's <a href=\"/services/financial-management\">financial management</a> team keeps ledgers, notices, and aging reports in a state where counsel can act on day one. <a href=\"/contact\">Contact us</a> to review your association's delinquency records.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

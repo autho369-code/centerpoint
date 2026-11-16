@@ -1,0 +1,228 @@
+{
+ "path": "/blog/illinois-22-1-response-workflow",
+ "title": "The 22.1 Response Workflow: Faster Closings Without Risky S…",
+ "description": "Build a repeatable Illinois 22.1 response workflow: intake, verification, review, and release steps that speed closings without compromising accuracy.",
+ "lastmod": "2026-09-24",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts",
+   "description": "Build a repeatable Illinois 22.1 response workflow: intake, verification, review, and release steps that speed closings without compromising accuracy.",
+   "datePublished": "2026-09-24",
+   "dateModified": "2026-09-24",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-22-1-response-workflow"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Operations",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "The 22.1 Response Workflow: Faster Closings Without Risky Shortcuts",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 24, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Fast resale disclosure responses come from preparation, not from compression. An association that maintains a current document set, reconciled ledgers, and live insurance certificates can respond in a day or two because ninety percent of the work was already done. An association that starts from scratch each time takes two weeks and makes mistakes under deadline pressure. The workflow below is how you get to the first situation.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The rule that keeps the whole thing safe: never trade accuracy for speed. A wrong balance or a stale document in a resale packet does not merely delay a closing -- it creates a representation the association cannot support. Every step below is designed to be fast because it was prepared in advance, not because a verification was skipped.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Stage 1: Intake, same day",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every request lands in one monitored channel. Not a board member's personal email, not a voicemail. On receipt, log:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Date and time received.",
+    "Requesting party and their relationship to the transaction.",
+    "Unit number, verified against the association's records.",
+    "The requested closing or delivery date.",
+    "Whether payment of any authorized fee has been received."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Send an acknowledgment the same day stating what was received and the expected delivery date. Most of the friction in resale disclosures is not slowness; it is silence. An acknowledgment with a date stops the follow-up calls that consume more time than the packet itself.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Stage 2: Refresh, one to two days",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Because the master packet is maintained continuously, this stage is a refresh rather than an assembly:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Pull the current governing document set and confirm no amendment was recorded since the last update.",
+    "Pull the adopted budget and the most recent reconciled financial statements.",
+    "Generate the unit ledger as of a stated date and reconcile it.",
+    "Request current certificates directly from the insurance agent.",
+    "Confirm litigation status with counsel -- always ask, never assume.",
+    "Confirm any adopted special assessment and its remaining balance."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "The ledger is the step that cannot be rushed",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The unit balance is the number most likely to be disputed and most likely to be wrong. Reconcile it against the general ledger, confirm payments received in the last cycle have posted, and itemize every fee with its basis. If the balance includes late fees or interest, confirm they were charged under the association's written, counsel-reviewed policy.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Our <a href=\"/services/resale-disclosures\">Section 22.1 disclosure service</a> answers these requests with one named person responsible.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Stage 3: Review and release",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "One reviewer who did not assemble the packet checks it against a fixed list: unit number on every document, balance matching the stated date, current versions only, nothing marked draft or proposed, litigation statement verified, fee consistent with policy. Then date it, sign it, release it, and file a complete copy in the association's permanent records.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Filing the copy is not administrative housekeeping. If a question arises after closing, the association needs to show exactly what it disclosed and when. A packet you cannot reproduce is a packet you cannot defend.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What makes the workflow fast",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Four maintenance habits, all performed outside of any specific request:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Ledgers reconciled monthly, so the balance is always current.",
+    "Insurance certificates refreshed at every renewal, so they are never expired.",
+    "A consolidated document set updated whenever an amendment is recorded.",
+    "Financial statements produced on a fixed monthly schedule."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Associations that do these four things respond quickly as a byproduct. Associations that do not will never be fast, no matter how much pressure they apply at the moment of the request. Our board support and financial management services exist to keep these four habits running independent of board turnover.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Shortcuts to refuse",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Verbal payoff figures given over the phone without a written, dated statement.",
+    "Reusing a prior packet for a different unit without a full refresh.",
+    "Omitting an adopted special assessment because closing is near.",
+    "Including a \"proposed\" project as if the board had adopted it.",
+    "Asserting no litigation without confirming with counsel.",
+    "Charging a fee not supported by your documents and applicable law."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Confirm which statute governs you",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Section 22.1 is a provision of the Illinois Condominium Property Act and applies to condominium associations. Many Illinois homeowners and townhome associations are governed instead by CICAA, with its own disclosure and records provisions. Have counsel confirm which applies to your association and what your recorded documents add before you standardize any template or fee.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for Illinois association boards and is not legal advice. Your association's governing documents control, and your attorney should confirm required contents, permitted fees, and response timing.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/illinois-section-22-1-disclosure-board-guide\">Section 22.1 disclosures</a>; <a href=\"/blog/illinois-22-1-disclosure-packet-checklist\">the 22.1 packet checklist</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your association's resale responses currently depend on whoever is available, Stellar can build the standing workflow instead. <a href=\"/contact\">Schedule a consultation</a> with our team.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

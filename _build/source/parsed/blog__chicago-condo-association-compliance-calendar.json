@@ -1,0 +1,252 @@
+{
+ "path": "/blog/chicago-condo-association-compliance-calendar",
+ "title": "Chicago Condominium Association Compliance Calendar",
+ "description": "A year-round compliance calendar framework for Chicago condominium association boards, covering city ordinance obligations, inspections, records, and annual governance tasks.",
+ "lastmod": "2026-08-25",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Chicago Condominium Association Compliance Calendar",
+   "description": "A year-round compliance calendar framework for Chicago condominium association boards, covering city ordinance obligations, inspections, records, and annual governance tasks.",
+   "datePublished": "2026-08-25",
+   "dateModified": "2026-08-25",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/chicago-condo-association-compliance-calendar"
+   },
+   "citation": [
+    "https://www.chicago.gov/city/en/depts/bacp/supp_info/condominium_ordinanceinformation.html",
+    "https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2658759",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Building Compliance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Chicago Condominium Association Compliance Calendar",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · August 25, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A Chicago condominium compliance calendar is a single dated schedule that assigns an owner and a due date to every recurring obligation the association carries: city inspections and registrations that apply to your building, insurance and financial deadlines, governance events like the annual meeting and budget adoption, and records requests that must be answered within a set window. The point is not to memorize the rules. The point is that nothing depends on someone remembering.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Build it once, in a shared calendar the board and manager both see, with a named person on every entry. Then verify the specific city obligations that apply to your property, because they vary with building height, construction type, systems, age, and use. Chicago's Department of Buildings and Department of Business Affairs and Consumer Protection publish current requirements, and your association counsel can confirm which apply to you. Do not assume a checklist from another building transfers to yours.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Start by Identifying Which Obligations Apply",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Chicago's requirements are building-specific. A four-flat conversion, a mid-rise with an elevator and a fire pump, and a high-rise with a life safety evaluation obligation do not share the same inspection schedule. Before scheduling anything, produce a written inventory of your building's regulated systems and features.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Inventory to compile",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Building height, stories, occupancy classification, and year of construction.",
+    "Elevators and any conveyance equipment.",
+    "Fire alarm, sprinkler, standpipe, fire pump, and emergency lighting systems.",
+    "Boilers, pressure vessels, and mechanical equipment subject to inspection.",
+    "Facade and exterior wall conditions relevant to any critical examination obligation.",
+    "Backflow prevention devices and any water-system components.",
+    "Amenities such as pools, garages, and commercial space, which can carry their own requirements."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "With that inventory in hand, confirm the applicable inspection frequency, filing method, and fee for each item with the city department that administers it, or through counsel. Where you cannot verify a requirement from an official source, treat it as unverified and confirm it rather than guessing at a deadline.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Layer In the Association's Own Governance Calendar",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "City compliance is only half the year. The Illinois Condominium Property Act and your declaration create their own recurring obligations, and these are the ones owners notice when they slip.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Recurring governance items",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Annual meeting and election, noticed as your documents require.",
+    "Budget preparation, owner distribution, and adoption before the fiscal year starts.",
+    "Regular open board meetings with notice and minutes.",
+    "Annual financial reporting to owners.",
+    "Insurance renewal review and certificate distribution.",
+    "Records requests, which carry a response window under the statute. Confirm the current window and the permissible fee with counsel.",
+    "Resale disclosure and paid assessment letter turnaround for unit sales.",
+    "Reserve study review or update on the cycle the board has adopted."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Boards that manage these through <a href=\"/services/board-support\">structured board support</a> tend to have far cleaner minute books, which matters when a lender, buyer, or insurer asks for documentation on short notice.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Structure the Calendar So It Actually Gets Used",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "One system, not five",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If inspection dates live with the engineer, insurance dates live with the broker, and meeting dates live in someone's email, you do not have a calendar. Consolidate into one shared system with recurring entries.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Owner, not committee",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every entry needs a single named responsible party, with the board as backstop. \"The board will handle it\" is how deadlines die.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Lead time, not due date",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Set the reminder at the point work must begin, not the day it is due. A facade examination or a fire pump test cannot be scheduled the week it is owed.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Evidence attached",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Store the completed report, receipt, or filing confirmation against the calendar entry. Compliance you cannot document is compliance you may have to redo.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Compile a written inventory of building systems, height, age, and amenities.",
+    "Verify each applicable city requirement with the administering department or counsel rather than assuming.",
+    "Add all governance dates: annual meeting, budget, financial reporting, insurance renewal.",
+    "Assign one named owner and a lead-time reminder to every entry.",
+    "Establish a standing process and response clock for owner records requests.",
+    "Attach completion evidence to each entry and retain it in the association records.",
+    "Review the full calendar with the board once a year, after the annual meeting.",
+    "Re-verify requirements annually, since city rules and fees can change."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Where Compliance and Maintenance Overlap",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Many compliance items are really maintenance items with a filing attached. A fire pump test is both. Coordinating inspection scheduling with your vendor calendar prevents the common failure where an inspection is due, the vendor has a four-week lead time, and nobody called. Our maintenance coordination work is built around that overlap, and full-building compliance calendars are part of condominium management.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Educational Information, Not Legal Advice",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is general educational information for Illinois condominium boards and is not legal advice. Chicago ordinance requirements depend on your specific building and change over time, and obligations differ between the Illinois Condominium Property Act and the Common Interest Community Association Act. Confirm current requirements with the appropriate city department and have association counsel interpret your governing documents.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/illinois-association-annual-meeting-guide\">Annual meeting notice, quorum and minutes</a>; <a href=\"/blog/illinois-condo-board-elections-proxies-ballots\">board elections, proxies and secret ballots</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Build Your Calendar With Us",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If your board is not certain which requirements apply to your building, that is the place to start. Stellar Property Management supports condominium boards throughout <a href=\"/property-management-chicago\">Chicago</a>. <a href=\"/contact\">Contact us</a> for a consultation and we will walk your board through building a compliance calendar it can actually maintain.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.chicago.gov/city/en/depts/bacp/supp_info/condominium_ordinanceinformation.html\">City of Chicago Condominium Ordinance Information</a>",
+    "<a href=\"https://codelibrary.amlegal.com/codes/chicago/latest/chicago_il/0-0-0-2658759\">Chicago Municipal Code (American Legal Publishing)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>"
+   ]
+  }
+ ]
+}

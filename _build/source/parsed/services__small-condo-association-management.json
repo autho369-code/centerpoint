@@ -1,0 +1,345 @@
+{
+ "path": "/services/small-condo-association-management",
+ "title": "Small Condo Association Management Chicago | Stellar",
+ "description": "Full-service management for small Chicago condo associations and vintage buildings: finances, vendors, maintenance, compliance, owner communication, and board continuity.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/small-condo-association-management#service",
+   "name": "Small Condo Association Management in Chicago",
+   "serviceType": "Small Condominium Association Management",
+   "url": "https://www.stellarpropertygroup.com/services/small-condo-association-management",
+   "description": "Full-service management for small Chicago condominium associations and vintage buildings, including finances, vendors, maintenance, compliance, and board continuity.",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": {
+    "@type": "City",
+    "name": "Chicago"
+   },
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "price": 20,
+     "priceCurrency": "USD",
+     "unitText": "per unit per month",
+     "description": "Starting price; customized flat monthly proposal."
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Small Condo Association Management",
+     "item": "https://www.stellarpropertygroup.com/services/small-condo-association-management"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Stellar work with small and boutique condominium associations?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar provides full-service association management for small Chicago condo buildings and vintage conversions as well as larger communities. The service is for condominium associations, not rental apartments."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can a small association afford professional management?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pricing starts at $20 per unit per month, with a customized flat monthly proposal based on the actual scope. The board can compare the fee with the time, continuity, reporting, collections, vendor, maintenance, and compliance responsibilities currently carried by volunteers."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What problems does management solve for a self-managed condo?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Professional management replaces scattered inboxes, spreadsheets, and verbal handoffs with board-ready financials, owner ledgers, insured-vendor records, meeting and decision documentation, a maintenance calendar, consistent communications, and records that survive board turnover."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Will the board still control decisions?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. The board retains its governing authority. Stellar organizes information, carries out authorized work, tracks deadlines, and gives directors a dependable operating system so they can make and document decisions more effectively."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How does a small association transition to Stellar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Onboarding begins with a records inventory and a 30–60 day handoff covering governing documents, banking, owner balances, contracts, insurance, tax and corporate records, minutes, warranties, keys, open issues, and planned work."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "For Boutique Chicago Buildings",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h1",
+   "html": "Small Condo Association Management in <em>Chicago.</em>",
+   "cls": "text-balance font-display text-5xl font-light leading-[1.04] text-ink lg:text-6xl xl:text-7xl"
+  },
+  {
+   "type": "p",
+   "html": "A smaller building still has legal obligations, shared assets, vendor contracts, reserves, and owner expectations. Stellar gives volunteer boards a professional operating system without treating the community like a number.",
+   "cls": "text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Why Small Boards Call",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Professional structure without <em>big-firm distance.</em>",
+   "cls": "font-display text-4xl font-light leading-tight text-ink lg:text-5xl"
+  },
+  {
+   "type": "p",
+   "html": "Small associations often run well until a major repair, delinquency, insurance renewal, difficult rule dispute, or board turnover exposes the limits of volunteer systems. Professional management should not remove the board’s authority; it should give directors better records, reliable execution, and enough time to govern.",
+   "cls": "mt-7 text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Volunteer overload",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Replace scattered owner spreadsheets, inboxes, and verbal handoffs with an operating calendar, documented responsibilities, and one accountable manager.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Financial blind spots",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Build board-ready budgets and monthly reports, track receivables, preserve invoice support, and make reserve needs visible before a project becomes an emergency.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Vendor dependence",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Create clear scopes, obtain comparable bids, verify insurance, document approvals, and keep service history available to future boards.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Inconsistent enforcement",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Use the declaration, bylaws, rules, notices, and hearing process consistently so decisions are documented and defensible.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Deferred maintenance",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Turn roofs, masonry, porches, plumbing, and shared mechanical systems into planned work instead of recurring owner emergencies.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "h3",
+   "html": "Board turnover",
+   "cls": "mb-4 font-display text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Keep records, contracts, decisions, owner balances, and open issues in a durable system that does not leave when a director’s term ends.",
+   "cls": "text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "The Stellar Fit",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Full-service association management, <em>right-sized.</em>",
+   "cls": "font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Condominium associations and vintage conversions—not apartment rentals",
+    "A dedicated manager and direct board communication",
+    "Full-service financial, governance, maintenance, and owner support",
+    "AppFolio portals for payments, documents, requests, and reporting",
+    "Flat-fee proposals starting at $20 per unit per month",
+    "A managed transition from self-management or another company"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "From Self-Managed to Stable",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "A transition that protects the board’s <em>institutional memory.</em>",
+   "cls": "mb-8 font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "For a self-managed association, onboarding begins with a records inventory: governing documents, bank authority, owner ledger, contracts, insurance, tax and corporate records, meeting minutes, warranties, keys, open violations, and planned work. We then establish the annual calendar and move routine administration into systems the whole board can see.",
+   "cls": "mb-6 text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "For an association leaving another manager, Stellar coordinates the 30–60 day handoff and tracks missing items until the record is complete. The result is continuity for owners and a clean starting point for the incoming board-manager partnership.",
+   "cls": "mb-8 text-lg font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "What small condo boards ask before hiring management.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Does Stellar work with small and boutique condominium associations?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar provides full-service association management for small Chicago condo buildings and vintage conversions as well as larger communities. The service is for condominium associations, not rental apartments.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Can a small association afford professional management?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Pricing starts at $20 per unit per month, with a customized flat monthly proposal based on the actual scope. The board can compare the fee with the time, continuity, reporting, collections, vendor, maintenance, and compliance responsibilities currently carried by volunteers.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What problems does management solve for a self-managed condo?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Professional management replaces scattered inboxes, spreadsheets, and verbal handoffs with board-ready financials, owner ledgers, insured-vendor records, meeting and decision documentation, a maintenance calendar, consistent communications, and records that survive board turnover.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Will the board still control decisions?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Yes. The board retains its governing authority. Stellar organizes information, carries out authorized work, tracks deadlines, and gives directors a dependable operating system so they can make and document decisions more effectively.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How does a small association transition to Stellar?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Onboarding begins with a records inventory and a 30–60 day handoff covering governing documents, banking, owner balances, contracts, insurance, tax and corporate records, minutes, warranties, keys, open issues, and planned work.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Choosing &amp; Improving Management",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Selecting, evaluating, and transitioning association management with stronger systems and accountability.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where we practice <em>Small Condo Management.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "This work looks different block to block. See how we serve the communities where it concentrates.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "path": "/blog/illinois-condo-developer-turnover-checklist",
+ "title": "Developer Turnover: What an Illinois Association Board Shou…",
+ "description": "A collection checklist for Illinois associations at developer turnover: documents, financial records, warranties, as-builts, keys, and professional reviews.",
+ "lastmod": "2026-09-11",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Developer Turnover: What an Illinois Association Board Should Collect",
+   "description": "A collection checklist for Illinois associations at developer turnover: documents, financial records, warranties, as-builts, keys, and professional reviews.",
+   "datePublished": "2026-09-11",
+   "dateModified": "2026-09-11",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-developer-turnover-checklist"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62",
+    "https://singlefamily.fanniemae.com/originating-underwriting/condo-co-op-and-pud-eligibility"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Developer Turnover: What an Illinois Association Board Should Collect",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 11, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The short answer: at developer turnover an Illinois association board should collect the complete governance, financial, construction, and warranty record for the property, and it should engage independent counsel and an independent engineer or accountant to review what it receives. The Illinois Condominium Property Act addresses the transfer of control and delivery of records for condominiums, and CICAA addresses transition for non-condominium common interest communities. The specific items and timelines are statute- and document-dependent, so have association counsel confirm exactly what your association is entitled to receive and by when.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Turnover is a leverage moment. Once the developer's involvement ends and personnel move on, reconstructing missing as-builts, warranty documentation, or accounting detail becomes expensive or impossible. Boards that show up with a written collection list and independent advisors get a materially better handoff than boards that accept a box of binders and a friendly meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Governance and Legal Records",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Recorded declaration, bylaws, plat, and every recorded amendment.",
+    "Articles of incorporation, corporate filings, and evidence of good standing.",
+    "Minutes and resolutions from the developer-controlled board period.",
+    "The complete owner roster with unit or lot designations and percentage interests.",
+    "All contracts binding the association, including any affiliated-party agreements.",
+    "Any easements, licenses, or agreements with neighboring parcels."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Our <a href=\"/services/board-support\">board support services</a> help a new owner-controlled board organize these records from its first meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Financial Records",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Request full accounting for the developer-control period, not just summary reports: bank statements, general ledger detail, assessment billing and receipt history, budgets, tax filings, and the calculation of any reserve or working capital contribution transferred to the association. Ask counsel whether an independent audit or review of the developer-control period is warranted, and obtain control of all bank accounts, signatory authority, and online banking credentials before the meeting ends. Establishing clean financial management from day one is far easier than untangling a shared account later.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Construction, Warranty, and Building Records",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "As-built plans and specifications for the buildings and site.",
+    "Certificates of occupancy and permit records.",
+    "Product and system warranties with transfer documentation and registration confirmations.",
+    "Operation and maintenance manuals for mechanical, elevator, life-safety, and roofing systems.",
+    "Subcontractor and supplier contact list.",
+    "Inspection, testing, and commissioning reports.",
+    "Keys, fobs, master key systems, access-control credentials, and alarm codes."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Independent Review Is the Point",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Collecting boxes is not the same as knowing what you received. Engage an engineer to conduct a transition study of building conditions and to identify construction issues while warranties may still be available, and engage counsel to review the documents and advise on any claims and deadlines. Commission or update a reserve study once the engineer's findings are in, because the reserve plan the developer set during control was built for sales, not for a thirty-year building.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board Checklist: Turnover Execution",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Retain independent association counsel before the turnover meeting.",
+    "Send the developer a written collection list in advance with a response date.",
+    "Inventory everything received at the meeting and note what is missing in writing.",
+    "Take control of all bank accounts, signatories, and banking credentials immediately.",
+    "Engage an engineer for a transition study of the buildings and site.",
+    "Ask counsel about audit or review of the developer-control accounting.",
+    "Register and confirm the transfer of all warranties.",
+    "Obtain and re-key or re-credential all access systems as counsel and security advise.",
+    "Place association insurance in the association's own name and verify coverage.",
+    "Commission or update the reserve study using engineer findings.",
+    "Confirm with counsel any deadlines that may apply to claims or transition obligations.",
+    "Store everything in an indexed digital archive owners and lenders can be served from."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "Why Documentation Affects Financing",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Secondary-market guidelines from Fannie Mae and Freddie Mac drive what lenders ask associations to produce during resale, including budget, reserve, insurance, and litigation information. A newly turned-over association with a complete, organized document set answers those questionnaires quickly. One with gaps creates friction for every buyer in the building.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This article is educational information for Illinois association boards and is not legal advice. Transition provisions differ between the Illinois Condominium Property Act and CICAA, and your association's counsel should interpret your governing documents and the current statute and confirm any applicable deadlines.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/new-condo-board-member-first-30-days\">The first month on the board</a>; <a href=\"/blog/illinois-condo-association-records-request-guide\">the records request deadlines</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Support Through Transition",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management guides newly turned-over condominium, HOA, and townhome boards through document collection, vendor setup, and maintenance coordination in <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Schedule a consultation</a> before your turnover meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>",
+    "<a href=\"https://singlefamily.fanniemae.com/originating-underwriting/condo-co-op-and-pud-eligibility\">Fannie Mae Condo, Co-op, and PUD Eligibility</a>"
+   ]
+  }
+ ]
+}

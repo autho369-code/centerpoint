@@ -1,0 +1,234 @@
+{
+ "path": "/resources",
+ "title": "Owner & Resident Resources | Stellar Property Management",
+ "description": "Access owner and resident resources from Stellar Property Management. Make payments, report violations, submit board nominations, and find answers to common questions.",
+ "lastmod": "2026-11-03",
+ "ld": [],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Owner &amp; Resident Portal",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Owner &amp; Resident <em>Resources.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Everything you need to manage your account, submit forms, and stay connected with your community — all in one place.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Quick Links",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What can we <em>help</em> you with?",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Select an option below to get started.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Make a Payment",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Pay assessments, dues, or fees through the secure AppFolio portal.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-8 flex-1"
+  },
+  {
+   "type": "h3",
+   "html": "Contact Management",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Reach out to our team with questions or requests.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-8 flex-1"
+  },
+  {
+   "type": "p",
+   "html": "Paying Your Assessments",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Free Assessment Payment Option: Bank <em>Bill Pay.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Owners are encouraged to use their personal bank’s Bill Pay service to pay monthly assessments. This is usually the easiest way to avoid credit card or online processing fees.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-10"
+  },
+  {
+   "type": "p",
+   "html": "Prefer to pay online instead? Use the secure AppFolio portal for one-time payments or autopay.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-10"
+  },
+  {
+   "type": "p",
+   "html": "When setting up Bill Pay, please use:",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 pb-4 border-b border-slate-200"
+  },
+  {
+   "type": "dt",
+   "html": "Payee",
+   "cls": "w-44 shrink-0 text-[10px] uppercase tracking-luxe text-slate-500 pt-1.5"
+  },
+  {
+   "type": "dd",
+   "html": "“Your Association Name”",
+   "cls": "font-display text-xl text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Mailing Address",
+   "cls": "w-44 shrink-0 text-[10px] uppercase tracking-luxe text-slate-500 pt-1.5"
+  },
+  {
+   "type": "dd",
+   "html": "5107 N. Western Avenue, Suite 1S, Chicago, IL 60625",
+   "cls": "font-display text-xl text-ink"
+  },
+  {
+   "type": "dt",
+   "html": "Memo",
+   "cls": "w-44 shrink-0 text-[10px] uppercase tracking-luxe text-slate-500 pt-1.5"
+  },
+  {
+   "type": "dd",
+   "html": "Association 4-number address (for example “1740”) and Unit Number ###",
+   "cls": "font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Your bank will mail the payment directly to Stellar Property Management. Please allow enough mailing time so your assessment is received before the due date.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Credit card or online payment processing fees, if any, are charged directly by the payment processor and are not retained by Stellar Property Management.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Online Forms",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Submit a <em>form.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Select a form below to get started. All submissions are sent directly to our management team.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed max-w-xl mx-auto"
+  },
+  {
+   "type": "p",
+   "html": "Select a form above to get started, or use the quick links to access the owner portal.",
+   "cls": "text-slate-500 text-sm font-light max-w-md mx-auto px-6"
+  },
+  {
+   "type": "p",
+   "html": "FAQ",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Frequently asked <em>questions.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Answers to common owner and resident questions.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "How do I make a payment?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Log in to the AppFolio resident portal to make one-time or recurring payments via bank transfer or credit card. If you need portal access, contact our office at 773.728.0652 or email mirsad@stellarpropertygroup.com.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do I submit a maintenance request?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance requests can be submitted through the AppFolio portal under \"Maintenance Requests.\" For after-hours emergencies (flooding, fire, elevator issues), call 773.728.0652 directly.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "Where can I find my association's governing documents?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Governing documents including bylaws, declarations, and rules are available in the document section of your AppFolio portal. Contact your property manager if you need assistance locating specific documents.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do I get access to the resident portal?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "New residents receive portal invitations during onboarding. If you haven't received yours or need a new invitation, contact our office and we'll send one to your registered email address within one business day.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "When are board meetings held?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Board meeting schedules vary by community. Check your AppFolio portal for upcoming meeting dates and agendas, or contact your dedicated property manager for the schedule.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do I report an emergency?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "For life-threatening emergencies, call 911 first. For building emergencies (flooding, fire damage, elevator entrapment), call our 24/7 emergency line at 773.728.0652. A real person will answer and dispatch help.",
+   "cls": "pb-8 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Need Help?",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Can’t find what you <em>need?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Our management team is here to help. Reach out and we’ll get you the answers or resources you need.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "path": "/blog/can-condo-boards-enter-your-unit-illinois",
+ "title": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Ex…",
+ "description": "Can an Illinois condo association enter your unit? Learn when associations have a right of access, when advance notice is required, how emergencies differ, and what owner privacy rights remain.",
+ "lastmod": "2024-02-20",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained",
+   "description": "Can an Illinois condo association enter your unit? Learn when associations have a right of access, when advance notice is required, how emergencies differ, and what owner privacy rights remain.",
+   "datePublished": "2024-02-20",
+   "dateModified": "2024-02-20",
+   "image": "https://www.stellarpropertygroup.com/blog/can-condo-boards-enter-your-unit-illinois.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/can-condo-boards-enter-your-unit-illinois"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Owner Rights",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · February 20, 2024 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Few subjects generate more heat at a condo association than the question of who can enter a private unit. Owners value their privacy, and understandably so. Boards, meanwhile, have real responsibilities for the building as a whole. Knowing where the line sits keeps a tense situation from becoming a legal one.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Short Answer: Yes, but Not Whenever They Want",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations generally do have a limited right of access to individual units. The key word is <strong>limited</strong>. The right exists for specific purposes, is usually tied to advance notice, and does not give the board a roaming key to enter on a whim. The exact terms come from your association's declaration read together with the Illinois Condominium Property Act.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "When an Association Can Enter",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The right of access exists so the association can meet its obligations for the common elements and the building as a whole. Typical legitimate reasons include inspecting, maintaining, or repairing common elements that run through or are reachable from a unit; addressing a condition inside one unit that threatens other units or the common elements — a water leak or pest infestation, for example; carrying out required inspections; and responding to emergencies.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Notice Versus Emergencies",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "For routine, non-emergency access, the association should provide reasonable advance notice — the specific requirement is set by your declaration and the Act. In a genuine emergency, such as a burst pipe, fire, or gas odor, the association can enter immediately to prevent damage or protect safety. Both owners and boards should read the declaration closely, because that is where the notice period and procedure are defined.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Owner Rights and Limits",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Owners do keep meaningful privacy protections. Any entry must be reasonable in scope and genuinely tied to a legitimate purpose — an association cannot use a maintenance pretext to look through a unit. At the same time, an owner generally cannot unreasonably refuse access for a legitimate purpose; obstructing a necessary repair can leave the owner responsible for the damage that results. The healthiest associations treat this as a two-way street: the board gives proper written notice and limits entry to what is needed, and owners cooperate with legitimate, well-communicated requests.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Best Practices for Boards",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/who-pays-condo-water-leak-illinois\">Who pays for a condo water leak</a>; <a href=\"/blog/condo-hoa-emergency-planning-checklist\">a board-ready emergency plan</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards avoid most entry disputes by being disciplined: adopt a written access policy, always give notice in writing, document every entry and its purpose, accompany any contractors, and communicate clearly with the owner before and after. Because access rules are governed by your specific declaration and the Act, boards should have the association attorney confirm the procedure. For coordinated, well-documented building access and repairs, Stellar Property Management's <a href=\"/services/maintenance-coordination\">maintenance coordination</a> team can help — <a href=\"/contact\">contact us</a> to learn more.",
+   "cls": ""
+  }
+ ]
+}

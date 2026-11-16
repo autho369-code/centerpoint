@@ -1,0 +1,290 @@
+{
+ "path": "/blog/illinois-condo-owners-independent-audit-rights",
+ "title": "Can Illinois Condo Owners Demand an Independent Audit?",
+ "description": "Illinois condo law gives owners an annual itemized accounting and records access, not a statutory audit petition. What boards should check and do.",
+ "lastmod": "2026-10-25",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Can Illinois Condo Owners Demand an Independent Audit?",
+   "description": "Illinois condo law gives owners an annual itemized accounting and records access, not a statutory audit petition. What boards should check and do.",
+   "datePublished": "2026-10-25",
+   "dateModified": "2026-10-25",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-owners-independent-audit-rights"
+   },
+   "citation": [
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.html",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K19.html",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200160/076501600K1-45.html"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can owners force an Illinois condo association to get an independent audit?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Not under the Condominium Property Act on its own. The current text of the Act does not contain an owner-petition right to compel an independent audit. What it does require is an annual itemized accounting to every owner and broad owner access to the association's financial records. Your declaration or bylaws may go further, so read them before answering owners. This matters because owners frequently borrow a rule from somewhere else. The Act does contain a 20% owner petition, but it applies to budgets and separate assessments that push the year's total assessments above 115% of the prior year (Section 18(a)(8)(ii)). That petition leads to an owner meeting on the budget or assessment. It is not an audit mechanism."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What financial information must the board give owners every year?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "An itemized accounting of the prior year's common expenses. Section 18(a)(7) requires the board to supply all owners, annually, an itemized accounting of expenses actually incurred or paid, showing which portions went to reserves, capital expenditures, repairs or real estate taxes, the amounts collected, and the net excess or deficit of income over expenditures plus reserves. Two related points are worth knowing: A change takes effect on 1 January 2027. Public Act 104-797 amends Section 18(a)(7) so that the annual accounting expressly includes receipts and expenses, and requires it to be sent electronically to owners who have authorised electronic delivery. That amendment is enacted law with a future effective date, so boards preparing the 2026 year-end package should plan for it now. Larger associations must follow GAAP. Section 18.10 requires an association of 100 or more units to use generally accepted accounting principles in fulfilling its accounting obligations under the Act."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What can an owner do if they doubt the numbers?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Inspect the books. Section 19 requires the association to keep its books and records for the current and 10 preceding fiscal years, including itemized and detailed records of all receipts, expenditures and accounts, plus any reserve study. An owner may examine and copy them on a written request that states with particularity what is sought. The enforcement teeth are real. If the board does not make the requested records available within 10 business days of receiving the written request, Section 19 treats that as a denial, and an owner who prevails in an action to compel examination is entitled to reasonable attorney's fees and costs from the association. In practice, a board that answers records requests promptly and completely removes most of the pressure behind audit demands. Our records request guide covers the workflow."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is the rule different for townhome and HOA communities under CICAA?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Slightly, and the board chooses the format. Under Section 1-45(b) of the Common Interest Community Association Act, the board must give members a reasonably detailed summary of the prior year's receipts, common expenses and reserves, and must either make an itemized accounting available for review or provide a consolidated annual independent audit report. That section does not give members a petition to compel an audit. Like the Condominium Property Act, CICAA requires associations of 100 or more units to use generally accepted accounting principles (Section 1-45(i)). Whether a particular community is governed by the Condominium Property Act or CICAA is itself a threshold question; see which Illinois law governs your association ."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Where else could an audit requirement come from?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Mostly from your own documents and contracts. Many declarations and bylaws require an annual audit, or let a stated percentage of owners demand one. A loan agreement may require audited or reviewed statements. The Act itself contemplates an end-of-year fiscal audit \"if applicable\" when it describes how a surplus may be handled (Section 9(c)(5)), which recognises audits without mandating them. If the governing documents require an audit and the association has not been obtaining one, that is a compliance gap the board should close, not argue about. If the documents give owners a petition right, the board should follow it exactly as written. Counsel should confirm how the documents read before the board responds to a formal demand."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Audit, review or compilation: which should the board order?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It depends on the risk and what the documents require. An audit is the most extensive engagement: the CPA tests transactions and balances and issues an opinion. A review provides limited assurance based mainly on inquiry and analysis. A compilation presents the numbers in financial-statement form without assurance. Your CPA should explain the scope and cost of each for your association. Boards sometimes treat the choice as purely a budget line. It is also a governance decision. An audit is the appropriate response when there has been a change of management, unexplained variances, a turnover from the developer, a suspected loss, or a loss of owner confidence that ordinary transparency has not repaired."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Should a board agree to an audit when owners ask for one?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Often yes, even when it is not legally required. A board that refuses an audit it is not obligated to provide wins the legal point and frequently loses the building's trust. Every director owes owners the care required of a fiduciary (Section 18.4), and a clean independent report is the most efficient way to answer doubt and protect the volunteers on the board. The counterweight is cost. An audit is a common expense paid by every owner. The board should get a written fee quote, explain it to owners, and decide in an open meeting. If the documents are silent and the association has had an audit recently, offering full records access first is a reasonable step."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Can Illinois Condo Owners Demand an Independent Audit?",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 25, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "It usually starts with a petition or a pointed email: a group of owners has lost confidence in the numbers and wants an independent audit. Often the request says the law requires the board to order one once enough owners ask. Before a board agrees, refuses or argues, it should know what Illinois law actually provides, because the answer is narrower than many owners expect and broader than many boards assume.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can owners force an Illinois condo association to get an independent audit?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Not under the Condominium Property Act on its own.</strong> The current text of the Act does not contain an owner-petition right to compel an independent audit. What it does require is an annual itemized accounting to every owner and broad owner access to the association's financial records. Your declaration or bylaws may go further, so read them before answering owners.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This matters because owners frequently borrow a rule from somewhere else. The Act does contain a 20% owner petition, but it applies to budgets and separate assessments that push the year's total assessments above 115% of the prior year (Section 18(a)(8)(ii)). That petition leads to an owner meeting on the budget or assessment. It is not an audit mechanism.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What financial information must the board give owners every year?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>An itemized accounting of the prior year's common expenses.</strong> Section 18(a)(7) requires the board to supply all owners, annually, an itemized accounting of expenses actually incurred or paid, showing which portions went to reserves, capital expenditures, repairs or real estate taxes, the amounts collected, and the net excess or deficit of income over expenditures plus reserves.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Two related points are worth knowing:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>A change takes effect on 1 January 2027.</strong> Public Act 104-797 amends Section 18(a)(7) so that the annual accounting expressly includes receipts and expenses, and requires it to be sent electronically to owners who have authorised electronic delivery. That amendment is enacted law with a future effective date, so boards preparing the 2026 year-end package should plan for it now.",
+    "<strong>Larger associations must follow GAAP.</strong> Section 18.10 requires an association of 100 or more units to use generally accepted accounting principles in fulfilling its accounting obligations under the Act."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "What can an owner do if they doubt the numbers?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Inspect the books.</strong> Section 19 requires the association to keep its books and records for the current and 10 preceding fiscal years, including itemized and detailed records of all receipts, expenditures and accounts, plus any reserve study. An owner may examine and copy them on a written request that states with particularity what is sought.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The enforcement teeth are real. If the board does not make the requested records available within 10 business days of receiving the written request, Section 19 treats that as a denial, and an owner who prevails in an action to compel examination is entitled to reasonable attorney's fees and costs from the association. In practice, a board that answers records requests promptly and completely removes most of the pressure behind audit demands. Our <a href=\"/blog/illinois-condo-association-records-request-guide\">records request guide</a> covers the workflow.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Is the rule different for townhome and HOA communities under CICAA?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Slightly, and the board chooses the format.</strong> Under Section 1-45(b) of the Common Interest Community Association Act, the board must give members a reasonably detailed summary of the prior year's receipts, common expenses and reserves, and must either make an itemized accounting available for review or provide a consolidated annual independent audit report. That section does not give members a petition to compel an audit.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Like the Condominium Property Act, CICAA requires associations of 100 or more units to use generally accepted accounting principles (Section 1-45(i)). Whether a particular community is governed by the Condominium Property Act or CICAA is itself a threshold question; see <a href=\"/blog/which-illinois-law-governs-condo-hoa-townhome\">which Illinois law governs your association</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Where else could an audit requirement come from?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Mostly from your own documents and contracts.</strong> Many declarations and bylaws require an annual audit, or let a stated percentage of owners demand one. A loan agreement may require audited or reviewed statements. The Act itself contemplates an end-of-year fiscal audit \"if applicable\" when it describes how a surplus may be handled (Section 9(c)(5)), which recognises audits without mandating them.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "If the governing documents require an audit and the association has not been obtaining one, that is a compliance gap the board should close, not argue about. If the documents give owners a petition right, the board should follow it exactly as written. Counsel should confirm how the documents read before the board responds to a formal demand.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Audit, review or compilation: which should the board order?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>It depends on the risk and what the documents require.</strong> An audit is the most extensive engagement: the CPA tests transactions and balances and issues an opinion. A review provides limited assurance based mainly on inquiry and analysis. A compilation presents the numbers in financial-statement form without assurance. Your CPA should explain the scope and cost of each for your association.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards sometimes treat the choice as purely a budget line. It is also a governance decision. An audit is the appropriate response when there has been a change of management, unexplained variances, a turnover from the developer, a suspected loss, or a loss of owner confidence that ordinary transparency has not repaired.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Should a board agree to an audit when owners ask for one?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Often yes, even when it is not legally required.</strong> A board that refuses an audit it is not obligated to provide wins the legal point and frequently loses the building's trust. Every director owes owners the care required of a fiduciary (Section 18.4), and a clean independent report is the most efficient way to answer doubt and protect the volunteers on the board.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The counterweight is cost. An audit is a common expense paid by every owner. The board should get a written fee quote, explain it to owners, and decide in an open meeting. If the documents are silent and the association has had an audit recently, offering full records access first is a reasonable step.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board checklist when an audit request arrives",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Read the declaration and bylaws</strong> for any audit requirement or owner petition right, and note the exact percentage and procedure if one exists.",
+    "<strong>Confirm which statute governs</strong> the association (Condominium Property Act or CICAA) with counsel.",
+    "<strong>Check the annual accounting.</strong> Confirm the last Section 18(a)(7) itemized accounting was actually delivered to every owner, and plan the 2027 electronic delivery change.",
+    "<strong>Answer records requests within 10 business days</strong> and keep a log of what was produced and when.",
+    "<strong>Get CPA quotes</strong> for an audit, a review and a compilation so the board can compare scope and cost.",
+    "<strong>Decide in an open meeting</strong>, record the reasons in the minutes, and tell owners what will be done and when.",
+    "<strong>Share the result.</strong> When the report arrives, distribute it with the management letter and the board's response to any findings."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Read next: <a href=\"/blog/read-condo-hoa-financial-statements\">How to read the monthly financials</a>; <a href=\"/blog/illinois-association-fidelity-insurance-requirements\">fidelity coverage for the association and its manager</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Stellar supports association finances",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "We prepare monthly financial packages, year-end accountings and audit support files for condominium, HOA and townhome boards across Chicago and the North Shore, and we coordinate directly with the association's independent CPA. Learn more about our <a href=\"/services/financial-management\">financial management services</a>, or <a href=\"/contact\">contact us</a> to talk through an audit request your board is facing. This article is general information, not legal advice; association counsel should review any formal demand before the board responds.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.html\">Illinois Condominium Property Act, Section 18 — Contents of bylaws (765 ILCS 605/18)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K19.html\">Illinois Condominium Property Act, Section 19 — Records of the association (765 ILCS 605/19)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200160/076501600K1-45.html\">Common Interest Community Association Act, Section 1-45 — Finances (765 ILCS 160/1-45)</a>"
+   ]
+  }
+ ]
+}

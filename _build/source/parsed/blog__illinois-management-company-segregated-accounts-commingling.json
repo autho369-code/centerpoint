@@ -1,0 +1,295 @@
+{
+ "path": "/blog/illinois-management-company-segregated-accounts-commingling",
+ "title": "Association Money and Your Management Company: Illinois Rules",
+ "description": "Illinois requires managers to keep each association’s funds in separate custodial accounts in its own name. What 225 ILCS 427/55 means for boards.",
+ "lastmod": "2026-10-29",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Association Money and Your Management Company: Illinois Rules",
+   "description": "Illinois requires managers to keep each association’s funds in separate custodial accounts in its own name. What 225 ILCS 427/55 means for boards.",
+   "datePublished": "2026-10-29",
+   "dateModified": "2026-10-29",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-management-company-segregated-accounts-commingling"
+   },
+   "citation": [
+    "https://www.ilga.gov/ftp/ILCS/Ch%200225/Act%200427/022504270K55.html",
+    "https://www.ilga.gov/ftp/Public%20Acts/104/104-0746.htm",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.7.html",
+    "https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.html"
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can a management company hold association money in its own account?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. Under Section 55(b) of the Community Association Manager Licensing and Disciplinary Act, a firm that manages more than one association must keep separate, segregated accounts for each one. The funds may not be commingled with the funds of the manager, the firm or any other association, the accounts are custodial, and each must be in the name of the respective association. The Condominium Property Act contains a parallel rule for individual managers. Section 18.7(e) requires a community association manager serving more than one association to keep separate, segregated accounts for each, never commingled with the manager's funds, the firm's funds or any other association's funds, and held in the name of the respective association."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What does \"custodial\" and \"in the name of the association\" mean in practice?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The association owns the account; the firm only administers it. The bank's records should show the association as the account owner, using the association's own taxpayer identification number. The firm may have signing or online access under the board's authority, but the money is not the firm's asset and should never appear on the firm's balance sheet. This is also what protects the association if the firm has creditors. The Condominium Property Act provides that operating and reserve funds held by a management company for an association are not subject to attachment by the firm's creditors (Section 18(g)). Accounts titled in the association's name make that protection straightforward to prove."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is a pooled account ever allowed?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Treat it as a question for counsel, not a convenience. An older bylaws provision in the Condominium Property Act, Section 18(g), lets a board authorize a management company to hold reserves in a single interest-bearing investment account with other associations' funds, and lets a firm hold operating funds in one account if it keeps records identifying each association's money. The later licensing statute is stricter: a licensed firm managing more than one association must keep segregated accounts and must not commingle one association's funds with any other's. Because both provisions are on the books, the board should have association counsel confirm how they apply. In practice, separate custodial accounts in the association's own name satisfy both, and that is the arrangement we recommend boards insist on."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What happens if a firm commingles funds?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It risks license discipline. Section 85 of the licensing Act lists, as a ground for discipline, failing to maintain and deposit association funds in accordance with Section 55(b). The Department of Financial and Professional Regulation may impose a fine of up to $10,000 for each violation, in addition to reprimand, probation, suspension or revocation. Public Act 104-746, effective 31 July 2026, also added Section 55(c-5), which gives the Department authority to audit or inspect any electronic or physical record, account, document, book, form or file the Act requires to be created or maintained. That Act extended the licensing law, previously scheduled for repeal on 1 January 2027, to 1 January 2032. Boards can check a firm's and manager's license status before signing; see how to verify an Illinois manager's license ."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who should be able to move the association's money?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Never one person alone without coverage and controls. For associations of 6 or more units, Section 18.7(d) of the Condominium Property Act says a manager or firm may not solely and exclusively have access to and disburse association funds unless a fidelity bond is in place covering all funds in its custody or control. Licensed firms must also carry fidelity or crime coverage under Section 55(a). Insurance pays after a loss; controls prevent one. The bylaws must state the method of approving payment vouchers (Section 18(f)), and the board should make that method real: defined approval limits, board approval for transfers out of reserves, and separation between the person who enters a payment and the person who releases it."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Must the manager disclose money it receives from vendors?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Section 85 also makes it a ground for discipline to fail to disclose to the association any compensation a licensee receives from a third party in connection with a transaction entered into on the association's behalf, or to fail to disclose, at the time of a referral, a greater than 1% ownership interest in the referred third party or certain profit-sharing from it. Boards should ask for these disclosures in writing at contract signing and each year, and the management agreement should require them. Our guide to reviewing a management agreement covers the clauses to look for."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What should the board receive every month?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Proof that the money is where the reports say it is. A board should not rely on a summary balance alone. The monthly package should let the treasurer tie every account balance to a bank statement in the association's name and see who approved each disbursement. Bank statements for every operating, reserve and investment account, showing the association as owner. Bank reconciliations for each account, with outstanding items explained. A check and electronic payment register with approver names. A list of all accounts and authorised signers, updated whenever it changes. The treasurer does not need accounting training to use this package. Ticking each reported balance to the bank's own statement, and asking about anything that does not match, catches most problems early. When the board changes management companies, the same list of accounts and signers becomes the transition checklist: every account should move, or have its signers changed, on a documented date."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Association Money and Your Management Company: Illinois Rules",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 29, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "When a management firm fails, the first question every board asks is whether the association's money is safe. The answer depends almost entirely on one thing: whether the funds were held in accounts that belong to the association, or in accounts that belong to the firm. Illinois law addresses this directly, and a board can verify compliance without an audit.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Can a management company hold association money in its own account?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>No.</strong> Under Section 55(b) of the Community Association Manager Licensing and Disciplinary Act, a firm that manages more than one association must keep separate, segregated accounts for each one. The funds may not be commingled with the funds of the manager, the firm or any other association, the accounts are custodial, and each must be in the name of the respective association.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The Condominium Property Act contains a parallel rule for individual managers. Section 18.7(e) requires a community association manager serving more than one association to keep separate, segregated accounts for each, never commingled with the manager's funds, the firm's funds or any other association's funds, and held in the name of the respective association.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What does \"custodial\" and \"in the name of the association\" mean in practice?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>The association owns the account; the firm only administers it.</strong> The bank's records should show the association as the account owner, using the association's own taxpayer identification number. The firm may have signing or online access under the board's authority, but the money is not the firm's asset and should never appear on the firm's balance sheet.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is also what protects the association if the firm has creditors. The Condominium Property Act provides that operating and reserve funds held by a management company for an association are not subject to attachment by the firm's creditors (Section 18(g)). Accounts titled in the association's name make that protection straightforward to prove.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Is a pooled account ever allowed?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Treat it as a question for counsel, not a convenience.</strong> An older bylaws provision in the Condominium Property Act, Section 18(g), lets a board authorize a management company to hold reserves in a single interest-bearing investment account with other associations' funds, and lets a firm hold operating funds in one account if it keeps records identifying each association's money.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "The later licensing statute is stricter: a licensed firm managing more than one association must keep segregated accounts and must not commingle one association's funds with any other's. Because both provisions are on the books, the board should have association counsel confirm how they apply. In practice, separate custodial accounts in the association's own name satisfy both, and that is the arrangement we recommend boards insist on.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What happens if a firm commingles funds?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>It risks license discipline.</strong> Section 85 of the licensing Act lists, as a ground for discipline, failing to maintain and deposit association funds in accordance with Section 55(b). The Department of Financial and Professional Regulation may impose a fine of up to $10,000 for each violation, in addition to reprimand, probation, suspension or revocation.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Public Act 104-746, effective 31 July 2026, also added Section 55(c-5), which gives the Department authority to audit or inspect any electronic or physical record, account, document, book, form or file the Act requires to be created or maintained. That Act extended the licensing law, previously scheduled for repeal on 1 January 2027, to 1 January 2032. Boards can check a firm's and manager's license status before signing; see <a href=\"/blog/verify-illinois-community-association-manager-license\">how to verify an Illinois manager's license</a>.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Who should be able to move the association's money?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Never one person alone without coverage and controls.</strong> For associations of 6 or more units, Section 18.7(d) of the Condominium Property Act says a manager or firm may not solely and exclusively have access to and disburse association funds unless a fidelity bond is in place covering all funds in its custody or control. Licensed firms must also carry fidelity or crime coverage under Section 55(a).",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Insurance pays after a loss; controls prevent one. The bylaws must state the method of approving payment vouchers (Section 18(f)), and the board should make that method real: defined approval limits, board approval for transfers out of reserves, and separation between the person who enters a payment and the person who releases it.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Must the manager disclose money it receives from vendors?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Yes.</strong> Section 85 also makes it a ground for discipline to fail to disclose to the association any compensation a licensee receives from a third party in connection with a transaction entered into on the association's behalf, or to fail to disclose, at the time of a referral, a greater than 1% ownership interest in the referred third party or certain profit-sharing from it.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards should ask for these disclosures in writing at contract signing and each year, and the management agreement should require them. Our guide to <a href=\"/blog/community-association-management-agreement-review\">reviewing a management agreement</a> covers the clauses to look for.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What should the board receive every month?",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "<strong>Proof that the money is where the reports say it is.</strong> A board should not rely on a summary balance alone. The monthly package should let the treasurer tie every account balance to a bank statement in the association's name and see who approved each disbursement.",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Bank statements for every operating, reserve and investment account, showing the association as owner.",
+    "Bank reconciliations for each account, with outstanding items explained.",
+    "A check and electronic payment register with approver names.",
+    "A list of all accounts and authorised signers, updated whenever it changes."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "The treasurer does not need accounting training to use this package. Ticking each reported balance to the bank's own statement, and asking about anything that does not match, catches most problems early. When the board changes management companies, the same list of accounts and signers becomes the transition checklist: every account should move, or have its signers changed, on a documented date.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Board checklist: confirming your funds are segregated",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>List every account</strong> holding association money, including reserves and any certificates of deposit or investment accounts.",
+    "<strong>Confirm the titling.</strong> Each account should be in the association's legal name and under its own taxpayer identification number.",
+    "<strong>Get read-only bank access</strong> for the treasurer, or have statements delivered directly from the bank.",
+    "<strong>Confirm signers and approval limits</strong> match a board resolution.",
+    "<strong>Ask the firm in writing</strong> whether any association money passes through a firm account at any point, including during payment processing, and how long it stays there.",
+    "<strong>Request the firm's fidelity or crime certificate</strong> and its general liability and errors and omissions certificates.",
+    "<strong>Collect third-party compensation and referral-interest disclosures.</strong>",
+    "<strong>Have counsel review</strong> any pooled or sweep arrangement before the board authorises it."
+   ]
+  },
+  {
+   "type": "h2",
+   "html": "How Stellar holds association funds",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/illinois-association-fidelity-insurance-requirements\">Illinois fidelity insurance requirements</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Every association we manage has its own accounts in its own name, with board-approved signers and statements the board can see directly. Learn more about our <a href=\"/services/financial-management\">financial management services</a>, or <a href=\"/contact\">contact us</a> to review how your association's money is held today. This article is general information, not legal advice; association counsel should confirm how these statutes apply to your community.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200225/Act%200427/022504270K55.html\">Community Association Manager Licensing and Disciplinary Act, Section 55 (225 ILCS 427/55)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/Public%20Acts/104/104-0746.htm\">Illinois Public Act 104-746 (amending 225 ILCS 427, effective July 31, 2026)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.7.html\">Illinois Condominium Property Act, Section 18.7 — Standards for community association managers (765 ILCS 605/18.7)</a>",
+    "<a href=\"https://www.ilga.gov/ftp/ILCS/Ch%200765/Act%200605/076506050K18.html\">Illinois Condominium Property Act, Section 18 — Contents of bylaws (765 ILCS 605/18)</a>"
+   ]
+  }
+ ]
+}

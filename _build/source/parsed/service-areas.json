@@ -1,0 +1,290 @@
+{
+ "path": "/service-areas",
+ "title": "Chicago Condo & HOA Management Areas | Stellar",
+ "description": "Condo, HOA, and townhome association management across Chicago and the North Shore, including Evanston, Wilmette, Winnetka, and Highland Park.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Service",
+   "name": "Chicago Condo and HOA Management Service Areas",
+   "description": "Professional property management serving Chicago neighborhoods and North Shore communities. Condominium, HOA, and townhome management.",
+   "url": "https://www.stellarpropertygroup.com/service-areas",
+   "serviceType": "Community Association Management",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "Place",
+     "name": "Lincoln Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Lakeview, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Rogers Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Edgewater, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Uptown, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Andersonville, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Ravenswood, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Lincoln Square, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Albany Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Roscoe Village, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Bucktown, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Wicker Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Logan Square, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Ukrainian Village, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "River North, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Streeterville, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Gold Coast, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Old Town, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Loop, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "South Loop, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "West Loop, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Hyde Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Kenwood, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Edison Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Portage Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Irving Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Avondale, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "North Park, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Mayfair, Chicago, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Evanston, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Skokie, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Lincolnwood, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Morton Grove, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Norridge, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Glenview, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Wilmette, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Winnetka, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Highland Park, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Northbrook, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Glencoe, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Kenilworth, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Lake Forest, IL"
+    },
+    {
+     "@type": "Place",
+     "name": "Deerfield, IL"
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Atlas · Chicago &amp; The North Shore",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Chicago Condo &amp; HOA Management <em>Service Areas.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management proudly serves 43 communities across Chicago and the North Shore. From lakefront high-rises to suburban townhome communities, we deliver professional management wherever you call home.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "43 Communities • Condominiums • HOAs • Townhomes",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "43",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Neighborhoods Served",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "2007",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Established",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "29",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Associations Managed",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "24/7",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Emergency Service",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "The City",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-300 mb-3"
+  },
+  {
+   "type": "p",
+   "html": "The Region",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-300 mb-3"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago Neighborhoods",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink"
+  },
+  {
+   "type": "h2",
+   "html": "North Shore Communities",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Beyond the Map",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Don’t see your <em>neighborhood?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "We're always expanding our service area across Chicagoland. Contact us to discuss your property management needs — we'd love to see how we can help your community.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

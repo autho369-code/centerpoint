@@ -1,0 +1,202 @@
+{
+ "path": "/blog/illinois-association-late-fees-interest-policy",
+ "title": "Late Fees and Interest: Building a Defensible Association P…",
+ "description": "How Illinois condo and HOA boards build a late fee and interest policy that is authorized by their documents, applied consistently, and survives owner challenge.",
+ "lastmod": "2026-09-04",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Late Fees and Interest: Building a Defensible Association Policy",
+   "description": "How Illinois condo and HOA boards build a late fee and interest policy that is authorized by their documents, applied consistently, and survives owner challenge.",
+   "datePublished": "2026-09-04",
+   "dateModified": "2026-09-04",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-association-late-fees-interest-policy"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Late Fees and Interest: Building a Defensible Association Policy",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 4, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A defensible late fee and interest policy rests on two things: authority and consistency. Authority means your governing documents, read alongside the Illinois statute that governs your association, permit the charge you are imposing. Consistency means you apply it the same way to every owner, every month, without exception granted informally. Boards that lose these disputes almost never lose because the fee was a few dollars too high. They lose because they cannot show where the authority came from, or because they waived it for one owner and enforced it against another.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Start by asking your association's attorney a narrow question: under our declaration, bylaws, and the statute that governs us, what late charges and interest may this board impose, and what notice must we give? Everything in this article assumes you have that answer in writing. Do not derive it from what a neighboring association does.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Authority comes from your documents plus the right statute",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations operate under the Condominium Property Act. Many Illinois homeowners and townhome associations operate under CICAA. The two statutes are distinct, and each interacts differently with an association's recorded documents. A charge that is clearly supported for one association may lack support for another down the street.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Within your own documents, look for three separate grants: the authority to charge a late fee, the authority to charge interest on unpaid amounts, and the authority to recover collection costs. These are not the same authority, and documents sometimes grant one without the others. Have counsel confirm which of the three your association actually has and on what terms.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "What a written policy should contain",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "The due date for assessments and the grace period, if any.",
+    "The late fee amount or calculation, stated exactly.",
+    "The interest rate, if charged, and how and when it accrues.",
+    "The order in which payments are applied to charges on an account.",
+    "The notice the association sends before escalation, and on what schedule.",
+    "The point at which the account is referred to counsel.",
+    "The process for an owner to dispute a charge and who reviews it.",
+    "The specific document provision that authorizes each element."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Payment application order is the sleeper issue",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "When an owner sends a partial payment, does it go to the oldest assessment, to accrued fees, or to the current month? The answer determines whether a balance ever clears and whether an owner can accuse the association of manufacturing perpetual delinquency. Decide it in advance, put it in the policy, confirm it with counsel, and code it into your accounting system so nobody applies payments by feel.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Consistency is a system problem, not a willpower problem",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards do not intend to be inconsistent. They become inconsistent because the process depends on a person deciding each month whether to post charges. The fix is automation plus a documented exception path. Post late charges on a fixed schedule by system rule. If the board wants to waive a charge, require a written request, a stated reason, and a recorded board vote -- then apply the same standard to the next request.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This is a large part of what our <a href=\"/services/financial-management\">financial management</a> service does mechanically: charges post on schedule, notices generate on schedule, and the audit trail exists whether or not anyone remembered to look. Selective enforcement is much harder to commit when the system enforces the calendar.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Notice, tone, and escalation",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Escalation should be predictable and unemotional. A reasonable structure many boards adopt, subject to counsel review and your documents:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Statement showing the balance and the charge, sent on the same day each month.",
+    "Written reminder after the first missed cycle, factual, with the ledger attached.",
+    "Formal notice after a defined further period, stating the next step and the deadline.",
+    "Referral to counsel at a threshold the board has adopted in advance."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Adopt the referral threshold as a policy number, not as a case-by-case judgment. Boards that decide \"when to send this one to the attorney\" one owner at a time end up with a discrimination argument they did not intend to create.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Board checklist: adopting the policy",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Ask counsel to identify the governing statute and the authorizing document provisions.",
+    "Draft the policy with amounts, dates, and calculations stated explicitly.",
+    "Have counsel review the draft before adoption, including notice requirements.",
+    "Adopt it by recorded board vote at an open meeting.",
+    "Distribute it to all owners and include it in resale disclosure materials.",
+    "Configure the accounting system to match the policy exactly.",
+    "Require written, voted exceptions -- no informal waivers.",
+    "Review the policy annually with counsel for continued compliance."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for Illinois association boards and is not legal advice. Your association's governing documents control, and your attorney should confirm current statutory requirements, permitted charges, and required notices before adoption.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/condo-hoa-delinquency-escalation-process\">The delinquency escalation steps</a>; <a href=\"/blog/illinois-condo-hoa-collection-policy-january-2027\">the collection policy boards must adopt by January 1, 2027</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Whether you run a homeowners association or a condominium, Stellar can help implement the policy your counsel approves. <a href=\"/contact\">Request a consultation</a> to review your current collections practice.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

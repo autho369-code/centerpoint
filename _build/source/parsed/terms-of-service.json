@@ -1,0 +1,139 @@
+{
+ "path": "/terms-of-service",
+ "title": "Terms of Service | Stellar Property Management",
+ "description": "Terms of use for stellarpropertygroup.com, including form submission rules, third-party portal terms, fair housing commitment, and accessibility statement.",
+ "lastmod": "2026-11-03",
+ "ld": [],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Legal · Effective July 3, 2026",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Terms of <em>Service.</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The rules of the road for using stellarpropertygroup.com — including our fair housing commitment and accessibility statement.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed max-w-2xl"
+  },
+  {
+   "type": "h2",
+   "html": "Use of This Website",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "This website is provided by Stellar Property Management, Inc. (“Stellar”) for general information about our community association management services and as a convenience for the boards, owners, and residents of the communities we manage. By using this website you agree to these Terms of Service. If you do not agree, please do not use the site.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Not Professional Advice",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Content on this website — including blog articles, FAQs, and service descriptions — is provided for general informational purposes only and does not constitute legal, financial, accounting, or other professional advice. Community associations should consult their own attorney or accountant regarding the Illinois Condominium Property Act, their governing documents, and any specific legal or financial matter.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Portals, Payments &amp; Third-Party Services",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Assessment payments, maintenance requests, and account access are provided through the AppFolio owner and resident portal, a third-party service governed by its own terms of use and privacy policy. Stellar does not process or store payment card or bank account information on this website. Links to third-party websites are provided for convenience; Stellar is not responsible for their content or practices.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Form Submissions",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Information submitted through this website (contact requests, violation reports, board nominations) must be truthful and submitted in good faith. Violation reports and board nominations become part of the relevant association’s records and are handled in accordance with the association’s governing documents and Illinois law. Knowingly submitting false or malicious reports is prohibited. Submitting a form does not create a management, agency, or fiduciary relationship between you and Stellar.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Intellectual Property",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "The Stellar Property Management name, logo, and the content, design, and layout of this website are the property of Stellar Property Management, Inc. or its licensors. You may not reproduce, distribute, or create derivative works from this website’s content for commercial purposes without our prior written consent.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Acceptable Use",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "You agree not to misuse this website — including attempting to gain unauthorized access to any systems, interfering with the site’s operation, scraping content for competitive purposes, submitting spam through our forms, or using the site for any unlawful purpose.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Disclaimers &amp; Limitation of Liability",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "This website is provided “as is” and “as available” without warranties of any kind, express or implied. While we work to keep information current and accurate, we do not warrant that the site will be uninterrupted, error-free, or that content is complete or up to date. To the fullest extent permitted by law, Stellar Property Management shall not be liable for any indirect, incidental, consequential, or punitive damages arising from your use of this website. Nothing in these terms limits any obligation Stellar owes under a written management agreement with an association.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Fair Housing Commitment",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management is committed to compliance with the federal Fair Housing Act, the Illinois Human Rights Act, and the Chicago Fair Housing Ordinance. We conduct our business without regard to race, color, religion, national origin, sex, disability, familial status, or any other protected class, and we support the boards we serve in doing the same.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Accessibility",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "We want this website to be usable by everyone. We aim to follow the Web Content Accessibility Guidelines (WCAG) 2.1 AA and continue to improve accessibility over time. If you encounter difficulty using any part of this site, contact us at 773.728.0652 or <a href=\"mailto:mirsad@stellarpropertygroup.com\">mirsad@stellarpropertygroup.com</a> and we will provide the information or assistance you need through an alternative method.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Governing Law &amp; Changes",
+   "cls": "font-display text-2xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "These terms are governed by the laws of the State of Illinois, and any dispute arising from use of this website shall be brought in the state or federal courts located in Cook County, Illinois. We may update these terms from time to time; the effective date below reflects the latest revision, and continued use of the site constitutes acceptance of the updated terms.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Questions about these terms",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500 mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management · 5107 N Western Ave #1S, Chicago, IL 60625 · <a href=\"tel:+17737280652\">773.728.0652</a> · <a href=\"mailto:mirsad@stellarpropertygroup.com\">mirsad@stellarpropertygroup.com</a>",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "See also our <a href=\"/privacy-policy\">Privacy Policy</a>.",
+   "cls": "mt-6 text-sm text-slate-500 font-light"
+  }
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "path": "/property-management-ukrainian-village",
+ "title": "Condo & HOA Management in Ukrainian Village, Chicago | Stellar",
+ "description": "Condo, HOA & townhome association management in Ukrainian Village, Chicago (ZIP 60622, 60612). Dedicated local manager, flat-fee pricing, 24/7 response.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "name": "Condo and HOA Management in Ukrainian Village, Chicago",
+   "description": "Condo, HOA & townhome association management in Ukrainian Village, Chicago (ZIP 60622, 60612). Dedicated local manager, flat-fee pricing, 24/7 response.",
+   "url": "https://www.stellarpropertygroup.com/property-management-ukrainian-village",
+   "serviceType": "Community Association Management",
+   "areaServed": {
+    "@type": "Place",
+    "name": "Ukrainian Village, Chicago, IL"
+   },
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Service Areas",
+     "item": "https://www.stellarpropertygroup.com/service-areas"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Ukrainian Village",
+     "item": "https://www.stellarpropertygroup.com/property-management-ukrainian-village"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.stellarpropertygroup.com/property-management-ukrainian-village#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Does Stellar Property Management serve Ukrainian Village?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Ukrainian Village, Chicago (ZIP 60622, 60612), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What types of community associations does Stellar manage in Ukrainian Village?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar's association-management model is designed for condominiums, townhomes, HOAs in Ukrainian Village. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How much does association management cost in Ukrainian Village?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Ukrainian Village association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How do we switch our Ukrainian Village association to Stellar?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How should a Ukrainian Village board choose a condo or HOA management company?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Ukrainian Village can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Atlas · Chicago",
+   "cls": "reveal-up eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Condo &amp; HOA Management in <em>Ukrainian Village,</em> Chicago",
+   "cls": "reveal-up reveal-delay-1 font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] mb-10 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Ukrainian Village is prized for its tree-lined streets, ornate churches, and some of Chicago's finest Victorian and workers' cottage architecture. Property management in this historic neighborhood requires sensitivity to preservation while implementing modern building systems. We help Ukrainian Village boards maintain their buildings' historic character while ensuring efficient operations.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Our Services in <em>Ukrainian Village.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "p",
+   "html": "Comprehensive property management tailored to the unique needs of Ukrainian Village associations.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management in Ukrainian Village",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Full-service condominium association management for Ukrainian Village boards — financials, governance, maintenance, and 24/7 response.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome Management in Ukrainian Village",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Townhome association management in Ukrainian Village: exterior maintenance, snow and landscape contracts, and reserve planning.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "HOA Management in Ukrainian Village",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Homeowner association management for Ukrainian Village communities — common areas, covenant enforcement, budgets, and board support.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Management in Ukrainian Village",
+   "cls": "font-display text-xl text-ink mb-3 group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Transparent budgeting, assessments, reserve planning, and monthly financial reporting for Ukrainian Village associations.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Stellar Difference",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Why Choose Stellar for Ukrainian Village Property <em>Management.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "We combine a focused Chicagoland portfolio with building-specific operating plans, transparent financial reporting, and direct board accountability.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Local Expertise",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Deep knowledge of Chicago neighborhoods, building codes, and local vendor networks.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Proven Track Record",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "A focused portfolio of 29 associations and approximately 1,422 residences across Chicago and the North Shore.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Transparent Communication",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Real-time reporting, online portals, and responsive service your board can count on.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Tailored Solutions",
+   "cls": "sm:col-span-5 font-display text-xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Management plans customized to your building size, budget, and community needs.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Ukrainian Village · Questions, Answered",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ukrainian Village boards ask us <em>first.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "Does Stellar Property Management serve Ukrainian Village?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Yes. Stellar Property Management provides condominium, HOA, and townhome association management in Ukrainian Village, Chicago (ZIP 60622, 60612), backed by a Chicago office that has served area communities since 2007 — 29 associations and approximately 1,422 residences under management, with a 96% client retention rate since 2007.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "What types of community associations does Stellar manage in Ukrainian Village?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar's association-management model is designed for condominiums, townhomes, HOAs in Ukrainian Village. Every client community receives a dedicated property manager, transparent monthly financial reporting, 24/7 live emergency response, and board support informed by applicable Illinois association requirements.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How much does association management cost in Ukrainian Village?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Stellar management starts at $20 per unit per month. We quote a customized flat monthly fee based on your Ukrainian Village association's size, amenities, staffing, financial complexity, and service scope — never a percentage of your budget. We do not add a separate capital-project planning or management-oversight fee. Third-party professional and contractor costs remain association expenses.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How do we switch our Ukrainian Village association to Stellar?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Switching is a managed 30–60 day transition: once your board signs, we retrieve records from the outgoing firm, migrate banking and vendor relationships, notify owners, and open your board and resident portals. Call 773.728.0652 or request a proposal online to start.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "h3",
+   "html": "How should a Ukrainian Village board choose a condo or HOA management company?",
+   "cls": "font-display text-lg lg:text-xl text-ink group-open:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Compare at least three firms on the same terms: an active Illinois management firm license, a credentialed manager (CMCA, AMS or PCAM), a flat monthly fee in writing, who answers emergencies at night, and how records move during the transition. Stellar Property Management is a licensed Chicago firm (license #291000211) that has managed associations since 2007, publishes its pricing, and answers emergencies with a live person 24/7. Boards in Ukrainian Village can score any proposals side by side with Stellar's free comparison tool at stellarpropertygroup.com/tools/compare-management-proposals.",
+   "cls": "pb-7 text-slate-600 leading-relaxed font-light max-w-3xl"
+  },
+  {
+   "type": "p",
+   "html": "Board Resource Path",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Guidance for Ukrainian Village boards.",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "A balanced selection of management, finance, governance, and building guidance for associations in this community.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas, Continued",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Explore Nearby <em>Neighborhoods.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08]"
+  },
+  {
+   "type": "h3",
+   "html": "River North",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "River North is Chicago's premier gallery district and entertainment destination, featuring luxury high-rise condominiums and converted loft spaces. Property management in River North demands white-glove service and expertise in managing high-end amenity spaces like rooftop decks and fitness centers. We deliver the premium management experience that River North residents and boards expect.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Streeterville",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Streeterville is a prestigious lakefront neighborhood home to iconic high-rises, world-class shopping on the Magnificent Mile, and Northwestern's downtown campus. Managing properties here requires sophisticated expertise in large-scale high-rise operations and luxury amenity management. We are trusted by Streeterville boards to deliver institutional-quality management with a personal touch.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "h3",
+   "html": "Gold Coast",
+   "cls": "font-display text-2xl text-ink mb-4 group-hover:text-gold-600 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "The Gold Coast is Chicago's most exclusive residential neighborhood, featuring historic mansions, landmark buildings, and luxury high-rises along Lake Shore Drive. Property management here sets the highest standard, requiring expertise in historic preservation, premium vendor relationships, and discreet, professional service. We are proud to manage some of the Gold Coast's most distinguished addresses.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed line-clamp-2 mb-7"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Ukrainian Village Property <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Contact us today for a free, no-obligation consultation and proposal tailored to your association's needs.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

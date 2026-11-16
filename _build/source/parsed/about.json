@@ -1,0 +1,604 @@
+{
+ "path": "/about",
+ "title": "About Stellar Property Management | Chicago Since 2007",
+ "description": "Meet Stellar Property Management: serving Chicago associations since 2007 with 29 associations, CAI membership, and Illinois CAM firm licensing.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "AboutPage",
+   "@id": "https://www.stellarpropertygroup.com/about#webpage",
+   "url": "https://www.stellarpropertygroup.com/about",
+   "name": "About Stellar Property Management",
+   "about": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/#website"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "About",
+     "item": "https://www.stellarpropertygroup.com/about"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.stellarpropertygroup.com/about#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What does Stellar Property Management do?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We are a Chicago community association management firm. We manage condominium, HOA and townhome associations only."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is Stellar Property Management licensed?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. We hold Illinois Community Association Management Firm license 291000211."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How long has Stellar been in business?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Since 2007."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How many associations do you manage?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "29 associations, with approximately 1,422 residences."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who makes repair and funding decisions?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The association's board of directors. As managing agent, we coordinate vendors and repairs and keep owners informed."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Are you the same as Stellar Properties Inc. or Stellar Management NY?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "No. We are a separate Chicago firm at 5107 N Western Ave."
+     }
+    }
+   ]
+  },
+  {
+   "@type": "Person",
+   "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+   "name": "Mirsad Cerimovic",
+   "honorificSuffix": "CAM, CMCA, AMS",
+   "jobTitle": "Founder & Principal",
+   "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+   "mainEntityOfPage": {
+    "@id": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic#webpage"
+   },
+   "image": {
+    "@type": "ImageObject",
+    "url": "https://www.stellarpropertygroup.com/images/mirsad-cerimovic.jpg",
+    "width": 356,
+    "height": 356,
+    "caption": "Mirsad Cerimovic, founder and principal of Stellar Property Management"
+   },
+   "email": "mirsad@stellarpropertygroup.com",
+   "worksFor": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management"
+   },
+   "memberOf": [
+    {
+     "@type": "Organization",
+     "name": "Community Associations Institute",
+     "url": "https://www.caionline.org/"
+    },
+    {
+     "@type": "Organization",
+     "name": "Community Associations Institute Illinois Chapter",
+     "url": "https://www.cai-illinois.org/"
+    }
+   ],
+   "hasCredential": [
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Illinois Licensed Community Association Manager (CAM)",
+     "credentialCategory": "Professional license",
+     "identifier": "261000524"
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Certified Manager of Community Associations (CMCA)",
+     "credentialCategory": "Professional certification"
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "Association Management Specialist (AMS)",
+     "credentialCategory": "Professional designation"
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "City of Chicago Stationary Engineer’s License",
+     "credentialCategory": "Professional license"
+    },
+    {
+     "@type": "EducationalOccupationalCredential",
+     "name": "NIULPE Certified Power Engineer",
+     "credentialCategory": "Professional certification"
+    }
+   ],
+   "knowsAbout": [
+    "Condominium association management",
+    "Illinois Condominium Property Act",
+    "HOA governance and finance",
+    "Reserve fund planning",
+    "Capital project oversight"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Firm · Serving Chicago Since 2007",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "About Stellar Property <em>Management</em>",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management (Stellar Property Group Inc.) is a locally owned, professionally credentialed management firm dedicated exclusively to Chicago condominiums, HOAs, and townhome communities.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dd",
+   "html": "29",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Associations under management",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "1,422",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Residences (approx.)",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "96%",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Client retention since 2007",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "dd",
+   "html": "2007",
+   "cls": "font-display text-3xl lg:text-4xl font-light text-ink mb-1"
+  },
+  {
+   "type": "dt",
+   "html": "Established · Local expertise",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Our Story",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "From a small firm to 29 <em>associations.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Management was founded in 2007 with a clear mission: deliver property management that Chicago condo boards, HOAs, and townhome associations actually deserve. At the time, most firms treated community management as a side business. We made it our only business.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Starting with a handful of Chicago North Side associations, we grew through referrals and results — not marketing gimmicks. Today, we manage 29 associations and approximately 1,422 residences across Chicago and the North Shore. Our 96% client retention rate since 2007 speaks louder than any advertisement.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Our growth has always been intentional. We only take on communities we can serve exceptionally, assigning a dedicated manager who knows every building, every board member, and every vendor by name. That personal approach is what sets us apart from national firms that treat your community as a line item.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-10"
+  },
+  {
+   "type": "p",
+   "html": "Leadership",
+   "cls": "eyebrow text-gold-300 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "The people behind the <em>standard.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl leading-[1.08] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "When we say boards speak directly with our principals — not a sales team — these are the people we mean.",
+   "cls": "text-paper/55 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic</a>",
+   "cls": "font-display text-2xl lg:text-3xl mb-2"
+  },
+  {
+   "type": "p",
+   "html": "Founder &amp; Principal",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-300 mb-1.5"
+  },
+  {
+   "type": "p",
+   "html": "CAM · CMCA · AMS · Chicago Stationary Engineer · NIULPE",
+   "cls": "text-[10px] uppercase tracking-luxe text-paper/60"
+  },
+  {
+   "type": "p",
+   "html": "Mirsad has worked in Chicago community associations since 1997 and founded Stellar in 2007 on a simple conviction: association management deserved to be someone’s only business, not a side line. He still reviews the financial reporting standard for every association in the portfolio and leads each new board through its transition personally. From July 2007 to November 2024 he also taught the City of Chicago Stationary Engineer’s License prep course at the SEIU Local 1 Training Fund, taking roughly 700 engineers through the city examination.",
+   "cls": "text-sm text-paper/70 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "A licensed Illinois Community Association Manager, he holds the CMCA and AMS designations and writes the firm’s board guides on Illinois condominium law, reserves, and governance — the same guidance published in <a href=\"/blog\">the Stellar journal</a>.",
+   "cls": "text-sm text-paper/70 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Ownership",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Independent, and <em>staying that way.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-7"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Group Inc. is owned and run by the person whose name is on the licence. There is no parent company, no private equity holder, and no affiliated construction, insurance or brokerage arm being steered work.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "That sentence would have been unremarkable a decade ago. It is not now. Community association management is consolidating quickly: the two largest firms in North America together hold only around a tenth of the market, and the rest is being bought up by private-equity-backed platforms assembling regional operators — including in Illinois.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Boards feel it before they can name it. The manager who knew the building leaves. Response times stretch. Work starts routing to a vendor that turns out to be a sibling company. Nobody announced anything.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-5"
+  },
+  {
+   "type": "p",
+   "html": "We are not against scale — a national firm is genuinely the right answer for some communities. But a board should know which kind of company it is hiring, and should be able to ask three questions of any firm on its shortlist: who owns you, will the manager you are showing me be the manager we get, and do you make money on the vendors you recommend. We answer all three in writing.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "dt",
+   "html": "19,850",
+   "cls": "font-display text-3xl font-light text-ink mb-2 tabular-nums"
+  },
+  {
+   "type": "dd",
+   "html": "Illinois community associations — the 4th largest market in the US",
+   "cls": "text-xs leading-relaxed text-slate-500"
+  },
+  {
+   "type": "dt",
+   "html": "1,755,000",
+   "cls": "font-display text-3xl font-light text-ink mb-2 tabular-nums"
+  },
+  {
+   "type": "dd",
+   "html": "Illinois housing units in community associations",
+   "cls": "text-xs leading-relaxed text-slate-500"
+  },
+  {
+   "type": "dt",
+   "html": "1",
+   "cls": "font-display text-3xl font-light text-ink mb-2 tabular-nums"
+  },
+  {
+   "type": "dd",
+   "html": "Owner, who is also the licensed manager on the account",
+   "cls": "text-xs leading-relaxed text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Association and unit counts: Foundation for Community Association Research, 2025 U.S. National and State Statistical Review. Reprinted with permission.",
+   "cls": "mt-4 text-xs text-slate-400"
+  },
+  {
+   "type": "p",
+   "html": "Our Values",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "What drives us every <em>day.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "These aren’t posters on a wall. They’re the principles that guide every decision we make for the communities we serve.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Integrity",
+   "cls": "sm:col-span-3 font-display text-xl lg:text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "We act as fiduciaries for every community we serve, making decisions that protect owners and preserve property values.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Transparency",
+   "cls": "sm:col-span-3 font-display text-xl lg:text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear financial reporting, open communication, and real-time portal access so your board is never left guessing.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Responsiveness",
+   "cls": "sm:col-span-3 font-display text-xl lg:text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "24/7 emergency availability with real people answering the phone. Your concerns are addressed, not queued.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Excellence",
+   "cls": "sm:col-span-3 font-display text-xl lg:text-2xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Industry-leading credentials, continuous education, and a relentless focus on raising the standard of property management.",
+   "cls": "sm:col-span-7 text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Credentials",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Professional <em>memberships &amp; credentials.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Our memberships, licenses, and professional designations reflect our commitment to responsible community management, continuing education, and professional standards.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "CAI &amp; CAI Illinois Chapter",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Member of the Community Associations Institute and its Illinois Chapter, with access to industry education, legislative updates, and community-association resources.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Licensed CAM Firm",
+   "cls": "font-display text-xl text-ink mb-3"
+  },
+  {
+   "type": "p",
+   "html": "Stellar Property Group Inc. holds active Illinois Community Association Management Firm license #291000211.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Where We Serve",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Chicago &amp; the North <em>Shore.</em>",
+   "cls": "font-display font-light text-4xl lg:text-5xl text-ink leading-[1.08] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "From Lincoln Park to Lake Forest, we manage communities across Chicago’s most desirable neighborhoods and North Shore suburbs. Our local expertise means we understand Chicago-area building systems, municipal requirements, and established vendor markets.",
+   "cls": "text-slate-600 font-light text-lg leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Chicago",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Evanston",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Skokie",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Glenview",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Wilmette",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Winnetka",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Highland Park",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Northbrook",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Glencoe",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Kenilworth",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Lake Forest",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Deerfield",
+   "cls": "py-3.5 border-b border-slate-200 text-sm text-ink font-light"
+  },
+  {
+   "type": "p",
+   "html": "Common Questions",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "The firm in brief.",
+   "cls": "font-display font-light text-4xl text-ink leading-[1.08] mb-10"
+  },
+  {
+   "type": "dt",
+   "html": "What does Stellar Property Management do?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "We are a Chicago community association management firm. We manage condominium, HOA and townhome associations only.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dt",
+   "html": "Is Stellar Property Management licensed?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "Yes. We hold Illinois Community Association Management Firm license 291000211.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dt",
+   "html": "How long has Stellar been in business?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "Since 2007.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dt",
+   "html": "How many associations do you manage?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "29 associations, with approximately 1,422 residences.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dt",
+   "html": "Who makes repair and funding decisions?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "The association's board of directors. As managing agent, we coordinate vendors and repairs and keep owners informed.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "dt",
+   "html": "Are you the same as Stellar Properties Inc. or Stellar Management NY?",
+   "cls": "font-display text-xl text-ink mb-2"
+  },
+  {
+   "type": "dd",
+   "html": "No. We are a separate Chicago firm at 5107 N Western Ave.",
+   "cls": "text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Read <a href=\"/services/board-support#boards-and-management\">how boards and management work together</a>.",
+   "cls": "mt-8 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Let’s Talk",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to experience the Stellar <em>difference?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Whether you’re considering a management change or exploring options for the first time, we’d love to learn about your community and show you what professional, hands-on management looks like.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

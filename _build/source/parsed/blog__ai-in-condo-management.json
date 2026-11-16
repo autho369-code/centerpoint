@@ -1,0 +1,121 @@
+{
+ "path": "/blog/ai-in-condo-management",
+ "title": "AI Is Coming to Condo Management — What Boards Need to Know",
+ "description": "Artificial intelligence is entering condo and HOA management — from violation processing to owner communication. Learn the real benefits, the risks, and how boards should use AI responsibly.",
+ "lastmod": "2025-10-07",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "AI Is Coming to Condo Management — What Boards Need to Know",
+   "description": "Artificial intelligence is entering condo and HOA management — from violation processing to owner communication. Learn the real benefits, the risks, and how boards should use AI responsibly.",
+   "datePublished": "2025-10-07",
+   "dateModified": "2025-10-07",
+   "image": "https://www.stellarpropertygroup.com/blog/ai-in-condo-management.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/ai-in-condo-management"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Technology",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "AI Is Coming to Condo Management — What Boards Need to Know",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · October 7, 2025 · 6 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Artificial intelligence has moved from buzzword to working tool in a remarkably short time, and community management is no exception. For condo and HOA boards, the question is no longer whether AI will touch how their building is managed, but how to adopt it sensibly — capturing the genuine efficiencies without creating new risks.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Where AI Is Showing Up in Community Management",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<strong>Violation processing.</strong> AI can help draft consistent violation notices and keep cases organized and tracked.",
+    "<strong>Owner communication.</strong> Chatbots and assistants can answer routine owner questions instantly and around the clock.",
+    "<strong>Maintenance triage.</strong> Incoming requests can be sorted, prioritized, and routed to the right vendor faster.",
+    "<strong>Financial review.</strong> Software can flag unusual invoices or spending patterns for a human to examine.",
+    "<strong>Document search.</strong> AI makes it far quicker to find a specific answer buried in a long declaration or set of bylaws."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "AI tools sit on top of a management system; they do not replace one. Our <a href=\"/services/condominium-management\">Chicago condominium management</a> page describes that system.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Real Benefits",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Used well, these tools deliver speed, consistency, and relief from drudgery. Routine work gets done faster, owners get quicker responses, and volunteer board members spend less time on repetitive administration. For associations where a handful of volunteers carry a heavy load, that is meaningful.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "The Risks Boards Must Manage",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "AI is powerful, but it is not infallible. It can produce confident answers that are simply wrong, which is dangerous when the subject is a legal requirement or an enforcement decision. Anything touching the law — rule enforcement, fair-housing questions, governing-document interpretation — still demands human judgment and, where appropriate, an attorney. AI tools also handle sensitive owner data, so boards must understand how a vendor stores and protects that information. The core principle is simple: AI assists, but accountable people decide.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "How Boards Should Approach AI",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Related reading: <a href=\"/blog/the-technology-behind-our-management\">The technology behind our management</a>; <a href=\"/blog/verify-illinois-community-association-manager-license\">verifying a manager’s Illinois license</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Treat AI as a capable assistant under firm human oversight. Use it to speed routine work, but keep legal, financial, and enforcement decisions with people and counsel. Vet any vendor on data privacy and security before adopting their tools. A professional management partner that adopts technology thoughtfully — and stays accountable for the results — gives boards the best of both worlds. To talk about modern, well-supported management for your association, <a href=\"/contact\">contact Stellar Property Management</a>.",
+   "cls": ""
+  }
+ ]
+}

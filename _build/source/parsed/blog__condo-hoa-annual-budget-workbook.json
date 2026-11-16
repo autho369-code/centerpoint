@@ -1,0 +1,211 @@
+{
+ "path": "/blog/condo-hoa-annual-budget-workbook",
+ "title": "A Practical Annual Budget Workbook for Association Boards",
+ "description": "A month-by-month budget workbook for condo, HOA, and townhome boards: timeline, line-item method, reserve integration, and owner communication that works.",
+ "lastmod": "2026-09-20",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "A Practical Annual Budget Workbook for Association Boards",
+   "description": "A month-by-month budget workbook for condo, HOA, and townhome boards: timeline, line-item method, reserve integration, and owner communication that works.",
+   "datePublished": "2026-09-20",
+   "dateModified": "2026-09-20",
+   "image": "https://www.stellarpropertygroup.com/images/stellar-property-management-og.jpg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/condo-hoa-annual-budget-workbook"
+   },
+   "citation": [
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&ChapterID=62",
+    "https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&ChapterID=62"
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Financial Management",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "A Practical Annual Budget Workbook for Association Boards",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · September 20, 2026 · 7 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "A workable association budget is built over roughly three months and adopted in one meeting. The board that starts in the month before the fiscal year begins is not budgeting; it is escalating last year's numbers and hoping. This workbook lays out the timeline, the method for building each line, and the adoption checklist -- adapted to whichever fiscal year your governing documents set.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Before you start, confirm the mechanics with counsel: notice requirements for the budget meeting, any owner rights that attach to assessment increases, and whether your association is governed by the Illinois Condominium Property Act or by CICAA. The statutes differ, and the procedural requirements around adoption are exactly the kind of detail that invalidates otherwise good work.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Month one: gather",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Pull year-to-date actuals for the current year and full-year actuals for the two prior years. Three years of history is enough to distinguish a trend from an anomaly. At the same time, collect:",
+   "cls": ""
+  },
+  {
+   "type": "ul",
+   "items": [
+    "Current vendor contracts with renewal dates and escalation terms.",
+    "Utility usage history, not just cost history.",
+    "The current reserve study and its recommended contribution.",
+    "The insurance renewal date and the agent's early indication.",
+    "Any known one-time items in the coming year.",
+    "Current delinquency levels and collection performance."
+   ]
+  },
+  {
+   "type": "h3",
+   "html": "Watch the contract renewal calendar",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Contracts that renew mid-year with built-in escalators are the most common budget miss. Build the escalation in rather than budgeting the current rate for twelve months.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Month two: build the lines",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Build each expense line from a stated basis, and write the basis next to the number. Three valid bases:",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "<strong>Contract</strong> -- the line equals the contract amount for the period. Highest confidence.",
+    "<strong>Quote or renewal indication</strong> -- insurance, utilities with announced rate changes.",
+    "<strong>History plus reasoning</strong> -- variable lines built from three-year averages with a stated adjustment."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Any line built on none of these should be flagged for discussion. \"Same as last year\" is a basis only when the board has affirmatively concluded conditions are unchanged.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Reserve contribution is a separate decision",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Do not let the reserve line become whatever is left after operating expenses. Set it deliberately from the reserve study, then build the assessment around the total. Boards that treat reserves as the residual are the boards that special-assess. Our <a href=\"/services/financial-management\">financial management</a> team runs reserve scenarios alongside the operating build so the board sees the tradeoff before the vote rather than after.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Income assumptions",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Budget assessment income at the full amount owed, then account for expected collection losses as a separate, explicit line. Blending an assumed loss into the income figure hides how much you are actually writing off. Treat other income -- amenity fees, interest, disclosure fees -- conservatively.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Month three: review, communicate, adopt",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Present a draft at a board meeting before the adoption meeting. Give owners the per-unit monthly change, the drivers behind it, and the reserve rationale in writing. Most budget conflict comes from owners learning of an increase at the same meeting where it is voted on.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Communicate in three numbers: the current monthly assessment, the proposed monthly assessment, and the difference. Then explain the two or three lines that drove the difference. Percentages invite argument; a dollar figure with a named cause invites understanding.",
+   "cls": ""
+  },
+  {
+   "type": "h3",
+   "html": "Board checklist: adoption",
+   "cls": ""
+  },
+  {
+   "type": "ol",
+   "items": [
+    "Confirm notice requirements for the budget meeting with counsel.",
+    "Distribute the draft budget to owners in advance of the meeting.",
+    "Confirm the reserve contribution was set from the study, not from the remainder.",
+    "Verify every expense line has a written basis.",
+    "State expected collection loss as its own line.",
+    "Adopt by recorded vote and capture the reserve reasoning in the minutes.",
+    "Notify owners of the new assessment amount and effective date.",
+    "Update the accounting system and any autopay amounts before the first billing.",
+    "Reflect the adopted budget in resale disclosure materials.",
+    "Schedule quarterly budget-to-actual reviews for the year ahead."
+   ]
+  },
+  {
+   "type": "p",
+   "html": "This article is general education for association boards and is not legal or accounting advice. Your governing documents control, and your association's attorney and accountant should confirm adoption procedures, notice requirements, and applicable statutory obligations.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Keep reading: <a href=\"/blog/illinois-condo-hoa-budget-adoption-guide\">Adopting the annual budget in Illinois</a>; <a href=\"/blog/how-to-read-condo-reserve-study\">reading your reserve study before the budget</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Stellar builds budgets on this timeline with boards across <a href=\"/property-management-chicago\">Chicago</a> and the North Shore. <a href=\"/contact\">Schedule a consultation</a> to start your next cycle with three months of runway instead of three weeks.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Primary sources and further reading",
+   "cls": "font-display text-2xl text-ink mb-5"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=2200&amp;ChapterID=62\">Illinois Condominium Property Act (765 ILCS 605)</a>",
+    "<a href=\"https://www.ilga.gov/Legislation/ILCS/Articles?ActID=3273&amp;ChapterID=62\">Common Interest Community Association Act (765 ILCS 160)</a>"
+   ]
+  }
+ ]
+}

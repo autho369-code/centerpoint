@@ -1,0 +1,146 @@
+{
+ "path": "/blog/illinois-condo-law-updates-2026",
+ "title": "Illinois Condo Law in 2026: What Every Board Must Know",
+ "description": "A practical 2026 guide to Illinois condominium law for board members — covering the Condominium Property Act, owner record requests, meeting notices, elections, reserves, and insurance.",
+ "lastmod": "2026-02-18",
+ "ld": [
+  {
+   "@context": "https://schema.org",
+   "@type": "Article",
+   "headline": "Illinois Condo Law in 2026: What Every Board Must Know",
+   "description": "A practical 2026 guide to Illinois condominium law for board members — covering the Condominium Property Act, owner record requests, meeting notices, elections, reserves, and insurance.",
+   "datePublished": "2026-02-18",
+   "dateModified": "2026-02-18",
+   "image": "https://www.stellarpropertygroup.com/blog/illinois-condo-law-updates-2026.svg",
+   "author": {
+    "@type": "Person",
+    "@id": "https://www.stellarpropertygroup.com/about#mirsad-cerimovic",
+    "name": "Mirsad Cerimovic",
+    "honorificSuffix": "CAM, CMCA, AMS",
+    "jobTitle": "Community Association Manager",
+    "url": "https://www.stellarpropertygroup.com/about/mirsad-cerimovic",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://www.stellarpropertygroup.com/#organization",
+     "name": "Stellar Property Management"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://www.stellarpropertygroup.com/#organization",
+    "name": "Stellar Property Management",
+    "url": "https://www.stellarpropertygroup.com",
+    "logo": {
+     "@type": "ImageObject",
+     "url": "https://www.stellarpropertygroup.com/logo-icon.svg"
+    }
+   },
+   "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.stellarpropertygroup.com/blog/illinois-condo-law-updates-2026"
+   }
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Illinois Condo Law in 2026: What Every Board Must Know",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.06] text-balance mb-8"
+  },
+  {
+   "type": "p",
+   "html": "<a href=\"/about/mirsad-cerimovic\">Mirsad Cerimovic, CAM, CMCA, AMS</a> · February 18, 2026 · 8 min read",
+   "cls": "text-[10px] uppercase tracking-luxe text-slate-500"
+  },
+  {
+   "type": "p",
+   "html": "Few volunteer roles carry as much legal exposure as serving on an Illinois condominium board. Board members are fiduciaries, and the buildings they govern are regulated by a layered framework of state statutes, local ordinances, and the association's own governing documents. Heading into 2026, the smartest thing any board can do is revisit the fundamentals — because most legal disputes do not come from obscure rules. They come from well-known requirements that boards quietly let slip.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "This guide walks through the areas of Illinois condo law that most often create risk, and where boards should focus their attention this year.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Know Which Law Governs Your Community",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois condominium associations are governed primarily by the <strong>Illinois Condominium Property Act</strong> (765 ILCS 605). Many townhome and homeowners associations that are not condominiums fall instead under the <strong>Common Interest Community Association Act</strong> (765 ILCS 160). The two statutes share a similar spirit but differ in their specifics, so the first step for any board is simply confirming which act applies — then reading the declaration and bylaws alongside it. Where a governing document conflicts with the statute, the statute generally controls.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Owner Record Requests",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "One of the most litigated areas of Illinois condo law is the unit owner's right to inspect association records. Under Section 19 of the Condominium Property Act, owners have a statutory right to examine a broad range of association records — including financial books, contracts, and board meeting minutes — on proper written request. Boards get into trouble when they ignore requests, respond late, or charge unreasonable fees. A simple written records-request policy that tracks deadlines protects the board and keeps owner relationships from escalating into formal complaints.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Our <a href=\"/services/board-support\">condo board support services</a> include the minutes and record-keeping that make these requests easier to answer.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Meetings, Notice, and Elections",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Illinois law sets specific requirements for how associations notice and conduct meetings. Board meetings and owner meetings follow different notice rules, owners generally have the right to attend board meetings, and certain decisions must be made in open session. Annual meetings and board elections carry their own notice timelines, quorum rules, and procedures for proxies or ballots. Election disputes are common and avoidable: follow the notice periods in your declaration and the Act exactly, document everything, and never improvise procedure on the night of a meeting.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Budgets, Assessments, and Reserves",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Boards must adopt an annual budget and may levy assessments to fund it. Illinois law also expects associations to plan ahead: the Act directs boards to provide for reasonable reserves for capital repair and replacement, weighing factors such as the cost and remaining useful life of major components. Underfunding reserves is not only a financial problem — it becomes a legal one when owners are hit with surprise special assessments. Disciplined financial management and a current reserve study are the best defense.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Insurance Obligations",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Associations are generally required to insure the common elements, and the declaration usually dictates the split between the association's master policy and individual owners' HO-6 policies. With premiums rising sharply across Illinois, boards should review coverage every year with a licensed insurance professional and make sure owners understand their own obligations.",
+   "cls": ""
+  },
+  {
+   "type": "h2",
+   "html": "Where Boards Should Focus in 2026",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Legislation and case law evolve every year, and the details that apply to your building can change. No article is a substitute for advice from a licensed Illinois community association attorney, and boards should confirm any current-session legislative changes with counsel or the <strong>Community Associations Institute (CAI) Illinois Chapter</strong>. What does not change is the value of disciplined process: accurate records, proper notice, transparent finances, and consistent enforcement.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "Also useful: <a href=\"/blog/illinois-condo-association-records-request-guide\">Answering owner records requests</a>; <a href=\"/blog/illinois-condo-board-elections-proxies-ballots\">board elections, proxies and secret ballots</a>.",
+   "cls": ""
+  },
+  {
+   "type": "p",
+   "html": "A professional management partner keeps those systems running so the board can focus on decisions rather than paperwork. Stellar Property Management helps Chicago-area boards stay compliant and organized. To talk through your association's needs, <a href=\"/contact\">contact our team</a>.",
+   "cls": ""
+  }
+ ]
+}

@@ -1,0 +1,436 @@
+{
+ "path": "/services/maintenance-coordination",
+ "title": "Condo Maintenance Coordination Chicago | Stellar",
+ "description": "Condo and HOA maintenance coordination in Chicago: preventive schedules, vetted vendors, competitive bids, capital planning, and 24/7 emergency response.",
+ "lastmod": "2026-11-03",
+ "ld": [
+  {
+   "@type": "Service",
+   "@id": "https://www.stellarpropertygroup.com/services/maintenance-coordination#service",
+   "name": "Chicago Condo and HOA Maintenance Coordination",
+   "description": "Preventive maintenance, vendor coordination, competitive bidding, capital planning, and 24/7 emergency response for community associations.",
+   "url": "https://www.stellarpropertygroup.com/services/maintenance-coordination",
+   "serviceType": "Community Association Maintenance Coordination",
+   "provider": {
+    "@id": "https://www.stellarpropertygroup.com/#organization"
+   },
+   "areaServed": [
+    {
+     "@type": "City",
+     "name": "Chicago"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "North Shore, Illinois"
+    }
+   ],
+   "offers": {
+    "@type": "Offer",
+    "priceSpecification": {
+     "@type": "UnitPriceSpecification",
+     "price": 20,
+     "priceCurrency": "USD",
+     "unitText": "per unit per month",
+     "description": "Starting price; customized flat monthly proposal."
+    }
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Services",
+     "item": "https://www.stellarpropertygroup.com/services"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Chicago Condo and HOA Maintenance Coordination",
+     "item": "https://www.stellarpropertygroup.com/services/maintenance-coordination"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "What happens when heat or hot water goes out in the building?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "In nearly every condominium the boiler and distribution piping are common elements, which makes restoring service the association’s responsibility rather than an individual owner’s. Report it to the 24/7 emergency line at 773.728.0652 rather than waiting for business hours. From there the sequence is dispatch a licensed mechanical contractor, confirm the cause, authorize the repair under the board’s spending authority, and keep residents informed until service is back. A building without heat in cold weather is an emergency, not a work order."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How are residents told about an outage and when service will return?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Notice should go out the same day an interruption is known, and it should say three things: what is out, why, and the best current estimate for restoration — updated as that estimate changes rather than left to go stale. Stellar posts notices in the building’s common areas and sends them to the resident email addresses and mobile numbers on file. Owners who have not given the association current contact details should send them to their manager, because a notice posted in the lobby will not reach someone who is away."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is a repair my responsibility or the association’s?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The dividing line is the declaration, not intuition. Broadly, the association maintains common elements — roof, facade, structure, common plumbing risers, boilers, elevators, hallways — while owners maintain what sits inside their unit boundaries, including fixtures and finishes. Limited common elements such as balconies and assigned parking often follow special rules. Because declarations vary, the answer for your building comes from your own recorded documents."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Who answers the emergency line after hours?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The 24/7 emergency line at 773.728.0652 reaches a person rather than a voicemail box checked the next morning. It is for conditions that threaten people or property and cannot wait for business hours: burst pipes, no heat in cold weather, flooding, elevator entrapment, fire and life-safety alarms, roof or facade failures, and power loss to common areas. For anything life-threatening, call 911 first and the emergency line second."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How are vendors selected, and does the board see the bids?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Vendors are checked for licensing and current insurance before they work on association property, and material work goes out for competitive bids. The board sees those bids and makes the award — a management company that picks contractors without board authorization has the relationship backwards. For capital work we recommend a written scope prepared before bidding, so the proposals a board compares are genuinely comparable."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is preventive maintenance and why does the board keep hearing about it?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Preventive maintenance is scheduled service on building systems before they fail — boiler and cooling-tower servicing ahead of the season, elevator contracts, roof and gutter inspections, backflow and life-safety testing, tuckpointing surveys. It matters financially, not just operationally: deferred maintenance is the most common route to an emergency repair funded by a special assessment. A maintenance calendar tied to the reserve study is how associations avoid that outcome."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "The Practice · 05 · Maintenance Services",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Property Maintenance <em>Coordination</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl text-ink leading-[1.04] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Protecting your community investment through proactive maintenance planning, trusted vendor partnerships, and rapid emergency response. We keep your property in peak condition so residents enjoy a safe, well-maintained environment year-round.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Approach",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Proactive Maintenance That Protects Property <em>Values</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Deferred maintenance is the silent killer of community association property values. A small roof leak becomes water damage becomes structural repair becomes a six-figure special assessment. At Stellar Property Management, we break that cycle with preventive maintenance programs that catch problems early, systematic property inspections that identify issues before they escalate, and trusted vendor relationships that deliver quality work at competitive prices.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Our maintenance coordination team manages every aspect of your property upkeep, from routine landscaping and janitorial services to complex capital improvement projects. We maintain a vetted network of licensed, insured contractors who understand the unique requirements of community association work and deliver consistent quality across every project.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "When emergencies happen, our 24/7 emergency response line ensures your community is never left waiting. Whether it is a burst pipe at 2 AM, storm damage on a holiday weekend, or a power outage affecting common areas, our team coordinates the immediate response and follows through until the situation is fully resolved.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Our Maintenance Standards",
+   "cls": "font-display text-2xl text-ink mb-6"
+  },
+  {
+   "type": "ul",
+   "items": [
+    "0124/7 emergency response line for all communities",
+    "02Preventive maintenance schedules for every property",
+    "03Vetted, licensed, and insured contractor network",
+    "04Competitive bidding on all major projects",
+    "05Regular property inspections and condition reports",
+    "06Capital project management from planning to completion",
+    "07Seasonal maintenance programs for Chicago weather",
+    "08Online maintenance request portal for residents"
+   ]
+  },
+  {
+   "type": "p",
+   "html": "Scope of Service",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Comprehensive Maintenance <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-6"
+  },
+  {
+   "type": "p",
+   "html": "From daily upkeep to major capital projects, our maintenance coordination keeps your property in excellent condition and your residents satisfied.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Preventive Maintenance Programs",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Scheduled inspections, seasonal maintenance calendars, and component lifecycle tracking that extends the life of your property assets.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Vendor Management",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "A curated network of vetted contractors, competitive bids, documented scopes, and performance follow-through for association work.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "24/7 Emergency Response",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Round-the-clock emergency line staffed by experienced professionals who coordinate immediate response to protect your property and residents.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Capital Project Oversight",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "End-to-end management of major projects including scope development, competitive bidding, construction oversight, and warranty tracking.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Property Inspections",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Regular walk-through inspections that identify maintenance needs, safety concerns, and code compliance issues before they become costly problems.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Contractor Vetting",
+   "cls": "font-display text-xl text-ink mb-4"
+  },
+  {
+   "type": "p",
+   "html": "Thorough verification of licenses, insurance, references, and work history for every contractor who works on your property.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "In Depth",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Capital Project Management Done <em>Right</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Major capital projects represent the largest expenditures your association will face, and how they are managed directly impacts both your finances and your property values. Whether it is a full roof replacement, elevator modernization, facade restoration, or parking structure repair, Stellar Property Management brings the project management expertise to ensure every capital project is completed on time, within budget, and to the highest quality standards.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "Our capital project process begins with thorough scope development and engineering assessments. We then solicit competitive bids from qualified contractors, present detailed comparisons to your board, and manage the entire construction process with regular progress reports, quality inspections, and budget tracking. We also coordinate resident communications to minimize disruption during construction.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed mb-6"
+  },
+  {
+   "type": "p",
+   "html": "After project completion, we manage warranty documentation, schedule follow-up inspections, and update your reserve study to reflect completed improvements. This comprehensive approach ensures your capital dollars are invested wisely and your property improvements deliver lasting value for the community.",
+   "cls": "text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "The Practice",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Related <em>Services</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-[1.1] mb-12"
+  },
+  {
+   "type": "h3",
+   "html": "Condominium Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Full-service condo management with integrated maintenance coordination.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Financial Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Reserve planning and budgeting that funds your maintenance needs.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "h3",
+   "html": "Townhome Management",
+   "cls": "sm:col-span-4 font-display text-xl lg:text-2xl text-ink group-hover:text-navy-700 transition-colors duration-300"
+  },
+  {
+   "type": "p",
+   "html": "Specialized maintenance coordination for townhome shared structures.",
+   "cls": "sm:col-span-7 text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Board Knowledge Center",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Building Operations &amp; Capital Planning",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "Maintenance, vendors, capital projects, building compliance, emergencies, and physical operations.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-7"
+  },
+  {
+   "type": "p",
+   "html": "The Atlas",
+   "cls": "eyebrow text-gold-600 mb-5 flex items-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Where we practice <em>Maintenance &amp; Operations.</em>",
+   "cls": "font-display font-light text-3xl lg:text-4xl text-ink leading-tight mb-5"
+  },
+  {
+   "type": "p",
+   "html": "This work looks different block to block. See how we serve the communities where it concentrates.",
+   "cls": "text-slate-600 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "p",
+   "html": "Board Questions",
+   "cls": "eyebrow mb-6 flex items-center gap-4 text-gold-600"
+  },
+  {
+   "type": "h2",
+   "html": "Outages, repairs, and who is responsible.",
+   "cls": "text-balance font-display text-4xl font-light leading-tight text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Clear scope, clear pricing, and a transition plan your board can evaluate before making a decision.",
+   "cls": "mt-6 text-sm font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What happens when heat or hot water goes out in the building?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "In nearly every condominium the boiler and distribution piping are common elements, which makes restoring service the association’s responsibility rather than an individual owner’s. Report it to the 24/7 emergency line at 773.728.0652 rather than waiting for business hours. From there the sequence is dispatch a licensed mechanical contractor, confirm the cause, authorize the repair under the board’s spending authority, and keep residents informed until service is back. A building without heat in cold weather is an emergency, not a work order.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How are residents told about an outage and when service will return?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Notice should go out the same day an interruption is known, and it should say three things: what is out, why, and the best current estimate for restoration — updated as that estimate changes rather than left to go stale. Stellar posts notices in the building’s common areas and sends them to the resident email addresses and mobile numbers on file. Owners who have not given the association current contact details should send them to their manager, because a notice posted in the lobby will not reach someone who is away.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Is a repair my responsibility or the association’s?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "The dividing line is the declaration, not intuition. Broadly, the association maintains common elements — roof, facade, structure, common plumbing risers, boilers, elevators, hallways — while owners maintain what sits inside their unit boundaries, including fixtures and finishes. Limited common elements such as balconies and assigned parking often follow special rules. Because declarations vary, the answer for your building comes from your own recorded documents.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "Who answers the emergency line after hours?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "The 24/7 emergency line at 773.728.0652 reaches a person rather than a voicemail box checked the next morning. It is for conditions that threaten people or property and cannot wait for business hours: burst pipes, no heat in cold weather, flooding, elevator entrapment, fire and life-safety alarms, roof or facade failures, and power loss to common areas. For anything life-threatening, call 911 first and the emergency line second.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "How are vendors selected, and does the board see the bids?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Vendors are checked for licensing and current insurance before they work on association property, and material work goes out for competitive bids. The board sees those bids and makes the award — a management company that picks contractors without board authorization has the relationship backwards. For capital work we recommend a written scope prepared before bidding, so the proposals a board compares are genuinely comparable.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "summary",
+   "html": "What is preventive maintenance and why does the board keep hearing about it?+",
+   "cls": "flex cursor-pointer list-none items-center justify-between gap-6 py-6 font-display text-xl text-ink marker:content-none"
+  },
+  {
+   "type": "p",
+   "html": "Preventive maintenance is scheduled service on building systems before they fail — boiler and cooling-tower servicing ahead of the season, elevator contracts, roof and gutter inspections, backflow and life-safety testing, tuckpointing surveys. It matters financially, not just operationally: deferred maintenance is the most common route to an emergency repair funded by a special assessment. A maintenance calendar tied to the reserve study is how associations avoid that outcome.",
+   "cls": "max-w-2xl pb-7 pr-10 font-light leading-relaxed text-slate-600"
+  },
+  {
+   "type": "p",
+   "html": "A Private Consultation",
+   "cls": "eyebrow text-gold-300 mb-8 flex items-center justify-center gap-4"
+  },
+  {
+   "type": "h2",
+   "html": "Ready to Elevate Your Community <em>Management?</em>",
+   "cls": "font-display font-light text-4xl sm:text-5xl lg:text-6xl leading-[1.06] mb-8 text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Join the 29 Chicago-area associations that trust Stellar Property Management. Contact us today for a free consultation and discover why we maintain a 96% client retention rate since 2007.",
+   "cls": "text-paper/55 text-lg font-light leading-relaxed mb-12 max-w-2xl mx-auto"
+  }
+ ]
+}

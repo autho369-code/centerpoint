@@ -1,0 +1,837 @@
+{
+ "path": "/blog/topic/board-governance-illinois-law",
+ "title": "Illinois Condo & HOA Board Governance Guides",
+ "description": "Illinois condo and HOA board guidance on meetings, records, elections, rules, fiduciary duties, and association law for Chicago community leaders.",
+ "lastmod": null,
+ "ld": [
+  {
+   "@type": "CollectionPage",
+   "@id": "https://www.stellarpropertygroup.com/blog/topic/board-governance-illinois-law#page",
+   "url": "https://www.stellarpropertygroup.com/blog/topic/board-governance-illinois-law",
+   "name": "Illinois Condo & HOA Board Governance Guides",
+   "description": "Illinois condo and HOA board guidance on meetings, records, elections, rules, fiduciary duties, and association law for Chicago community leaders.",
+   "isPartOf": {
+    "@id": "https://www.stellarpropertygroup.com/blog#page"
+   },
+   "about": {
+    "@type": "Thing",
+    "name": "Board Governance & Illinois Law"
+   }
+  },
+  {
+   "@type": "ItemList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-board-conflicts-of-interest",
+     "name": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "url": "https://www.stellarpropertygroup.com/blog/removing-illinois-condo-board-member",
+     "name": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-open-board-meetings-notice-comment",
+     "name": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording"
+    },
+    {
+     "@type": "ListItem",
+     "position": 4,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-association-fines-notice-hearing",
+     "name": "Can an Illinois Association Fine an Owner? Notice and Hearing Rules"
+    },
+    {
+     "@type": "ListItem",
+     "position": 5,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-board-elections-proxies-ballots",
+     "name": "Illinois Condo Board Elections: Nominations, Proxies and Secret Ballots"
+    },
+    {
+     "@type": "ListItem",
+     "position": 6,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-hoa-collection-policy-january-2027",
+     "name": "Illinois Condo and HOA Collection Policy Law: What Boards Must Adopt by January 1, 2027"
+    },
+    {
+     "@type": "ListItem",
+     "position": 7,
+     "url": "https://www.stellarpropertygroup.com/blog/chicago-condo-short-term-rental-prohibited-buildings-list",
+     "name": "Stopping Airbnb in Your Chicago Condo: The Prohibited Buildings List"
+    },
+    {
+     "@type": "ListItem",
+     "position": 8,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-association-annual-meeting-guide",
+     "name": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes"
+    },
+    {
+     "@type": "ListItem",
+     "position": 9,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-board-fiduciary-duty-audit",
+     "name": "Fiduciary Duty Self-Audit for Illinois Association Boards"
+    },
+    {
+     "@type": "ListItem",
+     "position": 10,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-developer-turnover-checklist",
+     "name": "Developer Turnover: What an Illinois Association Board Should Collect"
+    },
+    {
+     "@type": "ListItem",
+     "position": 11,
+     "url": "https://www.stellarpropertygroup.com/blog/new-condo-board-member-first-30-days",
+     "name": "New Condo Board Member Guide: The First 30 Days"
+    },
+    {
+     "@type": "ListItem",
+     "position": 12,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condominium-ombudsperson-act-board-duties",
+     "name": "The Illinois Condominium Ombudsperson Act: Current Board Duties"
+    },
+    {
+     "@type": "ListItem",
+     "position": 13,
+     "url": "https://www.stellarpropertygroup.com/blog/adopting-enforcing-condo-hoa-rules-illinois",
+     "name": "Adopting and Enforcing Association Rules in Illinois"
+    },
+    {
+     "@type": "ListItem",
+     "position": 14,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-deconversion-75-or-85-percent",
+     "name": "Condo Deconversion in Illinois: Is It 75% or 85%?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 15,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-assessment-collection-possession-action",
+     "name": "Collecting Unpaid Assessments in Illinois: The Possession Action"
+    },
+    {
+     "@type": "ListItem",
+     "position": 16,
+     "url": "https://www.stellarpropertygroup.com/blog/amend-illinois-condo-declaration-section-27",
+     "name": "Amending an Illinois Condo Declaration: What It Actually Takes"
+    },
+    {
+     "@type": "ListItem",
+     "position": 17,
+     "url": "https://www.stellarpropertygroup.com/blog/cook-county-property-tax-appeal-condo-association",
+     "name": "Cook County Property Tax Appeals: What Condo Boards Should Know"
+    },
+    {
+     "@type": "ListItem",
+     "position": 18,
+     "url": "https://www.stellarpropertygroup.com/blog/electronic-voting-illinois-condo-hoa",
+     "name": "Electronic Voting for Illinois Associations: Board Checklist"
+    },
+    {
+     "@type": "ListItem",
+     "position": 19,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-board-closed-session-guide",
+     "name": "Closed Sessions for Illinois Condo Boards: A Practical Guide"
+    },
+    {
+     "@type": "ListItem",
+     "position": 20,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-association-records-request-guide",
+     "name": "How Illinois Condo Boards Should Handle Records Requests"
+    },
+    {
+     "@type": "ListItem",
+     "position": 21,
+     "url": "https://www.stellarpropertygroup.com/blog/which-illinois-law-governs-condo-hoa-townhome",
+     "name": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 22,
+     "url": "https://www.stellarpropertygroup.com/blog/renting-out-your-condo-chicago-rules",
+     "name": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained"
+    },
+    {
+     "@type": "ListItem",
+     "position": 23,
+     "url": "https://www.stellarpropertygroup.com/blog/illinois-condo-law-updates-2026",
+     "name": "Illinois Condo Law in 2026: What Every Board Must Know"
+    },
+    {
+     "@type": "ListItem",
+     "position": 24,
+     "url": "https://www.stellarpropertygroup.com/blog/can-condo-boards-enter-your-unit-illinois",
+     "name": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained"
+    },
+    {
+     "@type": "ListItem",
+     "position": 25,
+     "url": "https://www.stellarpropertygroup.com/blog/common-condo-rule-violations-chicago",
+     "name": "The Most Common Condo Rule Violations in Chicago Buildings"
+    },
+    {
+     "@type": "ListItem",
+     "position": 26,
+     "url": "https://www.stellarpropertygroup.com/blog/are-hoa-condo-rules-enforceable-illinois",
+     "name": "Are HOA and Condo Rules Legally Enforceable in Illinois?"
+    },
+    {
+     "@type": "ListItem",
+     "position": 27,
+     "url": "https://www.stellarpropertygroup.com/blog/why-condo-boards-fail",
+     "name": "The #1 Reason Condo Boards Fail (And How to Fix It)"
+    }
+   ]
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://www.stellarpropertygroup.com/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Board Guides",
+     "item": "https://www.stellarpropertygroup.com/blog"
+    },
+    {
+     "@type": "ListItem",
+     "position": 3,
+     "name": "Board Governance & Illinois Law",
+     "item": "https://www.stellarpropertygroup.com/blog/topic/board-governance-illinois-law"
+    }
+   ]
+  },
+  {
+   "@context": "https://schema.org",
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Which Illinois law governs our association?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Condominiums are governed by the Illinois Condominium Property Act. Homeowner and townhome associations that are not condominiums generally fall under the Common Interest Community Association Act, with smaller communities sometimes exempt from parts of it. Both sit alongside the General Not For Profit Corporation Act and your own recorded declaration and bylaws. Knowing which applies matters, because notice periods, records rights, and voting rules differ between them."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What decisions require an owner vote rather than a board vote?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The board can act on ordinary operations, contracts, and rules within its granted authority. Amending the declaration, and in most cases adopting the annual budget where owners hold a rejection right, reach further. Special assessments above thresholds set in the statute or documents can trigger an owner petition right. When the line is unclear, the cost of asking counsel first is far below the cost of an action later reversed."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "How long do we have to respond to an owner records request?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Illinois sets a statutory response window for proper written requests and defines the categories that may be withheld, such as litigation files and other owners’ personal information. Treat every request the same way: log it, acknowledge it in writing, produce what the statute requires within the deadline, and route anything genuinely within an exception to counsel. Silence is what turns a records question into a legal dispute."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is a director’s fiduciary duty in practice?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It means acting in the association’s interest rather than your own, informing yourself before deciding, and following the process the documents require. In practice that is: read the board package, disclose and step back from conflicts, base decisions on documented information, and record what was decided and why. Directors are rarely faulted for a decision that turned out badly — they are faulted for deciding without a process."
+     }
+    }
+   ]
+  }
+ ],
+ "blocks": [
+  {
+   "type": "p",
+   "html": "Board Resource Center",
+   "cls": "eyebrow text-gold-600 mb-6 flex items-center gap-4"
+  },
+  {
+   "type": "h1",
+   "html": "Board Governance &amp; Illinois Law",
+   "cls": "font-display font-light text-5xl lg:text-6xl xl:text-7xl text-ink leading-[1.03] text-balance"
+  },
+  {
+   "type": "p",
+   "html": "Use these guides to prepare for meetings, maintain records, apply rules consistently, and understand when an Illinois association should involve licensed counsel.",
+   "cls": "lg:col-span-4 text-lg text-slate-600 font-light leading-relaxed"
+  },
+  {
+   "type": "p",
+   "html": "Published Guidance",
+   "cls": "eyebrow text-gold-600 mb-4"
+  },
+  {
+   "type": "h2",
+   "html": "Board guides in this topic",
+   "cls": "font-display text-4xl text-ink"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "November 1, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Conflicts of Interest on Illinois Association Boards: Contracts With Directors",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "The director whose brother-in-law runs a roofing company may well offer the best price. Illinois law does not ban that contract, but it requires notice to owners and gives them a way to force a vote.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 30, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Removing a Condo Board Member in Illinois: What Owners and Boards Can Do",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A board that wants to push out a difficult colleague usually discovers it cannot do so by itself. In most Illinois associations, the people who elected the director are the ones who can remove them.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 28, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Open Board Meetings in Illinois: Notice, Owner Comment and Recording",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois starts from a simple rule: board meetings are open to owners. The exceptions are narrow, the notice periods are short but strict, and every vote happens where owners can see it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 26, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Can an Illinois Association Fine an Owner? Notice and Hearing Rules",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois law lets a condo or HOA board fine an owner for violating the governing documents, but only after notice and an opportunity to be heard. Skipping that step is the fastest way to lose a fine you were right to impose.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 24, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Board Elections: Nominations, Proxies and Secret Ballots",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most contested condo elections are not lost on votes. They are lost on process: a proxy form that only lists the incumbents, a candidate deadline nobody announced, or a ballot count no candidate was allowed to watch.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "October 22, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo and HOA Collection Policy Law: What Boards Must Adopt by January 1, 2027",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Starting January 1, 2027, an Illinois condominium or common interest community association that has not adopted — and does not follow — a written collection policy cannot take legal action to collect unpaid assessments. Here is what the law requires and a dated plan for the next ten weeks.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 26, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Stopping Airbnb in Your Chicago Condo: The Prohibited Buildings List",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most boards fight short-term rentals one unit at a time, through violation notices and fines. Chicago offers a far blunter instrument, and comparatively few associations use it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 19, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Association Annual Meetings: Notice, Quorum, and Minutes",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most annual meeting problems are logistics problems. Confirm the requirements with counsel, then execute notice, quorum, and minutes the same way every year.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 15, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Fiduciary Duty Self-Audit for Illinois Association Boards",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Fiduciary duty is demonstrated through process. This annual self-audit helps a board show that its decisions were informed, disinterested, and documented.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 11, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Developer Turnover: What an Illinois Association Board Should Collect",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Turnover is the one moment when an association has maximum leverage to obtain complete records. Use a written collection list and independent professional review.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 7, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "New Condo Board Member Guide: The First 30 Days",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "New directors are asked to vote on real money within weeks of election. Here is what to read, review, and ask in your first month.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 6, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The Illinois Condominium Ombudsperson Act: Current Board Duties",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards regularly ask what the Ombudsperson Act requires of them today. The honest answer starts with checking the current status of the Act itself, then focusing on the internal complaint policy discipline that helps either way.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "September 3, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Adopting and Enforcing Association Rules in Illinois",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A rule is only as strong as the process behind it. Authority, notice, a fair hearing, and consistency are what make enforcement stick.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Condo Deconversion in Illinois: Is It 75% or 85%?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "A developer offer to buy every unit in the building is the single most consequential vote most condo boards will ever put to their owners — and the approval threshold is different in Chicago than it is three miles north.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Collecting Unpaid Assessments in Illinois: The Possession Action",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most boards think their only collection tool is a lien that sits until the owner sells. Illinois gives associations something considerably sharper — and considerably more misunderstood.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Amending an Illinois Condo Declaration: What It Actually Takes",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Boards routinely pass amendments that never take effect, because the vote is only half the job. Here is the threshold, the exceptions, and the step that gets skipped.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Association Finance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 31, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Cook County Property Tax Appeals: What Condo Boards Should Know",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "One filing can cover every unit in the building — and unlike most things a board does, the upside lands directly in owners’ pockets rather than in the association’s budget.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 30, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Electronic Voting for Illinois Associations: Board Checklist",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Electronic voting can lift participation dramatically, but only if the board confirms its authority, collects proper consent, and preserves a defensible record.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 26, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Closed Sessions for Illinois Condo Boards: A Practical Guide",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Closed session exists for a narrow set of sensitive topics. Used correctly it protects the association; used loosely it damages owner trust.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 22, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "How Illinois Condo Boards Should Handle Records Requests",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owner records requests are a recurring source of conflict. A written intake process, counsel review, and consistent recordkeeping turn them into routine administration.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Illinois Association Law",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 18, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Which Illinois Law Governs Your Condo, HOA, or Townhome Association?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Condominiums, HOAs, and townhome associations in Illinois do not all operate under the same statute. Here is how boards identify the governing law and reconcile it with their own declaration and bylaws.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Rules &amp; Leasing",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "August 13, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Renting Out Your Chicago Condo: Association Rules and City Law, Explained",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Between your association’s leasing rules and Chicago’s rental ordinances, leasing your condo has a right way and several expensive wrong ways. Here is the right way.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "February 18, 2026",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Illinois Condo Law in 2026: What Every Board Must Know",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Illinois condo boards face a dense web of legal obligations. Here is a practical, plain-English rundown of the rules that matter most in 2026 — and where boards most often get into trouble.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Owner Rights",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "February 20, 2024",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Can a Condo Board Enter Your Unit? Illinois Owner Rights Explained",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Few topics spark stronger reactions than a board entering a private unit. Here is how access rights actually work for Illinois condominiums — for owners and boards alike.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Community Standards",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "November 9, 2023",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The Most Common Condo Rule Violations in Chicago Buildings",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Most condo conflict starts small. Here are the rule violations Chicago boards see most often — and the right way to address them before they escalate.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Legal &amp; Compliance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "July 25, 2023",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "Are HOA and Condo Rules Legally Enforceable in Illinois?",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Owners challenge condo and HOA rules constantly. Here is what actually makes a rule legally enforceable in Illinois — and the mistakes that get rules thrown out.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Board Governance",
+   "cls": "text-[10px] uppercase tracking-luxe text-gold-600"
+  },
+  {
+   "type": "p",
+   "html": "March 14, 2023",
+   "cls": "text-xs text-slate-400 mt-2"
+  },
+  {
+   "type": "h3",
+   "html": "The #1 Reason Condo Boards Fail (And How to Fix It)",
+   "cls": "font-display text-2xl text-ink group-hover:text-gold-600 transition-colors"
+  },
+  {
+   "type": "p",
+   "html": "Board dysfunction is the quiet killer of condo associations. Here is the single biggest reason boards fail — and a practical playbook for fixing it.",
+   "cls": "text-sm text-slate-600 font-light leading-relaxed mt-3"
+  },
+  {
+   "type": "p",
+   "html": "Related Service",
+   "cls": "eyebrow text-gold-300 mb-5"
+  },
+  {
+   "type": "h2",
+   "html": "Board Support",
+   "cls": "font-display text-3xl mb-5"
+  },
+  {
+   "type": "p",
+   "html": "See how Stellar puts this guidance into practice for Chicago and North Shore community associations.",
+   "cls": "text-paper/65 font-light leading-relaxed mb-8"
+  },
+  {
+   "type": "h2",
+   "html": "Explore other topics",
+   "cls": "font-display text-2xl text-ink mb-5"
+  }
+ ]
+}
