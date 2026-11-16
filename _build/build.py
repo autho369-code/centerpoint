@@ -310,6 +310,7 @@ def page(path, title, desc, body, crumbs=None, ld=None, og_image='/assets/hero-t
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#13294F">
 <meta name="google-site-verification" content="fETbh7sYw1szVJd4qzfAQcoKYHufNwbrCahUboS3D5M">
+<meta name="msvalidate.01" content="8992E721D695914B70F6476F02734032">
 <meta name="geo.region" content="US-IL">
 <meta name="geo.placename" content="Chicago">
 <link rel="icon" href="/assets/favicon.png" type="image/png">
