@@ -6,80 +6,80 @@ CenterPoint Association Management serves association boards and owners. It does
 
 ## Primary pages
 
-- [Home](https://centerpointmgmt.com/)
-- [Services](https://centerpointmgmt.com/services)
-- [Condominium Management](https://centerpointmgmt.com/services/condominium-management): Full-service management under the Illinois Condo Act
-- [HOA Management](https://centerpointmgmt.com/services/hoa-management): Assessments, grounds, and covenant enforcement
-- [Townhome Management](https://centerpointmgmt.com/services/townhome-management): Shared roofs, exteriors, and common areas
-- [High-Rise Management](https://centerpointmgmt.com/services/high-rise-condominium-management): Building systems, staff, and vendor oversight
-- [Small Condo Associations](https://centerpointmgmt.com/services/small-condo-association-management): Right-sized management for smaller buildings
-- [Financial Management](https://centerpointmgmt.com/services/financial-management): Budgets, reserves, collections, monthly reports
-- [Maintenance Coordination](https://centerpointmgmt.com/services/maintenance-coordination): Preventive care, competitive bids, emergencies
-- [Board Support](https://centerpointmgmt.com/services/board-support): Meetings, minutes, and governance guidance
-- [Violation Management](https://centerpointmgmt.com/services/violation-management): Fair, documented rule enforcement
-- [Resale disclosures and lender requests](https://centerpointmgmt.com/services/resale-disclosures)
-- [Pricing](https://centerpointmgmt.com/pricing)
-- [Service areas](https://centerpointmgmt.com/service-areas)
-- [Chicago](https://centerpointmgmt.com/property-management-chicago)
-- [North Shore and suburbs](https://centerpointmgmt.com/property-management-north-shore)
-- [Proposal scorecard](https://centerpointmgmt.com/tools/compare-management-proposals): free weighted comparison tool
-- [Board toolkit](https://centerpointmgmt.com/board-toolkit): RFP outline, interview questions, transition checklist
-- [AI information sheet](https://centerpointmgmt.com/ai-info)
+- [Home](https://www.centerpointmgmt.com/)
+- [Services](https://www.centerpointmgmt.com/services)
+- [Condominium Management](https://www.centerpointmgmt.com/services/condominium-management): Full-service management under the Illinois Condo Act
+- [HOA Management](https://www.centerpointmgmt.com/services/hoa-management): Assessments, grounds, and covenant enforcement
+- [Townhome Management](https://www.centerpointmgmt.com/services/townhome-management): Shared roofs, exteriors, and common areas
+- [High-Rise Management](https://www.centerpointmgmt.com/services/high-rise-condominium-management): Building systems, staff, and vendor oversight
+- [Small Condo Associations](https://www.centerpointmgmt.com/services/small-condo-association-management): Right-sized management for smaller buildings
+- [Financial Management](https://www.centerpointmgmt.com/services/financial-management): Budgets, reserves, collections, monthly reports
+- [Maintenance Coordination](https://www.centerpointmgmt.com/services/maintenance-coordination): Preventive care, competitive bids, emergencies
+- [Board Support](https://www.centerpointmgmt.com/services/board-support): Meetings, minutes, and governance guidance
+- [Violation Management](https://www.centerpointmgmt.com/services/violation-management): Fair, documented rule enforcement
+- [Resale disclosures and lender requests](https://www.centerpointmgmt.com/services/resale-disclosures)
+- [Pricing](https://www.centerpointmgmt.com/pricing)
+- [Service areas](https://www.centerpointmgmt.com/service-areas)
+- [Chicago](https://www.centerpointmgmt.com/property-management-chicago)
+- [North Shore and suburbs](https://www.centerpointmgmt.com/property-management-north-shore)
+- [Proposal scorecard](https://www.centerpointmgmt.com/tools/compare-management-proposals): free weighted comparison tool
+- [Board toolkit](https://www.centerpointmgmt.com/board-toolkit): RFP outline, interview questions, transition checklist
+- [AI information sheet](https://www.centerpointmgmt.com/ai-info)
 
 ## Board guides
 
-- [Governance & Illinois Law](https://centerpointmgmt.com/blog/topic/board-governance-illinois-law): Meetings, elections, notices, records, and the statutes that govern Illinois condominium, HOA, and townhome boards.
-- [Finance & Reserves](https://centerpointmgmt.com/blog/topic/association-finance-reserves): Budgets, reserves, assessments, disclosures, collections, insurance, and financial reporting for association boards.
-- [Building Operations](https://centerpointmgmt.com/blog/topic/building-operations-capital-planning): Maintenance, capital projects, life safety, facade programs, and vendor oversight for Chicago-area buildings.
-- [Choosing Management](https://centerpointmgmt.com/blog/topic/choosing-association-management): How boards evaluate, compare, and switch condominium and HOA management companies.
+- [Governance & Illinois Law](https://www.centerpointmgmt.com/blog/topic/board-governance-illinois-law): Meetings, elections, notices, records, and the statutes that govern Illinois condominium, HOA, and townhome boards.
+- [Finance & Reserves](https://www.centerpointmgmt.com/blog/topic/association-finance-reserves): Budgets, reserves, assessments, disclosures, collections, insurance, and financial reporting for association boards.
+- [Building Operations](https://www.centerpointmgmt.com/blog/topic/building-operations-capital-planning): Maintenance, capital projects, life safety, facade programs, and vendor oversight for Chicago-area buildings.
+- [Choosing Management](https://www.centerpointmgmt.com/blog/topic/choosing-association-management): How boards evaluate, compare, and switch condominium and HOA management companies.
 
 ## Neighborhoods
 
-- [Lincoln Park](https://centerpointmgmt.com/property-management-lincoln-park)
-- [Lakeview](https://centerpointmgmt.com/property-management-lakeview)
-- [Rogers Park](https://centerpointmgmt.com/property-management-rogers-park)
-- [Edgewater](https://centerpointmgmt.com/property-management-edgewater)
-- [Uptown](https://centerpointmgmt.com/property-management-uptown)
-- [Andersonville](https://centerpointmgmt.com/property-management-andersonville)
-- [Ravenswood](https://centerpointmgmt.com/property-management-ravenswood)
-- [Lincoln Square](https://centerpointmgmt.com/property-management-lincoln-square)
-- [Albany Park](https://centerpointmgmt.com/property-management-albany-park)
-- [Roscoe Village](https://centerpointmgmt.com/property-management-roscoe-village)
-- [Bucktown](https://centerpointmgmt.com/property-management-bucktown)
-- [Wicker Park](https://centerpointmgmt.com/property-management-wicker-park)
-- [Logan Square](https://centerpointmgmt.com/property-management-logan-square)
-- [Ukrainian Village](https://centerpointmgmt.com/property-management-ukrainian-village)
-- [River North](https://centerpointmgmt.com/property-management-river-north)
-- [Streeterville](https://centerpointmgmt.com/property-management-streeterville)
-- [Gold Coast](https://centerpointmgmt.com/property-management-gold-coast)
-- [Old Town](https://centerpointmgmt.com/property-management-old-town)
-- [Loop](https://centerpointmgmt.com/property-management-loop)
-- [South Loop](https://centerpointmgmt.com/property-management-south-loop)
-- [West Loop](https://centerpointmgmt.com/property-management-west-loop)
-- [Hyde Park](https://centerpointmgmt.com/property-management-hyde-park)
-- [Kenwood](https://centerpointmgmt.com/property-management-kenwood)
-- [Edison Park](https://centerpointmgmt.com/property-management-edison-park)
-- [Portage Park](https://centerpointmgmt.com/property-management-portage-park)
-- [Irving Park](https://centerpointmgmt.com/property-management-irving-park)
-- [Avondale](https://centerpointmgmt.com/property-management-avondale)
-- [North Park](https://centerpointmgmt.com/property-management-north-park)
-- [Mayfair](https://centerpointmgmt.com/property-management-mayfair)
-- [Glenview](https://centerpointmgmt.com/property-management-glenview)
-- [Evanston](https://centerpointmgmt.com/property-management-evanston)
-- [Skokie](https://centerpointmgmt.com/property-management-skokie)
-- [Lincolnwood](https://centerpointmgmt.com/property-management-lincolnwood)
-- [Morton Grove](https://centerpointmgmt.com/property-management-morton-grove)
-- [Norridge](https://centerpointmgmt.com/property-management-norridge)
-- [Wilmette](https://centerpointmgmt.com/property-management-wilmette)
-- [Winnetka](https://centerpointmgmt.com/property-management-winnetka)
-- [Highland Park](https://centerpointmgmt.com/property-management-highland-park)
-- [Northbrook](https://centerpointmgmt.com/property-management-northbrook)
-- [Glencoe](https://centerpointmgmt.com/property-management-glencoe)
-- [Kenilworth](https://centerpointmgmt.com/property-management-kenilworth)
-- [Lake Forest](https://centerpointmgmt.com/property-management-lake-forest)
-- [Deerfield](https://centerpointmgmt.com/property-management-deerfield)
+- [Lincoln Park](https://www.centerpointmgmt.com/property-management-lincoln-park)
+- [Lakeview](https://www.centerpointmgmt.com/property-management-lakeview)
+- [Rogers Park](https://www.centerpointmgmt.com/property-management-rogers-park)
+- [Edgewater](https://www.centerpointmgmt.com/property-management-edgewater)
+- [Uptown](https://www.centerpointmgmt.com/property-management-uptown)
+- [Andersonville](https://www.centerpointmgmt.com/property-management-andersonville)
+- [Ravenswood](https://www.centerpointmgmt.com/property-management-ravenswood)
+- [Lincoln Square](https://www.centerpointmgmt.com/property-management-lincoln-square)
+- [Albany Park](https://www.centerpointmgmt.com/property-management-albany-park)
+- [Roscoe Village](https://www.centerpointmgmt.com/property-management-roscoe-village)
+- [Bucktown](https://www.centerpointmgmt.com/property-management-bucktown)
+- [Wicker Park](https://www.centerpointmgmt.com/property-management-wicker-park)
+- [Logan Square](https://www.centerpointmgmt.com/property-management-logan-square)
+- [Ukrainian Village](https://www.centerpointmgmt.com/property-management-ukrainian-village)
+- [River North](https://www.centerpointmgmt.com/property-management-river-north)
+- [Streeterville](https://www.centerpointmgmt.com/property-management-streeterville)
+- [Gold Coast](https://www.centerpointmgmt.com/property-management-gold-coast)
+- [Old Town](https://www.centerpointmgmt.com/property-management-old-town)
+- [Loop](https://www.centerpointmgmt.com/property-management-loop)
+- [South Loop](https://www.centerpointmgmt.com/property-management-south-loop)
+- [West Loop](https://www.centerpointmgmt.com/property-management-west-loop)
+- [Hyde Park](https://www.centerpointmgmt.com/property-management-hyde-park)
+- [Kenwood](https://www.centerpointmgmt.com/property-management-kenwood)
+- [Edison Park](https://www.centerpointmgmt.com/property-management-edison-park)
+- [Portage Park](https://www.centerpointmgmt.com/property-management-portage-park)
+- [Irving Park](https://www.centerpointmgmt.com/property-management-irving-park)
+- [Avondale](https://www.centerpointmgmt.com/property-management-avondale)
+- [North Park](https://www.centerpointmgmt.com/property-management-north-park)
+- [Mayfair](https://www.centerpointmgmt.com/property-management-mayfair)
+- [Glenview](https://www.centerpointmgmt.com/property-management-glenview)
+- [Evanston](https://www.centerpointmgmt.com/property-management-evanston)
+- [Skokie](https://www.centerpointmgmt.com/property-management-skokie)
+- [Lincolnwood](https://www.centerpointmgmt.com/property-management-lincolnwood)
+- [Morton Grove](https://www.centerpointmgmt.com/property-management-morton-grove)
+- [Norridge](https://www.centerpointmgmt.com/property-management-norridge)
+- [Wilmette](https://www.centerpointmgmt.com/property-management-wilmette)
+- [Winnetka](https://www.centerpointmgmt.com/property-management-winnetka)
+- [Highland Park](https://www.centerpointmgmt.com/property-management-highland-park)
+- [Northbrook](https://www.centerpointmgmt.com/property-management-northbrook)
+- [Glencoe](https://www.centerpointmgmt.com/property-management-glencoe)
+- [Kenilworth](https://www.centerpointmgmt.com/property-management-kenilworth)
+- [Lake Forest](https://www.centerpointmgmt.com/property-management-lake-forest)
+- [Deerfield](https://www.centerpointmgmt.com/property-management-deerfield)
 
 ## Optional
 
-- [All board guides](https://centerpointmgmt.com/blog)
-- [Full article list](https://centerpointmgmt.com/llms-full.txt)
+- [All board guides](https://www.centerpointmgmt.com/blog)
+- [Full article list](https://www.centerpointmgmt.com/llms-full.txt)

@@ -14,7 +14,7 @@ SRC = os.path.join(HERE, 'source', 'parsed')
 RAW = os.path.join(HERE, 'source', 'raw')
 DIST = os.path.join(ROOT, 'dist')
 
-SITE = 'https://centerpointmgmt.com'
+SITE = 'https://www.centerpointmgmt.com'
 NAME = 'CenterPoint Association Management'
 SHORT = 'CenterPoint'
 PHONE = '773.728.0652'
